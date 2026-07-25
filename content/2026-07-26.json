@@ -1,0 +1,307 @@
+{
+  "date": "2026-07-26",
+  "es": {
+    "saints": [
+      {
+        "name": "San Joaquín y Santa Ana",
+        "type": "Padres de la Virgen María, Abuelos de Jesús",
+        "description": "Conmemorados en la Iglesia Católica, Joaquín y Ana son tradicionalmente conocidos como los padres de la Santísima Virgen María y, por lo tanto, los abuelos de Jesús. Sus vidas ejemplifican la fe y la perseverancia a través de la infertilidad."
+      },
+      {
+        "name": "Santa Paraskevi de Roma",
+        "type": "Virgen y Mártir",
+        "description": "Honrada en la Iglesia Ortodoxa, Santa Paraskevi fue una virgen y mártir que se negó a adorar ídolos durante el reinado del emperador romano Antonino Pío y soportó varias torturas por su fe cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional de la Independencia de la Discapacidad (EE. UU.)",
+        "description": "Este día conmemora la firma de la Ley de Estadounidenses con Discapacidades (ADA) en 1990, una ley histórica de derechos civiles que prohíbe la discriminación contra las personas con discapacidades."
+      },
+      {
+        "name": "Día de los Padres (EE. UU.)",
+        "description": "Observado el cuarto domingo de julio, este día reconoce y celebra a los padres y cuidadores por su compromiso con la crianza de los hijos."
+      },
+      {
+        "name": "Día de la Independencia de Liberia",
+        "description": "En este día de 1847, Liberia declaró su independencia, convirtiéndose en la primera república africana en hacerlo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Espero que cada estadounidense celebre este día dedicándose nuevamente a la plena inclusión de todas las personas con discapacidades en la corriente principal de la vida estadounidense.",
+      "author": "George H.W. Bush",
+      "context": "El 26 de julio de 1990, el presidente George H.W. Bush promulgó la Ley de Estadounidenses con Discapacidades (ADA), una legislación fundamental que prohíbe la discriminación contra las personas con discapacidades."
+    },
+    "motivationalQuote": {
+      "text": "La única forma de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Carl Jung",
+        "description": "Un psiquiatra y psicoterapeuta suizo pionero que fundó la psicología analítica, es ampliamente considerado como una de las figuras más influyentes en la historia de la psicología.",
+        "year": "1875"
+      },
+      {
+        "name": "Mick Jagger",
+        "description": "Un icónico cantante, compositor, actor y productor de cine inglés, mejor conocido como el vocalista principal y uno de los miembros fundadores de The Rolling Stones.",
+        "year": "1943"
+      },
+      {
+        "name": "Sandra Bullock",
+        "description": "Una aclamada actriz y productora estadounidense, reconocida por su versatilidad y sus papeles protagonistas en numerosas películas exitosas, lo que le valió un Premio de la Academia.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "Establecimiento del Sistema Postal de EE. UU.",
+        "description": "En este día, el Segundo Congreso Continental estableció el sistema postal de los Estados Unidos, nombrando a Benjamin Franklin como el primer Director General de Correos.",
+        "year": "1775"
+      },
+      {
+        "title": "Nueva York Ratifica la Constitución de EE. UU.",
+        "description": "Nueva York se convirtió en el undécimo estado en ratificar la Constitución de los Estados Unidos, desempeñando un papel crucial en la formación temprana de la nación.",
+        "year": "1788"
+      },
+      {
+        "title": "Desegregación Militar de EE. UU.",
+        "description": "El presidente Harry S. Truman firmó la Orden Ejecutiva 9981, un acto histórico que ordenó la desegregación de las Fuerzas Armadas de los Estados Unidos.",
+        "year": "1948"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional de la Independencia de la Discapacidad (EE. UU.)",
+      "teaser": "Este día conmemora la firma de la Ley de Estadounidenses con Discapacidades (ADA) en 1990, una ley histórica de derechos civiles que prohíbe la discriminación contra las personas con discapacidades."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saints Joachim and Anne",
+        "type": "Parents of the Virgin Mary, Grandparents of Jesus",
+        "description": "Commemorated in the Catholic Church, Joachim and Anne are traditionally known as the parents of the Blessed Virgin Mary and thus the grandparents of Jesus. Their lives exemplify faith and perseverance through childlessness."
+      },
+      {
+        "name": "Saint Paraskevi of Rome",
+        "type": "Virgin-Martyr",
+        "description": "Honored in the Orthodox Church, Saint Paraskevi was a virgin-martyr who refused to worship idols during the reign of Roman Emperor Antoninus Pius and endured various tortures for her Christian faith."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Disability Independence Day (USA)",
+        "description": "This day commemorates the signing of the Americans with Disabilities Act (ADA) in 1990, a landmark civil rights law prohibiting discrimination against individuals with disabilities."
+      },
+      {
+        "name": "Parents' Day (USA)",
+        "description": "Observed on the fourth Sunday of July, this day recognizes and celebrates parents and caregivers for their commitment to raising children."
+      },
+      {
+        "name": "Liberia Independence Day",
+        "description": "On this day in 1847, Liberia declared its independence, becoming the first African republic to do so."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I hope that every American will celebrate this day by rededicating themselves to the full inclusion of all people with disabilities into the mainstream of American life.",
+      "author": "George H.W. Bush",
+      "context": "On July 26, 1990, President George H.W. Bush signed the Americans with Disabilities Act (ADA) into law, a pivotal piece of legislation that prohibits discrimination against individuals with disabilities."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Carl Jung",
+        "description": "A pioneering Swiss psychiatrist and psychotherapist who founded analytical psychology, he is widely regarded as one of the most influential figures in the history of psychology.",
+        "year": "1875"
+      },
+      {
+        "name": "Mick Jagger",
+        "description": "An iconic English singer, songwriter, actor, and film producer, best known as the lead vocalist and one of the founding members of the Rolling Stones.",
+        "year": "1943"
+      },
+      {
+        "name": "Sandra Bullock",
+        "description": "An acclaimed American actress and producer, recognized for her versatility and starring roles in numerous successful films, earning her an Academy Award.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "U.S. Postal System Established",
+        "description": "On this day, the Second Continental Congress established the United States postal system, appointing Benjamin Franklin as the first Postmaster General.",
+        "year": "1775"
+      },
+      {
+        "title": "New York Ratifies U.S. Constitution",
+        "description": "New York became the 11th state to ratify the United States Constitution, playing a crucial role in the early formation of the nation.",
+        "year": "1788"
+      },
+      {
+        "title": "U.S. Military Desegregated",
+        "description": "President Harry S. Truman signed Executive Order 9981, an historic act that mandated the desegregation of the United States Armed Forces.",
+        "year": "1948"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Disability Independence Day (USA)",
+      "teaser": "This day commemorates the signing of the Americans with Disabilities Act (ADA) in 1990, a landmark civil rights law prohibiting discrimination against individuals with disabilities."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Joaquim e Sant'Ana",
+        "type": "Pais da Virgem Maria, Avós de Jesus",
+        "description": "Comemorados na Igreja Católica, Joaquim e Ana são tradicionalmente conhecidos como os pais da Santíssima Virgem Maria e, portanto, os avós de Jesus. Suas vidas exemplificam fé e perseverança através da esterilidade."
+      },
+      {
+        "name": "Santa Paraskevi de Roma",
+        "type": "Virgem e Mártir",
+        "description": "Honrada na Igreja Ortodoxa, Santa Paraskevi foi uma virgem e mártir que se recusou a adorar ídolos durante o reinado do imperador romano Antonino Pio e suportou várias torturas por sua fé cristã."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional da Independência da Deficiência (EUA)",
+        "description": "Este dia comemora a assinatura da Lei dos Americanos com Deficiência (ADA) em 1990, uma lei histórica de direitos civis que proíbe a discriminação contra pessoas com deficiência."
+      },
+      {
+        "name": "Dia dos Pais (EUA)",
+        "description": "Observado no quarto domingo de julho, este dia reconhece e celebra os pais e cuidadores por seu compromisso em criar filhos."
+      },
+      {
+        "name": "Dia da Independência da Libéria",
+        "description": "Neste dia em 1847, a Libéria declarou sua independência, tornando-se a primeira república africana a fazê-lo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Espero que todo americano celebre este dia dedicando-se novamente à plena inclusão de todas as pessoas com deficiência na corrente principal da vida americana.",
+      "author": "George H.W. Bush",
+      "context": "Em 26 de julho de 1990, o Presidente George H.W. Bush sancionou a Lei dos Americanos com Deficiência (ADA), uma legislação fundamental que proíbe a discriminação contra pessoas com deficiência."
+    },
+    "motivationalQuote": {
+      "text": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Carl Jung",
+        "description": "Um psiquiatra e psicoterapeuta suíço pioneiro que fundou a psicologia analítica, ele é amplamente considerado uma das figuras mais influentes na história da psicologia.",
+        "year": "1875"
+      },
+      {
+        "name": "Mick Jagger",
+        "description": "Um icônico cantor, compositor, ator e produtor de cinema inglês, mais conhecido como o vocalista principal e um dos membros fundadores dos Rolling Stones.",
+        "year": "1943"
+      },
+      {
+        "name": "Sandra Bullock",
+        "description": "Uma aclamada atriz e produtora americana, reconhecida por sua versatilidade e papéis principais em numerosos filmes de sucesso, o que lhe rendeu um Oscar.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "Sistema Postal dos EUA Estabelecido",
+        "description": "Neste dia, o Segundo Congresso Continental estabeleceu o sistema postal dos Estados Unidos, nomeando Benjamin Franklin como o primeiro Diretor-Geral dos Correios.",
+        "year": "1775"
+      },
+      {
+        "title": "Nova York Ratifica a Constituição dos EUA",
+        "description": "Nova York tornou-se o 11º estado a ratificar a Constituição dos Estados Unidos, desempenhando um papel crucial na formação inicial da nação.",
+        "year": "1788"
+      },
+      {
+        "title": "Exército dos EUA Dessegregado",
+        "description": "O Presidente Harry S. Truman assinou a Ordem Executiva 9981, um ato histórico que determinou a dessegregação das Forças Armadas dos Estados Unidos.",
+        "year": "1948"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional da Independência da Deficiência (EUA)",
+      "teaser": "Este dia comemora a assinatura da Lei dos Americanos com Deficiência (ADA) em 1990, uma lei histórica de direitos civis que proíbe a discriminação contra pessoas com deficiência."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sants Joaquim i Anna",
+        "type": "Pares de la Verge Maria, Avis de Jesús",
+        "description": "Commemorats a l'Església Catòlica, Joaquim i Anna són tradicionalment coneguts com els pares de la Santíssima Verge Maria i, per tant, els avis de Jesús. Les seves vides exemplifiquen la fe i la perseverança a través de la manca de fills."
+      },
+      {
+        "name": "Santa Parasceve de Roma",
+        "type": "Verge Màrtir",
+        "description": "Honrada a l'Església Ortodoxa, Santa Parasceve va ser una verge màrtir que es va negar a adorar ídols durant el regnat de l'emperador romà Antoní Pius i va suportar diverses tortures per la seva fe cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de la Independència de la Discapacitat (EUA)",
+        "description": "Aquest dia commemora la signatura de la Llei d'Americans amb Discapacitats (ADA) el 1990, una llei de drets civils històrica que prohibeix la discriminació contra persones amb discapacitat."
+      },
+      {
+        "name": "Dia dels Pares (EUA)",
+        "description": "Observat el quart diumenge de juliol, aquest dia reconeix i celebra els pares i cuidadors pel seu compromís en la criança dels fills."
+      },
+      {
+        "name": "Dia de la Independència de Libèria",
+        "description": "En aquest dia de 1847, Libèria va declarar la seva independència, convertint-se en la primera república africana a fer-ho."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Espero que cada nord-americà celebri aquest dia rededicant-se a la plena inclusió de totes les persones amb discapacitat en el corrent principal de la vida americana.",
+      "author": "George H.W. Bush",
+      "context": "El 26 de juliol de 1990, el president George H.W. Bush va signar la Llei d'Americans amb Discapacitats (ADA), una legislació fonamental que prohibeix la discriminació contra persones amb discapacitat."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Carl Jung",
+        "description": "Un psiquiatre i psicoterapeuta suís pioner que va fundar la psicologia analítica, és àmpliament considerat una de les figures més influents en la història de la psicologia.",
+        "year": "1875"
+      },
+      {
+        "name": "Mick Jagger",
+        "description": "Un icònic cantant, compositor, actor i productor de cinema anglès, més conegut com a vocalista principal i un dels membres fundadors dels Rolling Stones.",
+        "year": "1943"
+      },
+      {
+        "name": "Sandra Bullock",
+        "description": "Una aclamada actriu i productora americana, reconeguda per la seva versatilitat i papers protagonistes en nombroses pel·lícules d'èxit, guanyant un Premi de l'Acadèmia.",
+        "year": "1964"
+      }
+    ],
+    "events": [
+      {
+        "title": "Establiment del Sistema Postal dels EUA",
+        "description": "En aquest dia, el Segon Congrés Continental va establir el sistema postal dels Estats Units, nomenant Benjamin Franklin com el primer Mestre General de Correus.",
+        "year": "1775"
+      },
+      {
+        "title": "Nova York Ratifica la Constitució dels EUA",
+        "description": "Nova York es va convertir en l'onzè estat a ratificar la Constitució dels Estats Units, jugant un paper crucial en la formació primerenca de la nació.",
+        "year": "1788"
+      },
+      {
+        "title": "Desegregació de l'Exèrcit dels EUA",
+        "description": "El president Harry S. Truman va signar l'Ordre Executiva 9981, un acte històric que va ordenar la desegregació de les Forces Armades dels Estats Units.",
+        "year": "1948"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional de la Independència de la Discapacitat (EUA)",
+      "teaser": "Aquest dia commemora la signatura de la Llei d'Americans amb Discapacitats (ADA) el 1990, una llei de drets civils històrica que prohibeix la discriminació contra persones amb discapacitat."
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "date": "2026-07-27",
+  "es": {
+    "saints": [
+      {
+        "name": "San Pantaleón",
+        "type": "Mártir, Médico",
+        "description": "San Pantaleón fue un médico en Nicomedia durante los siglos III y IV que ofrecía atención médica gratuita a los pobres. Fue martirizado bajo el emperador Diocleciano por su fe cristiana."
+      },
+      {
+        "name": "San Clemente de Ohrid",
+        "type": "Obispo, Igual a los Apóstoles",
+        "description": "San Clemente fue discípulo de los santos Cirilo y Metodio, conocido por difundir el cristianismo y la alfabetización entre los eslavos y es considerado uno de los Siete Apóstoles de Bulgaria."
+      },
+      {
+        "name": "Venerable Antusa la Confesora",
+        "type": "Abadesa, Confesora",
+        "description": "La venerable Antusa fue una abadesa que sufrió persecución por su fe y es conmemorada por la Iglesia Ortodoxa por su firmeza."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día del Armisticio de los Veteranos de la Guerra de Corea",
+        "description": "Este día conmemora la firma del acuerdo de armisticio que puso fin a los combates activos en la Guerra de Corea el 27 de julio de 1953, honrando a quienes sirvieron y se sacrificaron."
+      },
+      {
+        "name": "Día Nacional del Scotch",
+        "description": "Esta conmemoración celebra el whisky escocés, un producto de Escocia reconocido por su singular proceso de destilación y envejecimiento."
+      },
+      {
+        "name": "Día de Pasear tu Planta de Interior",
+        "description": "Una divertida conmemoración cultural que anima a la gente a llevar sus plantas de interior al aire libre para que tomen un poco de aire fresco."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Sueña, sueña, sueña. Los sueños se transforman en pensamientos y los pensamientos resultan en acción.",
+      "author": "A. P. J. Abdul Kalam",
+      "context": "A. P. J. Abdul Kalam, un renombrado científico aeroespacial y el 11º Presidente de la India, falleció el 27 de julio de 2015. Fue conocido como el 'Presidente del Pueblo' y el 'Hombre Misil de la India' por sus contribuciones a los programas nucleares y de misiles de la India, y por inspirar a millones con su visión y sus palabras."
+    },
+    "motivationalQuote": {
+      "text": "Si no puedes volar, entonces corre, si no puedes correr, entonces camina, si no puedes caminar, entonces gatea, pero hagas lo que hagas, tienes que seguir avanzando.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Johann Bernoulli",
+        "description": "Un célebre matemático suizo que hizo contribuciones significativas al cálculo y la mecánica.",
+        "year": "1667"
+      },
+      {
+        "name": "Alexandre Dumas (hijo)",
+        "description": "Un escritor y dramaturgo francés, hijo del más famoso Alexandre Dumas padre, conocido por su novela 'La Dama de las Camelias'.",
+        "year": "1824"
+      },
+      {
+        "name": "Giosuè Carducci",
+        "description": "Un poeta, ensayista y crítico literario italiano ganador del Premio Nobel, considerado el poeta nacional no oficial de la Italia moderna.",
+        "year": "1835"
+      }
+    ],
+    "events": [
+      {
+        "title": "Se Firma el Armisticio de la Guerra de Corea",
+        "description": "Se firmó el acuerdo de armisticio que detuvo los combates activos en la Guerra de Corea, estableciendo la Zona Desmilitarizada de Corea.",
+        "year": "1953"
+      },
+      {
+        "title": "Se Completa el Cable Telegráfico Transatlántico",
+        "description": "El primer cable telegráfico transatlántico permanente se completó con éxito, reduciendo significativamente el tiempo de comunicación entre América del Norte y Europa.",
+        "year": "1866"
+      },
+      {
+        "title": "Se Anuncia el Descubrimiento de la Insulina",
+        "description": "El bioquímico canadiense Frederick Banting y sus asociados en la Universidad de Toronto anunciaron el descubrimiento de la insulina, un tratamiento vital para la diabetes.",
+        "year": "1921"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día del Armisticio de los Veteranos de la Guerra de Corea",
+      "teaser": "Este día conmemora la firma del acuerdo de armisticio que puso fin a los combates activos en la Guerra de Corea el 27 de julio de 1953, honrando a quienes sirvieron y se sacrificaron."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Pantaleon",
+        "type": "Martyr, Physician",
+        "description": "Saint Pantaleon was a physician in Nicomedia during the 3rd and 4th centuries who offered free medical care to the poor. He was martyred under Emperor Diocletian for his Christian faith."
+      },
+      {
+        "name": "Saint Clement of Ochrid",
+        "type": "Bishop, Equal of the Apostles",
+        "description": "Saint Clement was a disciple of Saints Cyril and Methodius, known for spreading Christianity and literacy among the Slavs and is considered one of the Seven Apostles of Bulgaria."
+      },
+      {
+        "name": "Venerable Anthusa the Confessor",
+        "type": "Abbess, Confessor",
+        "description": "Venerable Anthusa was an abbess who endured persecution for her faith and is commemorated by the Orthodox Church for her steadfastness."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Korean War Veterans Armistice Day",
+        "description": "This day commemorates the signing of the armistice agreement that ended active fighting in the Korean War on July 27, 1953, honoring those who served and sacrificed."
+      },
+      {
+        "name": "National Scotch Day",
+        "description": "This observance celebrates Scotch whisky, a product of Scotland that is recognized for its unique distillation and aging process."
+      },
+      {
+        "name": "Take Your Houseplant For A Walk Day",
+        "description": "A playful cultural observance encouraging people to take their houseplants outdoors for some fresh air."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Dream, dream, dream. Dreams transform into thoughts and thoughts result in action.",
+      "author": "A. P. J. Abdul Kalam",
+      "context": "A. P. J. Abdul Kalam, a renowned aerospace scientist and the 11th President of India, passed away on July 27, 2015. He was known as the 'People's President' and the 'Missile Man of India' for his contributions to India's nuclear and missile programs, and for inspiring millions with his vision and words."
+    },
+    "motivationalQuote": {
+      "text": "If you can't fly, then run, if you can't run, then walk, if you can't walk, then crawl, but whatever you do, you have to keep moving forward.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Johann Bernoulli",
+        "description": "A celebrated Swiss mathematician who made significant contributions to calculus and mechanics.",
+        "year": "1667"
+      },
+      {
+        "name": "Alexandre Dumas (fils)",
+        "description": "A French writer and dramatist, son of the more famous Alexandre Dumas père, known for his novel 'La Dame aux camélias'.",
+        "year": "1824"
+      },
+      {
+        "name": "Giosuè Carducci",
+        "description": "A Nobel Prize-winning Italian poet, essayist, and literary critic, considered the unofficial national poet of modern Italy.",
+        "year": "1835"
+      }
+    ],
+    "events": [
+      {
+        "title": "Korean War Armistice Signed",
+        "description": "The armistice agreement that halted active fighting in the Korean War was signed, establishing the Korean Demilitarized Zone.",
+        "year": "1953"
+      },
+      {
+        "title": "Transatlantic Telegraph Cable Completed",
+        "description": "The first permanent transatlantic telegraph cable was successfully completed, significantly reducing communication time between North America and Europe.",
+        "year": "1866"
+      },
+      {
+        "title": "Insulin Discovery Announced",
+        "description": "Canadian biochemist Frederick Banting and his associates at the University of Toronto announced the discovery of insulin, a vital treatment for diabetes.",
+        "year": "1921"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Korean War Veterans Armistice Day",
+      "teaser": "This day commemorates the signing of the armistice agreement that ended active fighting in the Korean War on July 27, 1953, honoring those who served and sacrificed."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Pantaleão",
+        "type": "Mártir, Médico",
+        "description": "São Pantaleão foi um médico em Nicomédia durante os séculos III e IV que oferecia atendimento médico gratuito aos pobres. Foi martirizado sob o Imperador Diocleciano por sua fé cristã."
+      },
+      {
+        "name": "São Clemente de Ohrid",
+        "type": "Bispo, Igual aos Apóstolos",
+        "description": "São Clemente foi um discípulo dos Santos Cirilo e Metódio, conhecido por espalhar o Cristianismo e a alfabetização entre os eslavos e é considerado um dos Sete Apóstolos da Bulgária."
+      },
+      {
+        "name": "Venerável Antusa, a Confessora",
+        "type": "Abadessa, Confessora",
+        "description": "A Venerável Antusa foi uma abadessa que sofreu perseguição por sua fé e é comemorada pela Igreja Ortodoxa por sua firmeza."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia do Armistício dos Veteranos da Guerra da Coreia",
+        "description": "Este dia comemora a assinatura do acordo de armistício que encerrou os combates ativos na Guerra da Coreia em 27 de julho de 1953, honrando aqueles que serviram e se sacrificaram."
+      },
+      {
+        "name": "Dia Nacional do Scotch",
+        "description": "Esta observância celebra o uísque escocês, um produto da Escócia que é reconhecido por seu processo único de destilação e envelhecimento."
+      },
+      {
+        "name": "Dia de Levar Sua Planta de Casa Para Passear",
+        "description": "Uma divertida observância cultural que incentiva as pessoas a levarem suas plantas de casa para o ar livre para um pouco de ar fresco."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Sonhe, sonhe, sonhe. Os sonhos se transformam em pensamentos e os pensamentos resultam em ação.",
+      "author": "A. P. J. Abdul Kalam",
+      "context": "A. P. J. Abdul Kalam, um renomado cientista aeroespacial e o 11º Presidente da Índia, faleceu em 27 de julho de 2015. Ele era conhecido como o 'Presidente do Povo' e o 'Homem-Míssil da Índia' por suas contribuições para os programas nuclear e de mísseis da Índia, e por inspirar milhões com sua visão e palavras."
+    },
+    "motivationalQuote": {
+      "text": "Se você não pode voar, então corra, se você não pode correr, então ande, se você não pode andar, então rasteje, mas faça o que fizer, você tem que continuar avançando.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Johann Bernoulli",
+        "description": "Um célebre matemático suíço que fez contribuições significativas para o cálculo e a mecânica.",
+        "year": "1667"
+      },
+      {
+        "name": "Alexandre Dumas (filho)",
+        "description": "Um escritor e dramaturgo francês, filho do mais famoso Alexandre Dumas pai, conhecido por seu romance 'A Dama das Camélias'.",
+        "year": "1824"
+      },
+      {
+        "name": "Giosuè Carducci",
+        "description": "Um poeta, ensaísta e crítico literário italiano vencedor do Prêmio Nobel, considerado o poeta nacional não oficial da Itália moderna.",
+        "year": "1835"
+      }
+    ],
+    "events": [
+      {
+        "title": "Assinado o Armistício da Guerra da Coreia",
+        "description": "O acordo de armistício que interrompeu os combates ativos na Guerra da Coreia foi assinado, estabelecendo a Zona Desmilitarizada da Coreia.",
+        "year": "1953"
+      },
+      {
+        "title": "Cabo Telegráfico Transatlântico Concluído",
+        "description": "O primeiro cabo telegráfico transatlântico permanente foi concluído com sucesso, reduzindo significativamente o tempo de comunicação entre a América do Norte e a Europa.",
+        "year": "1866"
+      },
+      {
+        "title": "Anunciada a Descoberta da Insulina",
+        "description": "O bioquímico canadense Frederick Banting e seus associados na Universidade de Toronto anunciaram a descoberta da insulina, um tratamento vital para o diabetes.",
+        "year": "1921"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia do Armistício dos Veteranos da Guerra da Coreia",
+      "teaser": "Este dia comemora a assinatura do acordo de armistício que encerrou os combates ativos na Guerra da Coreia em 27 de julho de 1953, honrando aqueles que serviram e se sacrificaram."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Pantaleó",
+        "type": "Màrtir, Metge",
+        "description": "Sant Pantaleó va ser un metge a Nicomèdia durant els segles III i IV que va oferir atenció mèdica gratuïta als pobres. Va ser martiritzat sota l'emperador Dioclecià per la seva fe cristiana."
+      },
+      {
+        "name": "Sant Climent d'Ohrid",
+        "type": "Bisbe, Igual dels Apòstols",
+        "description": "Sant Climent va ser un deixeble dels sants Ciril i Metodi, conegut per difondre el cristianisme i l'alfabetització entre els eslaus i és considerat un dels Set Apòstols de Bulgària."
+      },
+      {
+        "name": "Venerable Antusa la Confessora",
+        "type": "Abadessa, Confessora",
+        "description": "La Venerable Anthusa va ser una abadessa que va patir persecució per la seva fe i és commemorada per l'Església Ortodoxa per la seva fermesa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de l'Armistici dels Veterans de la Guerra de Corea",
+        "description": "Aquest dia commemora la signatura de l'acord d'armistici que va posar fi als combats actius a la Guerra de Corea el 27 de juliol de 1953, honrant aquells que van servir i es van sacrificar."
+      },
+      {
+        "name": "Dia Nacional de l'Scotch",
+        "description": "Aquesta celebració commemora el whisky escocès, un producte d'Escòcia reconegut pel seu procés únic de destil·lació i envelliment."
+      },
+      {
+        "name": "Dia de Passejar la Teva Planta d'Interior",
+        "description": "Una celebració cultural lúdica que anima la gent a treure les seves plantes d'interior a l'aire lliure per prendre una mica d'aire fresc."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Somia, somia, somia. Els somnis es transformen en pensaments i els pensaments resulten en acció.",
+      "author": "A. P. J. Abdul Kalam",
+      "context": "A. P. J. Abdul Kalam, un reconegut científic aeroespacial i l'onzè president de l'Índia, va morir el 27 de juliol de 2015. Era conegut com el 'President del Poble' i l''Home Míssil de l'Índia' per les seves contribucions als programes nuclears i de míssils de l'Índia, i per inspirar milions amb la seva visió i les seves paraules."
+    },
+    "motivationalQuote": {
+      "text": "Si no pots volar, corre; si no pots córrer, camina; si no pots caminar, arrossega't, però facis el que facis, has de seguir avançant.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Johann Bernoulli",
+        "description": "Un cèlebre matemàtic suís que va fer contribucions significatives al càlcul i la mecànica.",
+        "year": "1667"
+      },
+      {
+        "name": "Alexandre Dumas (fill)",
+        "description": "Un escriptor i dramaturg francès, fill del més famós Alexandre Dumas pare, conegut per la seva novel·la 'La Dama de les Camèlies'.",
+        "year": "1824"
+      },
+      {
+        "name": "Giosuè Carducci",
+        "description": "Un poeta, assagista i crític literari italià guardonat amb el Premi Nobel, considerat el poeta nacional no oficial de la Itàlia moderna.",
+        "year": "1835"
+      }
+    ],
+    "events": [
+      {
+        "title": "Signatura de l'Armistici de la Guerra de Corea",
+        "description": "Es va signar l'acord d'armistici que va aturar els combats actius a la Guerra de Corea, establint la Zona Desmilitaritzada de Corea.",
+        "year": "1953"
+      },
+      {
+        "title": "Finalització del Cable Telegràfic Transatlàntic",
+        "description": "Es va completar amb èxit el primer cable telegràfic transatlàntic permanent, reduint significativament el temps de comunicació entre Amèrica del Nord i Europa.",
+        "year": "1866"
+      },
+      {
+        "title": "Anunci del Descobriment de la Insulina",
+        "description": "El bioquímic canadenc Frederick Banting i els seus associats a la Universitat de Toronto van anunciar el descobriment de la insulina, un tractament vital per a la diabetis.",
+        "year": "1921"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de l'Armistici dels Veterans de la Guerra de Corea",
+      "teaser": "Aquest dia commemora la signatura de l'acord d'armistici que va posar fi als combats actius a la Guerra de Corea el 27 de juliol de 1953, honrant aquells que van servir i es van sacrificar."
+    }
+  }
+}

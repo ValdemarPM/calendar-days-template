@@ -1,0 +1,327 @@
+{
+  "date": "2026-07-28",
+  "es": {
+    "saints": [
+      {
+        "name": "San Nazario de Roma",
+        "type": "Mártir",
+        "description": "Criado como cristiano y enseñado por San Pedro Apóstol, Nazario evangelizó en Milán y fue martirizado durante la primera persecución del Emperador Nerón."
+      },
+      {
+        "name": "Santa Alfonsa de la India",
+        "type": "Monja",
+        "description": "Fue la primera mujer de la Iglesia Católica Siro-Malabar en ser canonizada como santa. Su día festivo se conmemora el 28 de julio."
+      },
+      {
+        "name": "Santos Apóstoles Prócoro, Nicanor, Timón y Parmenas",
+        "type": "Diáconos de los Setenta",
+        "description": "Estos cuatro estuvieron entre los setenta discípulos elegidos por Jesús y son mencionados en los Hechos de los Apóstoles."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial contra la Hepatitis",
+        "description": "Un día internacional reconocido por la Organización Mundial de la Salud para concienciar globalmente sobre la hepatitis viral."
+      },
+      {
+        "name": "Día de la Independencia (Perú)",
+        "description": "Conmemora la declaración de independencia de Perú del dominio español en 1821."
+      },
+      {
+        "name": "Día Mundial de la Conservación de la Naturaleza",
+        "description": "Este día se celebra para concienciar sobre la importancia de proteger los recursos naturales y la vida silvestre."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Debemos planear para la libertad, y no solo para la seguridad, aunque solo sea porque solo la libertad puede hacer segura la seguridad.",
+      "author": "Karl Popper",
+      "context": "Karl Popper, un influyente filósofo austriaco-británico, nació el 28 de julio de 1902. Su trabajo se centró en la filosofía política y la filosofía de la ciencia."
+    },
+    "motivationalQuote": {
+      "text": "La única forma de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Jacqueline Kennedy Onassis",
+        "description": "Una socialité, escritora y fotógrafa estadounidense que ejerció como Primera Dama de los Estados Unidos durante la presidencia de John F. Kennedy.",
+        "year": "1929"
+      },
+      {
+        "name": "Beatrix Potter",
+        "description": "Una escritora, ilustradora, naturalista y conservacionista inglesa, más conocida por sus libros infantiles, como 'El cuento de Peter Rabbit'.",
+        "year": "1866"
+      },
+      {
+        "name": "Richard Wright",
+        "description": "Un músico, compositor, cantante y letrista inglés, más conocido como cofundador y tecladista de la banda de rock progresivo Pink Floyd.",
+        "year": "1943"
+      }
+    ],
+    "events": [
+      {
+        "title": "Perú Declara la Independencia",
+        "description": "José de San Martín declaró formalmente la independencia de Perú del dominio colonial español en Lima.",
+        "year": "1821"
+      },
+      {
+        "title": "La 14ª Enmienda es Certificada",
+        "description": "La Decimocuarta Enmienda a la Constitución de los EE. UU., que otorga la ciudadanía a todas las personas nacidas o naturalizadas en los Estados Unidos y garantiza el debido proceso y la igual protección, fue certificada.",
+        "year": "1868"
+      },
+      {
+        "title": "NASA Establecida",
+        "description": "El Congreso de los Estados Unidos aprobó la Ley Nacional de Aeronáutica y del Espacio, estableciendo oficialmente la Administración Nacional de Aeronáutica y del Espacio (NASA).",
+        "year": "1958"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial contra la Hepatitis",
+      "teaser": "Un día internacional reconocido por la Organización Mundial de la Salud para concienciar globalmente sobre la hepatitis viral."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Nazarius of Rome",
+        "type": "Martyr",
+        "description": "Raised Christian and taught by Saint Peter the Apostle, Nazarius evangelized in Milan and was martyred during the first persecution of Emperor Nero."
+      },
+      {
+        "name": "Saint Alphonsa of India",
+        "type": "Nun",
+        "description": "She was the first woman of the Syro-Malabar Catholic Church to be canonized as a saint. Her feast day is commemorated on July 28."
+      },
+      {
+        "name": "Holy Apostles Prochoros, Nikanor, Timon, and Parmenas",
+        "type": "Deacons of the Seventy",
+        "description": "These four were among the seventy disciples chosen by Jesus, and are mentioned in the Acts of the Apostles."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Hepatitis Day",
+        "description": "An international day recognized by the World Health Organization to raise global awareness of viral hepatitis."
+      },
+      {
+        "name": "Independence Day (Peru)",
+        "description": "Commemorates Peru's declaration of independence from Spanish rule in 1821."
+      },
+      {
+        "name": "World Nature Conservation Day",
+        "description": "This day is observed to raise awareness about the importance of protecting natural resources and wildlife."
+      }
+    ],
+    "historicalQuote": {
+      "text": "We must plan for freedom, and not only for security, if for no other reason than that only freedom can make security secure.",
+      "author": "Karl Popper",
+      "context": "Karl Popper, an influential Austrian-British philosopher, was born on July 28, 1902. His work focused on political philosophy and the philosophy of science."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Jacqueline Kennedy Onassis",
+        "description": "An American socialite, writer, and photographer who served as the First Lady of the United States during the presidency of John F. Kennedy.",
+        "year": "1929"
+      },
+      {
+        "name": "Beatrix Potter",
+        "description": "An English writer, illustrator, natural scientist, and conservationist, best known for her children's books, such as 'The Tale of Peter Rabbit'.",
+        "year": "1866"
+      },
+      {
+        "name": "Richard Wright",
+        "description": "An English musician, composer, singer, and songwriter, best known as a co-founder and keyboardist of the progressive rock band Pink Floyd.",
+        "year": "1943"
+      }
+    ],
+    "events": [
+      {
+        "title": "Peru Declares Independence",
+        "description": "José de San Martín formally declared the independence of Peru from Spanish colonial rule in Lima.",
+        "year": "1821"
+      },
+      {
+        "title": "14th Amendment Certified",
+        "description": "The Fourteenth Amendment to the U.S. Constitution, granting citizenship to all persons born or naturalized in the United States and guaranteeing due process and equal protection, was certified.",
+        "year": "1868"
+      },
+      {
+        "title": "NASA Established",
+        "description": "The United States Congress passed the National Aeronautics and Space Act, officially establishing the National Aeronautics and Space Administration (NASA).",
+        "year": "1958"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Hepatitis Day",
+      "teaser": "An international day recognized by the World Health Organization to raise global awareness of viral hepatitis."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Nazário de Roma",
+        "type": "Mártir",
+        "description": "Criado cristão e ensinado por São Pedro Apóstolo, Nazário evangelizou em Milão e foi martirizado durante a primeira perseguição do Imperador Nero."
+      },
+      {
+        "name": "Santa Afonsa da Índia",
+        "type": "Freira",
+        "description": "Ela foi a primeira mulher da Igreja Católica Siro-Malabar a ser canonizada como santa. Seu dia de festa é comemorado em 28 de julho."
+      },
+      {
+        "name": "Santos Apóstolos Prócoro, Nicanor, Timão e Parmenas",
+        "type": "Diáconos dos Setenta",
+        "description": "Estes quatro estavam entre os setenta discípulos escolhidos por Jesus e são mencionados nos Atos dos Apóstolos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Hepatite",
+        "description": "Um dia internacional reconhecido pela Organização Mundial da Saúde para aumentar a conscientização global sobre a hepatite viral."
+      },
+      {
+        "name": "Dia da Independência (Peru)",
+        "description": "Comemora a declaração de independência do Peru do domínio espanhol em 1821."
+      },
+      {
+        "name": "Dia Mundial da Conservação da Natureza",
+        "description": "Este dia é observado para aumentar a conscientização sobre a importância de proteger os recursos naturais e a vida selvagem."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Devemos planejar para a liberdade, e não apenas para a segurança, ainda que seja só porque apenas a liberdade pode tornar a segurança segura.",
+      "author": "Karl Popper",
+      "context": "Karl Popper, um influente filósofo austríaco-britânico, nasceu em 28 de julho de 1902. Seu trabalho focou-se na filosofia política e na filosofia da ciência."
+    },
+    "motivationalQuote": {
+      "text": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Jacqueline Kennedy Onassis",
+        "description": "Uma socialite, escritora e fotógrafa americana que serviu como Primeira-Dama dos Estados Unidos durante a presidência de John F. Kennedy.",
+        "year": "1929"
+      },
+      {
+        "name": "Beatrix Potter",
+        "description": "Uma escritora, ilustradora, naturalista e conservacionista inglesa, mais conhecida por seus livros infantis, como 'A História de Pedro Coelho'.",
+        "year": "1866"
+      },
+      {
+        "name": "Richard Wright",
+        "description": "Um músico, compositor, cantor e letrista inglês, mais conhecido como cofundador e tecladista da banda de rock progressivo Pink Floyd.",
+        "year": "1943"
+      }
+    ],
+    "events": [
+      {
+        "title": "Peru Declara Independência",
+        "description": "José de San Martín declarou formalmente a independência do Peru do domínio colonial espanhol em Lima.",
+        "year": "1821"
+      },
+      {
+        "title": "14ª Emenda Certificada",
+        "description": "A Décima Quarta Emenda à Constituição dos EUA, concedendo cidadania a todas as pessoas nascidas ou naturalizadas nos Estados Unidos e garantindo o devido processo e igual proteção, foi certificada.",
+        "year": "1868"
+      },
+      {
+        "title": "NASA Estabelecida",
+        "description": "O Congresso dos Estados Unidos aprovou a Lei Nacional de Aeronáutica e Espaço, estabelecendo oficialmente a Administração Nacional de Aeronáutica e Espaço (NASA).",
+        "year": "1958"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial da Hepatite",
+      "teaser": "Um dia internacional reconhecido pela Organização Mundial da Saúde para aumentar a conscientização global sobre a hepatite viral."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Nazari de Roma",
+        "type": "Màrtir",
+        "description": "Criat cristià i ensenyat per Sant Pere Apòstol, Nazari va evangelitzar a Milà i va ser martiritzat durant la primera persecució de l'emperador Neró."
+      },
+      {
+        "name": "Santa Alfonsa de l'Índia",
+        "type": "Monja",
+        "description": "Va ser la primera dona de l'Església Catòlica Siro-Malabar a ser canonitzada com a santa. La seva festivitat se celebra el 28 de juliol."
+      },
+      {
+        "name": "Sants Apòstols Pròcor, Nicanor, Timó i Pàrmenes",
+        "type": "Diaques dels Setanta",
+        "description": "Aquests quatre es trobaven entre els setanta deixebles escollits per Jesús i són esmentats als Fets dels Apòstols."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de l'Hepatitis",
+        "description": "Un dia internacional reconegut per l'Organització Mundial de la Salut per conscienciar globalment sobre l'hepatitis vírica."
+      },
+      {
+        "name": "Dia de la Independència (Perú)",
+        "description": "Commemora la declaració d'independència del Perú del domini espanyol el 1821."
+      },
+      {
+        "name": "Dia Mundial de la Conservació de la Natura",
+        "description": "Aquest dia se celebra per conscienciar sobre la importància de protegir els recursos naturals i la vida salvatge."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Hem de planificar la llibertat, i no només la seguretat, per la senzilla raó que només la llibertat pot fer segura la seguretat.",
+      "author": "Karl Popper",
+      "context": "Karl Popper, un influent filòsof austro-britànic, va néixer el 28 de juliol de 1902. La seva obra es va centrar en la filosofia política i la filosofia de la ciència."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Jacqueline Kennedy Onassis",
+        "description": "Una socialite, escriptora i fotògrafa nord-americana que va ser Primera Dama dels Estats Units durant la presidència de John F. Kennedy.",
+        "year": "1929"
+      },
+      {
+        "name": "Beatrix Potter",
+        "description": "Una escriptora, il·lustradora, científica naturalista i conservacionista anglesa, més coneguda pels seus llibres infantils, com 'El conte de Pere Conill'.",
+        "year": "1866"
+      },
+      {
+        "name": "Richard Wright",
+        "description": "Un músic, compositor, cantant i lletrista anglès, més conegut com a cofundador i teclista de la banda de rock progressiu Pink Floyd.",
+        "year": "1943"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Perú declara la independència",
+        "description": "José de San Martín va declarar formalment la independència del Perú del domini colonial espanyol a Lima.",
+        "year": "1821"
+      },
+      {
+        "title": "Es certifica la 14a Esmena",
+        "description": "La Catorzena Esmena de la Constitució dels EUA, que atorga la ciutadania a totes les persones nascudes o naturalitzades als Estats Units i garanteix el degut procés i la igualtat de protecció, va ser certificada.",
+        "year": "1868"
+      },
+      {
+        "title": "Es funda la NASA",
+        "description": "El Congrés dels Estats Units va aprovar la Llei Nacional d'Aeronàutica i l'Espai, establint oficialment la National Aeronautics and Space Administration (NASA).",
+        "year": "1958"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial de l'Hepatitis",
+      "teaser": "Un dia internacional reconegut per l'Organització Mundial de la Salut per conscienciar globalment sobre l'hepatitis vírica."
+    }
+  }
+}

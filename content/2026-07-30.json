@@ -1,0 +1,291 @@
+{
+  "date": "2026-07-30",
+  "es": {
+    "saints": [
+      {
+        "name": "San Pedro Crisólogo",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Un obispo italiano del siglo V conocido por sus poderosos sermones y valiente testimonio de la plena humanidad y divinidad de Cristo durante un tiempo de confusión doctrinal. Su nombre significa 'de palabra de oro' en griego."
+      },
+      {
+        "name": "Santos Abdón y Senén",
+        "type": "Mártires",
+        "description": "Príncipes persas que fueron martirizados en Roma durante el siglo III por entablar amistad con cristianos perseguidos bajo el emperador Decio y recoger los restos de los mártires para darles un entierro adecuado."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Amistad",
+        "description": "Proclamado por la Asamblea General de la ONU en 2011, este día promueve la idea de que la amistad entre pueblos, países y culturas puede inspirar esfuerzos de paz y construir puentes entre comunidades."
+      },
+      {
+        "name": "Día Mundial contra la Trata de Personas",
+        "description": "Designado por las Naciones Unidas, este día sensibiliza sobre la difícil situación de las víctimas de la trata de personas y promueve y protege sus derechos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si hay un secreto del éxito, reside en la capacidad de comprender el punto de vista de la otra persona y ver las cosas desde su ángulo, así como desde el propio.",
+      "author": "Henry Ford",
+      "context": "Henry Ford, el industrial estadounidense y fundador de Ford Motor Company, nació el 30 de julio de 1863. Sus innovaciones, como la línea de montaje y los automóviles asequibles, transformaron la industria y la vida diaria."
+    },
+    "motivationalQuote": {
+      "text": "No puedes subir la escalera del éxito con las manos en los bolsillos.",
+      "author": "Arnold Schwarzenegger"
+    },
+    "births": [
+      {
+        "name": "Emily Brontë",
+        "description": "Novelista y poeta inglesa, más conocida por su única novela, 'Cumbres Borrascosas', un clásico de la literatura inglesa. Nació en Thornton, Yorkshire, Inglaterra.",
+        "year": "1818"
+      },
+      {
+        "name": "Henry Ford",
+        "description": "Industrial y magnate de los negocios estadounidense, fundador de Ford Motor Company y pionero en hacer que los automóviles fueran asequibles para la clase media estadounidense.",
+        "year": "1863"
+      },
+      {
+        "name": "Arnold Schwarzenegger",
+        "description": "Actor, empresario, ex culturista profesional y ex gobernador de California de origen austro-estadounidense. Saltó a la fama como estrella de películas de acción de Hollywood.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Medicare y Medicaid establecidos en EE. UU.",
+        "description": "El presidente de EE. UU. Lyndon B. Johnson promulgó la Ley de Seguridad Social de 1965, creando Medicare y Medicaid, que proporcionan seguro médico para personas mayores e individuos de bajos ingresos.",
+        "year": "1965"
+      },
+      {
+        "title": "Se inaugura oficialmente la Carretera Transcanadiense",
+        "description": "La Carretera Transcanadiense, el entonces sistema de carreteras nacionales más largo del mundo, se inauguró oficialmente, abarcando 7.476 km (4.645 millas) a lo largo del país.",
+        "year": "1962"
+      },
+      {
+        "title": "Fundación de Baltimore, Maryland",
+        "description": "La ciudad de Baltimore, Maryland, un importante puerto y centro cultural, fue fundada oficialmente.",
+        "year": "1729"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Amistad",
+      "teaser": "Proclamado por la Asamblea General de la ONU en 2011, este día promueve la idea de que la amistad entre pueblos, países y culturas puede inspirar esfuerzos de paz y construir puentes entre comunidades."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Peter Chrysologus",
+        "type": "Bishop and Doctor of the Church",
+        "description": "A fifth-century Italian bishop known for his powerful sermons and courageous testimony to Christ's full humanity and divinity during a time of doctrinal confusion. His name means 'golden-worded' in Greek."
+      },
+      {
+        "name": "Saints Abdon and Sennen",
+        "type": "Martyrs",
+        "description": "Persian princes who were martyred in Rome during the 3rd century for befriending Christians persecuted under Emperor Decius and collecting the remains of martyrs for proper burial."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Friendship",
+        "description": "Proclaimed by the UN General Assembly in 2011, this day promotes the idea that friendship between peoples, countries, and cultures can inspire peace efforts and build bridges between communities."
+      },
+      {
+        "name": "World Day Against Trafficking in Persons",
+        "description": "Designated by the United Nations, this day raises awareness of the plight of victims of human trafficking and promotes and protects their rights."
+      }
+    ],
+    "historicalQuote": {
+      "text": "If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own.",
+      "author": "Henry Ford",
+      "context": "Henry Ford, the American industrialist and founder of the Ford Motor Company, was born on July 30, 1863. His innovations, like the assembly line and affordable automobiles, transformed industry and daily life."
+    },
+    "motivationalQuote": {
+      "text": "You can't climb the ladder of success with your hands in your pockets.",
+      "author": "Arnold Schwarzenegger"
+    },
+    "births": [
+      {
+        "name": "Emily Brontë",
+        "description": "An English novelist and poet, best known for her only novel, 'Wuthering Heights', a classic of English literature. She was born in Thornton, Yorkshire, England.",
+        "year": "1818"
+      },
+      {
+        "name": "Henry Ford",
+        "description": "An American industrialist and business magnate, founder of the Ford Motor Company, and a pioneer in making automobiles affordable for middle-class Americans.",
+        "year": "1863"
+      },
+      {
+        "name": "Arnold Schwarzenegger",
+        "description": "An Austrian-American actor, businessman, former professional bodybuilder, and former governor of California. He rose to fame as a Hollywood action film star.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Medicare and Medicaid established in the U.S.",
+        "description": "U.S. President Lyndon B. Johnson signed the Social Security Act of 1965 into law, creating Medicare and Medicaid, which provide health insurance for seniors and low-income individuals.",
+        "year": "1965"
+      },
+      {
+        "title": "Trans-Canada Highway Officially Opens",
+        "description": "The Trans-Canada Highway, the then-longest national highway system in the world, officially opened, spanning 7,476 km (4,645 mi) across the country.",
+        "year": "1962"
+      },
+      {
+        "title": "Founding of Baltimore, Maryland",
+        "description": "The city of Baltimore, Maryland, a major port and cultural center, was officially founded.",
+        "year": "1729"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of Friendship",
+      "teaser": "Proclaimed by the UN General Assembly in 2011, this day promotes the idea that friendship between peoples, countries, and cultures can inspire peace efforts and build bridges between communities."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Pedro Crisólogo",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Um bispo italiano do século V conhecido por seus poderosos sermões e corajoso testemunho da plena humanidade e divindade de Cristo durante um tempo de confusão doutrinária. Seu nome significa 'palavra de ouro' em grego."
+      },
+      {
+        "name": "Santos Abdão e Sénen",
+        "type": "Mártires",
+        "description": "Príncipes persas que foram martirizados em Roma durante o século III por fazerem amizade com cristãos perseguidos sob o imperador Décio e coletarem os restos mortais de mártires para um sepultamento adequado."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Amizade",
+        "description": "Proclamado pela Assembleia Geral da ONU em 2011, este dia promove a ideia de que a amizade entre povos, países e culturas pode inspirar esforços de paz e construir pontes entre comunidades."
+      },
+      {
+        "name": "Dia Mundial Contra o Tráfico de Pessoas",
+        "description": "Designado pelas Nações Unidas, este dia visa aumentar a conscientização sobre a difícil situação das vítimas de tráfico humano e promover e proteger seus direitos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Se há um segredo para o sucesso, ele reside na capacidade de obter o ponto de vista da outra pessoa e ver as coisas do ângulo dela, assim como do seu próprio.",
+      "author": "Henry Ford",
+      "context": "Henry Ford, o industrial americano e fundador da Ford Motor Company, nasceu em 30 de julho de 1863. Suas inovações, como a linha de montagem e os automóveis acessíveis, transformaram a indústria e a vida diária."
+    },
+    "motivationalQuote": {
+      "text": "Você não consegue subir a escada do sucesso com as mãos nos bolsos.",
+      "author": "Arnold Schwarzenegger"
+    },
+    "births": [
+      {
+        "name": "Emily Brontë",
+        "description": "Uma romancista e poeta inglesa, mais conhecida por seu único romance, 'O Morro dos Ventos Uivantes', um clássico da literatura inglesa. Ela nasceu em Thornton, Yorkshire, Inglaterra.",
+        "year": "1818"
+      },
+      {
+        "name": "Henry Ford",
+        "description": "Um industrial e magnata dos negócios americano, fundador da Ford Motor Company, e um pioneiro em tornar os automóveis acessíveis para a classe média americana.",
+        "year": "1863"
+      },
+      {
+        "name": "Arnold Schwarzenegger",
+        "description": "Um ator, empresário, ex-fisiculturista profissional e ex-governador da Califórnia, austro-americano. Ele ganhou fama como estrela de filmes de ação de Hollywood.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Medicare e Medicaid estabelecidos nos EUA",
+        "description": "O presidente dos EUA Lyndon B. Johnson sancionou a Lei da Previdência Social de 1965, criando o Medicare e o Medicaid, que fornecem seguro de saúde para idosos e indivíduos de baixa renda.",
+        "year": "1965"
+      },
+      {
+        "title": "Rodovia Transcanadense Inaugurada Oficialmente",
+        "description": "A Rodovia Transcanadense, o então sistema de rodovias nacionais mais longo do mundo, foi oficialmente inaugurada, estendendo-se por 7.476 km (4.645 milhas) por todo o país.",
+        "year": "1962"
+      },
+      {
+        "title": "Fundação de Baltimore, Maryland",
+        "description": "A cidade de Baltimore, Maryland, um importante porto e centro cultural, foi oficialmente fundada.",
+        "year": "1729"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Amizade",
+      "teaser": "Proclamado pela Assembleia Geral da ONU em 2011, este dia promove a ideia de que a amizade entre povos, países e culturas pode inspirar esforços de paz e construir pontes entre comunidades."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Pere Crisòleg",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Un bisbe italià del segle V conegut pels seus potents sermons i el seu coratjós testimoni de la plena humanitat i divinitat de Crist en un moment de confusió doctrinal. El seu nom significa 'paraula d'or' en grec."
+      },
+      {
+        "name": "Sants Abdó i Senén",
+        "type": "Màrtirs",
+        "description": "Prínceps perses que van ser martiritzats a Roma durant el segle III per fer-se amics dels cristians perseguits sota l'emperador Deci i recollir les restes dels màrtirs per a una sepultura adequada."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de l'Amistat",
+        "description": "Proclamat per l'Assemblea General de l'ONU el 2011, aquest dia promou la idea que l'amistat entre pobles, països i cultures pot inspirar esforços de pau i construir ponts entre comunitats."
+      },
+      {
+        "name": "Dia Mundial contra el Tràfic de Persones",
+        "description": "Designat per les Nacions Unides, aquest dia consciencia sobre la difícil situació de les víctimes del tràfic de persones i promou i protegeix els seus drets."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si hi ha algun secret de l'èxit, rau en la capacitat d'entendre el punt de vista de l'altra persona i veure les coses des del seu angle, així com des del propi.",
+      "author": "Henry Ford",
+      "context": "Henry Ford, l'industrial nord-americà i fundador de la Ford Motor Company, va néixer el 30 de juliol de 1863. Les seves innovacions, com la cadena de muntatge i els automòbils assequibles, van transformar la indústria i la vida quotidiana."
+    },
+    "motivationalQuote": {
+      "text": "No pots pujar l'escala de l'èxit amb les mans a les butxaques.",
+      "author": "Arnold Schwarzenegger"
+    },
+    "births": [
+      {
+        "name": "Emily Brontë",
+        "description": "Novel·lista i poeta anglesa, coneguda principalment per la seva única novel·la, 'Cims borrascosos', un clàssic de la literatura anglesa. Va néixer a Thornton, Yorkshire, Anglaterra.",
+        "year": "1818"
+      },
+      {
+        "name": "Henry Ford",
+        "description": "Industrial i magnat dels negocis nord-americà, fundador de la Ford Motor Company i pioner en fer que els automòbils fossin assequibles per a la classe mitjana nord-americana.",
+        "year": "1863"
+      },
+      {
+        "name": "Arnold Schwarzenegger",
+        "description": "Actor, empresari, ex-culturista professional i ex-governador de Califòrnia austríac-americà. Es va fer famós com a estrella de pel·lícules d'acció de Hollywood.",
+        "year": "1947"
+      }
+    ],
+    "events": [
+      {
+        "title": "Medicare i Medicaid establerts als EUA",
+        "description": "El president dels EUA, Lyndon B. Johnson, va signar la Llei de Seguretat Social de 1965, creant Medicare i Medicaid, que proporcionen assegurança mèdica per a la gent gran i les persones de baixos ingressos.",
+        "year": "1965"
+      },
+      {
+        "title": "La Carretera Transcanadenca s'inaugura oficialment",
+        "description": "La Carretera Transcanadenca, el sistema de carreteres nacionals més llarg del món en aquell moment, es va inaugurar oficialment, estenent-se 7.476 km (4.645 mi) per tot el país.",
+        "year": "1962"
+      },
+      {
+        "title": "Fundació de Baltimore, Maryland",
+        "description": "La ciutat de Baltimore, Maryland, un important port i centre cultural, va ser fundada oficialment.",
+        "year": "1729"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de l'Amistat",
+      "teaser": "Proclamat per l'Assemblea General de l'ONU el 2011, aquest dia promou la idea que l'amistat entre pobles, països i cultures pot inspirar esforços de pau i construir ponts entre comunitats."
+    }
+  }
+}

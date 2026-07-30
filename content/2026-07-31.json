@@ -1,0 +1,287 @@
+{
+  "date": "2026-07-31",
+  "es": {
+    "saints": [
+      {
+        "name": "San Ignacio de Loyola",
+        "type": "Sacerdote, Teólogo, Fundador de los Jesuitas",
+        "description": "Un teólogo y místico español, fundó la Compañía de Jesús (Jesuitas) en 1534 y fue una figura clave en la Contrarreforma Católica Romana. Su conversión espiritual siguió a una grave lesión durante la Batalla de Pamplona en 1521."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Guardaparque",
+        "description": "Este día honra el trabajo de los guardaparques de todo el mundo que protegen el patrimonio natural y cultural."
+      },
+      {
+        "name": "Día Nacional del Perro Mestizo (EE. UU.)",
+        "description": "Establecido en 2005, este día celebra a los perros de raza mixta y tiene como objetivo crear conciencia sobre los muchos mestizos que esperan ser adoptados en los refugios."
+      },
+      {
+        "name": "Cumpleaños de Harry Potter",
+        "description": "Esta observancia cultural conmemora el cumpleaños ficticio del famoso mago Harry Potter, quien comparte su fecha de nacimiento con su creadora, J.K. Rowling."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si quieres saber cómo es un hombre, fíjate bien en cómo trata a sus inferiores, no a sus iguales.",
+      "author": "J.K. Rowling",
+      "context": "J.K. Rowling, la aclamada autora británica de la serie 'Harry Potter', nació el 31 de julio de 1965. Esta cita refleja una profunda observación sobre el carácter, resonando con las complejidades morales a menudo exploradas en sus obras ampliamente queridas."
+    },
+    "motivationalQuote": {
+      "text": "La mejor manera de predecir el futuro es crearlo.",
+      "author": "Peter Drucker"
+    },
+    "births": [
+      {
+        "name": "J.K. Rowling",
+        "description": "Una autora, filántropa y guionista británica, más conocida por escribir la serie de fantasía Harry Potter, que se convirtió en la serie de libros más vendida de la historia.",
+        "year": "1965"
+      },
+      {
+        "name": "Milton Friedman",
+        "description": "Un economista y estadístico estadounidense que recibió el Premio Nobel en Ciencias Económicas en 1976 por su trabajo sobre el análisis del consumo, la historia y la teoría monetarias.",
+        "year": "1912"
+      },
+      {
+        "name": "Primo Levi",
+        "description": "Un químico, partisano, superviviente del Holocausto y escritor judío italiano, conocido por sus memorias, cuentos, ensayos y poemas, particularmente 'Si esto es un hombre'.",
+        "year": "1919"
+      }
+    ],
+    "events": [
+      {
+        "title": "Astronautas del Apolo 15 Usan Vehículo Lunar",
+        "description": "Los astronautas David Scott y James Irwin fueron los primeros en usar el Vehículo Lunar Itinerante para explorar la superficie de la Luna durante la misión Apolo 15.",
+        "year": "1971"
+      },
+      {
+        "title": "Ranger 7 Envía Primeras Fotos Cercanas de la Luna",
+        "description": "La sonda espacial estadounidense Ranger 7 transmitió con éxito las primeras fotografías de cerca de la superficie de la Luna, proporcionando imágenes 1.000 veces más claras que cualquiera vista antes desde la Tierra.",
+        "year": "1964"
+      },
+      {
+        "title": "Se Firma el Tratado START I",
+        "description": "Estados Unidos y la Unión Soviética firmaron el Tratado de Reducción de Armas Estratégicas (START I) en Moscú, marcando un paso significativo hacia la reducción de los arsenales de armas nucleares estratégicas de ambos países.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial del Guardaparque",
+      "teaser": "Este día honra el trabajo de los guardaparques de todo el mundo que protegen el patrimonio natural y cultural."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Ignatius of Loyola",
+        "type": "Priest, Theologian, Founder of the Jesuits",
+        "description": "A Spanish theologian and mystic, he founded the Society of Jesus (Jesuits) in 1534 and was a key figure in the Roman Catholic Counter-Reformation. His spiritual conversion followed a severe injury during the Battle of Pamplona in 1521."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Ranger Day",
+        "description": "This day honors the work of park rangers around the globe who protect natural and cultural heritage."
+      },
+      {
+        "name": "National Mutt Day (U.S.)",
+        "description": "Established in 2005, this day celebrates mixed-breed dogs and aims to raise awareness about the many mutts awaiting adoption in shelters."
+      },
+      {
+        "name": "Harry Potter Birthday",
+        "description": "This cultural observance marks the fictional birthday of the famous wizard Harry Potter, who shares his birthdate with his creator, J.K. Rowling."
+      }
+    ],
+    "historicalQuote": {
+      "text": "If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.",
+      "author": "J.K. Rowling",
+      "context": "J.K. Rowling, the acclaimed British author of the 'Harry Potter' series, was born on July 31, 1965. This quote reflects a profound observation on character, resonating with the moral complexities often explored in her widely beloved works."
+    },
+    "motivationalQuote": {
+      "text": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker"
+    },
+    "births": [
+      {
+        "name": "J.K. Rowling",
+        "description": "A British author, philanthropist, and screenwriter, best known for writing the Harry Potter fantasy series, which became the best-selling book series in history.",
+        "year": "1965"
+      },
+      {
+        "name": "Milton Friedman",
+        "description": "An American economist and statistician who received the 1976 Nobel Memorial Prize in Economic Sciences for his work on consumption analysis, monetary history and theory.",
+        "year": "1912"
+      },
+      {
+        "name": "Primo Levi",
+        "description": "An Italian Jewish chemist, partisan, Holocaust survivor, and writer, known for his memoirs, short stories, essays, and poems, particularly 'If This Is a Man'.",
+        "year": "1919"
+      }
+    ],
+    "events": [
+      {
+        "title": "Apollo 15 Astronauts Use Lunar Rover",
+        "description": "Astronauts David Scott and James Irwin became the first to use the Lunar Roving Vehicle to explore the Moon's surface during the Apollo 15 mission.",
+        "year": "1971"
+      },
+      {
+        "title": "Ranger 7 Sends First Close-Up Moon Photos",
+        "description": "The U.S. space probe Ranger 7 successfully transmitted the first close-up photographs of the Moon's surface, providing images 1,000 times clearer than any seen before from Earth.",
+        "year": "1964"
+      },
+      {
+        "title": "START I Treaty Signed",
+        "description": "The United States and the Soviet Union signed the Strategic Arms Reduction Treaty (START I) in Moscow, marking a significant step towards reducing both countries' stockpiles of strategic nuclear weapons.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Ranger Day",
+      "teaser": "This day honors the work of park rangers around the globe who protect natural and cultural heritage."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Inácio de Loyola",
+        "type": "Sacerdote, Teólogo, Fundador dos Jesuítas",
+        "description": "Um teólogo e místico espanhol, fundou a Companhia de Jesus (Jesuítas) em 1534 e foi uma figura chave na Contrarreforma Católica Romana. Sua conversão espiritual seguiu uma lesão grave durante a Batalha de Pamplona em 1521."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Guarda Florestal",
+        "description": "Este dia homenageia o trabalho dos guardas florestais em todo o mundo que protegem o patrimônio natural e cultural."
+      },
+      {
+        "name": "Dia Nacional do Cão Vira-Lata (EUA)",
+        "description": "Estabelecido em 2005, este dia celebra os cães de raça mista e tem como objetivo aumentar a conscientização sobre os muitos vira-latas aguardando adoção em abrigos."
+      },
+      {
+        "name": "Aniversário de Harry Potter",
+        "description": "Esta observância cultural marca o aniversário fictício do famoso bruxo Harry Potter, que compartilha sua data de nascimento com sua criadora, J.K. Rowling."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Se você quer saber como é um homem, observe bem como ele trata os seus inferiores, não os seus iguais.",
+      "author": "J.K. Rowling",
+      "context": "J.K. Rowling, a aclamada autora britânica da série 'Harry Potter', nasceu em 31 de julho de 1965. Esta citação reflete uma profunda observação sobre o caráter, ressoando com as complexidades morais frequentemente exploradas em suas obras amplamente amadas."
+    },
+    "motivationalQuote": {
+      "text": "A melhor maneira de prever o futuro é criá-lo.",
+      "author": "Peter Drucker"
+    },
+    "births": [
+      {
+        "name": "J.K. Rowling",
+        "description": "Uma autora, filantropa e roteirista britânica, mais conhecida por escrever a série de fantasia Harry Potter, que se tornou a série de livros mais vendida da história.",
+        "year": "1965"
+      },
+      {
+        "name": "Milton Friedman",
+        "description": "Um economista e estatístico americano que recebeu o Prêmio Nobel de Ciências Econômicas de 1976 por seu trabalho sobre análise de consumo, história e teoria monetárias.",
+        "year": "1912"
+      },
+      {
+        "name": "Primo Levi",
+        "description": "Um químico, partisão, sobrevivente do Holocausto e escritor judeu italiano, conhecido por suas memórias, contos, ensaios e poemas, particularmente 'Se Isto é um Homem'.",
+        "year": "1919"
+      }
+    ],
+    "events": [
+      {
+        "title": "Astronautas da Apollo 15 Usam Veículo Lunar",
+        "description": "Os astronautas David Scott e James Irwin foram os primeiros a usar o Veículo Itinerante Lunar para explorar a superfície da Lua durante a missão Apollo 15.",
+        "year": "1971"
+      },
+      {
+        "title": "Ranger 7 Envia Primeiras Fotos Próximas da Lua",
+        "description": "A sonda espacial dos EUA Ranger 7 transmitiu com sucesso as primeiras fotografias de perto da superfície da Lua, fornecendo imagens 1.000 vezes mais claras do que qualquer outra vista antes da Terra.",
+        "year": "1964"
+      },
+      {
+        "title": "Tratado START I Assinado",
+        "description": "Os Estados Unidos e a União Soviética assinaram o Tratado de Redução de Armas Estratégicas (START I) em Moscou, marcando um passo significativo para reduzir os arsenais de armas nucleares estratégicas de ambos os países.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial do Guarda Florestal",
+      "teaser": "Este dia homenageia o trabalho dos guardas florestais em todo o mundo que protegem o patrimônio natural e cultural."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Ignasi de Loiola",
+        "type": "Sacerdot, Teòleg, Fundador dels Jesuïtes",
+        "description": "Teòleg i místic espanyol, va fundar la Companyia de Jesús (els Jesuïtes) el 1534 i va ser una figura clau de la Contrareforma catòlica. La seva conversió espiritual va seguir una greu lesió durant la batalla de Pamplona el 1521."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial dels Guardaparcs",
+        "description": "Aquest dia honra la feina dels guardaparcs de tot el món que protegeixen el patrimoni natural i cultural."
+      },
+      {
+        "name": "Dia Nacional del Gos Mestís (EUA)",
+        "description": "Establert el 2005, aquest dia celebra els gossos de raça mixta i té com a objectiu sensibilitzar sobre els molts gossos mestissos que esperen adopció als refugis."
+      },
+      {
+        "name": "Aniversari de Harry Potter",
+        "description": "Aquesta commemoració cultural celebra l'aniversari fictici del famós mag Harry Potter, que comparteix la seva data de naixement amb la seva creadora, J.K. Rowling."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si vols saber com és un home, mira bé com tracta els seus inferiors, no els seus iguals.",
+      "author": "J.K. Rowling",
+      "context": "J.K. Rowling, l'aclamada autora britànica de la sèrie 'Harry Potter', va néixer el 31 de juliol de 1965. Aquesta cita reflecteix una profunda observació sobre el caràcter, ressonant amb les complexitats morals sovint explorades en les seves obres àmpliament estimades."
+    },
+    "motivationalQuote": {
+      "text": "La millor manera de predir el futur és crear-lo.",
+      "author": "Peter Drucker"
+    },
+    "births": [
+      {
+        "name": "J.K. Rowling",
+        "description": "Autora, filantropa i guionista britànica, més coneguda per escriure la sèrie de fantasia de Harry Potter, que va esdevenir la sèrie de llibres més venuda de la història.",
+        "year": "1965"
+      },
+      {
+        "name": "Milton Friedman",
+        "description": "Economista i estadístic nord-americà que va rebre el Premi Nobel Commemoratiu de Ciències Econòmiques de 1976 pel seu treball sobre l'anàlisi del consum, la història i la teoria monetària.",
+        "year": "1912"
+      },
+      {
+        "name": "Primo Levi",
+        "description": "Químic jueu italià, partisà, supervivent de l'Holocaust i escriptor, conegut per les seves memòries, contes, assajos i poemes, particularment 'Si això és un home'.",
+        "year": "1919"
+      }
+    ],
+    "events": [
+      {
+        "title": "Els Astronautes de l'Apollo 15 Utilitzen el Vehicle Lunar",
+        "description": "Els astronautes David Scott i James Irwin van ser els primers a utilitzar el Vehicle Lunar per explorar la superfície de la Lluna durant la missió Apollo 15.",
+        "year": "1971"
+      },
+      {
+        "title": "La Ranger 7 Envia les Primeres Fotos de la Lluna de Prop",
+        "description": "La sonda espacial nord-americana Ranger 7 va transmetre amb èxit les primeres fotografies de prop de la superfície de la Lluna, proporcionant imatges 1.000 vegades més clares que qualsevol vista anteriorment des de la Terra.",
+        "year": "1964"
+      },
+      {
+        "title": "Signatura del Tractat START I",
+        "description": "Els Estats Units i la Unió Soviètica van signar el Tractat de Reducció d'Armes Estratègiques (START I) a Moscou, marcant un pas significatiu cap a la reducció dels arsenals d'armes nuclears estratègiques d'ambdós països.",
+        "year": "1991"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial dels Guardaparcs",
+      "teaser": "Aquest dia honra la feina dels guardaparcs de tot el món que protegeixen el patrimoni natural i cultural."
+    }
+  }
+}

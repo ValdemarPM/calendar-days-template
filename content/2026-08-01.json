@@ -1,0 +1,307 @@
+{
+  "date": "2026-08-01",
+  "es": {
+    "saints": [
+      {
+        "name": "San Alfonso María de Ligorio",
+        "type": "Obispo, Doctor de la Iglesia, Teólogo Moral",
+        "description": "Nacido en 1696 en Italia, San Alfonso María de Ligorio fue un abogado brillante que dejó su carrera legal para convertirse en sacerdote, fundó a los Redentoristas y es conocido por su teología moral y amabilidad."
+      },
+      {
+        "name": "Santos Siete Mártires Macabeos, su madre Salomé, y su maestro Eleazar",
+        "type": "Mártires",
+        "description": "Estos santos del Antiguo Testamento sufrieron martirio en el año 166 a.C. bajo el rey sirio Antíoco IV Epífanes por negarse a violar la Ley de Dios."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Emancipación",
+        "description": "Conmemorado en Guyana y otras naciones del antiguo Imperio Británico, este día marca la entrada en vigor de la Ley de Abolición de la Esclavitud de 1833."
+      },
+      {
+        "name": "Día Mundial de la World Wide Web",
+        "description": "Este día celebra la invención y el impacto continuo de la World Wide Web."
+      },
+      {
+        "name": "Día de Lammas (Lughnasadh)",
+        "description": "Un festival de la cosecha en varias culturas, que celebra la primera cosecha de grano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Es mejor fracasar en la originalidad que tener éxito en la imitación.",
+      "author": "Herman Melville",
+      "context": "Herman Melville, un renombrado novelista estadounidense más conocido por 'Moby Dick', nació el 1 de agosto de 1819."
+    },
+    "motivationalQuote": {
+      "text": "Una vida sin examinar no merece la pena ser vivida.",
+      "author": "Sócrates"
+    },
+    "births": [
+      {
+        "name": "Herman Melville",
+        "description": "Un novelista, cuentista y poeta estadounidense, más conocido por su obra maestra 'Moby Dick'.",
+        "year": "1819"
+      },
+      {
+        "name": "William Clark",
+        "description": "Un explorador estadounidense que co-dirigió famosamente la Expedición de Lewis y Clark para explorar la Compra de Luisiana.",
+        "year": "1770"
+      },
+      {
+        "name": "Jason Momoa",
+        "description": "Un actor estadounidense conocido por sus papeles como Khal Drogo en 'Juego de Tronos' y Aquaman en el Universo Extendido de DC.",
+        "year": "1979"
+      }
+    ],
+    "events": [
+      {
+        "title": "Joseph Priestley descubre el oxígeno",
+        "description": "El científico británico Joseph Priestley aisló e identificó el gas oxígeno, llamándolo 'aire desflogistizado'.",
+        "year": "1774"
+      },
+      {
+        "title": "Castle Garden abre para inmigrantes",
+        "description": "Castle Garden en la ciudad de Nueva York abrió como la primera estación oficial de recepción de inmigrantes en los Estados Unidos, anterior a Ellis Island.",
+        "year": "1855"
+      },
+      {
+        "title": "Harriet Quimby obtiene el certificado de piloto",
+        "description": "Harriet Quimby se convirtió en la primera mujer en los Estados Unidos en obtener un certificado de aviador del Aero Club of America, marcando un hito para las mujeres en la aviación.",
+        "year": "1911"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la Emancipación",
+      "teaser": "Conmemorado en Guyana y otras naciones del antiguo Imperio Británico, este día marca la entrada en vigor de la Ley de Abolición de la Esclavitud de 1833."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Alphonsus Liguori",
+        "type": "Bishop, Doctor of the Church, Moral Theologian",
+        "description": "Born in 1696 in Italy, St. Alphonsus Liguori was a brilliant lawyer who left his legal career to become a priest, founded the Redemptorists, and is known for his moral theology and kindness."
+      },
+      {
+        "name": "Holy Seven Maccabee Martyrs, their mother Solomone, and their teacher Eleazar",
+        "type": "Martyrs",
+        "description": "These Old Testament saints suffered martyrdom in 166 BC under the Syrian King Antiochus IV Epiphanes for refusing to violate the Law of God."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Emancipation Day",
+        "description": "Commemorated in Guyana and other nations of the former British Empire, this day marks the Slavery Abolition Act of 1833 coming into law."
+      },
+      {
+        "name": "World Wide Web Day",
+        "description": "This day celebrates the invention and continued impact of the World Wide Web."
+      },
+      {
+        "name": "Lammas Day (Lughnasadh)",
+        "description": "A harvest festival in various cultures, celebrating the first harvest of grain."
+      }
+    ],
+    "historicalQuote": {
+      "text": "It is better to fail in originality than to succeed in imitation.",
+      "author": "Herman Melville",
+      "context": "Herman Melville, a renowned American novelist best known for 'Moby Dick,' was born on August 1, 1819."
+    },
+    "motivationalQuote": {
+      "text": "The unexamined life is not worth living.",
+      "author": "Socrates"
+    },
+    "births": [
+      {
+        "name": "Herman Melville",
+        "description": "An American novelist, short story writer, and poet, best known for his masterpiece 'Moby-Dick.'",
+        "year": "1819"
+      },
+      {
+        "name": "William Clark",
+        "description": "An American explorer who famously co-led the Lewis and Clark Expedition to explore the Louisiana Purchase.",
+        "year": "1770"
+      },
+      {
+        "name": "Jason Momoa",
+        "description": "An American actor known for his roles as Khal Drogo in 'Game of Thrones' and Aquaman in the DC Extended Universe.",
+        "year": "1979"
+      }
+    ],
+    "events": [
+      {
+        "title": "Joseph Priestley Discovers Oxygen",
+        "description": "British scientist Joseph Priestley isolated and identified oxygen gas, calling it 'dephlogisticated air.'",
+        "year": "1774"
+      },
+      {
+        "title": "Castle Garden Opens for Immigrants",
+        "description": "Castle Garden in New York City opened as the first official immigration receiving station in the United States, predating Ellis Island.",
+        "year": "1855"
+      },
+      {
+        "title": "Harriet Quimby Earns Pilot's Certificate",
+        "description": "Harriet Quimby became the first woman in the United States to earn an Aero Club of America aviator's certificate, marking a milestone for women in aviation.",
+        "year": "1911"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Emancipation Day",
+      "teaser": "Commemorated in Guyana and other nations of the former British Empire, this day marks the Slavery Abolition Act of 1833 coming into law."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Afonso Maria de Ligório",
+        "type": "Bispo, Doutor da Igreja, Teólogo Moral",
+        "description": "Nascido em 1696 na Itália, Santo Afonso Maria de Ligório foi um advogado brilhante que deixou sua carreira jurídica para se tornar padre, fundou os Redentoristas e é conhecido por sua teologia moral e bondade."
+      },
+      {
+        "name": "Santos Sete Mártires Macabeus, sua mãe Salomé, e seu mestre Eleazar",
+        "type": "Mártires",
+        "description": "Esses santos do Antigo Testamento sofreram o martírio em 166 a.C. sob o rei sírio Antíoco IV Epifânio por se recusarem a violar a Lei de Deus."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Emancipação",
+        "description": "Comemorado na Guiana e em outras nações do antigo Império Britânico, este dia marca a entrada em vigor da Lei de Abolição da Escravidão de 1833."
+      },
+      {
+        "name": "Dia Mundial da World Wide Web",
+        "description": "Este dia celebra a invenção e o impacto contínuo da World Wide Web."
+      },
+      {
+        "name": "Dia de Lammas (Lughnasadh)",
+        "description": "Um festival da colheita em várias culturas, celebrando a primeira colheita de grãos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "É melhor falhar na originalidade do que ter sucesso na imitação.",
+      "author": "Herman Melville",
+      "context": "Herman Melville, um renomado romancista americano mais conhecido por 'Moby Dick', nasceu em 1º de agosto de 1819."
+    },
+    "motivationalQuote": {
+      "text": "Uma vida não examinada não vale a pena ser vivida.",
+      "author": "Sócrates"
+    },
+    "births": [
+      {
+        "name": "Herman Melville",
+        "description": "Um romancista, contista e poeta americano, mais conhecido por sua obra-prima 'Moby Dick'.",
+        "year": "1819"
+      },
+      {
+        "name": "William Clark",
+        "description": "Um explorador americano que famosamente co-liderou a Expedição de Lewis e Clark para explorar a Compra da Louisiana.",
+        "year": "1770"
+      },
+      {
+        "name": "Jason Momoa",
+        "description": "Um ator americano conhecido por seus papéis como Khal Drogo em 'Game of Thrones' e Aquaman no Universo Estendido da DC.",
+        "year": "1979"
+      }
+    ],
+    "events": [
+      {
+        "title": "Joseph Priestley descobre o oxigênio",
+        "description": "O cientista britânico Joseph Priestley isolou e identificou o gás oxigênio, chamando-o de 'ar desflogístico'.",
+        "year": "1774"
+      },
+      {
+        "title": "Castle Garden abre para imigrantes",
+        "description": "Castle Garden, na cidade de Nova York, abriu como a primeira estação oficial de recepção de imigrantes nos Estados Unidos, anterior a Ellis Island.",
+        "year": "1855"
+      },
+      {
+        "title": "Harriet Quimby obtém certificado de piloto",
+        "description": "Harriet Quimby se tornou a primeira mulher nos Estados Unidos a obter um certificado de aviador do Aero Club of America, marcando um marco para as mulheres na aviação.",
+        "year": "1911"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia da Emancipação",
+      "teaser": "Comemorado na Guiana e em outras nações do antigo Império Britânico, este dia marca a entrada em vigor da Lei de Abolição da Escravidão de 1833."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Alfons Maria de Lligori",
+        "type": "Bisbe, Doctor de l'Església, Teòleg moral",
+        "description": "Nascut el 1696 a Itàlia, Sant Alfons Maria de Lligori va ser un advocat brillant que va deixar la seva carrera legal per fer-se sacerdot, va fundar els Redemptoristes i és conegut per la seva teologia moral i la seva bondat."
+      },
+      {
+        "name": "Sants Set Màrtirs Macabeus, la seva mare Salomé i el seu mestre Eleazar",
+        "type": "Màrtirs",
+        "description": "Aquests sants de l'Antic Testament van patir el martiri el 166 aC sota el rei sirià Antíoc IV Epífanes per negar-se a violar la Llei de Déu."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de l'Emancipació",
+        "description": "Commemorat a Guyana i altres nacions de l'antic Imperi Britànic, aquest dia marca l'entrada en vigor de la Llei d'Abolició de l'Esclavitud de 1833."
+      },
+      {
+        "name": "Dia de la World Wide Web",
+        "description": "Aquest dia celebra la invenció i l'impacte continu de la World Wide Web."
+      },
+      {
+        "name": "Dia de Lammas (Lughnasadh)",
+        "description": "Un festival de la collita en diverses cultures, que celebra la primera collita de gra."
+      }
+    ],
+    "historicalQuote": {
+      "text": "És millor fracassar en l'originalitat que tenir èxit en la imitació.",
+      "author": "Herman Melville",
+      "context": "Herman Melville, un reconegut novel·lista nord-americà més conegut per 'Moby Dick', va néixer l'1 d'agost de 1819."
+    },
+    "motivationalQuote": {
+      "text": "Una vida sense examen no val la pena ser viscuda.",
+      "author": "Sòcrates"
+    },
+    "births": [
+      {
+        "name": "Herman Melville",
+        "description": "Un novel·lista, escriptor de contes i poeta nord-americà, més conegut per la seva obra mestra 'Moby-Dick'.",
+        "year": "1819"
+      },
+      {
+        "name": "William Clark",
+        "description": "Un explorador nord-americà que va codirigir famosament l'expedició de Lewis i Clark per explorar la Compra de Louisiana.",
+        "year": "1770"
+      },
+      {
+        "name": "Jason Momoa",
+        "description": "Un actor nord-americà conegut pels seus papers com a Khal Drogo a 'Joc de Trons' i Aquaman a l'Univers Estès de DC.",
+        "year": "1979"
+      }
+    ],
+    "events": [
+      {
+        "title": "Joseph Priestley descobreix l'oxigen",
+        "description": "El científic britànic Joseph Priestley va aïllar i identificar el gas oxigen, anomenant-lo 'aire desflogistat'.",
+        "year": "1774"
+      },
+      {
+        "title": "Castle Garden s'obre als immigrants",
+        "description": "Castle Garden a la ciutat de Nova York es va obrir com la primera estació oficial de recepció d'immigrants als Estats Units, anterior a Ellis Island.",
+        "year": "1855"
+      },
+      {
+        "title": "Harriet Quimby obté el certificat de pilot",
+        "description": "Harriet Quimby va esdevenir la primera dona als Estats Units a obtenir un certificat d'aviador de l'Aero Club of America, marcant una fita per a les dones en l'aviació.",
+        "year": "1911"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de l'Emancipació",
+      "teaser": "Commemorat a Guyana i altres nacions de l'antic Imperi Britànic, aquest dia marca l'entrada en vigor de la Llei d'Abolició de l'Esclavitud de 1833."
+    }
+  }
+}

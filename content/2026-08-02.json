@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-02",
+  "es": {
+    "saints": [
+      {
+        "name": "Hieromártir Esteban, Papa de Roma",
+        "type": "Papa, Mártir",
+        "description": "Esteban fue obispo de Roma desde el 254 hasta el 257 d.C., martirizado durante la persecución del emperador Valeriano. Se opuso con celo a la herejía novaciana, que negaba la readmisión a quienes habían apostatado."
+      },
+      {
+        "name": "San Eusebio de Vercelli",
+        "type": "Obispo",
+        "description": "Eusebio fue un obispo temprano de Vercelli en Italia, conocido por defender el Credo de Nicea contra el arrianismo. Por su fe inquebrantable, soportó un largo exilio y maltrato."
+      },
+      {
+        "name": "Beato Basilio de Moscú, Loco por Cristo",
+        "type": "Loco por Cristo, Taumaturgo",
+        "description": "Basilio fue un santo ortodoxo ruso conocido por su ascetismo y sus visiones proféticas. La famosa Catedral de San Basilio en Moscú lleva su nombre en su honor."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la República (Macedonia del Norte)",
+        "description": "Este día festivo nacional en Macedonia del Norte conmemora el establecimiento del estado macedonio moderno el 2 de agosto de 1944."
+      },
+      {
+        "name": "Día Nacional del Sándwich de Helado (Estados Unidos)",
+        "description": "Los estadounidenses celebran el clásico postre helado, el sándwich de helado, que fue vendido por primera vez por vendedores ambulantes en la ciudad de Nueva York en la década de 1890."
+      },
+      {
+        "name": "Día Nacional del Libro para Colorear (Estados Unidos)",
+        "description": "Este día anima a personas de todas las edades a disfrutar de la actividad creativa y relajante de colorear."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“La división del átomo ha cambiado todo, excepto nuestros modos de pensar, y así nos dirigimos hacia una catástrofe sin igual.”",
+      "author": "Albert Einstein",
+      "context": "El 2 de agosto de 1939, Albert Einstein firmó una carta, redactada por Leó Szilárd, dirigida al presidente de los Estados Unidos, Franklin D. Roosevelt. Esta carta advertía sobre el potencial de Alemania para desarrollar bombas atómicas e instaba a Estados Unidos a comenzar su propio programa de investigación nuclear, que finalmente condujo al Proyecto Manhattan."
+    },
+    "motivationalQuote": {
+      "text": "“La duda mata más sueños de los que el fracaso jamás matará.”",
+      "author": "Suzy Kassem"
+    },
+    "births": [
+      {
+        "name": "James Baldwin",
+        "description": "James Baldwin fue un influyente novelista, dramaturgo, ensayista y activista por los derechos civiles estadounidense cuyas obras exploraron temas de raza, sexualidad y clase social.",
+        "year": "1924"
+      },
+      {
+        "name": "Isabel Allende",
+        "description": "Isabel Allende es una célebre autora chilena-estadounidense conocida por su ficción de realismo mágico e histórica, lo que la convierte en una de las autoras en español más leídas.",
+        "year": "1942"
+      },
+      {
+        "name": "Frédéric Auguste Bartholdi",
+        "description": "Frédéric Auguste Bartholdi fue un escultor francés famoso por diseñar la Estatua de la Libertad, un símbolo universal de libertad y democracia.",
+        "year": "1834"
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaración de Independencia de los Estados Unidos firmada oficialmente",
+        "description": "Los miembros del Congreso Continental comenzaron a firmar oficialmente la Declaración de Independencia de los Estados Unidos, un momento crucial en la historia estadounidense.",
+        "year": "1776"
+      },
+      {
+        "title": "Primer Censo de los Estados Unidos Realizado",
+        "description": "El primer censo oficial de la población de los Estados Unidos se realizó para asignar la representación y la tributación directa.",
+        "year": "1790"
+      },
+      {
+        "title": "El Tower Subway, el primer ferrocarril subterráneo del mundo, abre",
+        "description": "El Tower Subway, un ejemplo temprano de ferrocarril subterráneo, abrió en Londres, siendo pionero en una nueva era del transporte urbano.",
+        "year": "1870"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la República (Macedonia del Norte)",
+      "teaser": "Este día festivo nacional en Macedonia del Norte conmemora el establecimiento del estado macedonio moderno el 2 de agosto de 1944."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Hieromartyr Stephen, Pope of Rome",
+        "type": "Pope, Martyr",
+        "description": "Stephen was the Bishop of Rome from 254 to 257 AD, martyred during the persecution of Emperor Valerian. He zealously opposed the Novatian heresy, which denied readmission to those who had apostatized."
+      },
+      {
+        "name": "Saint Eusebius of Vercelli",
+        "type": "Bishop",
+        "description": "Eusebius was an early bishop of Vercelli in Italy, known for defending the Nicene Creed against Arianism. For his steadfast faith, he endured a long exile and mistreatment."
+      },
+      {
+        "name": "Blessed Basil of Moscow, Fool-for-Christ",
+        "type": "Fool-for-Christ, Wonderworker",
+        "description": "Basil was a Russian Orthodox saint known for his asceticism and prophetic insights. The famous Saint Basil's Cathedral in Moscow is named in his honor."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Republic Day (North Macedonia)",
+        "description": "This national holiday in North Macedonia commemorates the establishment of the modern Macedonian state on August 2, 1944."
+      },
+      {
+        "name": "National Ice Cream Sandwich Day (United States)",
+        "description": "Americans celebrate the classic frozen treat, the ice cream sandwich, which was first sold by pushcart vendors in New York City in the 1890s."
+      },
+      {
+        "name": "National Coloring Book Day (United States)",
+        "description": "This day encourages people of all ages to enjoy the creative and relaxing activity of coloring."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“The splitting of the atom has changed everything save our modes of thinking and we thus drift toward unparalleled catastrophe.”",
+      "author": "Albert Einstein",
+      "context": "On August 2, 1939, Albert Einstein signed a letter, drafted by Leó Szilárd, to U.S. President Franklin D. Roosevelt. This letter warned of the potential for Germany to develop atomic bombs and urged the U.S. to begin its own nuclear research program, which eventually led to the Manhattan Project."
+    },
+    "motivationalQuote": {
+      "text": "“Doubt kills more dreams than failure ever will.”",
+      "author": "Suzy Kassem"
+    },
+    "births": [
+      {
+        "name": "James Baldwin",
+        "description": "James Baldwin was an influential American novelist, playwright, essayist, and civil rights activist whose works explored themes of race, sexuality, and class.",
+        "year": "1924"
+      },
+      {
+        "name": "Isabel Allende",
+        "description": "Isabel Allende is a celebrated Chilean-American author known for her magical-realist and historical fiction, making her one of the most widely read Spanish-language authors.",
+        "year": "1942"
+      },
+      {
+        "name": "Frédéric Auguste Bartholdi",
+        "description": "Frédéric Auguste Bartholdi was a French sculptor most famous for designing the Statue of Liberty, a universal symbol of freedom and democracy.",
+        "year": "1834"
+      }
+    ],
+    "events": [
+      {
+        "title": "United States Declaration of Independence Officially Signed",
+        "description": "Members of the Continental Congress officially began signing the United States Declaration of Independence, a pivotal moment in American history.",
+        "year": "1776"
+      },
+      {
+        "title": "First United States Census Conducted",
+        "description": "The first official census of the United States population was conducted to apportion representation and direct taxation.",
+        "year": "1790"
+      },
+      {
+        "title": "Tower Subway, World's First Underground Tube Railway, Opens",
+        "description": "The Tower Subway, an early example of an underground railway, opened in London, pioneering a new era of urban transport.",
+        "year": "1870"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Republic Day (North Macedonia)",
+      "teaser": "This national holiday in North Macedonia commemorates the establishment of the modern Macedonian state on August 2, 1944."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Hieromártir Estêvão, Papa de Roma",
+        "type": "Papa, Mártir",
+        "description": "Estêvão foi Bispo de Roma de 254 a 257 d.C., martirizado durante a perseguição do Imperador Valeriano. Ele se opôs zelosamente à heresia novaciana, que negava a readmissão àqueles que haviam apostatado."
+      },
+      {
+        "name": "Santo Eusébio de Vercelli",
+        "type": "Bispo",
+        "description": "Eusébio foi um bispo antigo de Vercelli, na Itália, conhecido por defender o Credo Niceno contra o Arianismo. Por sua fé inabalável, ele suportou um longo exílio e maus-tratos."
+      },
+      {
+        "name": "Bem-aventurado Basílio de Moscou, Louco por Cristo",
+        "type": "Louco por Cristo, Taumaturgo",
+        "description": "Basílio foi um santo ortodoxo russo conhecido por seu ascetismo e suas visões proféticas. A famosa Catedral de São Basílio em Moscou é nomeada em sua homenagem."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da República (Macedônia do Norte)",
+        "description": "Este feriado nacional na Macedônia do Norte comemora o estabelecimento do estado macedônio moderno em 2 de agosto de 1944."
+      },
+      {
+        "name": "Dia Nacional do Sanduíche de Sorvete (Estados Unidos)",
+        "description": "Os americanos celebram o clássico doce gelado, o sanduíche de sorvete, que foi vendido pela primeira vez por vendedores ambulantes na cidade de Nova York na década de 1890."
+      },
+      {
+        "name": "Dia Nacional do Livro para Colorir (Estados Unidos)",
+        "description": "Este dia incentiva pessoas de todas as idades a desfrutar da atividade criativa e relaxante de colorir."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“A divisão do átomo mudou tudo, exceto nossos modos de pensar, e assim nos encaminhamos para uma catástrofe sem precedentes.”",
+      "author": "Albert Einstein",
+      "context": "Em 2 de agosto de 1939, Albert Einstein assinou uma carta, redigida por Leó Szilárd, ao Presidente dos EUA Franklin D. Roosevelt. Esta carta alertava sobre o potencial da Alemanha para desenvolver bombas atômicas e instava os EUA a iniciar seu próprio programa de pesquisa nuclear, que eventualmente levou ao Projeto Manhattan."
+    },
+    "motivationalQuote": {
+      "text": "“A dúvida mata mais sonhos do que o fracasso jamais matará.”",
+      "author": "Suzy Kassem"
+    },
+    "births": [
+      {
+        "name": "James Baldwin",
+        "description": "James Baldwin foi um influente romancista, dramaturgo, ensaísta e ativista dos direitos civis americano cujas obras exploraram temas de raça, sexualidade e classe.",
+        "year": "1924"
+      },
+      {
+        "name": "Isabel Allende",
+        "description": "Isabel Allende é uma célebre autora chileno-americana conhecida por sua ficção de realismo mágico e histórica, tornando-a uma das autoras de língua espanhola mais lidas.",
+        "year": "1942"
+      },
+      {
+        "name": "Frédéric Auguste Bartholdi",
+        "description": "Frédéric Auguste Bartholdi foi um escultor francês mais famoso por projetar a Estátua da Liberdade, um símbolo universal de liberdade e democracia.",
+        "year": "1834"
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaração de Independência dos Estados Unidos Oficialmente Assinada",
+        "description": "Membros do Congresso Continental começaram a assinar oficialmente a Declaração de Independência dos Estados Unidos, um momento crucial na história americana.",
+        "year": "1776"
+      },
+      {
+        "title": "Primeiro Censo dos Estados Unidos Realizado",
+        "description": "O primeiro censo oficial da população dos Estados Unidos foi realizado para alocar representação e tributação direta.",
+        "year": "1790"
+      },
+      {
+        "title": "Tower Subway, a Primeira Ferrovia Subterrânea do Mundo, é Inaugurada",
+        "description": "O Tower Subway, um exemplo inicial de ferrovia subterrânea, foi inaugurado em Londres, sendo pioneiro em uma nova era de transporte urbano.",
+        "year": "1870"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia da República (Macedônia do Norte)",
+      "teaser": "Este feriado nacional na Macedônia do Norte comemora o estabelecimento do estado macedônio moderno em 2 de agosto de 1944."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Hieromàrtir Esteve, Papa de Roma",
+        "type": "Papa, Màrtir",
+        "description": "Esteve va ser bisbe de Roma del 254 al 257 dC, martiritzat durant la persecució de l'emperador Valerià. Es va oposar amb zel a l'heretgia novaciana, que negava la readmissió als qui havien apostatat."
+      },
+      {
+        "name": "Sant Eusebi de Vercelli",
+        "type": "Bisbe",
+        "description": "Eusebi va ser un bisbe primerenc de Vercelli a Itàlia, conegut per defensar el Credo de Nicea contra l'arianisme. Per la seva fe inquebrantable, va suportar un llarg exili i maltractament."
+      },
+      {
+        "name": "Beat Basili de Moscou, Boig per Crist",
+        "type": "Boig per Crist, Taumaturg",
+        "description": "Basili va ser un sant ortodox rus conegut pel seu ascetisme i les seves visions profètiques. La famosa Catedral de Sant Basili a Moscou rep el seu nom en el seu honor."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la República (Macedònia del Nord)",
+        "description": "Aquesta festa nacional a Macedònia del Nord commemora l'establiment de l'estat macedoni modern el 2 d'agost de 1944."
+      },
+      {
+        "name": "Dia Nacional del Gelat Entrepà (Estats Units)",
+        "description": "Els estatunidencs celebren la clàssica delícia gelada, el gelat entrepà, que va ser venut per primera vegada per venedors ambulants a la ciutat de Nova York a la dècada de 1890."
+      },
+      {
+        "name": "Dia Nacional del Llibre per Colorejar (Estats Units)",
+        "description": "Aquest dia anima persones de totes les edats a gaudir de l'activitat creativa i relaxant de pintar."
+      }
+    ],
+    "historicalQuote": {
+      "text": "“La divisió de l'àtom ho ha canviat tot, excepte les nostres maneres de pensar, i així derivem cap a una catàstrofe sense precedents.”",
+      "author": "Albert Einstein",
+      "context": "El 2 d'agost de 1939, Albert Einstein va signar una carta, redactada per Leó Szilárd, al president dels EUA, Franklin D. Roosevelt. Aquesta carta advertia del potencial d'Alemanya per desenvolupar bombes atòmiques i instava els EUA a iniciar el seu propi programa de recerca nuclear, que finalment va portar al Projecte Manhattan."
+    },
+    "motivationalQuote": {
+      "text": "“El dubte mata més somnis del que ho farà mai el fracàs.”",
+      "author": "Suzy Kassem"
+    },
+    "births": [
+      {
+        "name": "James Baldwin",
+        "description": "James Baldwin va ser un influent novel·lista, dramaturg, assagista i activista pels drets civils estatunidenc, les obres del qual exploraven temes de raça, sexualitat i classe.",
+        "year": "1924"
+      },
+      {
+        "name": "Isabel Allende",
+        "description": "Isabel Allende és una cèlebre autora xileno-americana coneguda per la seva ficció de realisme màgic i històrica, cosa que la converteix en una de les autores en castellà més llegides.",
+        "year": "1942"
+      },
+      {
+        "name": "Frédéric Auguste Bartholdi",
+        "description": "Frédéric Auguste Bartholdi va ser un escultor francès famós per dissenyar l'Estàtua de la Llibertat, un símbol universal de llibertat i democràcia.",
+        "year": "1834"
+      }
+    ],
+    "events": [
+      {
+        "title": "Declaració d'Independència dels Estats Units Oficialment Signada",
+        "description": "Els membres del Congrés Continental van començar oficialment a signar la Declaració d'Independència dels Estats Units, un moment crucial en la història americana.",
+        "year": "1776"
+      },
+      {
+        "title": "Primer Cens dels Estats Units Realitzat",
+        "description": "Es va realitzar el primer cens oficial de la població dels Estats Units per repartir la representació i la tributació directa.",
+        "year": "1790"
+      },
+      {
+        "title": "S'inaugura el Tower Subway, el Primer Ferrocarril Subterrani del Món",
+        "description": "El Tower Subway, un exemple primerenc de ferrocarril subterrani, es va inaugurar a Londres, sent pioner en una nova era del transport urbà.",
+        "year": "1870"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de la República (Macedònia del Nord)",
+      "teaser": "Aquesta festa nacional a Macedònia del Nord commemora l'establiment de l'estat macedoni modern el 2 d'agost de 1944."
+    }
+  }
+}

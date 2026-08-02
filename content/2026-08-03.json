@@ -1,0 +1,347 @@
+{
+  "date": "2026-08-03",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Lidia Purpuraria",
+        "type": "Laica, Primera Conversa en Europa",
+        "description": "Lidia era una exitosa comerciante de telas de púrpura en Tiatira. Se convirtió en la primera conversa registrada al cristianismo en Europa después de escuchar predicar a San Pablo, y su casa fue posteriormente bautizada."
+      },
+      {
+        "name": "San Asprén",
+        "type": "Obispo",
+        "description": "San Asprén es tradicionalmente considerado el primer Obispo de Nápoles, Italia. Según los informes, fue curado de una enfermedad por San Pedro y posteriormente consagrado como obispo."
+      },
+      {
+        "name": "Santa Salomé la Mirófora",
+        "type": "Mirófora, Madre de Apóstoles",
+        "description": "Salomé fue la madre de los Apóstoles Santiago y Juan, y una de las mujeres que siguieron a Cristo y le sirvieron, permaneciendo fiel incluso a través de Su Crucifixión y sepultura."
+      },
+      {
+        "name": "Venerable Antonio el Romano",
+        "type": "Monje, Abad",
+        "description": "Nacido en Roma en 1086, Antonio se convirtió en un monje ermitaño que, según la tradición, flotó milagrosamente a través del mar sobre una roca hasta Novgorod, Rusia, donde fundó un monasterio."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional de la Sandía",
+        "description": "Un día para celebrar y disfrutar la sandía, una fruta refrescante a menudo asociada con el verano."
+      },
+      {
+        "name": "Día de Limpiar tus Suelos",
+        "description": "Una observancia que anima a las personas a realizar una limpieza a fondo de sus suelos."
+      },
+      {
+        "name": "Día de la Columbia Británica (Canadá)",
+        "description": "Un día festivo provincial observado en Columbia Británica, Canadá, que celebra el patrimonio de la provincia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La mente del hombre es capaz de cualquier cosa—porque todo está en ella, todo el pasado, así como todo el futuro.",
+      "author": "Joseph Conrad",
+      "context": "Joseph Conrad, un novelista de renombre conocido por obras que exploran la psicología y la moralidad humana, murió el 3 de agosto de 1924."
+    },
+    "motivationalQuote": {
+      "text": "He aprendido que la gente olvidará lo que dijiste, la gente olvidará lo que hiciste, pero la gente nunca olvidará cómo les hiciste sentir.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Tom Brady",
+        "description": "Un ex mariscal de campo profesional estadounidense que jugó en la NFL durante 23 temporadas, ampliamente considerado como el mejor mariscal de campo de todos los tiempos.",
+        "year": "1977"
+      },
+      {
+        "name": "Martha Stewart",
+        "description": "Una empresaria, escritora, personalidad televisiva y ex modelo estadounidense que fundó Martha Stewart Living Omnimedia.",
+        "year": "1941"
+      },
+      {
+        "name": "Martin Sheen",
+        "description": "Un actor estadounidense conocido por su extenso trabajo en cine y televisión, incluyendo papeles en 'Apocalypse Now' y 'El ala oeste de la Casa Blanca'.",
+        "year": "1940"
+      }
+    ],
+    "events": [
+      {
+        "title": "Cristóbal Colón zarpa en su primer viaje",
+        "description": "Cristóbal Colón partió de Palos, España, con sus tres barcos (Niña, Pinta y Santa María) en su primer viaje a través del Atlántico, lo que llevó a su desembarco en las Américas.",
+        "year": "1492"
+      },
+      {
+        "title": "Primera bandera de EE. UU. ondeada oficialmente en batalla",
+        "description": "Durante el Asedio de Fort Stanwix, las recién adoptadas Barras y Estrellas fueron ondeadas oficialmente por primera vez durante una batalla.",
+        "year": "1777"
+      },
+      {
+        "title": "El USS Nautilus completa la primera travesía submarina del Polo Norte",
+        "description": "El USS Nautilus, el primer submarino nuclear operativo del mundo, logró un hito significativo al convertirse en el primer buque en completar un tránsito submarino del Polo Norte geográfico.",
+        "year": "1958"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional de la Sandía",
+      "teaser": "Un día para celebrar y disfrutar la sandía, una fruta refrescante a menudo asociada con el verano."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Lydia Purpuraria",
+        "type": "Laywoman, First Convert in Europe",
+        "description": "Lydia was a successful merchant of purple cloth in Thyatira. She became the first recorded convert to Christianity in Europe after hearing St. Paul preach, and her household was subsequently baptized."
+      },
+      {
+        "name": "St. Aspren",
+        "type": "Bishop",
+        "description": "St. Aspren is traditionally considered the first Bishop of Naples, Italy. He was reportedly cured of an illness by Saint Peter and later consecrated as a bishop."
+      },
+      {
+        "name": "Holy Myrrh-bearer Salome",
+        "type": "Myrrh-bearer, Mother of Apostles",
+        "description": "Salome was the mother of the Apostles James and John, and one of the women who followed Christ and ministered to Him, remaining faithful even through His Crucifixion and burial."
+      },
+      {
+        "name": "Venerable Anthony the Roman",
+        "type": "Monk, Abbot",
+        "description": "Born in Rome in 1086, Anthony became a hermit monk who, according to tradition, miraculously floated across the sea on a rock to Novgorod, Russia, where he founded a monastery."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Watermelon Day",
+        "description": "A day to celebrate and enjoy watermelon, a refreshing fruit often associated with summer."
+      },
+      {
+        "name": "Clean Your Floors Day",
+        "description": "An observance encouraging individuals to undertake a thorough cleaning of their floors."
+      },
+      {
+        "name": "British Columbia Day (Canada)",
+        "description": "A provincial public holiday observed in British Columbia, Canada, celebrating the province's heritage."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The mind of man is capable of anything—because everything is in it, all the past as well as all the future.",
+      "author": "Joseph Conrad",
+      "context": "Joseph Conrad, a renowned novelist known for works exploring human psychology and morality, died on August 3, 1924."
+    },
+    "motivationalQuote": {
+      "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Tom Brady",
+        "description": "An American former professional football quarterback who played in the NFL for 23 seasons, widely regarded as the greatest quarterback of all time.",
+        "year": "1977"
+      },
+      {
+        "name": "Martha Stewart",
+        "description": "An American businesswoman, writer, television personality, and former model who founded Martha Stewart Living Omnimedia.",
+        "year": "1941"
+      },
+      {
+        "name": "Martin Sheen",
+        "description": "An American actor known for his extensive work in film and television, including roles in 'Apocalypse Now' and 'The West Wing'.",
+        "year": "1940"
+      }
+    ],
+    "events": [
+      {
+        "title": "Christopher Columbus sets sail on his first voyage",
+        "description": "Christopher Columbus departed from Palos, Spain, with his three ships (Niña, Pinta, and Santa María) on his first voyage across the Atlantic, which led to his landing in the Americas.",
+        "year": "1492"
+      },
+      {
+        "title": "First U.S. flag officially flown in battle",
+        "description": "During the Siege of Fort Stanwix, the newly adopted Stars and Stripes was officially flown for the first time during a battle.",
+        "year": "1777"
+      },
+      {
+        "title": "USS Nautilus completes first underwater North Pole crossing",
+        "description": "The USS Nautilus, the world's first operational nuclear-powered submarine, achieved a significant milestone by becoming the first vessel to complete an underwater transit of the geographic North Pole.",
+        "year": "1958"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Watermelon Day",
+      "teaser": "A day to celebrate and enjoy watermelon, a refreshing fruit often associated with summer."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Lídia Purpurária",
+        "type": "Leiga, Primeira Convertida na Europa",
+        "description": "Lídia era uma comerciante bem-sucedida de tecidos de púrpura em Tiatira. Ela se tornou a primeira convertida registrada ao Cristianismo na Europa após ouvir São Paulo pregar, e sua casa foi subsequentemente batizada."
+      },
+      {
+        "name": "Santo Aspreno",
+        "type": "Bispo",
+        "description": "Santo Asprén é tradicionalmente considerado o primeiro Bispo de Nápoles, Itália. Ele teria sido curado de uma doença por São Pedro e posteriormente consagrado como bispo."
+      },
+      {
+        "name": "Santa Salomé, a Mirófora",
+        "type": "Mirófora, Mãe de Apóstolos",
+        "description": "Salomé foi a mãe dos Apóstolos Tiago e João, e uma das mulheres que seguiram Cristo e O serviram, permanecendo fiel mesmo durante Sua Crucifixão e sepultamento."
+      },
+      {
+        "name": "Venerável Antônio o Romano",
+        "type": "Monge, Abade",
+        "description": "Nascido em Roma em 1086, Antônio tornou-se um monge eremita que, segundo a tradição, flutuou milagrosamente através do mar sobre uma rocha até Novgorod, Rússia, onde fundou um mosteiro."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional da Melancia",
+        "description": "Um dia para celebrar e desfrutar da melancia, uma fruta refrescante frequentemente associada ao verão."
+      },
+      {
+        "name": "Dia de Limpar Seus Chãos",
+        "description": "Uma observância que incentiva os indivíduos a realizar uma limpeza completa de seus chãos."
+      },
+      {
+        "name": "Dia da Colúmbia Britânica (Canadá)",
+        "description": "Um feriado público provincial observado na Colúmbia Britânica, Canadá, celebrando a herança da província."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A mente do homem é capaz de qualquer coisa — porque tudo está nela, todo o passado, assim como todo o futuro.",
+      "author": "Joseph Conrad",
+      "context": "Joseph Conrad, um renomado romancista conhecido por obras que exploram a psicologia e a moralidade humana, faleceu em 3 de agosto de 1924."
+    },
+    "motivationalQuote": {
+      "text": "Aprendi que as pessoas esquecerão o que você disse, as pessoas esquecerão o que você fez, mas as pessoas nunca esquecerão como você as fez sentir.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Tom Brady",
+        "description": "Um ex-quarterback profissional americano que jogou na NFL por 23 temporadas, amplamente considerado o maior quarterback de todos os tempos.",
+        "year": "1977"
+      },
+      {
+        "name": "Martha Stewart",
+        "description": "Uma empresária, escritora, personalidade de televisão e ex-modelo americana que fundou a Martha Stewart Living Omnimedia.",
+        "year": "1941"
+      },
+      {
+        "name": "Martin Sheen",
+        "description": "Um ator americano conhecido por seu extenso trabalho em cinema e televisão, incluindo papéis em 'Apocalypse Now' e 'The West Wing'.",
+        "year": "1940"
+      }
+    ],
+    "events": [
+      {
+        "title": "Cristóvão Colombo parte em sua primeira viagem",
+        "description": "Cristóvão Colombo partiu de Palos, Espanha, com seus três navios (Niña, Pinta e Santa María) em sua primeira viagem através do Atlântico, que o levou ao desembarque nas Américas.",
+        "year": "1492"
+      },
+      {
+        "title": "Primeira bandeira dos EUA oficialmente hasteada em batalha",
+        "description": "Durante o Cerco de Fort Stanwix, a recém-adotada Bandeira Estrelas e Listras foi oficialmente hasteada pela primeira vez durante uma batalha.",
+        "year": "1777"
+      },
+      {
+        "title": "USS Nautilus completa a primeira travessia submarina do Polo Norte",
+        "description": "O USS Nautilus, o primeiro submarino nuclear operacional do mundo, alcançou um marco significativo ao se tornar a primeira embarcação a completar um trânsito submarino do Polo Norte geográfico.",
+        "year": "1958"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional da Melancia",
+      "teaser": "Um dia para celebrar e desfrutar da melancia, uma fruta refrescante frequentemente associada ao verão."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Lídia Purpurària",
+        "type": "Laica, Primera Conversa a Europa",
+        "description": "Lídia era una comerciant d'èxit de roba de porpra a Tiatira. Es va convertir en la primera conversa registrada al cristianisme a Europa després d'escoltar predicar Sant Pau, i la seva llar va ser posteriorment batejada."
+      },
+      {
+        "name": "Sant Aspren",
+        "type": "Bisbe",
+        "description": "Sant Aspren és tradicionalment considerat el primer Bisbe de Nàpols, Itàlia. Segons s'informa, va ser curat d'una malaltia per Sant Pere i més tard consagrat com a bisbe."
+      },
+      {
+        "name": "Santa Salome, portadora de mirra",
+        "type": "Portadora de mirra, Mare dels Apòstols",
+        "description": "Salomé va ser la mare dels apòstols Jaume i Joan, i una de les dones que van seguir Crist i el van servir, mantenint-se fidel fins i tot a través de la seva Crucifixió i sepultura."
+      },
+      {
+        "name": "Venerable Antoni el Romà",
+        "type": "Monjo, Abat",
+        "description": "Nascut a Roma el 1086, Antoni es va convertir en un monjo ermità que, segons la tradició, va flotar miraculosament per mar sobre una roca fins a Nóvgorod, Rússia, on va fundar un monestir."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de la Síndria",
+        "description": "Un dia per celebrar i gaudir de la síndria, una fruita refrescant sovint associada amb l'estiu."
+      },
+      {
+        "name": "Dia de Netejar els Teus Sols",
+        "description": "Una celebració que anima les persones a fer una neteja a fons dels seus sols."
+      },
+      {
+        "name": "Dia de la Colúmbia Britànica (Canadà)",
+        "description": "Un dia festiu provincial observat a la Colúmbia Britànica, Canadà, que celebra el patrimoni de la província."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La ment de l'home és capaç de qualsevol cosa —perquè tot hi és, tant tot el passat com tot el futur.",
+      "author": "Joseph Conrad",
+      "context": "Joseph Conrad, un reconegut novel·lista conegut per obres que exploren la psicologia humana i la moralitat, va morir el 3 d'agost de 1924."
+    },
+    "motivationalQuote": {
+      "text": "He après que la gent oblidarà el que vas dir, la gent oblidarà el que vas fer, però la gent mai oblidarà com els vas fer sentir.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Tom Brady",
+        "description": "Un antic quarterback de futbol americà professional que va jugar a la NFL durant 23 temporades, àmpliament considerat com el millor quarterback de tots els temps.",
+        "year": "1977"
+      },
+      {
+        "name": "Martha Stewart",
+        "description": "Una empresària, escriptora, personalitat televisiva i antiga model americana que va fundar Martha Stewart Living Omnimedia.",
+        "year": "1941"
+      },
+      {
+        "name": "Martin Sheen",
+        "description": "Un actor americà conegut pel seu extens treball en cinema i televisió, inclosos papers a 'Apocalypse Now' i 'The West Wing'.",
+        "year": "1940"
+      }
+    ],
+    "events": [
+      {
+        "title": "Cristòfor Colom salpa en el seu primer viatge",
+        "description": "Cristòfor Colom va salpar de Palos, Espanya, amb les seves tres naus (la Niña, la Pinta i la Santa María) en el seu primer viatge a través de l'Atlàntic, que va portar al seu desembarcament a les Amèriques.",
+        "year": "1492"
+      },
+      {
+        "title": "La primera bandera dels EUA hissada oficialment en batalla",
+        "description": "Durant el Setge de Fort Stanwix, la recentment adoptada bandera dels Estats Units (Estrelles i Barres) va ser hissada oficialment per primera vegada durant una batalla.",
+        "year": "1777"
+      },
+      {
+        "title": "L'USS Nautilus completa la primera travessia submarina del Pol Nord",
+        "description": "L'USS Nautilus, el primer submarí nuclear operatiu del món, va assolir una fita important en convertir-se en la primera embarcació a completar un trànsit submarí del Pol Nord geogràfic.",
+        "year": "1958"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional de la Síndria",
+      "teaser": "Un dia per celebrar i gaudir de la síndria, una fruita refrescant sovint associada amb l'estiu."
+    }
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "date": "2026-08-04",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan María Vianney",
+        "type": "Sacerdote, Confesor",
+        "description": "También conocido como el Cura de Ars, San Juan María Vianney es el patrón de los párrocos. Fue conocido por su celo sacerdotal y su incansable trabajo en el confesionario, sirviendo como guía espiritual para innumerables personas en la Francia rural."
+      },
+      {
+        "name": "Los Siete Jóvenes Santos de Éfeso",
+        "type": "Mártires",
+        "description": "Estos siete jóvenes (Maximiliano, Yámblico, Martiniano, Juan, Dionisio, Exacustodiano y Antonino) fueron perseguidos durante el reinado del emperador Decio en el siglo III y milagrosamente cayeron en un largo sueño en una cueva."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional de la Galleta con Chispas de Chocolate",
+        "description": "Este día celebra el popular y querido postre americano, la galleta con chispas de chocolate."
+      },
+      {
+        "name": "Día Nacional de la Guardia Costera",
+        "description": "Esta observancia conmemora la fundación de la Guardia Costera de los EE. UU. (originalmente el Servicio de Guardacostas de Ingresos) el 4 de agosto de 1790."
+      },
+      {
+        "name": "Día Internacional de la Pantera Nebulosa",
+        "description": "Este día está dedicado a crear conciencia sobre la pantera nebulosa, una especie vulnerable de felino salvaje, y los esfuerzos de conservación."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Mi nombre es Ozymandias, rey de reyes: ¡Contemplad mis obras, poderosos, y desesperad!",
+      "author": "Percy Bysshe Shelley",
+      "context": "El poeta romántico inglés Percy Bysshe Shelley, conocido por su verso lírico y filosófico, nació el 4 de agosto de 1792. Esta cita es de su famoso soneto 'Ozymandias'."
+    },
+    "motivationalQuote": {
+      "text": "Así como un día bien aprovechado trae un sueño feliz, una vida bien empleada trae una muerte feliz.",
+      "author": "Leonardo da Vinci"
+    },
+    "births": [
+      {
+        "name": "Louis Armstrong",
+        "description": "Un icónico trompetista, compositor y cantante de jazz estadounidense, a menudo conocido como 'Satchmo' o 'Pops', que fue una de las figuras más influyentes del jazz.",
+        "year": "1901"
+      },
+      {
+        "name": "Barack Obama",
+        "description": "El 44.º presidente de los Estados Unidos, quien hizo historia como el primer afroamericano en ocupar el cargo.",
+        "year": "1961"
+      },
+      {
+        "name": "Percy Bysshe Shelley",
+        "description": "Un destacado poeta romántico inglés cuyas obras se encuentran entre las más reconocibles en lengua inglesa.",
+        "year": "1792"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de la Guardia Costera de EE. UU.",
+        "description": "La Guardia Costera de los Estados Unidos fue establecida como el Servicio de Guardacostas de Ingresos por una ley del Congreso firmada por el presidente George Washington.",
+        "year": "1790"
+      },
+      {
+        "title": "Apertura del Museo Rodin en París",
+        "description": "El Museo Rodin abrió oficialmente sus puertas al público en París, exhibiendo las obras del aclamado escultor Auguste Rodin.",
+        "year": "1919"
+      },
+      {
+        "title": "El Senado de EE. UU. Aprueba Reparaciones para Japoneses-Americanos",
+        "description": "El Senado de EE. UU. aprobó una medida para otorgar $20,000 en reparaciones y una disculpa formal a cada japonés-americano internado durante la Segunda Guerra Mundial.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional de la Galleta con Chispas de Chocolate",
+      "teaser": "Este día celebra el popular y querido postre americano, la galleta con chispas de chocolate."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. John Vianney",
+        "type": "Priest, Confessor",
+        "description": "Also known as the Curé of Ars, St. John Vianney is the patron saint of parish priests. He was known for his priestly zeal and tireless work in the confessional, serving as a spiritual guide to countless people in rural France."
+      },
+      {
+        "name": "Seven Holy Youths of Ephesus",
+        "type": "Martyrs",
+        "description": "These seven youths (Maximilian, Iamblicus, Martinian, John, Dionysius, Exacustodianus, and Antoninus) were persecuted during the reign of Emperor Decius in the 3rd century and miraculously fell into a long sleep in a cave."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Chocolate Chip Cookie Day",
+        "description": "This day celebrates the popular and beloved American dessert, the chocolate chip cookie."
+      },
+      {
+        "name": "National Coast Guard Day",
+        "description": "This observance commemorates the founding of the U.S. Coast Guard (originally the Revenue Cutter Service) on August 4, 1790."
+      },
+      {
+        "name": "International Clouded Leopard Day",
+        "description": "This day is dedicated to raising awareness about the clouded leopard, a vulnerable wild cat species, and conservation efforts."
+      }
+    ],
+    "historicalQuote": {
+      "text": "My name is Ozymandias, king of kings: Look on my works, ye mighty, and despair!",
+      "author": "Percy Bysshe Shelley",
+      "context": "English Romantic poet Percy Bysshe Shelley, known for his lyrical and philosophical verse, was born on August 4, 1792. This quote is from his famous sonnet 'Ozymandias'."
+    },
+    "motivationalQuote": {
+      "text": "As a well-spent day brings happy sleep, so a life well-used brings happy death.",
+      "author": "Leonardo da Vinci"
+    },
+    "births": [
+      {
+        "name": "Louis Armstrong",
+        "description": "An iconic American jazz trumpeter, composer, and singer, often referred to as 'Satchmo' or 'Pops', who was one of the most influential figures in jazz.",
+        "year": "1901"
+      },
+      {
+        "name": "Barack Obama",
+        "description": "The 44th President of the United States, who made history as the first African American to hold the office.",
+        "year": "1961"
+      },
+      {
+        "name": "Percy Bysshe Shelley",
+        "description": "A prominent English Romantic poet whose works are among the most recognizable in the English language.",
+        "year": "1792"
+      }
+    ],
+    "events": [
+      {
+        "title": "U.S. Coast Guard Founded",
+        "description": "The United States Coast Guard was established as the Revenue Cutter Service by an act of Congress signed by President George Washington.",
+        "year": "1790"
+      },
+      {
+        "title": "Rodin Museum Opens in Paris",
+        "description": "The Musée Rodin officially opened its doors to the public in Paris, showcasing the works of the acclaimed sculptor Auguste Rodin.",
+        "year": "1919"
+      },
+      {
+        "title": "U.S. Senate Approves Japanese-American Reparations",
+        "description": "The U.S. Senate approved a measure to grant $20,000 in reparations and a formal apology to each Japanese-American interned during World War II.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Chocolate Chip Cookie Day",
+      "teaser": "This day celebrates the popular and beloved American dessert, the chocolate chip cookie."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João Maria Vianney",
+        "type": "Sacerdote, Confessor",
+        "description": "Também conhecido como Cura d'Ars, São João Maria Vianney é o padroeiro dos párocos. Ele era conhecido pelo seu zelo sacerdotal e trabalho incansável no confessionário, servindo como guia espiritual para inúmeras pessoas na França rural."
+      },
+      {
+        "name": "Os Sete Jovens de Éfeso",
+        "type": "Mártires",
+        "description": "Estes sete jovens (Maximiliano, Jâmblico, Martiniano, João, Dionísio, Exacustodiano e Antonino) foram perseguidos durante o reinado do Imperador Décio no século III e milagrosamente caíram num sono profundo numa caverna."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional do Biscoito com Gotas de Chocolate",
+        "description": "Este dia celebra a popular e amada sobremesa americana, o biscoito com gotas de chocolate."
+      },
+      {
+        "name": "Dia Nacional da Guarda Costeira",
+        "description": "Esta observância comemora a fundação da Guarda Costeira dos EUA (originalmente o Serviço de Cutters da Receita) em 4 de agosto de 1790."
+      },
+      {
+        "name": "Dia Internacional do Leopardo-nebuloso",
+        "description": "Este dia é dedicado a aumentar a conscientização sobre o leopardo-nebuloso, uma espécie de felino selvagem vulnerável, e os esforços de conservação."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Meu nome é Ozymandias, rei dos reis: Olhai para minhas obras, ó poderosos, e desesperai!",
+      "author": "Percy Bysshe Shelley",
+      "context": "O poeta romântico inglês Percy Bysshe Shelley, conhecido por seus versos líricos e filosóficos, nasceu em 4 de agosto de 1792. Esta citação é do seu famoso soneto 'Ozymandias'."
+    },
+    "motivationalQuote": {
+      "text": "Assim como um dia bem vivido traz um sono feliz, uma vida bem usada traz uma morte feliz.",
+      "author": "Leonardo da Vinci"
+    },
+    "births": [
+      {
+        "name": "Louis Armstrong",
+        "description": "Um icônico trompetista, compositor e cantor de jazz americano, frequentemente referido como 'Satchmo' ou 'Pops', que foi uma das figuras mais influentes do jazz.",
+        "year": "1901"
+      },
+      {
+        "name": "Barack Obama",
+        "description": "O 44º Presidente dos Estados Unidos, que fez história como o primeiro afro-americano a ocupar o cargo.",
+        "year": "1961"
+      },
+      {
+        "name": "Percy Bysshe Shelley",
+        "description": "Um proeminente poeta romântico inglês cujas obras estão entre as mais reconhecíveis na língua inglesa.",
+        "year": "1792"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação da Guarda Costeira dos EUA",
+        "description": "A Guarda Costeira dos Estados Unidos foi estabelecida como o Serviço de Cutters da Receita por um ato do Congresso assinado pelo Presidente George Washington.",
+        "year": "1790"
+      },
+      {
+        "title": "Museu Rodin Abre em Paris",
+        "description": "O Museu Rodin abriu oficialmente suas portas ao público em Paris, exibindo as obras do aclamado escultor Auguste Rodin.",
+        "year": "1919"
+      },
+      {
+        "title": "Senado dos EUA Aprova Reparações para Nipo-Americanos",
+        "description": "O Senado dos EUA aprovou uma medida para conceder US$ 20.000 em reparações e um pedido formal de desculpas a cada nipo-americano internado durante a Segunda Guerra Mundial.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional do Biscoito com Gotas de Chocolate",
+      "teaser": "Este dia celebra a popular e amada sobremesa americana, o biscoito com gotas de chocolate."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan Vianney",
+        "type": "Sacerdot, Confessor",
+        "description": "També conegut com el Rector d'Ars, Sant Joan Vianney és el patró dels rectors de parròquia. Era conegut pel seu zel sacerdotal i el seu treball incansable al confessionari, servint com a guia espiritual per a innombrables persones a la França rural."
+      },
+      {
+        "name": "Set Joves Sants d'Efes",
+        "type": "Màrtirs",
+        "description": "Aquests set joves (Maximiliano, Iamblico, Martiniano, Joan, Dionisi, Exacustodià i Antoní) van ser perseguits durant el regnat de l'emperador Deci al segle III i, miraculosament, van caure en un llarg son en una cova."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de la Galeta amb Xips de Xocolata",
+        "description": "Aquest dia celebra la popular i estimada postre americana, la galeta amb xips de xocolata."
+      },
+      {
+        "name": "Dia Nacional de la Guàrdia Costanera",
+        "description": "Aquesta commemoració celebra la fundació de la Guàrdia Costanera dels EUA (originalment el Servei de Recaptació de Duanes) el 4 d'agost de 1790."
+      },
+      {
+        "name": "Dia Internacional del Lleopard Nebulós",
+        "description": "Aquest dia es dedica a sensibilitzar sobre el lleopard nebulós, una espècie de gat salvatge vulnerable, i els esforços de conservació."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El meu nom és Ozymandias, rei de reis: Mireu les meves obres, vosaltres, els poderosos, i desespereu!",
+      "author": "Percy Bysshe Shelley",
+      "context": "El poeta romàntic anglès Percy Bysshe Shelley, conegut pel seu vers líric i filosòfic, va néixer el 4 d'agost de 1792. Aquesta cita és del seu famós sonet 'Ozymandias'."
+    },
+    "motivationalQuote": {
+      "text": "Així com un dia ben viscut porta un son feliç, una vida ben utilitzada porta una mort feliç.",
+      "author": "Leonardo da Vinci"
+    },
+    "births": [
+      {
+        "name": "Louis Armstrong",
+        "description": "Un icònic trompetista, compositor i cantant de jazz nord-americà, sovint anomenat 'Satchmo' o 'Pops', que va ser una de les figures més influents del jazz.",
+        "year": "1901"
+      },
+      {
+        "name": "Barack Obama",
+        "description": "El 44è president dels Estats Units, que va fer història en ser el primer afroamericà a ocupar el càrrec.",
+        "year": "1961"
+      },
+      {
+        "name": "Percy Bysshe Shelley",
+        "description": "Un destacat poeta romàntic anglès les obres del qual es troben entre les més reconeixibles de la llengua anglesa.",
+        "year": "1792"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de la Guàrdia Costanera dels EUA",
+        "description": "La Guàrdia Costanera dels Estats Units es va establir com el Servei de Recaptació de Duanes mitjançant una llei del Congrés signada pel president George Washington.",
+        "year": "1790"
+      },
+      {
+        "title": "El Museu Rodin Obre a París",
+        "description": "El Museu Rodin va obrir oficialment les seves portes al públic a París, mostrant les obres de l'aclamat escultor Auguste Rodin.",
+        "year": "1919"
+      },
+      {
+        "title": "El Senat dels EUA Aprova Reparacions per als Japonesos-Americans",
+        "description": "El Senat dels EUA va aprovar una mesura per concedir 20.000 dòlars en reparacions i una disculpa formal a cada japonès-americà internat durant la Segona Guerra Mundial.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional de la Galeta amb Xips de Xocolata",
+      "teaser": "Aquest dia celebra la popular i estimada postre americana, la galeta amb xips de xocolata."
+    }
+  }
+}

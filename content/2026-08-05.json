@@ -1,0 +1,311 @@
+{
+  "date": "2026-08-05",
+  "es": {
+    "saints": [
+      {
+        "name": "San Osvaldo de Northumbria",
+        "type": "Rey y Mártir",
+        "description": "Nacido príncipe, Osvaldo se convirtió en rey de Northumbria y fue fundamental en la difusión del cristianismo en su reino, sirviendo a menudo como intérprete para los misioneros. Fue asesinado en batalla el 5 de agosto de 642, y es venerado por su piedad y caridad."
+      },
+      {
+        "name": "Santa Nonna",
+        "type": "Madre Justa",
+        "description": "Santa Nonna fue la madre de San Gregorio el Teólogo y un modelo de maternidad cristiana. Reposó pacíficamente en oración el 5 de agosto de 374, después de una vida dedicada a Dios y a su familia."
+      },
+      {
+        "name": "San Fabián, Papa de Roma",
+        "type": "Hieromártir y Papa",
+        "description": "San Fabián sirvió como Papa desde el 236 hasta el 250 d.C. Supervisó un período de paz para los cristianos y fue martirizado durante la persecución de Decio el 20 de enero de 250, pero es conmemorado el 5 de agosto en algunas tradiciones junto a San Antero."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Burkina Faso",
+        "description": "El 5 de agosto de 1960, Burkina Faso, entonces conocida como Alto Volta, obtuvo su independencia de Francia, marcando un hito significativo para la nación de África Occidental."
+      },
+      {
+        "name": "Establecimiento de la Cruz Roja Internacional",
+        "description": "La Cruz Roja Internacional fue establecida oficialmente en Ginebra, Suiza, el 5 de agosto de 1863, una organización dedicada a proporcionar ayuda humanitaria y socorro en todo el mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si hay un libro que quieres leer, pero que aún no ha sido escrito, entonces debes escribirlo.",
+      "author": "Toni Morrison",
+      "context": "Toni Morrison, la novelista estadounidense ganadora del Premio Nobel y del Premio Pulitzer, reconocida por su poderosa narrativa, falleció el 5 de agosto de 2019."
+    },
+    "motivationalQuote": {
+      "text": "La mejor manera de encontrarse a uno mismo es perderse en el servicio a los demás.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Neil Armstrong",
+        "description": "Astronauta e ingeniero aeronáutico estadounidense, Neil Armstrong se convirtió en la primera persona en caminar sobre la Luna como comandante de la misión Apolo 11 en 1969.",
+        "year": "1930"
+      },
+      {
+        "name": "David Baldacci",
+        "description": "Un prolífico novelista estadounidense, David Baldacci es conocido por sus exitosas novelas de suspense y thrillers legales, con sus libros traducidos a más de 45 idiomas.",
+        "year": "1960"
+      },
+      {
+        "name": "Shirley Ann Jackson",
+        "description": "Shirley Ann Jackson, una destacada física teórica estadounidense, fue la primera mujer afroamericana en obtener un doctorado del MIT y más tarde se convirtió en presidenta del Instituto Politécnico Rensselaer.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Colocación de la Piedra Angular de la Estatua de la Libertad",
+        "description": "El 5 de agosto de 1884, se colocó la piedra angular de la Estatua de la Libertad en la Isla de Bedloe (ahora Isla de la Libertad) en el puerto de Nueva York, marcando un paso significativo en la construcción del monumento.",
+        "year": "1884"
+      },
+      {
+        "title": "Firma del Tratado de Prohibición Parcial de Ensayos Nucleares",
+        "description": "Estados Unidos, el Reino Unido y la Unión Soviética firmaron el Tratado de Prohibición Parcial de Ensayos Nucleares en Moscú el 5 de agosto de 1963, prohibiendo los ensayos de armas nucleares en la atmósfera, el espacio exterior y bajo el agua.",
+        "year": "1963"
+      },
+      {
+        "title": "El Ejército de EE. UU. Abolió los Azotes",
+        "description": "El Ejército de los Estados Unidos abolió los azotes el 5 de agosto de 1861, una reforma progresista para poner fin al cruel método de castigo.",
+        "year": "1861"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la Independencia de Burkina Faso",
+      "teaser": "El 5 de agosto de 1960, Burkina Faso, entonces conocida como Alto Volta, obtuvo su independencia de Francia, marcando un hito significativo para la nación de África Occidental."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Oswald of Northumbria",
+        "type": "King and Martyr",
+        "description": "Born a prince, Oswald became king of Northumbria and was instrumental in the spread of Christianity in his kingdom, often serving as an interpreter for missionaries. He was killed in battle on August 5, 642, and is venerated for his piety and charity."
+      },
+      {
+        "name": "Saint Nonna",
+        "type": "Righteous Mother",
+        "description": "Saint Nonna was the mother of Saint Gregory the Theologian and a model of Christian motherhood. She reposed peacefully in prayer on August 5, 374, after a life devoted to God and her family."
+      },
+      {
+        "name": "Saint Fabian, Pope of Rome",
+        "type": "Hieromartyr and Pope",
+        "description": "Saint Fabian served as Pope from 236 to 250 AD. He oversaw a period of peace for Christians and was martyred during the Decian persecution on January 20, 250, but is commemorated on August 5 in some traditions alongside Saint Antherus."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Burkina Faso Independence Day",
+        "description": "On August 5, 1960, Burkina Faso, then known as Upper Volta, gained its independence from France, marking a significant milestone for the West African nation."
+      },
+      {
+        "name": "Establishment of the International Red Cross",
+        "description": "The International Red Cross was officially established in Geneva, Switzerland, on August 5, 1863, an organization dedicated to providing humanitarian aid and relief worldwide."
+      }
+    ],
+    "historicalQuote": {
+      "text": "If there is a book that you want to read, but it hasn't been written yet, then you must write it.",
+      "author": "Toni Morrison",
+      "context": "Toni Morrison, the Nobel and Pulitzer Prize-winning American novelist renowned for her powerful storytelling, passed away on August 5, 2019."
+    },
+    "motivationalQuote": {
+      "text": "The best way to find yourself is to lose yourself in the service of others.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Neil Armstrong",
+        "description": "An American astronaut and aeronautical engineer, Neil Armstrong became the first person to walk on the Moon as commander of the Apollo 11 mission in 1969.",
+        "year": "1930"
+      },
+      {
+        "name": "David Baldacci",
+        "description": "A prolific American novelist, David Baldacci is known for his bestselling suspense novels and legal thrillers, with his books translated into over 45 languages.",
+        "year": "1960"
+      },
+      {
+        "name": "Shirley Ann Jackson",
+        "description": "An accomplished American theoretical physicist, Shirley Ann Jackson was the first African-American woman to earn a doctorate from MIT and later became president of Rensselaer Polytechnic Institute.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Cornerstone for the Statue of Liberty Laid",
+        "description": "On August 5, 1884, the cornerstone for the Statue of Liberty was laid on Bedloe's Island (now Liberty Island) in New York Harbor, marking a significant step in the monument's construction.",
+        "year": "1884"
+      },
+      {
+        "title": "Partial Nuclear Test Ban Treaty Signed",
+        "description": "The United States, the United Kingdom, and the Soviet Union signed the Partial Nuclear Test Ban Treaty in Moscow on August 5, 1963, prohibiting nuclear weapons tests in the atmosphere, outer space, and underwater.",
+        "year": "1963"
+      },
+      {
+        "title": "U.S. Army Abolishes Flogging",
+        "description": "The United States Army abolished flogging on August 5, 1861, a progressive reform to end the cruel punishment method.",
+        "year": "1861"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Burkina Faso Independence Day",
+      "teaser": "On August 5, 1960, Burkina Faso, then known as Upper Volta, gained its independence from France, marking a significant milestone for the West African nation."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Osvaldo da Nortúmbria",
+        "type": "Rei e Mártir",
+        "description": "Nascido príncipe, Osvaldo tornou-se rei da Nortúmbria e foi fundamental na disseminação do cristianismo em seu reino, frequentemente servindo como intérprete para missionários. Ele foi morto em batalha em 5 de agosto de 642, e é venerado por sua piedade e caridade."
+      },
+      {
+        "name": "Santa Nonna",
+        "type": "Mãe Justa",
+        "description": "Santa Nonna foi a mãe de São Gregório, o Teólogo, e um modelo de maternidade cristã. Ela repousou pacificamente em oração em 5 de agosto de 374, após uma vida dedicada a Deus e à sua família."
+      },
+      {
+        "name": "São Fabiano, Papa de Roma",
+        "type": "Hieromártir e Papa",
+        "description": "São Fabiano serviu como Papa de 236 a 250 d.C. Ele supervisionou um período de paz para os cristãos e foi martirizado durante a perseguição de Décio em 20 de janeiro de 250, mas é comemorado em 5 de agosto em algumas tradições juntamente com Santo Antero."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência do Burkina Faso",
+        "description": "Em 5 de agosto de 1960, o Burkina Faso, então conhecido como Alto Volta, conquistou sua independência da França, marcando um marco significativo para a nação da África Ocidental."
+      },
+      {
+        "name": "Estabelecimento da Cruz Vermelha Internacional",
+        "description": "A Cruz Vermelha Internacional foi oficialmente estabelecida em Genebra, Suíça, em 5 de agosto de 1863, uma organização dedicada a fornecer ajuda humanitária e socorro em todo o mundo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Se há um livro que você quer ler, mas ainda não foi escrito, então você deve escrevê-lo.",
+      "author": "Toni Morrison",
+      "context": "Toni Morrison, a romancista americana vencedora do Prêmio Nobel e do Prêmio Pulitzer, reconhecida por sua poderosa narrativa, faleceu em 5 de agosto de 2019."
+    },
+    "motivationalQuote": {
+      "text": "A melhor maneira de se encontrar é se perder no serviço aos outros.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Neil Armstrong",
+        "description": "Astronauta e engenheiro aeronáutico americano, Neil Armstrong tornou-se a primeira pessoa a caminhar na Lua como comandante da missão Apollo 11 em 1969.",
+        "year": "1930"
+      },
+      {
+        "name": "David Baldacci",
+        "description": "Um prolífico romancista americano, David Baldacci é conhecido por seus romances de suspense e thrillers jurídicos best-sellers, com seus livros traduzidos para mais de 45 idiomas.",
+        "year": "1960"
+      },
+      {
+        "name": "Shirley Ann Jackson",
+        "description": "Uma física teórica americana talentosa, Shirley Ann Jackson foi a primeira mulher afro-americana a obter um doutorado no MIT e mais tarde se tornou presidente do Rensselaer Polytechnic Institute.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lançamento da Pedra Angular da Estátua da Liberdade",
+        "description": "Em 5 de agosto de 1884, a pedra angular da Estátua da Liberdade foi lançada na Ilha de Bedloe (agora Ilha da Liberdade) no Porto de Nova York, marcando um passo significativo na construção do monumento.",
+        "year": "1884"
+      },
+      {
+        "title": "Tratado de Proibição Parcial de Testes Nucleares Assinado",
+        "description": "Os Estados Unidos, o Reino Unido e a União Soviética assinaram o Tratado de Proibição Parcial de Testes Nucleares em Moscou em 5 de agosto de 1963, proibindo testes de armas nucleares na atmosfera, espaço exterior e debaixo d'água.",
+        "year": "1963"
+      },
+      {
+        "title": "Exército dos EUA Aboliu a Flagelação",
+        "description": "O Exército dos Estados Unidos aboliu a flagelação em 5 de agosto de 1861, uma reforma progressiva para acabar com o cruel método de punição.",
+        "year": "1861"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia da Independência do Burkina Faso",
+      "teaser": "Em 5 de agosto de 1960, o Burkina Faso, então conhecido como Alto Volta, conquistou sua independência da França, marcando um marco significativo para a nação da África Ocidental."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Osvald de Northúmbria",
+        "type": "Rei i Màrtir",
+        "description": "Nascut príncep, Osvald es va convertir en rei de Northúmbria i va ser fonamental en la difusió del cristianisme al seu regne, sovint servint d'intèrpret per als missioners. Va morir en batalla el 5 d'agost de 642 i és venerat per la seva pietat i caritat."
+      },
+      {
+        "name": "Santa Nonna",
+        "type": "Mare Justa",
+        "description": "Santa Nonna va ser la mare de Sant Gregori el Teòleg i un model de maternitat cristiana. Va reposar pacíficament en oració el 5 d'agost de 374, després d'una vida dedicada a Déu i a la seva família."
+      },
+      {
+        "name": "Sant Fabià, Papa de Roma",
+        "type": "Hieromàrtir i Papa",
+        "description": "Sant Fabià va servir com a Papa del 236 al 250 dC. Va supervisar un període de pau per als cristians i va ser martiritzat durant la persecució de Deci el 20 de gener de 250, però és commemorat el 5 d'agost en algunes tradicions juntament amb Sant Anter."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència de Burkina Faso",
+        "description": "El 5 d'agost de 1960, Burkina Faso, llavors coneguda com Alt Volta, va obtenir la seva independència de França, marcant una fita significativa per a la nació de l'Àfrica Occidental."
+      },
+      {
+        "name": "Establiment de la Creu Roja Internacional",
+        "description": "La Creu Roja Internacional es va establir oficialment a Ginebra, Suïssa, el 5 d'agost de 1863, una organització dedicada a proporcionar ajuda humanitària i socors a tot el món."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si hi ha un llibre que vols llegir, però encara no ha estat escrit, llavors l'has d'escriure tu.",
+      "author": "Toni Morrison",
+      "context": "Toni Morrison, la novel·lista nord-americana guanyadora del Premi Nobel i del Pulitzer, coneguda per la seva potent narració, va morir el 5 d'agost de 2019."
+    },
+    "motivationalQuote": {
+      "text": "La millor manera de trobar-te a tu mateix és perdre't al servei dels altres.",
+      "author": "Mahatma Gandhi"
+    },
+    "births": [
+      {
+        "name": "Neil Armstrong",
+        "description": "Astronauta i enginyer aeronàutic nord-americà, Neil Armstrong va ser la primera persona a caminar sobre la Lluna com a comandant de la missió Apollo 11 el 1969.",
+        "year": "1930"
+      },
+      {
+        "name": "David Baldacci",
+        "description": "Un prolífic novel·lista nord-americà, David Baldacci és conegut per les seves novel·les de suspens i thrillers legals supervendes, amb els seus llibres traduïts a més de 45 idiomes.",
+        "year": "1960"
+      },
+      {
+        "name": "Shirley Ann Jackson",
+        "description": "Una destacada física teòrica nord-americana, Shirley Ann Jackson va ser la primera dona afroamericana a obtenir un doctorat del MIT i més tard va esdevenir presidenta de l'Institut Politècnic Rensselaer.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Es posa la primera pedra de l'Estàtua de la Llibertat",
+        "description": "El 5 d'agost de 1884, es va posar la primera pedra de l'Estàtua de la Llibertat a l'illa de Bedloe (ara Liberty Island) al port de Nova York, marcant un pas significatiu en la construcció del monument.",
+        "year": "1884"
+      },
+      {
+        "title": "Se signa el Tractat de Prohibició Parcial d'Assajos Nuclears",
+        "description": "Els Estats Units, el Regne Unit i la Unió Soviètica van signar el Tractat de Prohibició Parcial d'Assajos Nuclears a Moscou el 5 d'agost de 1963, prohibint les proves d'armes nuclears a l'atmosfera, l'espai exterior i sota l'aigua.",
+        "year": "1963"
+      },
+      {
+        "title": "L'Exèrcit dels EUA aboleix la flagel·lació",
+        "description": "L'Exèrcit dels Estats Units va abolir la flagel·lació el 5 d'agost de 1861, una reforma progressista per posar fi al cruel mètode de càstig.",
+        "year": "1861"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de la Independència de Burkina Faso",
+      "teaser": "El 5 d'agost de 1960, Burkina Faso, llavors coneguda com Alt Volta, va obtenir la seva independència de França, marcant una fita significativa per a la nació de l'Àfrica Occidental."
+    }
+  }
+}

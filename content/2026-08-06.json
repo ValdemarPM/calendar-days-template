@@ -1,0 +1,343 @@
+{
+  "date": "2026-08-06",
+  "es": {
+    "saints": [
+      {
+        "name": "La Santa Transfiguración de Nuestro Señor, Dios y Salvador Jesucristo",
+        "type": "Gran Fiesta Mayor",
+        "description": "Esta fiesta es celebrada por varias denominaciones cristianas, incluyendo los cristianos ortodoxos, conmemorando la transfiguración de Jesucristo en el Monte Tabor."
+      },
+      {
+        "name": "Santos Justo y Pastor",
+        "type": "Mártires",
+        "description": "Dos hermanos jóvenes, de trece y nueve años respectivamente, que fueron azotados y decapitados en Alcalá, España, alrededor del año 304 d.C., durante la persecución bajo Diocleciano."
+      },
+      {
+        "name": "Papa San Hormisdas",
+        "type": "Papa y Confesor",
+        "description": "Sirviendo como Papa desde el 514 al 523 d.C., fue fundamental para sanar un cisma de 30 años entre las ramas occidental y oriental de la Iglesia a través de la diplomacia y su 'Fórmula de Hormisdas'."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de Hiroshima / Ceremonia Conmemorativa de la Paz de Hiroshima",
+        "description": "Se observa anualmente para recordar a las víctimas del bombardeo atómico de Hiroshima, Japón, en 1945, y para promover una paz mundial duradera."
+      },
+      {
+        "name": "Día de la Independencia de Bolivia",
+        "description": "Conmemora la declaración de independencia de Bolivia de España el 6 de agosto de 1825."
+      },
+      {
+        "name": "Día de la Independencia de Jamaica",
+        "description": "Celebra la independencia de Jamaica del Reino Unido, lograda el 6 de agosto de 1962."
+      },
+      {
+        "name": "Día Nacional del Flotante de Cerveza de Raíz",
+        "description": "Un día cultural que celebra la clásica bebida americana hecha con cerveza de raíz y helado de vainilla."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Es el trabajador solitario quien realiza el primer avance en un tema; los detalles pueden ser elaborados por un equipo, pero la idea principal se debe a la iniciativa, el pensamiento y la percepción de un individuo.",
+      "author": "Alexander Fleming",
+      "context": "Esta cita proviene de Sir Alexander Fleming, el biólogo escocés y premio Nobel que descubrió la penicilina, y quien nació el 6 de agosto de 1881."
+    },
+    "motivationalQuote": {
+      "text": "Nada es imposible. La palabra misma dice '¡Soy posible!'",
+      "author": "Audrey Hepburn"
+    },
+    "births": [
+      {
+        "name": "Alexander Fleming",
+        "description": "Médico y microbiólogo escocés, es más conocido por su descubrimiento del antibiótico penicilina en 1928, que revolucionó la medicina.",
+        "year": "1881"
+      },
+      {
+        "name": "Lucille Ball",
+        "description": "Icónica actriz, comediante y ejecutiva de estudio estadounidense, ampliamente celebrada por su papel como Lucy Ricardo en la clásica comedia de televisión 'I Love Lucy'.",
+        "year": "1911"
+      },
+      {
+        "name": "Andy Warhol",
+        "description": "Figura destacada del movimiento Pop Art, fue un artista, director de cine y productor estadounidense, conocido por su innovador trabajo que exploraba la relación entre el arte, la celebridad y la publicidad.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lanzamiento Público de la World Wide Web",
+        "description": "El científico informático británico Tim Berners-Lee lanzó públicamente archivos que describían su idea para la World Wide Web, marcando su debut como un servicio disponible públicamente en internet.",
+        "year": "1991"
+      },
+      {
+        "title": "El Rover Curiosity de la NASA Aterriza en Marte",
+        "description": "El rover Curiosity de la NASA aterrizó exitosamente en Marte para comenzar su misión de explorar el Cráter Gale, proporcionando información invaluable sobre la geología y el clima del Planeta Rojo.",
+        "year": "2012"
+      },
+      {
+        "title": "La Ley de Derechos Electorales Firmada como Ley",
+        "description": "El presidente de EE. UU. Lyndon B. Johnson firmó la Ley de Derechos Electorales de 1965, una ley federal histórica que prohíbe la discriminación racial en el voto.",
+        "year": "1965"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de Hiroshima / Ceremonia Conmemorativa de la Paz de Hiroshima",
+      "teaser": "Se observa anualmente para recordar a las víctimas del bombardeo atómico de Hiroshima, Japón, en 1945, y para promover una paz mundial duradera."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "The Holy Transfiguration of Our Lord, God, and Savior Jesus Christ",
+        "type": "Major Feast Day",
+        "description": "This feast is celebrated by various Christian denominations, including Orthodox Christians, commemorating the transfiguration of Jesus Christ on Mount Tabor."
+      },
+      {
+        "name": "Saints Justus and Pastor",
+        "type": "Martyrs",
+        "description": "Two young brothers, aged thirteen and nine respectively, who were scourged and beheaded at Alcalá, Spain, around 304 AD, during the persecution under Diocletian."
+      },
+      {
+        "name": "Pope Saint Hormisdas",
+        "type": "Pope and Confessor",
+        "description": "Serving as Pope from 514 to 523 AD, he was instrumental in healing a 30-year-long schism between the Western and Eastern branches of the Church through diplomacy and his 'Formula of Hormisdas'."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Hiroshima Day / Hiroshima Peace Memorial Ceremony",
+        "description": "Observed annually to remember the victims of the atomic bombing of Hiroshima, Japan, in 1945, and to promote lasting world peace."
+      },
+      {
+        "name": "Bolivia Independence Day",
+        "description": "Commemorates Bolivia's declaration of independence from Spain on August 6, 1825."
+      },
+      {
+        "name": "Jamaica Independence Day",
+        "description": "Celebrates Jamaica's independence from the United Kingdom, achieved on August 6, 1962."
+      },
+      {
+        "name": "National Root Beer Float Day",
+        "description": "A cultural day celebrating the classic American drink made with root beer and vanilla ice cream."
+      }
+    ],
+    "historicalQuote": {
+      "text": "It is the lone worker who makes the first advance in a subject; the details may be worked out by a team, but the prime idea is due to the enterprise, thought, and perception of an individual.",
+      "author": "Alexander Fleming",
+      "context": "This quote comes from Sir Alexander Fleming, the Scottish biologist and Nobel laureate who discovered penicillin, and who was born on August 6, 1881."
+    },
+    "motivationalQuote": {
+      "text": "Nothing is impossible. The word itself says 'I'm possible!'",
+      "author": "Audrey Hepburn"
+    },
+    "births": [
+      {
+        "name": "Alexander Fleming",
+        "description": "A Scottish physician and microbiologist, he is best known for his discovery of the antibiotic penicillin in 1928, which revolutionized medicine.",
+        "year": "1881"
+      },
+      {
+        "name": "Lucille Ball",
+        "description": "An iconic American actress, comedian, and studio executive, widely celebrated for her role as Lucy Ricardo in the classic television sitcom 'I Love Lucy'.",
+        "year": "1911"
+      },
+      {
+        "name": "Andy Warhol",
+        "description": "A leading figure in the Pop Art movement, he was an American artist, film director, and producer, known for his groundbreaking work that explored the relationship between art, celebrity, and advertising.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "World Wide Web Public Release",
+        "description": "British computer scientist Tim Berners-Lee publicly released files describing his idea for the World Wide Web, marking its debut as a publicly available service on the internet.",
+        "year": "1991"
+      },
+      {
+        "title": "NASA's Curiosity Rover Lands on Mars",
+        "description": "The NASA Curiosity rover successfully landed on Mars to begin its mission of exploring Gale Crater, providing invaluable insights into the Red Planet's geology and climate.",
+        "year": "2012"
+      },
+      {
+        "title": "The Voting Rights Act Signed into Law",
+        "description": "U.S. President Lyndon B. Johnson signed the Voting Rights Act of 1965, a landmark federal law that prohibits racial discrimination in voting.",
+        "year": "1965"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Hiroshima Day / Hiroshima Peace Memorial Ceremony",
+      "teaser": "Observed annually to remember the victims of the atomic bombing of Hiroshima, Japan, in 1945, and to promote lasting world peace."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "A Santa Transfiguração de Nosso Senhor, Deus e Salvador Jesus Cristo",
+        "type": "Grande Festa",
+        "description": "Esta festa é celebrada por várias denominações cristãs, incluindo os cristãos ortodoxos, comemorando a transfiguração de Jesus Cristo no Monte Tabor."
+      },
+      {
+        "name": "Santos Justo e Pastor",
+        "type": "Mártires",
+        "description": "Dois jovens irmãos, de treze e nove anos, respetivamente, que foram açoitados e decapitados em Alcalá, Espanha, por volta de 304 d.C., durante a perseguição sob Diocleciano."
+      },
+      {
+        "name": "Papa São Hormisdas",
+        "type": "Papa e Confessor",
+        "description": "Servindo como Papa de 514 a 523 d.C., ele foi fundamental para curar um cisma de 30 anos entre os ramos ocidental e oriental da Igreja através da diplomacia e da sua 'Fórmula de Hormisdas'."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de Hiroshima / Cerimônia Memorial da Paz de Hiroshima",
+        "description": "Observado anualmente para lembrar as vítimas do bombardeamento atômico de Hiroshima, Japão, em 1945, e para promover a paz mundial duradoura."
+      },
+      {
+        "name": "Dia da Independência da Bolívia",
+        "description": "Comemora a declaração de independência da Bolívia da Espanha em 6 de agosto de 1825."
+      },
+      {
+        "name": "Dia da Independência da Jamaica",
+        "description": "Celebra a independência da Jamaica do Reino Unido, alcançada em 6 de agosto de 1962."
+      },
+      {
+        "name": "Dia Nacional do Root Beer Float",
+        "description": "Um dia cultural que celebra a clássica bebida americana feita com root beer e sorvete de baunilha."
+      }
+    ],
+    "historicalQuote": {
+      "text": "É o trabalhador solitário quem faz o primeiro avanço em um assunto; os detalhes podem ser elaborados por uma equipe, mas a ideia principal se deve à iniciativa, ao pensamento e à percepção de um indivíduo.",
+      "author": "Alexander Fleming",
+      "context": "Esta citação vem de Sir Alexander Fleming, o biólogo escocês e prêmio Nobel que descobriu a penicilina, e que nasceu em 6 de agosto de 1881."
+    },
+    "motivationalQuote": {
+      "text": "Nada é impossível. A própria palavra diz 'Eu sou possível!'",
+      "author": "Audrey Hepburn"
+    },
+    "births": [
+      {
+        "name": "Alexander Fleming",
+        "description": "Médico e microbiologista escocês, é mais conhecido pela sua descoberta do antibiótico penicilina em 1928, que revolucionou a medicina.",
+        "year": "1881"
+      },
+      {
+        "name": "Lucille Ball",
+        "description": "Icônica atriz, comediante e executiva de estúdio americana, amplamente celebrada por seu papel como Lucy Ricardo na clássica sitcom de televisão 'I Love Lucy'.",
+        "year": "1911"
+      },
+      {
+        "name": "Andy Warhol",
+        "description": "Uma figura proeminente no movimento Pop Art, foi um artista, diretor de cinema e produtor americano, conhecido pelo seu trabalho inovador que explorou a relação entre arte, celebridade e publicidade.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lançamento Público da World Wide Web",
+        "description": "O cientista da computação britânico Tim Berners-Lee lançou publicamente arquivos descrevendo sua ideia para a World Wide Web, marcando sua estreia como um serviço publicamente disponível na internet.",
+        "year": "1991"
+      },
+      {
+        "title": "O Rover Curiosity da NASA Pousa em Marte",
+        "description": "O rover Curiosity da NASA pousou com sucesso em Marte para iniciar sua missão de explorar a Cratera Gale, fornecendo informações inestimáveis sobre a geologia e o clima do Planeta Vermelho.",
+        "year": "2012"
+      },
+      {
+        "title": "A Lei de Direitos Eleitorais Sancionada",
+        "description": "O presidente dos EUA Lyndon B. Johnson sancionou a Lei de Direitos Eleitorais de 1965, uma lei federal histórica que proíbe a discriminação racial na votação.",
+        "year": "1965"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia de Hiroshima / Cerimônia Memorial da Paz de Hiroshima",
+      "teaser": "Observado anualmente para lembrar as vítimas do bombardeamento atômico de Hiroshima, Japão, em 1945, e para promover a paz mundial duradoura."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "La Santa Transfiguració de Nostre Senyor, Déu i Salvador Jesucrist",
+        "type": "Festa Major",
+        "description": "Aquesta festa és celebrada per diverses denominacions cristianes, inclosos els cristians ortodoxos, commemorant la transfiguració de Jesucrist al Mont Tabor."
+      },
+      {
+        "name": "Sants Just i Pastor",
+        "type": "Màrtirs",
+        "description": "Dos joves germans, de tretze i nou anys respectivament, que van ser assotats i decapitats a Alcalá, Espanya, al voltant de l'any 304 d.C., durant la persecució sota Dioclecià."
+      },
+      {
+        "name": "Papa Sant Hormisdes",
+        "type": "Papa i Confessor",
+        "description": "Va servir com a Papa del 514 al 523 d.C., va ser fonamental per a la curació d'un cisma de 30 anys entre les branques occidental i oriental de l'Església a través de la diplomàcia i la seva 'Fórmula d'Hormisdes'."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia d'Hiroshima / Cerimònia Commemorativa de la Pau d'Hiroshima",
+        "description": "Se celebra anualment per recordar les víctimes del bombardeig atòmic d'Hiroshima, Japó, el 1945, i per promoure una pau mundial duradora."
+      },
+      {
+        "name": "Dia de la Independència de Bolívia",
+        "description": "Commemora la declaració d'independència de Bolívia respecte a Espanya el 6 d'agost de 1825."
+      },
+      {
+        "name": "Dia de la Independència de Jamaica",
+        "description": "Celebra la independència de Jamaica del Regne Unit, aconseguida el 6 d'agost de 1962."
+      },
+      {
+        "name": "Dia Nacional del Root Beer Float",
+        "description": "Un dia cultural que celebra la clàssica beguda americana feta amb root beer i gelat de vainilla."
+      }
+    ],
+    "historicalQuote": {
+      "text": "És el treballador solitari qui fa el primer avenç en un tema; els detalls poden ser elaborats per un equip, però la idea principal es deu a l'empresa, el pensament i la percepció d'un individu.",
+      "author": "Alexander Fleming",
+      "context": "Aquesta cita prové de Sir Alexander Fleming, el biòleg escocès i premi Nobel que va descobrir la penicil·lina, i que va néixer el 6 d'agost de 1881."
+    },
+    "motivationalQuote": {
+      "text": "Res és impossible. La mateixa paraula diu 'Jo sóc possible!'",
+      "author": "Audrey Hepburn"
+    },
+    "births": [
+      {
+        "name": "Alexander Fleming",
+        "description": "Metge i microbiòleg escocès, és més conegut pel seu descobriment de l'antibiòtic penicil·lina el 1928, que va revolucionar la medicina.",
+        "year": "1881"
+      },
+      {
+        "name": "Lucille Ball",
+        "description": "Actriu, comediant i executiva d'estudi nord-americana icònica, àmpliament celebrada pel seu paper de Lucy Ricardo a la clàssica sitcom televisiva 'I Love Lucy'.",
+        "year": "1911"
+      },
+      {
+        "name": "Andy Warhol",
+        "description": "Figura destacada del moviment Pop Art, va ser un artista, director de cinema i productor nord-americà, conegut per la seva obra innovadora que explorava la relació entre l'art, la celebritat i la publicitat.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "Llançament Públic de la World Wide Web",
+        "description": "El científic informàtic britànic Tim Berners-Lee va publicar fitxers que descrivien la seva idea per a la World Wide Web, marcant el seu debut com a servei públicament disponible a Internet.",
+        "year": "1991"
+      },
+      {
+        "title": "El Rover Curiosity de la NASA Aterra a Mart",
+        "description": "El rover Curiosity de la NASA va aterrar amb èxit a Mart per començar la seva missió d'exploració del Cràter Gale, proporcionant informació inestimable sobre la geologia i el clima del Planeta Roig.",
+        "year": "2012"
+      },
+      {
+        "title": "La Llei de Dret al Vot és Promulgada",
+        "description": "El president dels Estats Units, Lyndon B. Johnson, va signar la Llei de Dret al Vot de 1965, una llei federal històrica que prohibeix la discriminació racial en el vot.",
+        "year": "1965"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia d'Hiroshima / Cerimònia Commemorativa de la Pau d'Hiroshima",
+      "teaser": "Se celebra anualment per recordar les víctimes del bombardeig atòmic d'Hiroshima, Japó, el 1945, i per promoure una pau mundial duradora."
+    }
+  }
+}

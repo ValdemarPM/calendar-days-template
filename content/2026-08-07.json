@@ -1,0 +1,307 @@
+{
+  "date": "2026-08-07",
+  "es": {
+    "saints": [
+      {
+        "name": "San Cayetano",
+        "type": "Sacerdote",
+        "description": "Nacido en una familia noble, dedicó su vida a servir a los enfermos y a los pobres, y fundó los Clérigos Regulares (Teatinos) para inspirar la renovación entre el clero."
+      },
+      {
+        "name": "Mártir Dometio de Persia",
+        "type": "Monje y Mártir",
+        "description": "Convertido al cristianismo en su juventud, se hizo monje y más tarde sufrió el martirio al ser apedreado hasta la muerte por su fe en el año 363 d.C."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Cerveza",
+        "description": "Celebrado el primer viernes de agosto, esta observancia global es un día para apreciar la cerveza."
+      },
+      {
+        "name": "Día Nacional del Faro (Estados Unidos)",
+        "description": "Este día conmemora el establecimiento de la U.S. Lighthouse Establishment el 7 de agosto de 1789."
+      },
+      {
+        "name": "Día de la Batalla de Boyacá (Colombia)",
+        "description": "Colombia celebra esta fiesta nacional que conmemora la decisiva batalla de 1819 que aseguró su independencia de España."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La mariposa no cuenta meses, sino momentos, y tiene tiempo suficiente.",
+      "author": "Rabindranath Tagore",
+      "context": "Rabindranath Tagore, un reverenciado autor, poeta y premio Nobel indio, falleció el 7 de agosto de 1941."
+    },
+    "motivationalQuote": {
+      "text": "El éxito no es definitivo; el fracaso no es fatal: Lo que cuenta es el coraje de continuar.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Nathanael Greene",
+        "description": "Un general estadounidense de la Guerra de Independencia, conocido por su exitoso mando en la Campaña del Sur.",
+        "year": "1742"
+      },
+      {
+        "name": "Charlize Theron",
+        "description": "Una actriz y productora sudafricana y estadounidense, ganadora de un Premio de la Academia conocida por sus papeles versátiles.",
+        "year": "1975"
+      },
+      {
+        "name": "Jimmy Wales",
+        "description": "Un empresario de internet estadounidense, más conocido como cofundador de la enciclopedia en línea Wikipedia.",
+        "year": "1966"
+      }
+    ],
+    "events": [
+      {
+        "title": "Creación de la Insignia del Mérito Militar",
+        "description": "El general George Washington estableció la Insignia del Mérito Militar, que más tarde sería renombrada como Corazón Púrpura, para honrar a los soldados heridos en batalla.",
+        "year": "1782"
+      },
+      {
+        "title": "Primer Viaje Transcontinental en Automóvil Realizado por Mujeres",
+        "description": "Alice Huyler Ramsey y tres compañeras completaron el primer viaje transcontinental en automóvil realizado por mujeres, conduciendo de Nueva York a San Francisco en 59 días.",
+        "year": "1909"
+      },
+      {
+        "title": "Primera Fotografía de la Tierra desde el Espacio",
+        "description": "El satélite estadounidense Explorer 6, lanzado como parte del programa Explorer, transmitió la primera fotografía de la Tierra desde el espacio.",
+        "year": "1959"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Cerveza",
+      "teaser": "Celebrado el primer viernes de agosto, esta observancia global es un día para apreciar la cerveza."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Cajetan",
+        "type": "Priest",
+        "description": "Born into a noble family, he devoted his life to serving the sick and the poor, and founded the Clerks Regular (Theatines) to inspire renewal among the clergy."
+      },
+      {
+        "name": "Martyr Dometius of Persia",
+        "type": "Monk and Martyr",
+        "description": "Converted to Christianity in his youth, he became a monk and later suffered martyrdom by being stoned to death for his faith in 363 AD."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Beer Day",
+        "description": "Celebrated on the first Friday in August, this global observance is a day to appreciate beer."
+      },
+      {
+        "name": "National Lighthouse Day (United States)",
+        "description": "This day commemorates the establishment of the U.S. Lighthouse Establishment on August 7, 1789."
+      },
+      {
+        "name": "Battle of Boyacá Day (Colombia)",
+        "description": "Colombia celebrates this national holiday marking the decisive battle in 1819 that secured its independence from Spain."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The butterfly counts not months but moments, and has time enough.",
+      "author": "Rabindranath Tagore",
+      "context": "Rabindranath Tagore, a revered Indian author, poet, and Nobel laureate, passed away on August 7, 1941."
+    },
+    "motivationalQuote": {
+      "text": "Success is not final; failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Nathanael Greene",
+        "description": "An American Revolutionary War general, known for his successful command in the Southern Campaign.",
+        "year": "1742"
+      },
+      {
+        "name": "Charlize Theron",
+        "description": "A South African and American actress and producer, an Academy Award winner known for her versatile roles.",
+        "year": "1975"
+      },
+      {
+        "name": "Jimmy Wales",
+        "description": "An American internet entrepreneur, best known as the co-founder of the online encyclopedia Wikipedia.",
+        "year": "1966"
+      }
+    ],
+    "events": [
+      {
+        "title": "Creation of the Badge of Military Merit",
+        "description": "General George Washington established the Badge of Military Merit, which would later be renamed the Purple Heart, to honor soldiers wounded in battle.",
+        "year": "1782"
+      },
+      {
+        "title": "First Transcontinental Automobile Trip by Women",
+        "description": "Alice Huyler Ramsey and three female companions completed the first transcontinental automobile trip by women, driving from New York to San Francisco in 59 days.",
+        "year": "1909"
+      },
+      {
+        "title": "First Photograph of Earth from Space",
+        "description": "The U.S. satellite Explorer 6, launched as part of the Explorer program, transmitted the first photograph of Earth from space.",
+        "year": "1959"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Beer Day",
+      "teaser": "Celebrated on the first Friday in August, this global observance is a day to appreciate beer."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Caetano",
+        "type": "Sacerdote",
+        "description": "Nascido em uma família nobre, ele dedicou sua vida a servir os doentes e os pobres, e fundou os Clérigos Regulares (Teatinos) para inspirar a renovação entre o clero."
+      },
+      {
+        "name": "Mártir Domécio da Pérsia",
+        "type": "Monge e Mártir",
+        "description": "Convertido ao cristianismo na juventude, tornou-se monge e mais tarde sofreu o martírio ao ser apedrejado até a morte por sua fé em 363 d.C."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Cerveja",
+        "description": "Celebrado na primeira sexta-feira de agosto, esta observância global é um dia para apreciar a cerveja."
+      },
+      {
+        "name": "Dia Nacional do Farol (Estados Unidos)",
+        "description": "Este dia comemora o estabelecimento da U.S. Lighthouse Establishment em 7 de agosto de 1789."
+      },
+      {
+        "name": "Dia da Batalha de Boyacá (Colômbia)",
+        "description": "A Colômbia celebra este feriado nacional que marca a batalha decisiva em 1819 que garantiu sua independência da Espanha."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A borboleta não conta meses, mas momentos, e tem tempo suficiente.",
+      "author": "Rabindranath Tagore",
+      "context": "Rabindranath Tagore, um reverenciado autor, poeta e laureado com o Nobel indiano, faleceu em 7 de agosto de 1941."
+    },
+    "motivationalQuote": {
+      "text": "O sucesso não é final; o fracasso não é fatal: É a coragem de continuar que conta.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Nathanael Greene",
+        "description": "Um general americano da Guerra Revolucionária, conhecido por seu comando bem-sucedido na Campanha do Sul.",
+        "year": "1742"
+      },
+      {
+        "name": "Charlize Theron",
+        "description": "Uma atriz e produtora sul-africana e americana, vencedora do Oscar conhecida por seus papéis versáteis.",
+        "year": "1975"
+      },
+      {
+        "name": "Jimmy Wales",
+        "description": "Um empresário de internet americano, mais conhecido como cofundador da enciclopédia online Wikipedia.",
+        "year": "1966"
+      }
+    ],
+    "events": [
+      {
+        "title": "Criação da Insígnia de Mérito Militar",
+        "description": "O General George Washington estabeleceu a Insígnia de Mérito Militar, que mais tarde seria renomeada para Coração Púrpura, para homenagear soldados feridos em batalha.",
+        "year": "1782"
+      },
+      {
+        "title": "Primeira Viagem Automobilística Transcontinental por Mulheres",
+        "description": "Alice Huyler Ramsey e três companheiras completaram a primeira viagem automobilística transcontinental por mulheres, dirigindo de Nova York a São Francisco em 59 dias.",
+        "year": "1909"
+      },
+      {
+        "title": "Primeira Fotografia da Terra do Espaço",
+        "description": "O satélite americano Explorer 6, lançado como parte do programa Explorer, transmitiu a primeira fotografia da Terra do espaço.",
+        "year": "1959"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Cerveja",
+      "teaser": "Celebrado na primeira sexta-feira de agosto, esta observância global é um dia para apreciar a cerveja."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Gaietà",
+        "type": "Sacerdot",
+        "description": "Nascut en una família noble, va dedicar la seva vida a servir els malalts i els pobres, i va fundar els Clergues Regulars (Teatins) per inspirar la renovació entre el clergat."
+      },
+      {
+        "name": "Màrtir Dometi de Pèrsia",
+        "type": "Monjo i Màrtir",
+        "description": "Convertit al cristianisme en la seva joventut, es va fer monjo i més tard va patir el martiri sent lapidat per la seva fe l'any 363 dC."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Cervesa",
+        "description": "Celebrat el primer divendres d'agost, aquesta commemoració global és un dia per apreciar la cervesa."
+      },
+      {
+        "name": "Dia Nacional del Far (Estats Units)",
+        "description": "Aquest dia commemora l'establiment de l'Establiment de Fars dels EUA el 7 d'agost de 1789."
+      },
+      {
+        "name": "Dia de la Batalla de Boyacá (Colòmbia)",
+        "description": "Colòmbia celebra aquesta festa nacional que commemora la batalla decisiva de 1819 que va assegurar la seva independència d'Espanya."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La papallona no compta mesos sinó moments, i té temps suficient.",
+      "author": "Rabindranath Tagore",
+      "context": "Rabindranath Tagore, un autor, poeta i premi Nobel indi venerat, va morir el 7 d'agost de 1941."
+    },
+    "motivationalQuote": {
+      "text": "L'èxit no és definitiu; el fracàs no és fatal: és el coratge de continuar el que compta.",
+      "author": "Winston Churchill"
+    },
+    "births": [
+      {
+        "name": "Nathanael Greene",
+        "description": "General americà de la Guerra de la Independència, conegut pel seu exitós comandament a la Campanya del Sud.",
+        "year": "1742"
+      },
+      {
+        "name": "Charlize Theron",
+        "description": "Actriu i productora sud-africana i americana, guanyadora d'un Oscar, coneguda pels seus papers versàtils.",
+        "year": "1975"
+      },
+      {
+        "name": "Jimmy Wales",
+        "description": "Empresari d'internet americà, més conegut com a cofundador de l'enciclopèdia en línia Viquipèdia.",
+        "year": "1966"
+      }
+    ],
+    "events": [
+      {
+        "title": "Creació de la Insígnia del Mèrit Militar",
+        "description": "El general George Washington va establir la Insígnia del Mèrit Militar, que més tard seria rebatejada com a Cor Porpra, per honorar els soldats ferits en batalla.",
+        "year": "1782"
+      },
+      {
+        "title": "Primer Viatge Transcontinental en Automòbil fet per Dones",
+        "description": "Alice Huyler Ramsey i tres companyes van completar el primer viatge transcontinental en automòbil fet per dones, conduint de Nova York a San Francisco en 59 dies.",
+        "year": "1909"
+      },
+      {
+        "title": "Primera Fotografia de la Terra des de l'Espai",
+        "description": "El satèl·lit nord-americà Explorer 6, llançat com a part del programa Explorer, va transmetre la primera fotografia de la Terra des de l'espai.",
+        "year": "1959"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de la Cervesa",
+      "teaser": "Celebrat el primer divendres d'agost, aquesta commemoració global és un dia per apreciar la cervesa."
+    }
+  }
+}

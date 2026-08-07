@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-08",
+  "es": {
+    "saints": [
+      {
+        "name": "Santo Domingo",
+        "type": "Sacerdote",
+        "description": "Santo Domingo de Guzmán fundó la Orden de Predicadores, también conocidos como Dominicos, y se le asocia con el Rosario. Fue una figura importante en la defensa de la fe contra el albigensianismo."
+      },
+      {
+        "name": "Santa María MacKillop",
+        "type": "Monja",
+        "description": "Santa María MacKillop fue la primera santa de Australia, cofundadora de las Hermanas de San José del Sagrado Corazón, dedicadas a ayudar a los pobres y a establecer escuelas católicas."
+      },
+      {
+        "name": "San Mirón el Taumaturgo",
+        "type": "Obispo de Creta",
+        "description": "San Mirón era conocido por su notable bondad y generosidad, sirviendo como agricultor y padre de familia antes de convertirse en Obispo de Creta."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Gato",
+        "description": "Este día celebra a los gatos en todo el mundo y tiene como objetivo concienciar sobre su bienestar y el problema de la superpoblación de gatos callejeros."
+      },
+      {
+        "name": "Día de la Felicidad",
+        "description": "Establecido por la Sociedad Secreta de Personas Felices, este día anima a las personas a reconocer y celebrar los momentos de alegría sin dudarlo."
+      },
+      {
+        "name": "Día Internacional del Infinito",
+        "description": "Esta celebración conmemora las posibilidades ilimitadas de la mente, promoviendo el pensamiento libre a través del arte, la ciencia y la filosofía."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Parece que si uno trabaja desde el punto de vista de obtener belleza en sus ecuaciones, y si realmente tiene una perspicacia sólida, está en una línea segura de progreso.",
+      "author": "Paul Dirac",
+      "context": "Paul Dirac, un físico teórico británico pionero y laureado con el Premio Nobel, nació el 8 de agosto de 1902."
+    },
+    "motivationalQuote": {
+      "text": "El futuro pertenece a aquellos que creen en la belleza de sus sueños.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Paul Dirac",
+        "description": "Un físico teórico británico, fundador de la mecánica cuántica y la electrodinámica cuántica, galardonado con el Premio Nobel de Física.",
+        "year": "1902"
+      },
+      {
+        "name": "Dustin Hoffman",
+        "description": "Un aclamado actor estadounidense conocido por sus actuaciones versátiles y transformadoras en una amplia gama de películas.",
+        "year": "1937"
+      },
+      {
+        "name": "Roger Federer",
+        "description": "Un célebre tenista suizo, ampliamente considerado como uno de los mejores atletas en la historia del tenis.",
+        "year": "1981"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Vuelo Público de Wilbur Wright",
+        "description": "Wilbur Wright realizó el primer vuelo público de los Hermanos Wright en Le Mans, Francia, demostrando las capacidades prácticas del vuelo controlado.",
+        "year": "1908"
+      },
+      {
+        "title": "Fundación de la ASEAN",
+        "description": "La Asociación de Naciones del Sudeste Asiático (ASEAN) fue establecida, fomentando la cooperación y promoviendo la paz y la estabilidad entre sus estados miembros.",
+        "year": "1967"
+      },
+      {
+        "title": "Firma de la Carta de Londres",
+        "description": "Francia, el Reino Unido, la Unión Soviética y los Estados Unidos firmaron la Carta de Londres, que estableció el marco legal para los juicios de Núremberg.",
+        "year": "1945"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional del Gato",
+      "teaser": "Este día celebra a los gatos en todo el mundo y tiene como objetivo concienciar sobre su bienestar y el problema de la superpoblación de gatos callejeros."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Dominic",
+        "type": "Priest",
+        "description": "St. Dominic Guzmán founded the Order of Preachers, also known as Dominicans, and is associated with the Rosary. He was a significant figure in defending the faith against Albigensianism."
+      },
+      {
+        "name": "St. Mary MacKillop",
+        "type": "Nun",
+        "description": "St. Mary MacKillop was Australia's first saint, co-founding the Sisters of St. Joseph of the Sacred Heart, dedicated to helping the poor and establishing Catholic schools."
+      },
+      {
+        "name": "Saint Myron the Wonderworker",
+        "type": "Bishop of Crete",
+        "description": "Saint Myron was known for his remarkable goodness and generosity, serving as a farmer and family man before becoming the Bishop of Crete."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Cat Day",
+        "description": "This day celebrates cats worldwide and aims to raise awareness for their welfare and the issue of feral cat overpopulation."
+      },
+      {
+        "name": "Happiness Happens Day",
+        "description": "Established by the Secret Society of Happy People, this day encourages individuals to acknowledge and celebrate moments of joy without hesitation."
+      },
+      {
+        "name": "International Infinity Day",
+        "description": "This observance celebrates the boundless possibilities of the mind, promoting free-thinking through art, science, and philosophy."
+      }
+    ],
+    "historicalQuote": {
+      "text": "It seems that if one is working from the point of view of getting beauty in one's equations, and if one has really a sound insight, one is on a sure line of progress.",
+      "author": "Paul Dirac",
+      "context": "Paul Dirac, a pioneering British theoretical physicist and Nobel Prize laureate, was born on August 8, 1902."
+    },
+    "motivationalQuote": {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Paul Dirac",
+        "description": "A British theoretical physicist who was a founder of quantum mechanics and quantum electrodynamics, receiving the Nobel Prize in Physics.",
+        "year": "1902"
+      },
+      {
+        "name": "Dustin Hoffman",
+        "description": "An acclaimed American actor known for his versatile and transformative performances in a wide range of films.",
+        "year": "1937"
+      },
+      {
+        "name": "Roger Federer",
+        "description": "A celebrated Swiss tennis player, widely regarded as one of the greatest athletes in the history of tennis.",
+        "year": "1981"
+      }
+    ],
+    "events": [
+      {
+        "title": "Wilbur Wright's First Public Flight",
+        "description": "Wilbur Wright made the Wright Brothers' first public flight in Le Mans, France, demonstrating the practical capabilities of controlled flight.",
+        "year": "1908"
+      },
+      {
+        "title": "ASEAN Founded",
+        "description": "The Association of Southeast Asian Nations (ASEAN) was established, fostering cooperation and promoting peace and stability among its member states.",
+        "year": "1967"
+      },
+      {
+        "title": "London Charter Signed",
+        "description": "France, the United Kingdom, the Soviet Union, and the United States signed the London Charter, which established the legal framework for the Nuremberg trials.",
+        "year": "1945"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Cat Day",
+      "teaser": "This day celebrates cats worldwide and aims to raise awareness for their welfare and the issue of feral cat overpopulation."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Domingos",
+        "type": "Sacerdote",
+        "description": "São Domingos de Gusmão fundou a Ordem dos Pregadores, também conhecidos como Dominicanos, e é associado ao Rosário. Foi uma figura significativa na defesa da fé contra o albigensianismo."
+      },
+      {
+        "name": "Santa Maria MacKillop",
+        "type": "Freira",
+        "description": "Santa Maria MacKillop foi a primeira santa da Austrália, cofundadora das Irmãs de São José do Sagrado Coração, dedicadas a ajudar os pobres e a estabelecer escolas católicas."
+      },
+      {
+        "name": "São Myron, o Taumaturgo",
+        "type": "Bispo de Creta",
+        "description": "São Myron era conhecido por sua notável bondade e generosidade, servindo como agricultor e pai de família antes de se tornar Bispo de Creta."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional do Gato",
+        "description": "Este dia celebra os gatos em todo o mundo e visa aumentar a conscientização sobre o seu bem-estar e a questão da superpopulação de gatos selvagens."
+      },
+      {
+        "name": "Dia da Felicidade Acontece",
+        "description": "Estabelecido pela Sociedade Secreta das Pessoas Felizes, este dia incentiva os indivíduos a reconhecer e celebrar momentos de alegria sem hesitação."
+      },
+      {
+        "name": "Dia Internacional do Infinito",
+        "description": "Esta celebração comemora as possibilidades ilimitadas da mente, promovendo o pensamento livre através da arte, da ciência e da filosofia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Parece que se alguém trabalha do ponto de vista de obter beleza em suas equações, e se tem realmente uma visão sólida, está em uma linha segura de progresso.",
+      "author": "Paul Dirac",
+      "context": "Paul Dirac, um físico teórico britânico pioneiro e laureado com o Prêmio Nobel, nasceu em 8 de agosto de 1902."
+    },
+    "motivationalQuote": {
+      "text": "O futuro pertence àqueles que acreditam na beleza de seus sonhos.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Paul Dirac",
+        "description": "Um físico teórico britânico que foi um dos fundadores da mecânica quântica e da eletrodinâmica quântica, recebendo o Prêmio Nobel de Física.",
+        "year": "1902"
+      },
+      {
+        "name": "Dustin Hoffman",
+        "description": "Um aclamado ator americano conhecido por suas atuações versáteis e transformadoras em uma ampla gama de filmes.",
+        "year": "1937"
+      },
+      {
+        "name": "Roger Federer",
+        "description": "Um célebre tenista suíço, amplamente considerado um dos maiores atletas da história do tênis.",
+        "year": "1981"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro Voo Público de Wilbur Wright",
+        "description": "Wilbur Wright realizou o primeiro voo público dos Irmãos Wright em Le Mans, França, demonstrando as capacidades práticas do voo controlado.",
+        "year": "1908"
+      },
+      {
+        "title": "ASEAN Fundada",
+        "description": "A Associação de Nações do Sudeste Asiático (ASEAN) foi estabelecida, fomentando a cooperação e promovendo a paz e a estabilidade entre os seus estados membros.",
+        "year": "1967"
+      },
+      {
+        "title": "Carta de Londres Assinada",
+        "description": "França, o Reino Unido, a União Soviética e os Estados Unidos assinaram a Carta de Londres, que estabeleceu o quadro legal para os julgamentos de Nuremberg.",
+        "year": "1945"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional do Gato",
+      "teaser": "Este dia celebra os gatos em todo o mundo e visa aumentar a conscientização sobre o seu bem-estar e a questão da superpopulação de gatos selvagens."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Domènec",
+        "type": "Prevere",
+        "description": "Sant Domènec de Guzmán va fundar l'Orde de Predicadors, també coneguda com a dominicans, i se l'associa amb el Rosari. Va ser una figura important en la defensa de la fe contra l'albigensianisme."
+      },
+      {
+        "name": "Santa Maria MacKillop",
+        "type": "Religiosa",
+        "description": "Santa Maria MacKillop va ser la primera santa d'Austràlia, cofundadora de les Germanes de Sant Josep del Sagrat Cor, dedicades a ajudar els pobres i a establir escoles catòliques."
+      },
+      {
+        "name": "Sant Miró el Taumaturg",
+        "type": "Bisbe de Creta",
+        "description": "Sant Miró era conegut per la seva notable bondat i generositat, havent servit com a pagès i home de família abans de convertir-se en Bisbe de Creta."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional del Gat",
+        "description": "Aquest dia celebra els gats arreu del món i té com a objectiu conscienciar sobre el seu benestar i el problema de la superpoblació de gats ferals."
+      },
+      {
+        "name": "Dia de la Felicitat que Passa",
+        "description": "Establert per la Societat Secreta de la Gent Feliç, aquest dia anima les persones a reconèixer i celebrar moments d'alegria sense dubtar-ho."
+      },
+      {
+        "name": "Dia Internacional de l'Infinit",
+        "description": "Aquesta commemoració celebra les infinites possibilitats de la ment, promovent el lliure pensament a través de l'art, la ciència i la filosofia."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Sembla que si un treballa des del punt de vista d'obtenir bellesa en les seves equacions, i si té realment una bona intuïció, un es troba en una línia segura de progrés.",
+      "author": "Paul Dirac",
+      "context": "Paul Dirac, un físic teòric britànic pioner i premi Nobel, va néixer el 8 d'agost de 1902."
+    },
+    "motivationalQuote": {
+      "text": "El futur pertany a aquells que creuen en la bellesa dels seus somnis.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Paul Dirac",
+        "description": "Un físic teòric britànic que va ser fundador de la mecànica quàntica i l'electrodinàmica quàntica, rebent el Premi Nobel de Física.",
+        "year": "1902"
+      },
+      {
+        "name": "Dustin Hoffman",
+        "description": "Un aclamat actor americà conegut per les seves interpretacions versàtils i transformadores en una àmplia gamma de pel·lícules.",
+        "year": "1937"
+      },
+      {
+        "name": "Roger Federer",
+        "description": "Un cèlebre tennista suís, àmpliament considerat un dels millors atletes de la història del tennis.",
+        "year": "1981"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Vol Públic de Wilbur Wright",
+        "description": "Wilbur Wright va realitzar el primer vol públic dels germans Wright a Le Mans, França, demostrant les capacitats pràctiques del vol controlat.",
+        "year": "1908"
+      },
+      {
+        "title": "Fundació de l'ASEAN",
+        "description": "L'Associació de Nacions del Sud-est Asiàtic (ASEAN) va ser establerta, fomentant la cooperació i promovent la pau i l'estabilitat entre els seus estats membres.",
+        "year": "1967"
+      },
+      {
+        "title": "Signatura de la Carta de Londres",
+        "description": "França, el Regne Unit, la Unió Soviètica i els Estats Units van signar la Carta de Londres, que va establir el marc legal per als judicis de Nuremberg.",
+        "year": "1945"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional del Gat",
+      "teaser": "Aquest dia celebra els gats arreu del món i té com a objectiu conscienciar sobre el seu benestar i el problema de la superpoblació de gats ferals."
+    }
+  }
+}

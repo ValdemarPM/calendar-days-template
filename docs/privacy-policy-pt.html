@@ -22,7 +22,7 @@
 </head>
 <body>
   <h1>Política de Privacidade</h1>
-  <p class="last-updated">Última atualização: 18 de julho de 2026</p>
+  <p class="last-updated">Última atualização: 8 de agosto de 2026</p>
   <p style="font-size: 0.9rem;">
     Também disponível em:
     <a href="privacy-policy.html">English</a> ·
@@ -44,9 +44,11 @@
     <li>O idioma configurado no seu dispositivo</li>
   </ul>
   <p>
-    Nenhuma informação pessoal (nome, e-mail, localização, identificadores
-    do dispositivo ou dados de conta) é coletada, armazenada ou transmitida
-    pela app.
+    Para mostrar os horários de nascer/pôr do sol, as fases da lua e as
+    estações da sua própria localização, a app também determina uma
+    localização aproximada do seu dispositivo — veja a Seção 4 abaixo para
+    mais detalhes. Nenhum nome, e-mail, identificador do dispositivo ou dado
+    de conta é coletado, armazenado ou transmitido pela app.
   </p>
 
   <h2>2. Como os Dados São Usados</h2>
@@ -62,17 +64,47 @@
     conteúdo. Os dados enviados a essa API estão sujeitos à
     <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">
       Política de Privacidade do Google</a>.
-    A app não utiliza nenhum outro serviço de terceiros de análise,
-    publicidade ou rastreamento.
+    Também utiliza o <strong>ipapi.co</strong> e a <strong>API de
+    Geocodificação do Open-Meteo</strong> para detecção e busca de
+    localização — veja a Seção 4 para mais detalhes. A app não utiliza
+    nenhum outro serviço de terceiros de análise, publicidade ou
+    rastreamento.
   </p>
 
-  <h2>4. Armazenamento de Dados</h2>
+  <h2>4. Localização</h2>
+  <p>
+    My Days utiliza uma localização aproximada — obtida a partir do
+    endereço IP do seu dispositivo por meio do serviço de terceiros
+    <strong>ipapi.co</strong> — para calcular com precisão os horários de
+    nascer/pôr do sol, as fases da lua e as estações de onde você está, em
+    vez de usar uma localização fixa padrão. Essa consulta acontece
+    automaticamente uma vez (no primeiro uso, ou sempre que você toca em
+    "Usar minha localização" nas Configurações) e não está vinculada a
+    nenhum outro dado processado pela app. A localização resolvida
+    (coordenadas, fuso horário e um rótulo legível como "Cidade · Região ·
+    País") é armazenada apenas no seu dispositivo — veja a Seção 7.
+  </p>
+  <p>
+    Você também pode buscar uma localização por nome nas Configurações para
+    corrigir a localização detectada ou consultar os dados de outra região.
+    Essas buscas são enviadas como texto simples para a <strong>API de
+    Geocodificação do Open-Meteo</strong>, um serviço de terceiros, e não
+    estão vinculadas ao seu endereço IP nem a nenhum outro dado processado
+    pela app.
+  </p>
+  <p>
+    My Days nunca acessa o GPS ou os serviços de localização precisa do seu
+    dispositivo — apenas a localização aproximada baseada em IP descrita
+    acima, ou uma localização que você busque explicitamente.
+  </p>
+
+  <h2>5. Armazenamento de Dados</h2>
   <p>
     My Days não mantém servidores que armazenem dados de usuários. Nenhuma
     conta é necessária e nenhum dado pessoal é retido após você fechar a app.
   </p>
 
-  <h2>5. Notificações Locais</h2>
+  <h2>6. Notificações Locais</h2>
   <p>
     My Days pode, opcionalmente, enviar uma notificação diária local com um
     destaque sobre a data atual. Essa notificação é agendada inteiramente no
@@ -84,27 +116,28 @@
     seu dispositivo.
   </p>
 
-  <h2>6. Preferências Armazenadas no seu Dispositivo</h2>
+  <h2>7. Preferências Armazenadas no seu Dispositivo</h2>
   <p>
     Suas preferências de notificação (se estão ativadas, o horário agendado
-    e o tipo de conteúdo que você quer ver) são armazenadas apenas no seu
-    dispositivo. Esses dados nunca são transmitidos para nós ou para
-    terceiros, e são excluídos automaticamente se você desinstalar a app.
+    e o tipo de conteúdo que você quer ver) e sua configuração de localização
+    (Seção 4) são armazenadas apenas no seu dispositivo. Esses dados nunca
+    são transmitidos para nós, e são excluídos automaticamente se você
+    desinstalar a app.
   </p>
 
-  <h2>7. Privacidade de Menores</h2>
+  <h2>8. Privacidade de Menores</h2>
   <p>
     A app não é direcionada a menores de 13 anos. Não coletamos
     intencionalmente nenhuma informação de menores.
   </p>
 
-  <h2>8. Alterações a Esta Política</h2>
+  <h2>9. Alterações a Esta Política</h2>
   <p>
     Se esta política for alterada, a versão atualizada será publicada nesta
     mesma URL com uma data de "última atualização" revisada.
   </p>
 
-  <h2>9. Contato</h2>
+  <h2>10. Contato</h2>
   <p>
     Se você tiver alguma dúvida sobre esta Política de Privacidade, pode
     entrar em contato conosco em:<br />

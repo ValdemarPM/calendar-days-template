@@ -1,0 +1,295 @@
+{
+  "date": "2026-08-09",
+  "es": {
+    "saints": [
+      {
+        "name": "San Matías Apóstol",
+        "type": "Apóstol de los Setenta",
+        "description": "Elegido para reemplazar a Judas Iscariote entre los Doce Apóstoles, San Matías difundió la fe cristiana y es conmemorado en este día."
+      },
+      {
+        "name": "Santa Teresa Benedicta de la Cruz (Edith Stein)",
+        "type": "Virgen y Mártir",
+        "description": "Una brillante filósofa judía que se convirtió al catolicismo y se hizo monja carmelita. Fue martirizada en Auschwitz en 1942 y es copatrona de Europa."
+      },
+      {
+        "name": "Santa Marianne Cope",
+        "type": "Religiosa",
+        "description": "Una Hermana de San Francisco que dedicó su vida al cuidado de los enfermos de lepra en Hawái, incluyendo Kalaupapa en Molokai."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de los Pueblos Indígenas del Mundo",
+        "description": "Este día se celebra anualmente para crear conciencia y proteger los derechos de la población indígena mundial, conmemorando la primera reunión del Grupo de Trabajo de la ONU sobre Poblaciones Indígenas en 1982."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El objetivo principal de la educación en las escuelas debe ser crear hombres y mujeres capaces de hacer cosas nuevas, no simplemente repetir lo que otras generaciones han hecho.",
+      "author": "Jean Piaget",
+      "context": "El psicólogo suizo Jean Piaget, pionero en el desarrollo infantil y la teoría educativa, nació el 9 de agosto de 1896. Esta cita refleja su duradera influencia en la pedagogía moderna."
+    },
+    "motivationalQuote": {
+      "text": "No todos podemos hacer grandes cosas. Pero podemos hacer pequeñas cosas con gran amor.",
+      "author": "Madre Teresa"
+    },
+    "births": [
+      {
+        "name": "Jean Piaget",
+        "description": "Psicólogo suizo reconocido por su teoría del desarrollo cognitivo, que influyó profundamente en nuestra comprensión de cómo aprenden y piensan los niños.",
+        "year": "1896"
+      },
+      {
+        "name": "Whitney Houston",
+        "description": "Una icónica cantante y actriz estadounidense, ampliamente considerada como una de las mejores vocalistas de todos los tiempos, conocida por su potente voz y numerosos éxitos musicales.",
+        "year": "1963"
+      },
+      {
+        "name": "Anna Kendrick",
+        "description": "Aclamada actriz y cantante estadounidense, conocida por sus versátiles actuaciones en películas como 'Amor sin escalas' y la serie 'Dando la nota'.",
+        "year": "1985"
+      }
+    ],
+    "events": [
+      {
+        "title": "Comienza la construcción de la Torre Inclinada de Pisa",
+        "description": "Se colocaron los cimientos del famoso campanario de la Catedral de Pisa, dando inicio a un monumental proyecto arquitectónico que tardaría casi dos siglos en completarse.",
+        "year": "1173"
+      },
+      {
+        "title": "Firma del Tratado Webster-Ashburton",
+        "description": "Estados Unidos y Gran Bretaña firmaron este tratado, que resolvió pacíficamente varias disputas fronterizas, particularmente entre Maine y Nuevo Brunswick, y mejoró las relaciones angloamericanas.",
+        "year": "1842"
+      },
+      {
+        "title": "Gerald Ford jura como presidente de EE. UU.",
+        "description": "Tras la dimisión del presidente Richard Nixon, Gerald Ford tomó juramento del cargo, trayendo estabilidad y comenzando un período de sanación para los Estados Unidos.",
+        "year": "1974"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de los Pueblos Indígenas del Mundo",
+      "teaser": "Este día se celebra anualmente para crear conciencia y proteger los derechos de la población indígena mundial, conmemorando la primera reunión del Grupo de Trabajo de la ONU sobre Poblaciones Indígenas en 1982."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Matthias the Apostle",
+        "type": "Apostle of the Seventy",
+        "description": "Chosen to replace Judas Iscariot among the Twelve Apostles, St. Matthias spread the Christian faith and is commemorated on this day."
+      },
+      {
+        "name": "St. Teresa Benedicta of the Cross (Edith Stein)",
+        "type": "Virgin and Martyr",
+        "description": "A brilliant Jewish philosopher who converted to Catholicism and became a Carmelite nun. She was martyred in Auschwitz in 1942 and is a co-patron saint of Europe."
+      },
+      {
+        "name": "St. Marianne Cope",
+        "type": "Religious Sister",
+        "description": "A Sister of Saint Francis who dedicated her life to caring for those with leprosy in Hawaii, including at Kalaupapa on Molokai."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of the World's Indigenous Peoples",
+        "description": "This day is observed annually to raise awareness and protect the rights of the world's indigenous population, commemorating the first meeting of the UN Working Group on Indigenous Populations in 1982."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The principal goal of education in the schools should be creating men and women who are capable of doing new things, not simply repeating what other generations have done.",
+      "author": "Jean Piaget",
+      "context": "Swiss psychologist Jean Piaget, a pioneer in child development and educational theory, was born on August 9, 1896. This quote reflects his enduring influence on modern pedagogy."
+    },
+    "motivationalQuote": {
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "Mother Teresa"
+    },
+    "births": [
+      {
+        "name": "Jean Piaget",
+        "description": "A Swiss psychologist renowned for his theory of cognitive development, profoundly influencing our understanding of how children learn and think.",
+        "year": "1896"
+      },
+      {
+        "name": "Whitney Houston",
+        "description": "An iconic American singer and actress, widely regarded as one of the greatest vocalists of all time, known for her powerful voice and numerous hit songs.",
+        "year": "1963"
+      },
+      {
+        "name": "Anna Kendrick",
+        "description": "An acclaimed American actress and singer, known for her versatile performances in films like 'Up in the Air' and the 'Pitch Perfect' series.",
+        "year": "1985"
+      }
+    ],
+    "events": [
+      {
+        "title": "Construction of the Leaning Tower of Pisa Began",
+        "description": "The foundation for the famous campanile (bell tower) of the Pisa Cathedral was laid, beginning a monumental architectural project that would take nearly two centuries to complete.",
+        "year": "1173"
+      },
+      {
+        "title": "Webster-Ashburton Treaty Signed",
+        "description": "The United States and Great Britain signed this treaty, which peacefully resolved several border disputes, particularly between Maine and New Brunswick, and improved Anglo-American relations.",
+        "year": "1842"
+      },
+      {
+        "title": "Gerald Ford Sworn in as U.S. President",
+        "description": "Following President Richard Nixon's resignation, Gerald Ford took the oath of office, bringing stability and beginning a period of healing for the United States.",
+        "year": "1974"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of the World's Indigenous Peoples",
+      "teaser": "This day is observed annually to raise awareness and protect the rights of the world's indigenous population, commemorating the first meeting of the UN Working Group on Indigenous Populations in 1982."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Matias Apóstolo",
+        "type": "Apóstolo dos Setenta",
+        "description": "Escolhido para substituir Judas Iscariotes entre os Doze Apóstolos, São Matias difundiu a fé cristã e é comemorado neste dia."
+      },
+      {
+        "name": "Santa Teresa Benedita da Cruz (Edith Stein)",
+        "type": "Virgem e Mártir",
+        "description": "Uma brilhante filósofa judia que se converteu ao catolicismo e se tornou freira carmelita. Foi martirizada em Auschwitz em 1942 e é co-padroeira da Europa."
+      },
+      {
+        "name": "Santa Marianne Cope",
+        "type": "Irmã Religiosa",
+        "description": "Uma Irmã de São Francisco que dedicou sua vida a cuidar de pessoas com hanseníase no Havaí, incluindo em Kalaupapa, Molokai."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dos Povos Indígenas do Mundo",
+        "description": "Este dia é observado anualmente para aumentar a conscientização e proteger os direitos da população indígena mundial, comemorando a primeira reunião do Grupo de Trabalho da ONU sobre Populações Indígenas em 1982."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O objetivo principal da educação nas escolas deve ser criar homens e mulheres capazes de fazer coisas novas, não simplesmente repetir o que outras gerações fizeram.",
+      "author": "Jean Piaget",
+      "context": "O psicólogo suíço Jean Piaget, pioneiro no desenvolvimento infantil e na teoria educacional, nasceu em 9 de agosto de 1896. Esta citação reflete sua duradoura influência na pedagogia moderna."
+    },
+    "motivationalQuote": {
+      "text": "Nem todos nós podemos fazer grandes coisas. Mas podemos fazer pequenas coisas com grande amor.",
+      "author": "Madre Teresa"
+    },
+    "births": [
+      {
+        "name": "Jean Piaget",
+        "description": "Um psicólogo suíço renomado por sua teoria do desenvolvimento cognitivo, influenciando profundamente nossa compreensão de como as crianças aprendem e pensam.",
+        "year": "1896"
+      },
+      {
+        "name": "Whitney Houston",
+        "description": "Uma icônica cantora e atriz americana, amplamente considerada uma das maiores vocalistas de todos os tempos, conhecida por sua voz potente e inúmeras músicas de sucesso.",
+        "year": "1963"
+      },
+      {
+        "name": "Anna Kendrick",
+        "description": "Uma aclamada atriz e cantora americana, conhecida por suas performances versáteis em filmes como 'Amor Sem Escalas' e a série 'A Escolha Perfeita'.",
+        "year": "1985"
+      }
+    ],
+    "events": [
+      {
+        "title": "Início da construção da Torre Inclinada de Pisa",
+        "description": "A fundação para o famoso campanário da Catedral de Pisa foi lançada, dando início a um monumental projeto arquitetônico que levaria quase dois séculos para ser concluído.",
+        "year": "1173"
+      },
+      {
+        "title": "Tratado Webster-Ashburton Assinado",
+        "description": "Os Estados Unidos e a Grã-Bretanha assinaram este tratado, que resolveu pacificamente várias disputas fronteiriças, particularmente entre Maine e Novo Brunswick, e melhorou as relações anglo-americanas.",
+        "year": "1842"
+      },
+      {
+        "title": "Gerald Ford Toma Posse como Presidente dos EUA",
+        "description": "Após a renúncia do presidente Richard Nixon, Gerald Ford prestou juramento do cargo, trazendo estabilidade e iniciando um período de cura para os Estados Unidos.",
+        "year": "1974"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional dos Povos Indígenas do Mundo",
+      "teaser": "Este dia é observado anualmente para aumentar a conscientização e proteger os direitos da população indígena mundial, comemorando a primeira reunião do Grupo de Trabalho da ONU sobre Populações Indígenas em 1982."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Maties Apòstol",
+        "type": "Apòstol dels Setanta",
+        "description": "Escollit per reemplaçar Judes Iscariot entre els Dotze Apòstols, Sant Maties va difondre la fe cristiana i és commemorat avui."
+      },
+      {
+        "name": "Santa Teresa Benedicta de la Creu (Edith Stein)",
+        "type": "Verge i Màrtir",
+        "description": "Una brillant filòsofa jueva que es va convertir al catolicisme i es va fer monja carmelita. Va ser martiritzada a Auschwitz el 1942 i és copatrona d'Europa."
+      },
+      {
+        "name": "Santa Marianne Cope",
+        "type": "Religiosa",
+        "description": "Una Germana de Sant Francesc que va dedicar la seva vida a tenir cura dels malalts de lepra a Hawaii, incloent Kalaupapa a Molokai."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dels Pobles Indígenes del Món",
+        "description": "Aquest dia se celebra anualment per conscienciar i protegir els drets de la població indígena mundial, commemorant la primera reunió del Grup de Treball de l'ONU sobre Poblacions Indígenes el 1982."
+      }
+    ],
+    "historicalQuote": {
+      "text": "L'objectiu principal de l'educació a les escoles hauria de ser crear homes i dones capaços de fer coses noves, no simplement repetir el que han fet altres generacions.",
+      "author": "Jean Piaget",
+      "context": "El psicòleg suís Jean Piaget, pioner en el desenvolupament infantil i la teoria educativa, va néixer el 9 d'agost de 1896. Aquesta cita reflecteix la seva influència duradora en la pedagogia moderna."
+    },
+    "motivationalQuote": {
+      "text": "No tots podem fer grans coses. Però podem fer coses petites amb un gran amor.",
+      "author": "Mare Teresa"
+    },
+    "births": [
+      {
+        "name": "Jean Piaget",
+        "description": "Un psicòleg suís reconegut per la seva teoria del desenvolupament cognitiu, que va influir profundament en la nostra comprensió de com els nens aprenen i pensen.",
+        "year": "1896"
+      },
+      {
+        "name": "Whitney Houston",
+        "description": "Una cantant i actriu nord-americana icònica, àmpliament considerada una de les vocalistes més grans de tots els temps, coneguda per la seva potent veu i nombroses cançons d'èxit.",
+        "year": "1963"
+      },
+      {
+        "name": "Anna Kendrick",
+        "description": "Una aclamada actriu i cantant nord-americana, coneguda per les seves versàtils actuacions en pel·lícules com 'Up in the Air' i la sèrie 'Pitch Perfect'.",
+        "year": "1985"
+      }
+    ],
+    "events": [
+      {
+        "title": "Comença la construcció de la Torre Inclinada de Pisa",
+        "description": "Es va posar la primera pedra del famós campanar de la Catedral de Pisa, iniciant un projecte arquitectònic monumental que trigaria gairebé dos segles a completar-se.",
+        "year": "1173"
+      },
+      {
+        "title": "Se signa el Tractat de Webster-Ashburton",
+        "description": "Els Estats Units i la Gran Bretanya van signar aquest tractat, que va resoldre pacíficament diverses disputes frontereres, particularment entre Maine i Nova Brunswick, i va millorar les relacions anglo-americanes.",
+        "year": "1842"
+      },
+      {
+        "title": "Gerald Ford pren jurament com a President dels EUA",
+        "description": "Després de la dimissió del president Richard Nixon, Gerald Ford va prendre jurament, aportant estabilitat i iniciant un període de sanació per als Estats Units.",
+        "year": "1974"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional dels Pobles Indígenes del Món",
+      "teaser": "Aquest dia se celebra anualment per conscienciar i protegir els drets de la població indígena mundial, commemorant la primera reunió del Grup de Treball de l'ONU sobre Poblacions Indígenes el 1982."
+    }
+  }
+}

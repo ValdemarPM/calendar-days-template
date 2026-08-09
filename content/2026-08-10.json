@@ -1,0 +1,307 @@
+{
+  "date": "2026-08-10",
+  "es": {
+    "saints": [
+      {
+        "name": "San Lorenzo de Roma",
+        "type": "Diácono, Mártir",
+        "description": "San Lorenzo fue uno de los siete diáconos de Roma bajo el Papa Sixto II, martirizado el 10 de agosto de 258, durante la persecución del Emperador Valeriano. Era responsable de los bienes materiales de la Iglesia y de distribuir limosnas a los pobres."
+      },
+      {
+        "name": "Santa Filomena",
+        "type": "Virgen, Mártir",
+        "description": "Tradicionalmente, se cree que Santa Filomena, una virgen mártir griega, murió el 10 de agosto, alrededor del año 304 d.C., después de soportar varias torturas por negarse a casarse con el Emperador Diocleciano. Sus reliquias fueron descubiertas en 1802."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Biodiésel",
+        "description": "Este día busca concienciar sobre el biodiésel como un combustible alternativo renovable y de combustión limpia."
+      },
+      {
+        "name": "Día Mundial del León",
+        "description": "El Día Mundial del León está dedicado a concienciar sobre la conservación y protección de los leones."
+      },
+      {
+        "name": "Día Nacional del S'more",
+        "description": "En los Estados Unidos, este día celebra el popular dulce de fogata hecho de malvaviscos tostados, chocolate y galletas Graham."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Es en su conocimiento donde el hombre ha encontrado su grandeza y su felicidad, la alta superioridad que posee sobre los otros animales que habitan la tierra con él, y, en consecuencia, ninguna ignorancia es probablemente sin pérdida para él, ningún error sin mal.",
+      "author": "James Smithson",
+      "context": "El científico británico James Smithson hizo un generoso legado que llevó al establecimiento de la Institución Smithsonian. Una Ley del Congreso, firmada por el presidente James K. Polk, constituyó oficialmente la Institución Smithsonian el 10 de agosto de 1846."
+    },
+    "motivationalQuote": {
+      "text": "Si no puedes volar, entonces corre; si no puedes correr, entonces camina; si no puedes caminar, entonces gatea; pero hagas lo que hagas, tienes que seguir avanzando.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Herbert Hoover",
+        "description": "Político estadounidense que sirvió como el 31.º Presidente de los Estados Unidos de 1929 a 1933.",
+        "year": "1874"
+      },
+      {
+        "name": "Antonio Banderas",
+        "description": "Célebre actor, director y productor español conocido por su extenso trabajo en Hollywood y el cine español.",
+        "year": "1960"
+      },
+      {
+        "name": "Jimmy Dean",
+        "description": "Cantante de música country, presentador de televisión, actor y empresario estadounidense, famoso por su exitosa canción 'Big Bad John' y su marca de salchichas.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Museo del Louvre abre al público",
+        "description": "El 10 de agosto de 1793, el Museo del Louvre abrió oficialmente en París, permitiendo el acceso público a los tesoros de arte reales durante la Revolución Francesa.",
+        "year": "1793"
+      },
+      {
+        "title": "Misuri admitido en la Unión",
+        "description": "Misuri se convirtió en el 24.º estado en unirse a los Estados Unidos el 10 de agosto de 1821, con el presidente James Monroe firmando la proclamación de estadidad.",
+        "year": "1821"
+      },
+      {
+        "title": "Ley de Libertades Civiles firmada",
+        "description": "El presidente Ronald Reagan firmó la Ley de Libertades Civiles de 1988 el 10 de agosto, otorgando pagos de $20,000 a los estadounidenses de origen japonés que fueron internados o reubicados durante la Segunda Guerra Mundial.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional del Biodiésel",
+      "teaser": "Este día busca concienciar sobre el biodiésel como un combustible alternativo renovable y de combustión limpia."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Lawrence of Rome",
+        "type": "Deacon, Martyr",
+        "description": "Saint Lawrence was one of the seven deacons of Rome under Pope Sixtus II, martyred on August 10, 258, during the persecution of Emperor Valerian. He was responsible for the Church's material goods and distributing alms to the poor."
+      },
+      {
+        "name": "Saint Philomena",
+        "type": "Virgin, Martyr",
+        "description": "Traditionally, Saint Philomena, a Greek virgin martyr, is believed to have died on August 10, around 304 AD, after enduring various tortures for refusing to marry Emperor Diocletian. Her relics were discovered in 1802."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Biodiesel Day",
+        "description": "This day raises awareness about biodiesel as a renewable and clean-burning alternative fuel."
+      },
+      {
+        "name": "World Lion Day",
+        "description": "World Lion Day is dedicated to raising awareness for lion conservation and protection."
+      },
+      {
+        "name": "National S'mores Day",
+        "description": "In the United States, this day celebrates the popular campfire treat made of toasted marshmallows, chocolate, and graham crackers."
+      }
+    ],
+    "historicalQuote": {
+      "text": "It is in his knowledge that man has found his greatness and his happiness, the high superiority which he holds over the other animals who inhabit the earth with him, and consequently no ignorance is probably without loss to him, no error without evil.",
+      "author": "James Smithson",
+      "context": "British scientist James Smithson made a generous bequest that led to the establishment of the Smithsonian Institution. An Act of Congress, signed by President James K. Polk, officially chartered the Smithsonian Institution on August 10, 1846."
+    },
+    "motivationalQuote": {
+      "text": "If you can't fly, then run, if you can't run, then walk, if you can't walk, then crawl, but whatever you do, you have to keep moving forward.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Herbert Hoover",
+        "description": "An American politician who served as the 31st President of the United States from 1929 to 1933.",
+        "year": "1874"
+      },
+      {
+        "name": "Antonio Banderas",
+        "description": "A celebrated Spanish actor, director, and producer known for his extensive work in Hollywood and Spanish cinema.",
+        "year": "1960"
+      },
+      {
+        "name": "Jimmy Dean",
+        "description": "An American country music singer, television host, actor, and businessman, famous for his hit song 'Big Bad John' and his sausage brand.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "Louvre Museum Opens to the Public",
+        "description": "On August 10, 1793, the Louvre Museum officially opened in Paris, allowing public access to royal art treasures during the French Revolution.",
+        "year": "1793"
+      },
+      {
+        "title": "Missouri Admitted to the Union",
+        "description": "Missouri became the 24th state to join the United States on August 10, 1821, with President James Monroe signing the statehood proclamation.",
+        "year": "1821"
+      },
+      {
+        "title": "Civil Liberties Act Signed",
+        "description": "President Ronald Reagan signed the Civil Liberties Act of 1988 on August 10, providing $20,000 payments to Japanese Americans who were interned or relocated during World War II.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Biodiesel Day",
+      "teaser": "This day raises awareness about biodiesel as a renewable and clean-burning alternative fuel."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Lourenço de Roma",
+        "type": "Diácono, Mártir",
+        "description": "São Lourenço foi um dos sete diáconos de Roma sob o Papa Sisto II, martirizado em 10 de agosto de 258, durante a perseguição do Imperador Valeriano. Ele era responsável pelos bens materiais da Igreja e pela distribuição de esmolas aos pobres."
+      },
+      {
+        "name": "Santa Filomena",
+        "type": "Virgem, Mártir",
+        "description": "Tradicionalmente, acredita-se que Santa Filomena, uma virgem mártir grega, tenha morrido em 10 de agosto, por volta de 304 d.C., após suportar várias torturas por se recusar a casar com o Imperador Diocleciano. Suas relíquias foram descobertas em 1802."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional do Biodiesel",
+        "description": "Este dia aumenta a conscientização sobre o biodiesel como um combustível alternativo renovável e de combustão limpa."
+      },
+      {
+        "name": "Dia Mundial do Leão",
+        "description": "O Dia Mundial do Leão é dedicado a aumentar a conscientização para a conservação e proteção dos leões."
+      },
+      {
+        "name": "Dia Nacional do S'mores",
+        "description": "Nos Estados Unidos, este dia celebra o popular doce de fogueira feito de marshmallows torrados, chocolate e biscoitos Graham."
+      }
+    ],
+    "historicalQuote": {
+      "text": "É no seu conhecimento que o homem encontrou a sua grandeza e a sua felicidade, a alta superioridade que detém sobre os outros animais que com ele habitam a terra, e, consequentemente, nenhuma ignorância é provavelmente sem perda para ele, nenhum erro sem mal.",
+      "author": "James Smithson",
+      "context": "O cientista britânico James Smithson fez um legado generoso que levou ao estabelecimento da Smithsonian Institution. Uma Lei do Congresso, assinada pelo Presidente James K. Polk, estabeleceu oficialmente a Smithsonian Institution em 10 de agosto de 1846."
+    },
+    "motivationalQuote": {
+      "text": "Se você não pode voar, então corra; se não pode correr, então ande; se não pode andar, então rasteje; mas, seja o que for que faça, você tem que continuar avançando.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Herbert Hoover",
+        "description": "Um político americano que serviu como o 31.º Presidente dos Estados Unidos de 1929 a 1933.",
+        "year": "1874"
+      },
+      {
+        "name": "Antonio Banderas",
+        "description": "Um célebre ator, diretor e produtor espanhol conhecido por seu extenso trabalho em Hollywood e no cinema espanhol.",
+        "year": "1960"
+      },
+      {
+        "name": "Jimmy Dean",
+        "description": "Um cantor de música country, apresentador de televisão, ator e empresário americano, famoso por sua canção de sucesso 'Big Bad John' e sua marca de salsichas.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "Museu do Louvre Abre ao Público",
+        "description": "Em 10 de agosto de 1793, o Museu do Louvre abriu oficialmente em Paris, permitindo o acesso público aos tesouros de arte reais durante a Revolução Francesa.",
+        "year": "1793"
+      },
+      {
+        "title": "Missouri Admitido na União",
+        "description": "Missouri tornou-se o 24.º estado a se juntar aos Estados Unidos em 10 de agosto de 1821, com o Presidente James Monroe assinando a proclamação de estado.",
+        "year": "1821"
+      },
+      {
+        "title": "Lei das Liberdades Civis Assinada",
+        "description": "O Presidente Ronald Reagan assinou a Lei das Liberdades Civis de 1988 em 10 de agosto, concedendo pagamentos de US$ 20.000 a nipo-americanos que foram internados ou realocados durante a Segunda Guerra Mundial.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional do Biodiesel",
+      "teaser": "Este dia aumenta a conscientização sobre o biodiesel como um combustível alternativo renovável e de combustão limpa."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Llorenç de Roma",
+        "type": "Diaca, Màrtir",
+        "description": "Sant Llorenç va ser un dels set diaques de Roma sota el Papa Sixt II, martiritzat el 10 d'agost de 258, durant la persecució de l'Emperador Valerià. Era responsable dels béns materials de l'Església i de la distribució d'almoines als pobres."
+      },
+      {
+        "name": "Santa Filomena",
+        "type": "Verge, Màrtir",
+        "description": "Tradicionalment, es creu que Santa Filomena, una verge màrtir grega, va morir el 10 d'agost, al voltant de l'any 304 dC, després de suportar diverses tortures per negar-se a casar-se amb l'Emperador Dioclecià. Les seves relíquies van ser descobertes el 1802."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional del Biodièsel",
+        "description": "Aquest dia sensibilitza sobre el biodièsel com a combustible alternatiu renovable i de combustió neta."
+      },
+      {
+        "name": "Dia Mundial del Lleó",
+        "description": "El Dia Mundial del Lleó es dedica a la sensibilització per a la conservació i protecció dels lleons."
+      },
+      {
+        "name": "Dia Nacional dels S'mores",
+        "description": "Als Estats Units, aquest dia celebra el popular dolç de foguera fet amb malvaviscos torrats, xocolata i galetes Graham."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En el seu coneixement, l'home ha trobat la seva grandesa i la seva felicitat, l'alta superioritat que té sobre els altres animals que habiten la terra amb ell, i en conseqüència, cap ignorància és probablement sense pèrdua per a ell, cap error sense mal.",
+      "author": "James Smithson",
+      "context": "El científic britànic James Smithson va fer un generós llegat que va portar a la creació de la Smithsonian Institution. Una Llei del Congrés, signada pel president James K. Polk, va establir oficialment la Smithsonian Institution el 10 d'agost de 1846."
+    },
+    "motivationalQuote": {
+      "text": "Si no pots volar, corre; si no pots córrer, camina; si no pots caminar, arrossega't, però facis el que facis, has de seguir avançant.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Herbert Hoover",
+        "description": "Un polític nord-americà que va exercir com el 31è President dels Estats Units de 1929 a 1933.",
+        "year": "1874"
+      },
+      {
+        "name": "Antonio Banderas",
+        "description": "Un cèlebre actor, director i productor espanyol conegut pel seu extens treball a Hollywood i al cinema espanyol.",
+        "year": "1960"
+      },
+      {
+        "name": "Jimmy Dean",
+        "description": "Un cantant de música country, presentador de televisió, actor i empresari nord-americà, famós per la seva cançó d'èxit 'Big Bad John' i la seva marca de salsitxes.",
+        "year": "1928"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Museu del Louvre obre al públic",
+        "description": "El 10 d'agost de 1793, el Museu del Louvre va obrir oficialment a París, permetent l'accés públic als tresors d'art reials durant la Revolució Francesa.",
+        "year": "1793"
+      },
+      {
+        "title": "Missouri és admès a la Unió",
+        "description": "Missouri es va convertir en el 24è estat a unir-se als Estats Units el 10 d'agost de 1821, amb el president James Monroe signant la proclamació d'estatitat.",
+        "year": "1821"
+      },
+      {
+        "title": "Signada la Llei de Llibertats Civils",
+        "description": "El president Ronald Reagan va signar la Llei de Llibertats Civils de 1988 el 10 d'agost, proporcionant pagaments de 20.000 dòlars als nord-americans d'origen japonès que van ser internats o reubicats durant la Segona Guerra Mundial.",
+        "year": "1988"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional del Biodièsel",
+      "teaser": "Aquest dia sensibilitza sobre el biodièsel com a combustible alternatiu renovable i de combustió neta."
+    }
+  }
+}

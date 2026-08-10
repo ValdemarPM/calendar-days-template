@@ -1,0 +1,307 @@
+{
+  "date": "2026-08-11",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Clara de Asís",
+        "type": "Virgen, Abadesa",
+        "description": "Nacida Chiara Offreduccio en 1194, fue seguidora de San Francisco de Asís y fundó la Orden de las Damas Pobres, ahora conocidas como Clarisas. Vivió una vida de pobreza radical y es la patrona de la televisión."
+      },
+      {
+        "name": "Santa Susana de Roma",
+        "type": "Virgen, Mártir",
+        "description": "Virgen y mártir en Roma, Santa Susana era hija de un sacerdote cristiano llamado Gavino y sobrina del Papa Cayo. Fue decapitada por su fe alrededor del 295-296 d.C. bajo el emperador Diocleciano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional del Hijo y la Hija (EE. UU.)",
+        "description": "Un día para apreciar y celebrar a los hijos, fomentando los lazos familiares y creando recuerdos duraderos."
+      },
+      {
+        "name": "Día Nacional del Hip Hop (EE. UU.)",
+        "description": "Este día conmemora el 11 de agosto de 1973, cuando DJ Kool Herc organizó una fiesta en el Bronx, ampliamente considerado el lugar de nacimiento de la cultura y la música hip-hop."
+      },
+      {
+        "name": "Día de la Montaña (Japón)",
+        "description": "Un día festivo nacional en Japón dedicado a apreciar las montañas y agradecer las bendiciones que estas proporcionan."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La mayor prueba de coraje en la Tierra es soportar la derrota sin perder el ánimo.",
+      "author": "Robert G. Ingersoll",
+      "context": "Robert G. Ingersoll, orador, abogado y filósofo agnóstico estadounidense conocido como 'El Gran Agnóstico', nació el 11 de agosto de 1833."
+    },
+    "motivationalQuote": {
+      "text": "La única manera de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Steve Wozniak",
+        "description": "Ingeniero electrónico, programador y cofundador estadounidense de Apple Inc. Es ampliamente reconocido como uno de los pioneros de la revolución de la computadora personal.",
+        "year": "1950"
+      },
+      {
+        "name": "Viola Davis",
+        "description": "Aclamada actriz y productora estadounidense, y receptora de numerosos premios, incluyendo un Premio de la Academia, un Premio Emmy y dos Premios Tony, lo que la convierte en una de las pocas ganadoras del EGOT.",
+        "year": "1965"
+      },
+      {
+        "name": "Alex Haley",
+        "description": "Escritor e historiador estadounidense, mejor conocido por su libro de 1976 'Raíces: La saga de una familia estadounidense', que rastreaba su ascendencia hasta África y fue adaptado a una exitosa miniserie de televisión.",
+        "year": "1921"
+      }
+    ],
+    "events": [
+      {
+        "title": "Chad Declara su Independencia",
+        "description": "La República de Chad obtuvo su independencia de Francia en este día, marcando un paso significativo en la autodeterminación y soberanía de la nación.",
+        "year": "1960"
+      },
+      {
+        "title": "Se Lanza la Misión Vostok 3",
+        "description": "El cosmonauta soviético Andrian Nikolayev se lanzó a bordo del Vostok 3, convirtiéndose en la primera persona en flotar en microgravedad y estableciendo un récord de resistencia al orbitar la Tierra 64 veces en 94 horas.",
+        "year": "1962"
+      },
+      {
+        "title": "Primer Objeto Recuperado de la Órbita Terrestre",
+        "description": "La cápsula de reentrada del satélite Discoverer 13 se convirtió en el primer objeto hecho por el hombre en ser recuperado con éxito de la órbita terrestre, un hito en la exploración espacial.",
+        "year": "1960"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional del Hijo y la Hija (EE. UU.)",
+      "teaser": "Un día para apreciar y celebrar a los hijos, fomentando los lazos familiares y creando recuerdos duraderos."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Clare of Assisi",
+        "type": "Virgin, Abbess",
+        "description": "Born Chiara Offreduccio in 1194, she was a follower of Saint Francis of Assisi and founded the Order of Poor Ladies, now known as the Poor Clares. She lived a life of radical poverty and is the patron saint of television."
+      },
+      {
+        "name": "Saint Susanna of Rome",
+        "type": "Virgin, Martyr",
+        "description": "A virgin martyr in Rome, Saint Susanna was the daughter of a Christian priest named Gavinius and niece of Pope Caius. She was beheaded for her faith around 295-296 AD under Emperor Diocletian."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Son and Daughter Day (USA)",
+        "description": "A day to appreciate and celebrate children, encouraging family bonding and creating lasting memories."
+      },
+      {
+        "name": "National Hip Hop Day (USA)",
+        "description": "This day commemorates August 11, 1973, when DJ Kool Herc hosted a house party in The Bronx, widely considered the birthplace of hip-hop culture and music."
+      },
+      {
+        "name": "Mountain Day (Japan)",
+        "description": "A national public holiday in Japan dedicated to appreciating mountains and giving thanks for the blessings they provide."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The greatest test of courage on earth is to bear defeat without losing heart.",
+      "author": "Robert G. Ingersoll",
+      "context": "Robert G. Ingersoll, an American orator, lawyer, and agnostic philosopher known as 'The Great Agnostic,' was born on August 11, 1833."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Steve Wozniak",
+        "description": "An American electronics engineer, programmer, and co-founder of Apple Inc. He is widely recognized as a pioneer of the personal computer revolution.",
+        "year": "1950"
+      },
+      {
+        "name": "Viola Davis",
+        "description": "An acclaimed American actress, producer, and recipient of numerous awards, including an Academy Award, an Emmy Award, and two Tony Awards, making her one of the few EGOT winners.",
+        "year": "1965"
+      },
+      {
+        "name": "Alex Haley",
+        "description": "An American writer and historian best known for his 1976 book 'Roots: The Saga of an American Family,' which traced his ancestry to Africa and was adapted into a highly successful television miniseries.",
+        "year": "1921"
+      }
+    ],
+    "events": [
+      {
+        "title": "Chad Declares Independence",
+        "description": "The Republic of Chad gained its independence from France on this day, marking a significant step in the nation's self-determination and sovereignty.",
+        "year": "1960"
+      },
+      {
+        "title": "Vostok 3 Mission Launches",
+        "description": "Soviet cosmonaut Andrian Nikolayev launched aboard Vostok 3, becoming the first person to float in microgravity and setting an endurance record by orbiting Earth 64 times in 94 hours.",
+        "year": "1962"
+      },
+      {
+        "title": "First Object Recovered from Earth's Orbit",
+        "description": "The re-entry capsule of the Discoverer 13 satellite became the first human-made object to be successfully recovered from Earth's orbit, a milestone in space exploration.",
+        "year": "1960"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Son and Daughter Day (USA)",
+      "teaser": "A day to appreciate and celebrate children, encouraging family bonding and creating lasting memories."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Clara de Assis",
+        "type": "Virgem, Abadessa",
+        "description": "Nascida Chiara Offreduccio em 1194, foi seguidora de São Francisco de Assis e fundou a Ordem das Damas Pobres, agora conhecidas como Clarissas. Viveu uma vida de pobreza radical e é a padroeira da televisão."
+      },
+      {
+        "name": "Santa Susana de Roma",
+        "type": "Virgem, Mártir",
+        "description": "Virgem e mártir em Roma, Santa Susana era filha de um sacerdote cristão chamado Gavínio e sobrinha do Papa Caio. Foi decapitada por sua fé por volta de 295-296 d.C. sob o imperador Diocleciano."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional do Filho e da Filha (EUA)",
+        "description": "Um dia para apreciar e celebrar os filhos, incentivando o vínculo familiar e criando memórias duradouras."
+      },
+      {
+        "name": "Dia Nacional do Hip Hop (EUA)",
+        "description": "Este dia comemora 11 de agosto de 1973, quando DJ Kool Herc organizou uma festa em casa no Bronx, amplamente considerado o berço da cultura e música hip-hop."
+      },
+      {
+        "name": "Dia da Montanha (Japão)",
+        "description": "Um feriado público nacional no Japão dedicado a apreciar as montanhas e agradecer pelas bênçãos que elas proporcionam."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O maior teste de coragem na Terra é suportar a derrota sem perder o ânimo.",
+      "author": "Robert G. Ingersoll",
+      "context": "Robert G. Ingersoll, orador, advogado e filósofo agnóstico americano conhecido como 'O Grande Agnóstico', nasceu em 11 de agosto de 1833."
+    },
+    "motivationalQuote": {
+      "text": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Steve Wozniak",
+        "description": "Engenheiro eletrônico, programador e cofundador americano da Apple Inc. Ele é amplamente reconhecido como um pioneiro da revolução dos computadores pessoais.",
+        "year": "1950"
+      },
+      {
+        "name": "Viola Davis",
+        "description": "Aclamada atriz e produtora americana, e receptora de inúmeros prêmios, incluindo um Oscar, um Prêmio Emmy e dois Tony Awards, tornando-a uma das poucas vencedoras do EGOT.",
+        "year": "1965"
+      },
+      {
+        "name": "Alex Haley",
+        "description": "Escritor e historiador americano mais conhecido por seu livro de 1976 'Raízes: A Saga de uma Família Americana', que rastreou sua ancestralidade até a África e foi adaptado para uma minissérie de televisão de grande sucesso.",
+        "year": "1921"
+      }
+    ],
+    "events": [
+      {
+        "title": "Chade Declara Independência",
+        "description": "A República do Chade obteve sua independência da França neste dia, marcando um passo significativo na autodeterminação e soberania da nação.",
+        "year": "1960"
+      },
+      {
+        "title": "Missão Vostok 3 é Lançada",
+        "description": "O cosmonauta soviético Andrian Nikolayev foi lançado a bordo do Vostok 3, tornando-se a primeira pessoa a flutuar em microgravidade e estabelecendo um recorde de resistência ao orbitar a Terra 64 vezes em 94 horas.",
+        "year": "1962"
+      },
+      {
+        "title": "Primeiro Objeto Recuperado da Órbita da Terra",
+        "description": "A cápsula de reentrada do satélite Discoverer 13 tornou-se o primeiro objeto feito pelo homem a ser recuperado com sucesso da órbita da Terra, um marco na exploração espacial.",
+        "year": "1960"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional do Filho e da Filha (EUA)",
+      "teaser": "Um dia para apreciar e celebrar os filhos, incentivando o vínculo familiar e criando memórias duradouras."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Clara d'Assís",
+        "type": "Verge, Abadessa",
+        "description": "Nascuda Chiara Offreduccio el 1194, va ser seguidora de Sant Francesc d'Assís i va fundar l'Orde de les Dames Pobres, ara conegudes com les Clarisses. Va viure una vida de pobresa radical i és la patrona de la televisió."
+      },
+      {
+        "name": "Santa Susanna de Roma",
+        "type": "Verge, Màrtir",
+        "description": "Una verge màrtir a Roma, Santa Susanna era filla d'un sacerdot cristià anomenat Gavinius i neboda del Papa Gai. Va ser decapitada per la seva fe al voltant del 295-296 dC sota l'emperador Dioclecià."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional del Fill i la Filla (EUA)",
+        "description": "Un dia per apreciar i celebrar els fills, fomentant els vincles familiars i creant records duradors."
+      },
+      {
+        "name": "Dia Nacional del Hip Hop (EUA)",
+        "description": "Aquest dia commemora l'11 d'agost de 1973, quan DJ Kool Herc va organitzar una festa a The Bronx, àmpliament considerat el lloc de naixement de la cultura i la música hip-hop."
+      },
+      {
+        "name": "Dia de la Muntanya (Japó)",
+        "description": "Un dia festiu nacional al Japó dedicat a apreciar les muntanyes i agrair les benediccions que proporcionen."
+      }
+    ],
+    "historicalQuote": {
+      "text": "La prova més gran de coratge a la terra és suportar la derrota sense perdre el cor.",
+      "author": "Robert G. Ingersoll",
+      "context": "Robert G. Ingersoll, orador, advocat i filòsof agnòstic nord-americà conegut com 'El Gran Agnòstic', va néixer l'11 d'agost de 1833."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar el que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Steve Wozniak",
+        "description": "Enginyer electrònic, programador i cofundador nord-americà d'Apple Inc. És àmpliament reconegut com un pioner de la revolució de l'ordinador personal.",
+        "year": "1950"
+      },
+      {
+        "name": "Viola Davis",
+        "description": "Aclamada actriu, productora i guanyadora de nombrosos premis, incloent un Premi de l'Acadèmia, un Premi Emmy i dos Premis Tony, el que la converteix en una de les poques guanyadores EGOT.",
+        "year": "1965"
+      },
+      {
+        "name": "Alex Haley",
+        "description": "Escriptor i historiador nord-americà més conegut pel seu llibre de 1976 'Roots: The Saga of an American Family', que va rastrejar la seva ascendència fins a Àfrica i va ser adaptat a una minisèrie de televisió de gran èxit.",
+        "year": "1921"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Txad declara la independència",
+        "description": "La República del Txad va obtenir la seva independència de França aquest dia, marcant un pas significatiu en l'autodeterminació i la sobirania de la nació.",
+        "year": "1960"
+      },
+      {
+        "title": "La missió Vostok 3 s'enlaira",
+        "description": "El cosmonauta soviètic Andrian Nikolayev es va enlairar a bord del Vostok 3, convertint-se en la primera persona a flotar en microgravetat i establint un rècord de resistència orbitant la Terra 64 vegades en 94 hores.",
+        "year": "1962"
+      },
+      {
+        "title": "Primer objecte recuperat de l'òrbita terrestre",
+        "description": "La càpsula de reentrada del satèl·lit Discoverer 13 es va convertir en el primer objecte fet per l'home a ser recuperat amb èxit de l'òrbita terrestre, una fita en l'exploració espacial.",
+        "year": "1960"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional del Fill i la Filla (EUA)",
+      "teaser": "Un dia per apreciar i celebrar els fills, fomentant els vincles familiars i creant records duradors."
+    }
+  }
+}

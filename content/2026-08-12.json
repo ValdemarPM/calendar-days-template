@@ -1,0 +1,307 @@
+{
+  "date": "2026-08-12",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Juana Francisca de Chantal",
+        "type": "Religiosa, Fundadora",
+        "description": "Una religiosa francesa que, bajo la dirección de San Francisco de Sales, cofundó la Orden de la Visitación de Santa María, conocida por su resiliencia como viuda y madre antes de entrar en la vida religiosa."
+      },
+      {
+        "name": "Mártires Aniceto y Focio de Nicomedia",
+        "type": "Mártires",
+        "description": "Aniceto fue torturado por su fe cristiana, y su sobrino Fotio se unió a él confesando a Cristo, lo que llevó a su martirio compartido en Nicomedia en el siglo III."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Juventud",
+        "description": "Un día de concientización designado por las Naciones Unidas para llamar la atención sobre los problemas que afectan a la juventud en todo el mundo y celebrar su potencial como socios en la sociedad global."
+      },
+      {
+        "name": "Día Mundial del Elefante",
+        "description": "Un día internacional de concientización dedicado a la preservación, protección y celebración de los magníficos elefantes del mundo."
+      },
+      {
+        "name": "Día del PC de IBM",
+        "description": "Conmemora el 12 de agosto de 1981, cuando IBM presentó su primer Computador Personal, que influyó significativamente en el desarrollo de la industria de los PC."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nací en un entorno, no sé de dónde vengo ni adónde voy ni quién soy. Esta es mi situación, como la vuestra, la de cada uno de vosotros. El hecho de que todos siempre hayan estado en esta misma situación, y siempre lo estarán, no me dice nada. Nuestra pregunta candente sobre el de dónde y el a dónde, todo lo que podemos observar al respecto es el entorno presente. Por eso estamos ansiosos por saber todo lo que podamos al respecto. Eso es ciencia, aprendizaje, conocimiento; es la verdadera fuente de todo esfuerzo espiritual del hombre.",
+      "author": "Erwin Schrödinger",
+      "context": "Erwin Schrödinger, un físico teórico austriaco y uno de los fundadores de la mecánica cuántica, nació el 12 de agosto de 1887."
+    },
+    "motivationalQuote": {
+      "text": "El futuro pertenece a quienes creen en la belleza de sus sueños.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Erwin Schrödinger",
+        "description": "Físico teórico austriaco que hizo contribuciones pioneras a la mecánica cuántica, incluyendo la formulación de la ecuación de Schrödinger, y fue laureado con el Premio Nobel.",
+        "year": "1887"
+      },
+      {
+        "name": "George Soros",
+        "description": "Inversor multimillonario, filántropo y activista político húngaro-estadounidense, ampliamente reconocido por su carrera financiera y su defensa de las sociedades abiertas.",
+        "year": "1930"
+      },
+      {
+        "name": "Cara Delevingne",
+        "description": "Modelo de moda y actriz inglesa, conocida por su apariencia distintiva y sus papeles en varias películas y series de televisión.",
+        "year": "1992"
+      }
+    ],
+    "events": [
+      {
+        "title": "Isaac Singer Patenta la Máquina de Coser",
+        "description": "El inventor Isaac Singer recibió una patente por su máquina de coser mejorada, que presentaba una aguja recta y un pedal de pie, lo que avanzó significativamente la disponibilidad generalizada de máquinas de coser.",
+        "year": "1851"
+      },
+      {
+        "title": "Lanzamiento del Satélite Echo I",
+        "description": "Estados Unidos lanzó el Echo I, su primer satélite de comunicaciones, un gran satélite globo que reflejaba señales de radio, marcando un paso significativo en la comunicación global y la exploración espacial.",
+        "year": "1960"
+      },
+      {
+        "title": "Se Firma el Protocolo de Paz de la Guerra Hispanoamericana",
+        "description": "Se firmó un protocolo de paz entre Estados Unidos y España, poniendo fin efectivamente a la Guerra Hispanoamericana y llevando a España a ceder Cuba, Puerto Rico y Guam, y a vender Filipinas a EE. UU.",
+        "year": "1898"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Juventud",
+      "teaser": "Un día de concientización designado por las Naciones Unidas para llamar la atención sobre los problemas que afectan a la juventud en todo el mundo y celebrar su potencial como socios en la sociedad global."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Jane Frances de Chantal",
+        "type": "Religious, Foundress",
+        "description": "A French religious sister who, under the direction of St. Francis de Sales, co-founded the Order of the Visitation of Holy Mary, known for her resilience as a widow and mother before entering religious life."
+      },
+      {
+        "name": "Martyrs Anicetus and Photius of Nicomedia",
+        "type": "Martyrs",
+        "description": "Anicetus was tortured for his Christian faith, and his nephew Photius joined him in confessing Christ, leading to their shared martyrdom in Nicomedia in the 3rd century."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Youth Day",
+        "description": "An awareness day designated by the United Nations to draw attention to issues concerning youth worldwide and celebrate their potential as partners in global society."
+      },
+      {
+        "name": "World Elephant Day",
+        "description": "An international awareness day dedicated to the preservation, protection, and celebration of the world's magnificent elephants."
+      },
+      {
+        "name": "IBM PC Day",
+        "description": "Commemorates August 12, 1981, when IBM introduced its first Personal Computer, which significantly influenced the development of the PC industry."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I am born into an environment — I know not whence I came nor whither I go nor who I am. This is my situation as yours, every single one of you. The fact that everyone always was in this same situation, and always will be, tells me nothing. Our burning question as to the whence and whither — all we can ourselves observe about it is the present environment. That is why we are eager to find out about it as much as we can. That is science, learning, knowledge; it is the true source of every spiritual endeavour of man.",
+      "author": "Erwin Schrödinger",
+      "context": "Erwin Schrödinger, an Austrian theoretical physicist and one of the founders of quantum mechanics, was born on August 12, 1887."
+    },
+    "motivationalQuote": {
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Erwin Schrödinger",
+        "description": "Austrian theoretical physicist who made groundbreaking contributions to quantum mechanics, including the formulation of the Schrödinger equation, and was a Nobel Prize laureate.",
+        "year": "1887"
+      },
+      {
+        "name": "George Soros",
+        "description": "Hungarian-American billionaire investor, philanthropist, and political activist, widely recognized for his financial career and advocacy for open societies.",
+        "year": "1930"
+      },
+      {
+        "name": "Cara Delevingne",
+        "description": "English fashion model and actress, known for her distinctive look and roles in various films and television series.",
+        "year": "1992"
+      }
+    ],
+    "events": [
+      {
+        "title": "Isaac Singer Patents Sewing Machine",
+        "description": "Inventor Isaac Singer received a patent for his improved sewing machine, which featured a straight needle and foot treadle, significantly advancing the widespread availability of sewing machines.",
+        "year": "1851"
+      },
+      {
+        "title": "Launch of Echo I Satellite",
+        "description": "The United States launched Echo I, its first communications satellite, a large balloon satellite that reflected radio signals, marking a significant step in global communication and space exploration.",
+        "year": "1960"
+      },
+      {
+        "title": "Spanish-American War Peace Protocol Signed",
+        "description": "A peace protocol was signed between the United States and Spain, effectively ending the Spanish-American War and leading to Spain ceding Cuba, Puerto Rico, and Guam, and selling the Philippines to the U.S.",
+        "year": "1898"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Youth Day",
+      "teaser": "An awareness day designated by the United Nations to draw attention to issues concerning youth worldwide and celebrate their potential as partners in global society."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Joana Francisca de Chantal",
+        "type": "Religiosa, Fundadora",
+        "description": "Uma religiosa francesa que, sob a direção de São Francisco de Sales, cofundou a Ordem da Visitação de Santa Maria, conhecida pela sua resiliência como viúva e mãe antes de entrar na vida religiosa."
+      },
+      {
+        "name": "Mártires Aniceto e Fócio de Nicomédia",
+        "type": "Mártires",
+        "description": "Aniceto foi torturado pela sua fé cristã, e o seu sobrinho Fócio juntou-se a ele na confissão de Cristo, levando ao seu martírio partilhado em Nicomédia no século III."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Juventude",
+        "description": "Um dia de conscientização designado pelas Nações Unidas para chamar a atenção para questões relativas à juventude em todo o mundo e celebrar o seu potencial como parceiros na sociedade global."
+      },
+      {
+        "name": "Dia Mundial do Elefante",
+        "description": "Um dia internacional de conscientização dedicado à preservação, proteção e celebração dos magníficos elefantes do mundo."
+      },
+      {
+        "name": "Dia do PC da IBM",
+        "description": "Comemora 12 de agosto de 1981, quando a IBM lançou seu primeiro Computador Pessoal, que influenciou significativamente o desenvolvimento da indústria de PCs."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nasci em um ambiente — não sei de onde vim nem para onde vou nem quem sou. Esta é a minha situação, como a vossa, de cada um de vocês. O fato de que todos sempre estiveram nesta mesma situação, e sempre estarão, não me diz nada. Nossa questão candente sobre o \"de onde\" e o \"para onde\" — tudo o que podemos observar sobre isso é o ambiente presente. Por isso, estamos ansiosos para descobrir o máximo que pudermos sobre ele. Isso é ciência, aprendizado, conhecimento; é a verdadeira fonte de todo esforço espiritual do homem.",
+      "author": "Erwin Schrödinger",
+      "context": "Erwin Schrödinger, um físico teórico austríaco e um dos fundadores da mecânica quântica, nasceu em 12 de agosto de 1887."
+    },
+    "motivationalQuote": {
+      "text": "O futuro pertence àqueles que acreditam na beleza de seus sonhos.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Erwin Schrödinger",
+        "description": "Físico teórico austríaco que fez contribuições inovadoras para a mecânica quântica, incluindo a formulação da equação de Schrödinger, e foi laureado com o Prêmio Nobel.",
+        "year": "1887"
+      },
+      {
+        "name": "George Soros",
+        "description": "Investidor bilionário húngaro-americano, filantropo e ativista político, amplamente reconhecido pela sua carreira financeira e defesa de sociedades abertas.",
+        "year": "1930"
+      },
+      {
+        "name": "Cara Delevingne",
+        "description": "Modelo de moda e atriz inglesa, conhecida pelo seu visual distinto e papéis em vários filmes e séries de televisão.",
+        "year": "1992"
+      }
+    ],
+    "events": [
+      {
+        "title": "Isaac Singer Patenteia Máquina de Costura",
+        "description": "O inventor Isaac Singer recebeu uma patente para sua máquina de costura aprimorada, que apresentava uma agulha reta e um pedal, avançando significativamente a disponibilidade generalizada de máquinas de costura.",
+        "year": "1851"
+      },
+      {
+        "title": "Lançamento do Satélite Echo I",
+        "description": "Os Estados Unidos lançaram o Echo I, seu primeiro satélite de comunicações, um grande satélite balão que refletia sinais de rádio, marcando um passo significativo na comunicação global e exploração espacial.",
+        "year": "1960"
+      },
+      {
+        "title": "Protocolo de Paz da Guerra Hispano-Americana Assinado",
+        "description": "Um protocolo de paz foi assinado entre os Estados Unidos e a Espanha, encerrando efetivamente a Guerra Hispano-Americana e levando a Espanha a ceder Cuba, Porto Rico e Guam, e a vender as Filipinas aos EUA.",
+        "year": "1898"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Juventude",
+      "teaser": "Um dia de conscientização designado pelas Nações Unidas para chamar a atenção para questões relativas à juventude em todo o mundo e celebrar o seu potencial como parceiros na sociedade global."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Joana Francesca de Chantal",
+        "type": "Religiosa, Fundadora",
+        "description": "Una religiosa francesa que, sota la direcció de Sant Francesc de Sales, va cofundar l'Orde de la Visitació de Santa Maria, coneguda per la seva resiliència com a vídua i mare abans d'entrar a la vida religiosa."
+      },
+      {
+        "name": "Màrtirs Anicet i Foci de Nicomèdia",
+        "type": "Màrtirs",
+        "description": "Anicet va ser torturat per la seva fe cristiana, i el seu nebot Foci es va unir a ell per confessar Crist, la qual cosa va portar al seu martiri compartit a Nicomèdia al segle III."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Joventut",
+        "description": "Un dia de sensibilització designat per les Nacions Unides per cridar l'atenció sobre els problemes que afecten la joventut a tot el món i celebrar el seu potencial com a socis en la societat global."
+      },
+      {
+        "name": "Dia Mundial de l'Elefant",
+        "description": "Un dia internacional de sensibilització dedicat a la preservació, protecció i celebració dels magnífics elefants del món."
+      },
+      {
+        "name": "Dia de l'IBM PC",
+        "description": "Commemora el 12 d'agost de 1981, quan IBM va presentar el seu primer ordinador personal, que va influir significativament en el desenvolupament de la indústria dels PC."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Neixo en un entorn — no sé d'on vinc ni a on vaig ni qui sóc. Aquesta és la meva situació com la vostra, la de cadascun de vosaltres. El fet que tothom sempre hagi estat en aquesta mateixa situació, i sempre ho estarà, no em diu res. La nostra pregunta candent sobre l'origen i el destí — tot el que nosaltres mateixos podem observar al respecte és l'entorn actual. Per això estem ansiosos per descobrir-ne tant com puguem. Això és ciència, aprenentatge, coneixement; és la veritable font de cada esforç espiritual de l'home.",
+      "author": "Erwin Schrödinger",
+      "context": "Erwin Schrödinger, un físic teòric austríac i un dels fundadors de la mecànica quàntica, va néixer el 12 d'agost de 1887."
+    },
+    "motivationalQuote": {
+      "text": "El futur pertany a aquells que creuen en la bellesa dels seus somnis.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Erwin Schrödinger",
+        "description": "Físic teòric austríac que va fer contribucions innovadores a la mecànica quàntica, incloent la formulació de l'equació de Schrödinger, i va ser premi Nobel.",
+        "year": "1887"
+      },
+      {
+        "name": "George Soros",
+        "description": "Inversor multimilionari, filantrop i activista polític hongarès-americà, àmpliament reconegut per la seva carrera financera i la seva defensa de les societats obertes.",
+        "year": "1930"
+      },
+      {
+        "name": "Cara Delevingne",
+        "description": "Model i actriu anglesa, coneguda pel seu aspecte distintiu i els seus papers en diverses pel·lícules i sèries de televisió.",
+        "year": "1992"
+      }
+    ],
+    "events": [
+      {
+        "title": "Isaac Singer Patenta la Màquina de Cosir",
+        "description": "L'inventor Isaac Singer va rebre una patent per la seva màquina de cosir millorada, que incloïa una agulla recta i un pedal de peu, avançant significativament la disponibilitat generalitzada de les màquines de cosir.",
+        "year": "1851"
+      },
+      {
+        "title": "Llançament del Satèl·lit Echo I",
+        "description": "Els Estats Units van llançar l'Echo I, el seu primer satèl·lit de comunicacions, un gran satèl·lit de globus que reflectia senyals de ràdio, marcant un pas significatiu en la comunicació global i l'exploració espacial.",
+        "year": "1960"
+      },
+      {
+        "title": "Signatura del Protocol de Pau de la Guerra Hispanoamericana",
+        "description": "Es va signar un protocol de pau entre els Estats Units i Espanya, que posava fi de facto a la Guerra Hispanoamericana i va portar a Espanya a cedir Cuba, Puerto Rico i Guam, i a vendre les Filipines als EUA.",
+        "year": "1898"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de la Joventut",
+      "teaser": "Un dia de sensibilització designat per les Nacions Unides per cridar l'atenció sobre els problemes que afecten la joventut a tot el món i celebrar el seu potencial com a socis en la societat global."
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-13",
+  "es": {
+    "saints": [
+      {
+        "name": "San Ponciano",
+        "type": "Papa, Mártir",
+        "description": "San Ponciano fue Papa del 230 al 235 d.C. Fue condenado a las minas de Cerdeña bajo el emperador Maximino el Tracio y optó por renunciar, convirtiéndose en el primer Papa en hacerlo. Murió a causa del duro trato."
+      },
+      {
+        "name": "San Hipólito",
+        "type": "Sacerdote, Mártir",
+        "description": "San Hipólito fue un antipapa que se reconcilió con el Papa Ponciano mientras ambos estaban encarcelados y condenados a trabajos forzados en las minas de Cerdeña. También murió allí como mártir."
+      },
+      {
+        "name": "San Máximo el Confesor",
+        "type": "Monje, Teólogo",
+        "description": "San Máximo el Confesor fue un monje, teólogo y erudito bizantino que defendió la doctrina cristiana ortodoxa contra el Monotelismo, sufriendo persecución, mutilación y exilio por sus creencias. Sus reliquias fueron trasladadas en este día."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional del Zurdo",
+        "description": "Este día celebra la singularidad y las diferencias de las personas zurdas y concienciar sobre los desafíos que enfrentan en un mundo predominantemente diestro."
+      },
+      {
+        "name": "Día de la Mujer y la Familia (Túnez)",
+        "description": "Un día festivo nacional tunecino que conmemora la promulgación del Código de Estatus Personal el 13 de agosto de 1956, que otorgó a las mujeres tunecinas importantes derechos legales."
+      },
+      {
+        "name": "Día Nacional del Filete Mignon (EE. UU.)",
+        "description": "Este día celebra el exquisito y tierno corte de carne conocido como el filete mignon."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Los juegos de palabras son la forma más elevada de literatura.",
+      "author": "Alfred Hitchcock",
+      "context": "Alfred Hitchcock, el renombrado director de cine inglés, nació el 13 de agosto de 1899."
+    },
+    "motivationalQuote": {
+      "text": "La forma de empezar es dejar de hablar y empezar a hacer.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Alfred Hitchcock",
+        "description": "Un influyente director y productor de cine inglés, conocido como el 'Maestro del Suspense' por sus innovadoras técnicas cinematográficas en thrillers.",
+        "year": "1899"
+      },
+      {
+        "name": "Fidel Castro",
+        "description": "Un revolucionario y político cubano que sirvió como Primer Ministro y luego Presidente de Cuba, liderando el país durante décadas.",
+        "year": "1926"
+      },
+      {
+        "name": "Annie Oakley",
+        "description": "Una tiradora y exhibicionista estadounidense que protagonizó el espectáculo del Salvaje Oeste de Buffalo Bill, reconocida por su excepcional precisión.",
+        "year": "1860"
+      }
+    ],
+    "events": [
+      {
+        "title": "Invención del Acero Inoxidable",
+        "description": "El metalúrgico británico Harry Brearley produjo con éxito el primer acero inoxidable verdadero en Sheffield, Inglaterra, añadiendo cromo a una aleación de acero, creando un metal resistente a la corrosión y el óxido.",
+        "year": "1913"
+      },
+      {
+        "title": "La República Centroafricana Logra la Independencia",
+        "description": "La República Centroafricana declaró su independencia de Francia, marcando un paso significativo en su camino hacia la autogobernanza y la soberanía.",
+        "year": "1960"
+      },
+      {
+        "title": "Atenas Acoge la Ceremonia de Apertura de los Juegos Olímpicos de Verano",
+        "description": "Los Juegos Olímpicos de Verano de 2004 se inauguraron oficialmente en Atenas, Grecia, llevando los Juegos Olímpicos de regreso a su antiguo lugar de origen.",
+        "year": "2004"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional del Zurdo",
+      "teaser": "Este día celebra la singularidad y las diferencias de las personas zurdas y concienciar sobre los desafíos que enfrentan en un mundo predominantemente diestro."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Pontian",
+        "type": "Pope, Martyr",
+        "description": "Saint Pontian was Pope from 230 to 235 AD. He was condemned to the Sardinian mines under Emperor Maximinus Thrax and chose to resign, making him the first Pope to do so. He died from the harsh treatment."
+      },
+      {
+        "name": "Saint Hippolytus",
+        "type": "Priest, Martyr",
+        "description": "Saint Hippolytus was an anti-Pope who became reconciled with Pope Pontian while they were both imprisoned and condemned to forced labor in the mines of Sardinia. He also died there as a martyr."
+      },
+      {
+        "name": "Saint Maximus the Confessor",
+        "type": "Monk, Theologian",
+        "description": "Saint Maximus the Confessor was a Byzantine monk, theologian, and scholar who defended orthodox Christian doctrine against Monothelitism, suffering persecution, mutilation, and exile for his beliefs. His relics were transferred on this day."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Lefthanders Day",
+        "description": "This day celebrates the uniqueness and differences of left-handed individuals and raises awareness of the challenges they face in a predominantly right-handed world."
+      },
+      {
+        "name": "Women's and Family Day (Tunisia)",
+        "description": "A Tunisian national holiday commemorating the promulgation of the Code of Personal Status on August 13, 1956, which granted Tunisian women significant legal rights."
+      },
+      {
+        "name": "National Filet Mignon Day (USA)",
+        "description": "This day celebrates the exquisite and tender cut of beef known as the filet mignon."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Puns are the highest form of literature.",
+      "author": "Alfred Hitchcock",
+      "context": "Alfred Hitchcock, the renowned English film director, was born on August 13, 1899."
+    },
+    "motivationalQuote": {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Alfred Hitchcock",
+        "description": "An influential English film director and producer, known as the 'Master of Suspense' for his innovative cinematic techniques in thrillers.",
+        "year": "1899"
+      },
+      {
+        "name": "Fidel Castro",
+        "description": "A Cuban revolutionary and politician who served as Prime Minister and later President of Cuba, leading the country for decades.",
+        "year": "1926"
+      },
+      {
+        "name": "Annie Oakley",
+        "description": "An American sharpshooter and exhibition shooter who starred in Buffalo Bill's Wild West show, renowned for her exceptional accuracy.",
+        "year": "1860"
+      }
+    ],
+    "events": [
+      {
+        "title": "Invention of Stainless Steel",
+        "description": "British metallurgist Harry Brearley successfully produced the first true stainless steel in Sheffield, England, by adding chromium to a steel alloy, creating a metal resistant to corrosion and rust.",
+        "year": "1913"
+      },
+      {
+        "title": "Central African Republic Achieves Independence",
+        "description": "The Central African Republic declared its independence from France, marking a significant step in its journey toward self-governance and sovereignty.",
+        "year": "1960"
+      },
+      {
+        "title": "Athens Hosts Summer Olympics Opening Ceremony",
+        "description": "The 2004 Summer Olympics officially opened in Athens, Greece, bringing the Olympic Games back to their ancient birthplace.",
+        "year": "2004"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Lefthanders Day",
+      "teaser": "This day celebrates the uniqueness and differences of left-handed individuals and raises awareness of the challenges they face in a predominantly right-handed world."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Ponciano",
+        "type": "Papa, Mártir",
+        "description": "São Ponciano foi Papa de 230 a 235 d.C. Foi condenado às minas da Sardenha sob o Imperador Maximino Trácio e optou por renunciar, tornando-se o primeiro Papa a fazê-lo. Morreu devido ao tratamento severo."
+      },
+      {
+        "name": "São Hipólito",
+        "type": "Sacerdote, Mártir",
+        "description": "São Hipólito foi um antipapa que se reconciliou com o Papa Ponciano enquanto ambos estavam presos e condenados a trabalhos forçados nas minas da Sardenha. Ele também morreu lá como mártir."
+      },
+      {
+        "name": "São Máximo, o Confessor",
+        "type": "Monge, Teólogo",
+        "description": "São Máximo, o Confessor, foi um monge, teólogo e estudioso bizantino que defendeu a doutrina cristã ortodoxa contra o Monotelismo, sofrendo perseguição, mutilação e exílio por suas crenças. Suas relíquias foram transferidas neste dia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional do Canhoto",
+        "description": "Este dia celebra a singularidade e as diferenças dos indivíduos canhotos e aumenta a conscientização sobre os desafios que enfrentam em um mundo predominantemente destro."
+      },
+      {
+        "name": "Dia da Mulher e da Família (Tunísia)",
+        "description": "Um feriado nacional tunisiano que comemora a promulgação do Código de Estatuto Pessoal em 13 de agosto de 1956, que concedeu às mulheres tunisianas direitos legais significativos."
+      },
+      {
+        "name": "Dia Nacional do Filé Mignon (EUA)",
+        "description": "Este dia celebra o requintado e tenro corte de carne bovina conhecido como filé mignon."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Trocadilhos são a forma mais elevada de literatura.",
+      "author": "Alfred Hitchcock",
+      "context": "Alfred Hitchcock, o renomado diretor de cinema inglês, nasceu em 13 de agosto de 1899."
+    },
+    "motivationalQuote": {
+      "text": "A maneira de começar é parar de falar e começar a fazer.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Alfred Hitchcock",
+        "description": "Um influente diretor e produtor de cinema inglês, conhecido como o 'Mestre do Suspense' por suas inovadoras técnicas cinematográficas em thrillers.",
+        "year": "1899"
+      },
+      {
+        "name": "Fidel Castro",
+        "description": "Um revolucionário e político cubano que serviu como Primeiro-Ministro e mais tarde Presidente de Cuba, liderando o país por décadas.",
+        "year": "1926"
+      },
+      {
+        "name": "Annie Oakley",
+        "description": "Uma atiradora de elite e atiradora de exibição americana que estrelou o show Wild West de Buffalo Bill, renomada por sua excepcional precisão.",
+        "year": "1860"
+      }
+    ],
+    "events": [
+      {
+        "title": "Invenção do Aço Inoxidável",
+        "description": "O metalurgista britânico Harry Brearley produziu com sucesso o primeiro aço inoxidável verdadeiro em Sheffield, Inglaterra, adicionando cromo a uma liga de aço, criando um metal resistente à corrosão e à ferrugem.",
+        "year": "1913"
+      },
+      {
+        "title": "República Centro-Africana Alcança a Independência",
+        "description": "A República Centro-Africana declarou sua independência da França, marcando um passo significativo em sua jornada rumo à autogovernança e soberania.",
+        "year": "1960"
+      },
+      {
+        "title": "Atenas Acolhe a Cerimônia de Abertura dos Jogos Olímpicos de Verão",
+        "description": "Os Jogos Olímpicos de Verão de 2004 foram oficialmente abertos em Atenas, Grécia, trazendo os Jogos Olímpicos de volta ao seu antigo berço.",
+        "year": "2004"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional do Canhoto",
+      "teaser": "Este dia celebra a singularidade e as diferenças dos indivíduos canhotos e aumenta a conscientização sobre os desafios que enfrentam em um mundo predominantemente destro."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Poncià",
+        "type": "Papa, Màrtir",
+        "description": "Sant Poncià va ser Papa del 230 al 235 dC. Va ser condemnat a les mines de Sardenya sota l'emperador Maximià el Traci i va triar renunciar, sent el primer Papa a fer-ho. Va morir a causa del tracte dur."
+      },
+      {
+        "name": "Sant Hipòlit",
+        "type": "Sacerdot, Màrtir",
+        "description": "Sant Hipòlit va ser un antipapa que es va reconciliar amb el Papa Poncià mentre tots dos estaven empresonats i condemnats a treballs forçats a les mines de Sardenya. També va morir allà com a màrtir."
+      },
+      {
+        "name": "Sant Màxim el Confessor",
+        "type": "Monjo, Teòleg",
+        "description": "Sant Màxim el Confessor va ser un monjo, teòleg i erudit bizantí que va defensar la doctrina cristiana ortodoxa contra el monotelisme, patint persecució, mutilació i exili per les seves creences. Les seves relíquies van ser traslladades en aquest dia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dels Esquerrans",
+        "description": "Aquest dia celebra la singularitat i les diferències de les persones esquerranes i sensibilitza sobre els reptes que afronten en un món predominantment dretà."
+      },
+      {
+        "name": "Dia de la Dona i la Família (Tunísia)",
+        "description": "Una festa nacional tunisiana que commemora la promulgació del Codi d'Estat Personal el 13 d'agost de 1956, que va atorgar a les dones tunisianes drets legals significatius."
+      },
+      {
+        "name": "Dia Nacional del Filet Mignon (EUA)",
+        "description": "Aquest dia celebra el tall exquisit i tendre de carn de vedella conegut com a filet mignon."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Els jocs de paraules són la forma més elevada de literatura.",
+      "author": "Alfred Hitchcock",
+      "context": "Alfred Hitchcock, el reconegut director de cinema anglès, va néixer el 13 d'agost de 1899."
+    },
+    "motivationalQuote": {
+      "text": "La manera de començar és deixar de parlar i començar a fer.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Alfred Hitchcock",
+        "description": "Un influent director i productor de cinema anglès, conegut com el 'Mestre del Suspense' per les seves innovadores tècniques cinematogràfiques en thrillers.",
+        "year": "1899"
+      },
+      {
+        "name": "Fidel Castro",
+        "description": "Un revolucionari i polític cubà que va ser Primer Ministre i posteriorment President de Cuba, liderant el país durant dècades.",
+        "year": "1926"
+      },
+      {
+        "name": "Annie Oakley",
+        "description": "Una tiradora d'elit i tiradora d'exhibició nord-americana que va protagonitzar l'espectacle Wild West de Buffalo Bill, reconeguda per la seva precisió excepcional.",
+        "year": "1860"
+      }
+    ],
+    "events": [
+      {
+        "title": "Invenció de l'Acer Inoxidable",
+        "description": "El metal·lurgista britànic Harry Brearley va produir amb èxit el primer acer inoxidable veritable a Sheffield, Anglaterra, afegint crom a un aliatge d'acer, creant un metall resistent a la corrosió i l'òxid.",
+        "year": "1913"
+      },
+      {
+        "title": "La República Centreafricana Aconsegueix la Independència",
+        "description": "La República Centreafricana va declarar la seva independència de França, marcant un pas significatiu en el seu camí cap a l'autogovern i la sobirania.",
+        "year": "1960"
+      },
+      {
+        "title": "Atenes Acull la Cerimònia d'Obertura dels Jocs Olímpics d'Estiu",
+        "description": "Els Jocs Olímpics d'Estiu de 2004 es van inaugurar oficialment a Atenes, Grècia, retornant els Jocs Olímpics al seu antic lloc de naixement.",
+        "year": "2004"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional dels Esquerrans",
+      "teaser": "Aquest dia celebra la singularitat i les diferències de les persones esquerranes i sensibilitza sobre els reptes que afronten en un món predominantment dretà."
+    }
+  }
+}

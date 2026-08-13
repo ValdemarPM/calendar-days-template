@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-14",
+  "es": {
+    "saints": [
+      {
+        "name": "San Maximiliano Kolbe",
+        "type": "Sacerdote y Mártir",
+        "description": "Sacerdote franciscano polaco que se ofreció a morir en lugar de otro prisionero en Auschwitz durante la Segunda Guerra Mundial, ganándose el título de 'mártir de la caridad'."
+      },
+      {
+        "name": "Profeta Miqueas",
+        "type": "Profeta",
+        "description": "Profeta del Antiguo Testamento conmemorado en la Iglesia Ortodoxa Oriental."
+      },
+      {
+        "name": "San Arcadio de Novotorzhk",
+        "type": "Monje",
+        "description": "Monje venerado en la tradición ortodoxa oriental."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Pakistán",
+        "description": "Conmemora la independencia de Pakistán del dominio británico el 14 de agosto de 1947."
+      },
+      {
+        "name": "Qaumee Dhuvas (Día Nacional de Maldivas)",
+        "description": "Conmemora la independencia de Maldivas de Gran Bretaña en 1965."
+      },
+      {
+        "name": "Día Nacional del Espíritu del '45 (EE. UU.)",
+        "description": "Celebrado el segundo domingo de agosto, este día conmemora la victoria aliada sobre Japón en la Segunda Guerra Mundial, anunciada el 14 de agosto de 1945."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Hace muchos años, hicimos una cita con el destino, y ahora llega el momento en que redimiremos nuestro compromiso, no en su totalidad o en plena medida, pero sí muy sustancialmente. Al filo de la medianoche, cuando el mundo duerme, la India despertará a la vida y la libertad. Llega un momento, que rara vez llega en la historia, cuando salimos de lo viejo a lo nuevo, cuando termina una era y cuando el alma de una nación, largamente reprimida, encuentra su expresión.",
+      "author": "Jawaharlal Nehru",
+      "context": "Jawaharlal Nehru, el primer Primer Ministro de la India, pronunció este icónico discurso 'Cita con el Destino' ante la Asamblea Constituyente de la India en la víspera de la Independencia de la India, hacia la medianoche del 14 de agosto de 1947."
+    },
+    "motivationalQuote": {
+      "text": "Un pájaro no canta porque tenga una respuesta; canta porque tiene una canción.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Halle Berry",
+        "description": "Actriz estadounidense que se convirtió en la primera afroamericana en ganar el Premio de la Academia a la Mejor Actriz.",
+        "year": "1966"
+      },
+      {
+        "name": "Steve Martin",
+        "description": "Actor, comediante, productor y guionista estadounidense aclamado por la crítica.",
+        "year": "1945"
+      },
+      {
+        "name": "Magic Johnson",
+        "description": "Exjugador de baloncesto profesional estadounidense considerado uno de los mejores bases de todos los tiempos.",
+        "year": "1959"
+      }
+    ],
+    "events": [
+      {
+        "title": "Rendición Incondicional de Japón (Día de la Victoria sobre Japón)",
+        "description": "Japón anunció su rendición incondicional a los Aliados, poniendo fin de manera efectiva a la Segunda Guerra Mundial.",
+        "year": "1945"
+      },
+      {
+        "title": "Pakistán Obtiene la Independencia",
+        "description": "Pakistán logró la independencia del Imperio Británico, marcando un momento significativo en su historia.",
+        "year": "1947"
+      },
+      {
+        "title": "Catedral de Colonia Completada",
+        "description": "Después de más de 600 años de construcción, la monumental Catedral de Colonia en Alemania, la iglesia gótica más grande del norte de Europa, fue finalmente terminada.",
+        "year": "1880"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la Independencia de Pakistán",
+      "teaser": "Conmemora la independencia de Pakistán del dominio británico el 14 de agosto de 1947."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Maximilian Kolbe",
+        "type": "Priest and Martyr",
+        "description": "A Polish Franciscan priest who volunteered to die in place of another prisoner at Auschwitz during World War II, earning him the title 'martyr of charity'."
+      },
+      {
+        "name": "Prophet Micah",
+        "type": "Prophet",
+        "description": "An Old Testament prophet commemorated in the Eastern Orthodox Church."
+      },
+      {
+        "name": "Saint Arcadius of Novotorzhk",
+        "type": "Monk",
+        "description": "A revered monk in the Eastern Orthodox tradition."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Pakistan Independence Day",
+        "description": "Commemorates Pakistan's independence from British rule on August 14, 1947."
+      },
+      {
+        "name": "Qaumee Dhuvas (Maldivian National Day)",
+        "description": "Marks the Maldives' independence from Britain in 1965."
+      },
+      {
+        "name": "National Spirit of '45 Day (U.S.)",
+        "description": "Observed on the second Sunday of August, this day marks the Allied victory over Japan in World War II, announced on August 14, 1945."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Long years ago, we made a tryst with destiny, and now the time comes when we shall redeem our pledge, not wholly or in full measure, but very substantially. At the stroke of the midnight hour, when the world sleeps, India will awake to life and freedom. A moment comes, which comes but rarely in history, when we step out from the old to the new, when an age ends, and when the soul of a nation, long suppressed, finds utterance.",
+      "author": "Jawaharlal Nehru",
+      "context": "Jawaharlal Nehru, the first Prime Minister of India, delivered this iconic 'Tryst with Destiny' speech to the Indian Constituent Assembly on the eve of India's Independence, towards midnight on August 14, 1947."
+    },
+    "motivationalQuote": {
+      "text": "A bird doesn't sing because it has an answer; it sings because it has a song.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Halle Berry",
+        "description": "An American actress who became the first African American to win the Academy Award for Best Actress.",
+        "year": "1966"
+      },
+      {
+        "name": "Steve Martin",
+        "description": "A critically acclaimed American actor, comedian, producer, and screenwriter.",
+        "year": "1945"
+      },
+      {
+        "name": "Magic Johnson",
+        "description": "An American former professional basketball player who is considered one of the greatest point guards of all time.",
+        "year": "1959"
+      }
+    ],
+    "events": [
+      {
+        "title": "Japan's Unconditional Surrender (V-J Day)",
+        "description": "Japan announced its unconditional surrender to the Allies, effectively ending World War II.",
+        "year": "1945"
+      },
+      {
+        "title": "Pakistan Gains Independence",
+        "description": "Pakistan achieved independence from the British Empire, marking a significant moment in its history.",
+        "year": "1947"
+      },
+      {
+        "title": "Cologne Cathedral Completed",
+        "description": "After more than 600 years of construction, the monumental Cologne Cathedral in Germany, the largest Gothic church in Northern Europe, was finally completed.",
+        "year": "1880"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Pakistan Independence Day",
+      "teaser": "Commemorates Pakistan's independence from British rule on August 14, 1947."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Maximiliano Kolbe",
+        "type": "Sacerdote e Mártir",
+        "description": "Sacerdote franciscano polonês que se ofereceu para morrer no lugar de outro prisioneiro em Auschwitz durante a Segunda Guerra Mundial, ganhando o título de 'mártir da caridade'."
+      },
+      {
+        "name": "Profeta Miqueias",
+        "type": "Profeta",
+        "description": "Profeta do Antigo Testamento comemorado na Igreja Ortodoxa Oriental."
+      },
+      {
+        "name": "Santo Arcádio de Novotorzhk",
+        "type": "Monge",
+        "description": "Monge reverenciado na tradição ortodoxa oriental."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência do Paquistão",
+        "description": "Comemora a independência do Paquistão do domínio britânico em 14 de agosto de 1947."
+      },
+      {
+        "name": "Qaumee Dhuvas (Dia Nacional das Maldivas)",
+        "description": "Assinala a independência das Maldivas da Grã-Bretanha em 1965."
+      },
+      {
+        "name": "Dia Nacional do Espírito de '45 (EUA)",
+        "description": "Observado no segundo domingo de agosto, este dia marca a vitória Aliada sobre o Japão na Segunda Guerra Mundial, anunciada em 14 de agosto de 1945."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Há muitos anos, fizemos um encontro com o destino, e agora chega o momento em que cumpriremos a nossa promessa, não total ou plenamente, mas muito substancialmente. Ao soar da meia-noite, quando o mundo dorme, a Índia despertará para a vida e a liberdade. Chega um momento, que raramente chega na história, em que saímos do velho para o novo, quando uma era termina, e quando a alma de uma nação, há muito suprimida, encontra sua voz.",
+      "author": "Jawaharlal Nehru",
+      "context": "Jawaharlal Nehru, o primeiro Primeiro-Ministro da Índia, proferiu este icónico discurso 'Encontro com o Destino' à Assembleia Constituinte Indiana na véspera da Independência da Índia, por volta da meia-noite de 14 de agosto de 1947."
+    },
+    "motivationalQuote": {
+      "text": "Um pássaro não canta porque tem uma resposta; canta porque tem uma canção.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Halle Berry",
+        "description": "Atriz americana que se tornou a primeira afro-americana a ganhar o Oscar de Melhor Atriz.",
+        "year": "1966"
+      },
+      {
+        "name": "Steve Martin",
+        "description": "Um ator, comediante, produtor e roteirista americano aclamado pela crítica.",
+        "year": "1945"
+      },
+      {
+        "name": "Magic Johnson",
+        "description": "Ex-jogador de basquete profissional americano considerado um dos maiores armadores de todos os tempos.",
+        "year": "1959"
+      }
+    ],
+    "events": [
+      {
+        "title": "Rendição Incondicional do Japão (Dia V-J)",
+        "description": "O Japão anunciou sua rendição incondicional aos Aliados, encerrando efetivamente a Segunda Guerra Mundial.",
+        "year": "1945"
+      },
+      {
+        "title": "Paquistão Obtém Independência",
+        "description": "O Paquistão conquistou a independência do Império Britânico, marcando um momento significativo em sua história.",
+        "year": "1947"
+      },
+      {
+        "title": "Catedral de Colônia Concluída",
+        "description": "Após mais de 600 anos de construção, a monumental Catedral de Colônia na Alemanha, a maior igreja gótica do Norte da Europa, foi finalmente concluída.",
+        "year": "1880"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia da Independência do Paquistão",
+      "teaser": "Comemora a independência do Paquistão do domínio britânico em 14 de agosto de 1947."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Maximilià Kolbe",
+        "type": "Sacerdot i Màrtir",
+        "description": "Un sacerdot franciscà polonès que es va oferir voluntari per morir en lloc d'un altre presoner a Auschwitz durant la Segona Guerra Mundial, guanyant-se el títol de 'màrtir de la caritat'."
+      },
+      {
+        "name": "Profeta Miquees",
+        "type": "Profeta",
+        "description": "Un profeta de l'Antic Testament commemorat a l'Església Ortodoxa Oriental."
+      },
+      {
+        "name": "Sant Arcadi de Novotorjok",
+        "type": "Monjo",
+        "description": "Un monjo venerat en la tradició ortodoxa oriental."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència del Pakistan",
+        "description": "Commemora la independència del Pakistan del domini britànic el 14 d'agost de 1947."
+      },
+      {
+        "name": "Qaumee Dhuvas (Dia Nacional de les Maldives)",
+        "description": "Marca la independència de les Maldives de Gran Bretanya el 1965."
+      },
+      {
+        "name": "Dia de l'Esperit Nacional del '45 (EUA)",
+        "description": "Observat el segon diumenge d'agost, aquest dia marca la victòria dels Aliats sobre el Japó a la Segona Guerra Mundial, anunciada el 14 d'agost de 1945."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Fa molts anys, vam fer un pacte amb el destí, i ara arriba el moment en què complirem la nostra promesa, no totalment ni en tota la seva mesura, sinó de manera molt substancial. A la mitjanit, quan el món dormi, l'Índia despertarà a la vida i la llibertat. Arriba un moment, que només es dona rarament a la història, en què passem del vell al nou, quan una època acaba i quan l'ànima d'una nació, llargament reprimida, troba la seva expressió.",
+      "author": "Jawaharlal Nehru",
+      "context": "Jawaharlal Nehru, el primer primer ministre de l'Índia, va pronunciar aquest icònic discurs, 'Pacte amb el Destí', davant l'Assemblea Constituent de l'Índia la vigília de la Independència de l'Índia, cap a la mitjanit del 14 d'agost de 1947."
+    },
+    "motivationalQuote": {
+      "text": "Un ocell no canta perquè tingui una resposta; canta perquè té una cançó.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Halle Berry",
+        "description": "Una actriu estatunidenca que va ser la primera afroamericana a guanyar l'Oscar a la millor actriu.",
+        "year": "1966"
+      },
+      {
+        "name": "Steve Martin",
+        "description": "Un actor, comediant, productor i guionista estatunidenc aclamat per la crítica.",
+        "year": "1945"
+      },
+      {
+        "name": "Magic Johnson",
+        "description": "Un exjugador de bàsquet professional estatunidenc considerat un dels millors bases de tots els temps.",
+        "year": "1959"
+      }
+    ],
+    "events": [
+      {
+        "title": "Rendició Incondicional del Japó (Dia de la Victòria sobre el Japó)",
+        "description": "El Japó va anunciar la seva rendició incondicional als Aliats, posant fi efectivament a la Segona Guerra Mundial.",
+        "year": "1945"
+      },
+      {
+        "title": "El Pakistan Aconsegueix la Independència",
+        "description": "El Pakistan va aconseguir la independència de l'Imperi Britànic, marcant un moment significatiu en la seva història.",
+        "year": "1947"
+      },
+      {
+        "title": "La Catedral de Colònia Completada",
+        "description": "Després de més de 600 anys de construcció, la monumental Catedral de Colònia a Alemanya, l'església gòtica més gran del nord d'Europa, va ser finalment completada.",
+        "year": "1880"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de la Independència del Pakistan",
+      "teaser": "Commemora la independència del Pakistan del domini britànic el 14 d'agost de 1947."
+    }
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "date": "2026-08-15",
+  "es": {
+    "saints": [
+      {
+        "name": "Asunción de María (Católica) / Dormición de la Theotokos (Ortodoxa)",
+        "type": "Virgen María",
+        "description": "Esta festividad conmemora la creencia de que María, la madre de Jesús, fue asunta en cuerpo y alma al cielo al final de su vida terrenal."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia (India)",
+        "description": "Esta fiesta nacional conmemora la independencia de la India del dominio británico en 1947, tras una larga lucha de resistencia no violenta."
+      },
+      {
+        "name": "Día de la Liberación Nacional de Corea (Gwangbokjeol)",
+        "description": "Celebrado tanto en Corea del Norte como del Sur, este día festivo marca la liberación de la península coreana de 35 años de dominio colonial japonés en 1945."
+      },
+      {
+        "name": "Día Internacional de la Relajación",
+        "description": "Celebrado por primera vez en EE. UU. en 1985, este día está dedicado a animar a la gente de todo el mundo a tomarse un tiempo para relajarse y desestresarse."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Los discursos pasan, pero los actos quedan.",
+      "author": "Napoleón Bonaparte",
+      "context": "Napoleón Bonaparte, un estadista y líder militar francés que alcanzó prominencia durante la Revolución Francesa y más tarde se convirtió en Emperador, nació el 15 de agosto de 1769."
+    },
+    "motivationalQuote": {
+      "text": "Sé tú mismo; los demás puestos ya están ocupados.",
+      "author": "Oscar Wilde"
+    },
+    "births": [
+      {
+        "name": "Napoleón Bonaparte",
+        "description": "Un estadista y líder militar francés que dominó los asuntos europeos durante más de una década como Emperador de los franceses.",
+        "year": "1769"
+      },
+      {
+        "name": "Julia Child",
+        "description": "Una chef, autora y personalidad televisiva estadounidense a quien se le atribuye haber introducido la cocina francesa al público estadounidense.",
+        "year": "1912"
+      },
+      {
+        "name": "Ben Affleck",
+        "description": "Un actor, cineasta y guionista estadounidense, ampliamente reconocido por su trabajo en varias películas aclamadas.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Canal de Panamá se inaugura oficialmente",
+        "description": "Después de una década de construcción, el Canal de Panamá se abrió al tráfico, acortando significativamente las rutas marítimas entre los océanos Atlántico y Pacífico.",
+        "year": "1914"
+      },
+      {
+        "title": "India obtiene la independencia",
+        "description": "India logró la independencia del dominio británico, marcando un momento crucial en su historia y el fin del reinado colonial.",
+        "year": "1947"
+      },
+      {
+        "title": "Liberación coreana del dominio japonés",
+        "description": "La península coreana fue liberada del dominio colonial japonés después de 35 años, un día celebrado como el Día de la Liberación Nacional.",
+        "year": "1945"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la Independencia (India)",
+      "teaser": "Esta fiesta nacional conmemora la independencia de la India del dominio británico en 1947, tras una larga lucha de resistencia no violenta."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Assumption of Mary (Catholic) / Dormition of the Theotokos (Orthodox)",
+        "type": "Virgin Mary",
+        "description": "This feast commemorates the belief that Mary, the mother of Jesus, was taken body and soul into heaven at the end of her earthly life."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Independence Day (India)",
+        "description": "This national holiday commemorates India's independence from British rule in 1947, following a long struggle of non-violent resistance."
+      },
+      {
+        "name": "National Liberation Day of Korea (Gwangbokjeol)",
+        "description": "Celebrated in both North and South Korea, this public holiday marks the liberation of the Korean Peninsula from 35 years of Japanese colonial rule in 1945."
+      },
+      {
+        "name": "International Relaxation Day",
+        "description": "First celebrated in the USA in 1985, this day is dedicated to encouraging people worldwide to take time to relax and de-stress."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Speeches pass away, but acts remain.",
+      "author": "Napoleon Bonaparte",
+      "context": "Napoleon Bonaparte, a French statesman and military leader who rose to prominence during the French Revolution and later became Emperor, was born on August 15, 1769."
+    },
+    "motivationalQuote": {
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Oscar Wilde"
+    },
+    "births": [
+      {
+        "name": "Napoleon Bonaparte",
+        "description": "A French statesman and military leader who dominated European affairs for over a decade as Emperor of the French.",
+        "year": "1769"
+      },
+      {
+        "name": "Julia Child",
+        "description": "An American chef, author, and television personality credited with bringing French cuisine to the American public.",
+        "year": "1912"
+      },
+      {
+        "name": "Ben Affleck",
+        "description": "An American actor, filmmaker, and screenwriter, widely recognized for his work in various acclaimed films.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "Panama Canal Officially Opens",
+        "description": "After a decade of construction, the Panama Canal opened to traffic, significantly shortening maritime routes between the Atlantic and Pacific oceans.",
+        "year": "1914"
+      },
+      {
+        "title": "India Gains Independence",
+        "description": "India achieved independence from British rule, marking a pivotal moment in its history and the end of colonial reign.",
+        "year": "1947"
+      },
+      {
+        "title": "Korean Liberation from Japanese Rule",
+        "description": "The Korean Peninsula was liberated from Japanese colonial rule after 35 years, a day celebrated as National Liberation Day.",
+        "year": "1945"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Independence Day (India)",
+      "teaser": "This national holiday commemorates India's independence from British rule in 1947, following a long struggle of non-violent resistance."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Assunção de Maria (Católica) / Dormição da Theotokos (Ortodoxa)",
+        "type": "Virgem Maria",
+        "description": "Esta festa comemora a crença de que Maria, a mãe de Jesus, foi levada em corpo e alma para o céu no fim de sua vida terrena."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência (Índia)",
+        "description": "Este feriado nacional comemora a independência da Índia do domínio britânico em 1947, após uma longa luta de resistência não violenta."
+      },
+      {
+        "name": "Dia da Libertação Nacional da Coreia (Gwangbokjeol)",
+        "description": "Celebrado tanto na Coreia do Norte quanto na Coreia do Sul, este feriado público marca a libertação da Península Coreana de 35 anos de domínio colonial japonês em 1945."
+      },
+      {
+        "name": "Dia Internacional do Relaxamento",
+        "description": "Celebrado pela primeira vez nos EUA em 1985, este dia é dedicado a encorajar pessoas em todo o mundo a tirar um tempo para relaxar e desestressar."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Os discursos passam, mas os atos permanecem.",
+      "author": "Napoleão Bonaparte",
+      "context": "Napoleão Bonaparte, um estadista e líder militar francês que ascendeu à proeminência durante a Revolução Francesa e mais tarde se tornou Imperador, nasceu em 15 de agosto de 1769."
+    },
+    "motivationalQuote": {
+      "text": "Seja você mesmo; todos os outros lugares já estão ocupados.",
+      "author": "Oscar Wilde"
+    },
+    "births": [
+      {
+        "name": "Napoleão Bonaparte",
+        "description": "Um estadista e líder militar francês que dominou os assuntos europeus por mais de uma década como Imperador dos Franceses.",
+        "year": "1769"
+      },
+      {
+        "name": "Julia Child",
+        "description": "Uma chef, autora e personalidade televisiva americana creditada por ter trazido a culinária francesa ao público americano.",
+        "year": "1912"
+      },
+      {
+        "name": "Ben Affleck",
+        "description": "Um ator, cineasta e roteirista americano, amplamente reconhecido por seu trabalho em vários filmes aclamados.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "O Canal do Panamá é Inaugurado Oficialmente",
+        "description": "Após uma década de construção, o Canal do Panamá foi aberto ao tráfego, encurtando significativamente as rotas marítimas entre os oceanos Atlântico e Pacífico.",
+        "year": "1914"
+      },
+      {
+        "title": "Índia Conquista a Independência",
+        "description": "A Índia alcançou a independência do domínio britânico, marcando um momento crucial em sua história e o fim do reinado colonial.",
+        "year": "1947"
+      },
+      {
+        "title": "Libertação Coreana do Domínio Japonês",
+        "description": "A Península Coreana foi libertada do domínio colonial japonês após 35 anos, um dia celebrado como o Dia da Libertação Nacional.",
+        "year": "1945"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia da Independência (Índia)",
+      "teaser": "Este feriado nacional comemora a independência da Índia do domínio britânico em 1947, após uma longa luta de resistência não violenta."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Assumpció de Maria (catòlic) / Dormició de la Theotokos (ortodox)",
+        "type": "Mare de Déu",
+        "description": "Aquesta festivitat commemora la creença que Maria, la mare de Jesús, va ser portada en cos i ànima al cel al final de la seva vida terrenal."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència (Índia)",
+        "description": "Aquesta festa nacional commemora la independència de l'Índia del domini britànic el 1947, després d'una llarga lluita de resistència no-violenta."
+      },
+      {
+        "name": "Dia de l'Alliberament Nacional de Corea (Gwangbokjeol)",
+        "description": "Celebrat tant a Corea del Nord com a Corea del Sud, aquesta festa pública marca l'alliberament de la península coreana de 35 anys de domini colonial japonès el 1945."
+      },
+      {
+        "name": "Dia Internacional de la Relaxació",
+        "description": "Celebrat per primera vegada als EUA el 1985, aquest dia està dedicat a animar la gent de tot el món a prendre's un temps per relaxar-se i desestressar-se."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Els discursos passen, però els actes queden.",
+      "author": "Napoleó Bonaparte",
+      "context": "Napoleó Bonaparte, estadista i líder militar francès que va aconseguir prominència durant la Revolució Francesa i més tard es va convertir en Emperador, va néixer el 15 d'agost de 1769."
+    },
+    "motivationalQuote": {
+      "text": "Sigues tu mateix; tots els altres ja estan ocupats.",
+      "author": "Oscar Wilde"
+    },
+    "births": [
+      {
+        "name": "Napoleó Bonaparte",
+        "description": "Un estadista i líder militar francès que va dominar els afers europeus durant més d'una dècada com a Emperador dels Francesos.",
+        "year": "1769"
+      },
+      {
+        "name": "Julia Child",
+        "description": "Una xef, autora i personalitat televisiva nord-americana a qui s'atribueix haver introduït la cuina francesa al públic americà.",
+        "year": "1912"
+      },
+      {
+        "name": "Ben Affleck",
+        "description": "Un actor, cineasta i guionista nord-americà, àmpliament reconegut pel seu treball en diverses pel·lícules aclamades.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Canal de Panamà S'Obre Oficialment",
+        "description": "Després d'una dècada de construcció, el Canal de Panamà es va obrir al trànsit, escurçant significativament les rutes marítimes entre els oceans Atlàntic i Pacífic.",
+        "year": "1914"
+      },
+      {
+        "title": "L'Índia Aconsegueix la Independència",
+        "description": "L'Índia va aconseguir la independència del domini britànic, marcant un moment crucial en la seva història i la fi del regnat colonial.",
+        "year": "1947"
+      },
+      {
+        "title": "Alliberament Coreà del Domini Japonès",
+        "description": "La península coreana va ser alliberada del domini colonial japonès després de 35 anys, un dia celebrat com el Dia de l'Alliberament Nacional.",
+        "year": "1945"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de la Independència (Índia)",
+      "teaser": "Aquesta festa nacional commemora la independència de l'Índia del domini britànic el 1947, després d'una llarga lluita de resistència no-violenta."
+    }
+  }
+}

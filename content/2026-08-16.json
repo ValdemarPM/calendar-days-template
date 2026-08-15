@@ -1,0 +1,343 @@
+{
+  "date": "2026-08-16",
+  "es": {
+    "saints": [
+      {
+        "name": "San Esteban de Hungría",
+        "type": "Rey",
+        "description": "El primer Rey de Hungría, quien llevó a su país a abrazar la fe cristiana en el siglo XI. Fue conocido por su piedad personal, su cuidado por los pobres y por establecer leyes que promovían la justicia."
+      },
+      {
+        "name": "San Roque",
+        "type": "Confesor/Peregrino",
+        "description": "Un peregrino y confesor ampliamente venerado por sus milagrosos poderes de curación, especialmente de la peste. Dedicó su vida a cuidar a los enfermos."
+      },
+      {
+        "name": "San Diomedes",
+        "type": "Médico y Mártir",
+        "description": "Un médico y mártir de Tarso que practicaba la medicina sin cargo, convirtiendo a muchos al cristianismo a través de su compasión y curación antes de ser decapitado por su fe."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional del Ron",
+        "description": "Un día para celebrar el destilado de caña de azúcar, el ron, cuya forma moderna se desarrolló en el Caribe en el siglo XVII."
+      },
+      {
+        "name": "Día Nacional de la Montaña Rusa",
+        "description": "Conmemora la apertura de la primera montaña rusa patentada en EE. UU., la 'Gravity Pleasure Switchback Railway' de LaMarcus Adna Thompson, en Coney Island en 1878."
+      },
+      {
+        "name": "Día Nacional del Paracaidista",
+        "description": "Honra el primer salto en paracaídas del ejército de EE. UU. el 16 de agosto de 1940, marcando el comienzo del desarrollo de la infantería aerotransportada."
+      },
+      {
+        "name": "Onam",
+        "description": "Un importante festival de la cosecha de 10 días en Kerala, India, que celebra el regreso anual del mítico Rey Mahabali."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Todos los hombres sueñan, pero no por igual. Aquellos que sueñan de noche en los rincones polvorientos de sus mentes, al despertar encuentran que era vanidad: pero los soñadores del día son hombres peligrosos, porque pueden actuar sobre sus sueños con los ojos abiertos, para hacerlos posibles.",
+      "author": "T. E. Lawrence",
+      "context": "T. E. Lawrence, también conocido como Lawrence de Arabia, nació el 16 de agosto de 1888. Fue un arqueólogo, oficial militar, diplomático y escritor británico, famoso por su papel en la Revuelta Árabe durante la Primera Guerra Mundial."
+    },
+    "motivationalQuote": {
+      "text": "Puedes encontrar muchas derrotas, pero no debes ser derrotado. De hecho, puede ser necesario encontrar derrotas para que sepas quién eres, de qué puedes levantarte, cómo puedes salir de ello.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Madonna",
+        "description": "Una icónica cantante, compositora y actriz estadounidense, ampliamente conocida como la 'Reina del Pop', que ha tenido un profundo impacto en la cultura popular.",
+        "year": "1958"
+      },
+      {
+        "name": "James Cameron",
+        "description": "Un reconocido director de cine, guionista y productor canadiense, célebre por éxitos de taquilla como 'Titanic', 'Avatar' y 'Terminator'.",
+        "year": "1954"
+      },
+      {
+        "name": "Steve Carell",
+        "description": "Un aclamado actor, comediante, escritor y productor estadounidense, más conocido por sus papeles en 'The Office' y varias películas populares.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer mensaje telegráfico transatlántico enviado",
+        "description": "El primer cable telegráfico transatlántico fue inaugurado oficialmente con un intercambio de saludos entre el presidente de EE. UU. James Buchanan y la Reina Victoria de Gran Bretaña, simbolizando una nueva era de comunicación global.",
+        "year": "1858"
+      },
+      {
+        "title": "Chipre obtiene su independencia",
+        "description": "La nación insular de Chipre logró la plena independencia del Reino Unido, marcando un paso significativo en su soberanía e identidad nacional.",
+        "year": "1960"
+      },
+      {
+        "title": "La Universidad Imperial de Tohoku admite a las primeras estudiantes",
+        "description": "La Universidad Imperial de Tohoku (ahora Universidad de Tohoku) en Japón se convirtió en la primera universidad del país en admitir a estudiantes mujeres, un movimiento pionero para la educación femenina.",
+        "year": "1913"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional del Ron",
+      "teaser": "Un día para celebrar el destilado de caña de azúcar, el ron, cuya forma moderna se desarrolló en el Caribe en el siglo XVII."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Stephen of Hungary",
+        "type": "King",
+        "description": "The first King of Hungary, who led his country to embrace the Christian faith in the 11th century. He was known for his personal piety, care for the poor, and for establishing laws that promoted justice."
+      },
+      {
+        "name": "Saint Roch",
+        "type": "Confessor/Pilgrim",
+        "description": "A pilgrim and confessor widely venerated for his miraculous healing powers, especially from the plague. He dedicated his life to caring for the sick."
+      },
+      {
+        "name": "Saint Diomedes",
+        "type": "Physician and Martyr",
+        "description": "A physician and martyr from Tarsus who practiced medicine without charge, converting many to Christianity through his compassion and healing before being beheaded for his faith."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Rum Day",
+        "description": "A day to celebrate the distilled sugarcane spirit, rum, whose modern form developed in the 17th-century Caribbean."
+      },
+      {
+        "name": "National Roller Coaster Day",
+        "description": "Commemorates the opening of the first U.S. patented roller coaster, LaMarcus Adna Thompson's 'Gravity Pleasure Switchback Railway,' in Coney Island in 1878."
+      },
+      {
+        "name": "National Airborne Day",
+        "description": "Honors the U.S. Army's first parachute jump on August 16, 1940, marking the beginning of airborne infantry development."
+      },
+      {
+        "name": "Onam",
+        "description": "A significant 10-day harvest festival in Kerala, India, celebrating the annual return of the mythical King Mahabali."
+      }
+    ],
+    "historicalQuote": {
+      "text": "All men dream, but not equally. Those who dream by night in the dusty recesses of their minds, wake in the day to find that it was vanity: but the dreamers of the day are dangerous men, for they may act on their dreams with open eyes, to make them possible.",
+      "author": "T. E. Lawrence",
+      "context": "T. E. Lawrence, also known as Lawrence of Arabia, was born on August 16, 1888. He was a British archaeologist, military officer, diplomat, and writer, famous for his role in the Arab Revolt during World War I."
+    },
+    "motivationalQuote": {
+      "text": "You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter defeats, so you can know who you are, what you can rise from, how you can still come out of it.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Madonna",
+        "description": "An iconic American singer, songwriter, and actress, widely known as the 'Queen of Pop,' who has had a profound impact on popular culture.",
+        "year": "1958"
+      },
+      {
+        "name": "James Cameron",
+        "description": "A renowned Canadian film director, screenwriter, and producer, celebrated for blockbuster films like 'Titanic,' 'Avatar,' and 'The Terminator.'",
+        "year": "1954"
+      },
+      {
+        "name": "Steve Carell",
+        "description": "An acclaimed American actor, comedian, writer, and producer, best known for his roles in 'The Office' and various popular films.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Transatlantic Telegraph Message Sent",
+        "description": "The first transatlantic telegraph cable was officially inaugurated with an exchange of greetings between U.S. President James Buchanan and Britain's Queen Victoria, symbolizing a new era of global communication.",
+        "year": "1858"
+      },
+      {
+        "title": "Cyprus Gains Independence",
+        "description": "The island nation of Cyprus achieved full independence from the United Kingdom, marking a significant step in its sovereignty and national identity.",
+        "year": "1960"
+      },
+      {
+        "title": "Tohoku Imperial University Admits First Female Students",
+        "description": "Tohoku Imperial University (now Tohoku University) in Japan became the first university in the country to admit female students, a pioneering move for women's education.",
+        "year": "1913"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Rum Day",
+      "teaser": "A day to celebrate the distilled sugarcane spirit, rum, whose modern form developed in the 17th-century Caribbean."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Estêvão da Hungria",
+        "type": "Rei",
+        "description": "O primeiro Rei da Hungria, que levou seu país a abraçar a fé cristã no século XI. Ele era conhecido por sua piedade pessoal, cuidado com os pobres e por estabelecer leis que promoviam a justiça."
+      },
+      {
+        "name": "São Roque",
+        "type": "Confessor/Peregrino",
+        "description": "Um peregrino e confessor amplamente venerado por seus poderes de cura milagrosos, especialmente da peste. Ele dedicou sua vida a cuidar dos doentes."
+      },
+      {
+        "name": "São Diomedes",
+        "type": "Médico e Mártir",
+        "description": "Um médico e mártir de Tarso que praticava medicina gratuitamente, convertendo muitos ao Cristianismo através de sua compaixão e cura antes de ser decapitado por sua fé."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional do Rum",
+        "description": "Um dia para celebrar o destilado de cana-de-açúcar, o rum, cuja forma moderna se desenvolveu no Caribe do século XVII."
+      },
+      {
+        "name": "Dia Nacional da Montanha-Russa",
+        "description": "Comemora a abertura da primeira montanha-russa patenteada nos EUA, a 'Gravity Pleasure Switchback Railway' de LaMarcus Adna Thompson, em Coney Island em 1878."
+      },
+      {
+        "name": "Dia Nacional Aerotransportado",
+        "description": "Homenageia o primeiro salto de paraquedas do Exército dos EUA em 16 de agosto de 1940, marcando o início do desenvolvimento da infantaria aerotransportada."
+      },
+      {
+        "name": "Onam",
+        "description": "Um importante festival da colheita de 10 dias em Kerala, Índia, celebrando o retorno anual do mítico Rei Mahabali."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Todos os homens sonham, mas não igualmente. Aqueles que sonham à noite nos recessos empoeirados de suas mentes, acordam de dia para descobrir que foi vaidade: mas os sonhadores do dia são homens perigosos, pois podem agir sobre seus sonhos com os olhos abertos, para torná-los possíveis.",
+      "author": "T. E. Lawrence",
+      "context": "T. E. Lawrence, também conhecido como Lawrence da Arábia, nasceu em 16 de agosto de 1888. Foi um arqueólogo, oficial militar, diplomata e escritor britânico, famoso por seu papel na Revolta Árabe durante a Primeira Guerra Mundial."
+    },
+    "motivationalQuote": {
+      "text": "Você pode encontrar muitas derrotas, mas não deve ser derrotado. Na verdade, pode ser necessário encontrar derrotas para que você possa saber quem você é, do que pode se levantar, como ainda pode sair disso.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Madonna",
+        "description": "Uma icônica cantora, compositora e atriz americana, amplamente conhecida como a 'Rainha do Pop', que teve um profundo impacto na cultura popular.",
+        "year": "1958"
+      },
+      {
+        "name": "James Cameron",
+        "description": "Um renomado diretor de cinema, roteirista e produtor canadense, celebrado por filmes de sucesso como 'Titanic', 'Avatar' e 'O Exterminador do Futuro'.",
+        "year": "1954"
+      },
+      {
+        "name": "Steve Carell",
+        "description": "Um aclamado ator, comediante, escritor e produtor americano, mais conhecido por seus papéis em 'The Office' e vários filmes populares.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro Mensagem Telegráfica Transatlântica Enviada",
+        "description": "O primeiro cabo telegráfico transatlântico foi oficialmente inaugurado com uma troca de saudações entre o Presidente dos EUA, James Buchanan, e a Rainha Vitória da Grã-Bretanha, simbolizando uma nova era de comunicação global.",
+        "year": "1858"
+      },
+      {
+        "title": "Chipre Obtém Independência",
+        "description": "A nação insular de Chipre alcançou plena independência do Reino Unido, marcando um passo significativo em sua soberania e identidade nacional.",
+        "year": "1960"
+      },
+      {
+        "title": "Universidade Imperial de Tohoku Admite as Primeiras Estudantes",
+        "description": "A Universidade Imperial de Tohoku (agora Universidade de Tohoku) no Japão tornou-se a primeira universidade do país a admitir estudantes do sexo feminino, um movimento pioneiro para a educação da mulher.",
+        "year": "1913"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional do Rum",
+      "teaser": "Um dia para celebrar o destilado de cana-de-açúcar, o rum, cuja forma moderna se desenvolveu no Caribe do século XVII."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Esteve d'Hongria",
+        "type": "Rei",
+        "description": "El primer Rei d'Hongria, que va portar el seu país a abraçar la fe cristiana al segle XI. Era conegut per la seva pietat personal, la cura dels pobres i per establir lleis que promovien la justícia."
+      },
+      {
+        "name": "Sant Roc",
+        "type": "Confessor/Pelegrí",
+        "description": "Un pelegrí i confessor àmpliament venerat pels seus poders curatius miraculosos, especialment de la pesta. Va dedicar la seva vida a cuidar els malalts."
+      },
+      {
+        "name": "Sant Diomedes",
+        "type": "Metge i Màrtir",
+        "description": "Un metge i màrtir de Tars que practicava la medicina gratuïtament, convertint molts al cristianisme a través de la seva compassió i curació abans de ser decapitat per la seva fe."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional del Rom",
+        "description": "Un dia per celebrar l'esperit destil·lat de la canya de sucre, el rom, la forma moderna del qual es va desenvolupar al Carib del segle XVII."
+      },
+      {
+        "name": "Dia Nacional de la Muntanya Russa",
+        "description": "Commemora l'obertura de la primera muntanya russa patentada als EUA, la 'Gravity Pleasure Switchback Railway' de LaMarcus Adna Thompson, a Coney Island el 1878."
+      },
+      {
+        "name": "Dia Nacional dels Paracaigudistes",
+        "description": "Honora el primer salt en paracaigudes de l'Exèrcit dels EUA el 16 d'agost de 1940, marcant l'inici del desenvolupament de la infanteria aerotransportada."
+      },
+      {
+        "name": "Onam",
+        "description": "Un important festival de la collita de 10 dies a Kerala, Índia, que celebra el retorn anual del mític Rei Mahabali."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tots els homes somien, però no igual. Aquells que somien de nit en els racons polsosos de les seves ments, es desperten de dia per trobar que era vanitat: però els somiadors del dia són homes perillosos, perquè poden actuar sobre els seus somnis amb els ulls oberts, per fer-los possibles.",
+      "author": "T. E. Lawrence",
+      "context": "T. E. Lawrence, també conegut com Lawrence d'Aràbia, va néixer el 16 d'agost de 1888. Va ser un arqueòleg, oficial militar, diplomàtic i escriptor britànic, famós pel seu paper a la Revolta Àrab durant la Primera Guerra Mundial."
+    },
+    "motivationalQuote": {
+      "text": "Pots trobar moltes derrotes, però no has de ser derrotat. De fet, pot ser necessari trobar derrotes, perquè puguis saber qui ets, de què pots aixecar-te, com pots sortir-ne encara.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "Madonna",
+        "description": "Una icònica cantant, compositora i actriu nord-americana, àmpliament coneguda com la 'Reina del Pop', que ha tingut un profund impacte en la cultura popular.",
+        "year": "1958"
+      },
+      {
+        "name": "James Cameron",
+        "description": "Un reconegut director de cinema, guionista i productor canadenc, celebrat per pel·lícules de gran èxit com 'Titanic', 'Avatar' i 'Terminator'.",
+        "year": "1954"
+      },
+      {
+        "name": "Steve Carell",
+        "description": "Un aclamat actor, còmic, escriptor i productor nord-americà, més conegut pels seus papers a 'The Office' i diverses pel·lícules populars.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Missatge Telegràfic Transatlàntic Enviat",
+        "description": "El primer cable telegràfic transatlàntic es va inaugurar oficialment amb un intercanvi de salutacions entre el president dels EUA James Buchanan i la reina Victòria del Regne Unit, simbolitzant una nova era de comunicació global.",
+        "year": "1858"
+      },
+      {
+        "title": "Xipre Aconsegueix la Independència",
+        "description": "La nació insular de Xipre va assolir la plena independència del Regne Unit, marcant un pas significatiu en la seva sobirania i identitat nacional.",
+        "year": "1960"
+      },
+      {
+        "title": "La Universitat Imperial de Tohoku Admet les Primeres Estudiants",
+        "description": "La Universitat Imperial de Tohoku (ara Universitat de Tohoku) al Japó va esdevenir la primera universitat del país a admetre estudiants femenines, un pas pioner per a l'educació de les dones.",
+        "year": "1913"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional del Rom",
+      "teaser": "Un dia per celebrar l'esperit destil·lat de la canya de sucre, el rom, la forma moderna del qual es va desenvolupar al Carib del segle XVII."
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-17",
+  "es": {
+    "saints": [
+      {
+        "name": "San Jacinto de Polonia",
+        "type": "Sacerdote y Misionero",
+        "description": "Nacido en la nobleza alrededor de 1185, San Jacinto se convirtió en uno de los primeros dominicos y fue enviado por Santo Domingo a predicar y establecer la Orden en Polonia, viajando extensamente y convirtiendo a muchos."
+      },
+      {
+        "name": "San Mamés",
+        "type": "Mártir",
+        "description": "Nacido en prisión en el siglo III de padres cristianos que murieron por su fe, San Mamas fue criado por una viuda cristiana y más tarde se convirtió en ermitaño, conocido por su habilidad para domar animales salvajes y por soportar la tortura por sus creencias."
+      },
+      {
+        "name": "Papa Eusebio",
+        "type": "Papa y Mártir",
+        "description": "Sirviendo como Papa a principios del siglo IV, Eusebio se enfrentó a una violenta disputa en Roma sobre la readmisión de apóstatas después de la persecución, lo que lo llevó a su exilio a Sicilia, donde murió poco después."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Independencia de Indonesia",
+        "description": "Esta fiesta nacional conmemora la declaración de independencia de Indonesia de los Países Bajos el 17 de agosto de 1945."
+      },
+      {
+        "name": "Día de la Independencia de Gabón",
+        "description": "Este día celebra la independencia de Gabón de Francia, lograda el 17 de agosto de 1960."
+      },
+      {
+        "name": "Día Nacional de la Tienda de Segunda Mano",
+        "description": "Una celebración no oficial en EE. UU. dedicada a celebrar el valor de las compras de segunda mano y a apoyar las tiendas de segunda mano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si la libertad significa algo, significa el derecho a decir a la gente lo que no quiere oír.",
+      "author": "George Orwell",
+      "context": "La novela alegórica de George Orwell, Rebelión en la granja, una crítica del totalitarismo y el poder, se publicó por primera vez el 17 de agosto de 1945."
+    },
+    "motivationalQuote": {
+      "text": "No te esfuerces por ser un éxito, sino por ser de valor.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Davy Crockett",
+        "description": "Un héroe popular, pionero, soldado y político estadounidense, famosamente conocido como el 'Rey de la Frontera Salvaje'.",
+        "year": "1786"
+      },
+      {
+        "name": "Mae West",
+        "description": "Una icónica actriz de cine y teatro, cantante y guionista estadounidense, reconocida por su personalidad provocadora e ingeniosa.",
+        "year": "1893"
+      },
+      {
+        "name": "Robert De Niro",
+        "description": "Un actor y productor de cine estadounidense muy aclamado, conocido por sus versátiles interpretaciones en una amplia gama de películas.",
+        "year": "1943"
+      }
+    ],
+    "events": [
+      {
+        "title": "Indonesia Declara su Independencia",
+        "description": "Sukarno y Mohammad Hatta proclamaron la independencia de Indonesia, iniciando la Revolución Nacional Indonesia contra el Imperio Neerlandés.",
+        "year": "1945"
+      },
+      {
+        "title": "Comienza el Primer Servicio Comercial de Barcos de Vapor",
+        "description": "El barco de vapor North River de Robert Fulton (más tarde conocido como Clermont) emprendió su viaje inaugural desde la ciudad de Nueva York hasta Albany, estableciendo el primer servicio comercial de barcos de vapor del mundo.",
+        "year": "1807"
+      },
+      {
+        "title": "Primer Vuelo Transatlántico en Globo Completado",
+        "description": "El Double Eagle II, tripulado por Ben Abruzzo, Maxie Anderson y Larry Newman, aterrizó con éxito cerca de París, completando el primer vuelo transatlántico en globo de la historia.",
+        "year": "1978"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la Independencia de Indonesia",
+      "teaser": "Esta fiesta nacional conmemora la declaración de independencia de Indonesia de los Países Bajos el 17 de agosto de 1945."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Hyacinth of Poland",
+        "type": "Priest and Missionary",
+        "description": "Born into nobility around 1185, St. Hyacinth became one of the first Dominicans and was sent by St. Dominic to preach and establish the Order in Poland, traveling extensively and converting many."
+      },
+      {
+        "name": "St. Mamas",
+        "type": "Martyr",
+        "description": "Born in prison in the 3rd century to Christian parents who died for their faith, St. Mamas was raised by a Christian widow and later became a hermit, known for his ability to tame wild animals and for enduring torture for his beliefs."
+      },
+      {
+        "name": "Pope Eusebius",
+        "type": "Pope and Martyr",
+        "description": "Serving as Pope in the early 4th century, Eusebius faced a violent dispute in Rome over the readmission of apostates after persecution, leading to his exile to Sicily where he died shortly after."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Indonesia Independence Day",
+        "description": "This national holiday commemorates Indonesia's declaration of independence from the Netherlands on August 17, 1945."
+      },
+      {
+        "name": "Gabon Independence Day",
+        "description": "This day celebrates Gabon's independence from France, achieved on August 17, 1960."
+      },
+      {
+        "name": "National Thrift Shop Day",
+        "description": "An unofficial observance in the U.S. dedicated to celebrating the value of secondhand shopping and supporting thrift stores."
+      }
+    ],
+    "historicalQuote": {
+      "text": "If liberty means anything at all it means the right to tell people what they do not want to hear.",
+      "author": "George Orwell",
+      "context": "George Orwell's allegorical novella, Animal Farm, a critique of totalitarianism and power, was first published on August 17, 1945."
+    },
+    "motivationalQuote": {
+      "text": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Davy Crockett",
+        "description": "An American folk hero, frontiersman, soldier, and politician, famously known as the 'King of the Wild Frontier'.",
+        "year": "1786"
+      },
+      {
+        "name": "Mae West",
+        "description": "An iconic American film and stage actress, singer, and screenwriter, recognized for her provocative and witty persona.",
+        "year": "1893"
+      },
+      {
+        "name": "Robert De Niro",
+        "description": "A highly acclaimed American actor and film producer, known for his versatile performances in a wide range of films.",
+        "year": "1943"
+      }
+    ],
+    "events": [
+      {
+        "title": "Indonesia Declares Independence",
+        "description": "Sukarno and Mohammad Hatta proclaimed the independence of Indonesia, initiating the Indonesian National Revolution against the Dutch Empire.",
+        "year": "1945"
+      },
+      {
+        "title": "First Commercial Steamboat Service Begins",
+        "description": "Robert Fulton's North River Steamboat (later known as Clermont) embarked on its inaugural journey from New York City to Albany, establishing the world's first commercial steamboat service.",
+        "year": "1807"
+      },
+      {
+        "title": "First Transatlantic Balloon Flight Completed",
+        "description": "The Double Eagle II, crewed by Ben Abruzzo, Maxie Anderson, and Larry Newman, successfully landed near Paris, completing the first-ever transatlantic balloon flight.",
+        "year": "1978"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Indonesia Independence Day",
+      "teaser": "This national holiday commemorates Indonesia's declaration of independence from the Netherlands on August 17, 1945."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Jacinto da Polônia",
+        "type": "Sacerdote e Missionário",
+        "description": "Nascido na nobreza por volta de 1185, São Jacinto tornou-se um dos primeiros dominicanos e foi enviado por São Domingos para pregar e estabelecer a Ordem na Polônia, viajando extensivamente e convertendo muitos."
+      },
+      {
+        "name": "São Mamede",
+        "type": "Mártir",
+        "description": "Nascido na prisão no século III de pais cristãos que morreram por sua fé, São Mamas foi criado por uma viúva cristã e mais tarde tornou-se um eremita, conhecido por sua habilidade de domar animais selvagens e por suportar torturas por suas crenças."
+      },
+      {
+        "name": "Papa Eusébio",
+        "type": "Papa e Mártir",
+        "description": "Servindo como Papa no início do século IV, Eusébio enfrentou uma violenta disputa em Roma sobre a readmissão de apóstatas após a perseguição, o que levou ao seu exílio para a Sicília, onde morreu pouco depois."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Independência da Indonésia",
+        "description": "Este feriado nacional comemora a declaração de independência da Indonésia dos Países Baixos em 17 de agosto de 1945."
+      },
+      {
+        "name": "Dia da Independência do Gabão",
+        "description": "Este dia celebra a independência do Gabão da França, alcançada em 17 de agosto de 1960."
+      },
+      {
+        "name": "Dia Nacional da Loja de Segunda Mão",
+        "description": "Uma observância não oficial nos EUA dedicada a celebrar o valor das compras de segunda mão e apoiar lojas de segunda mão."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Se a liberdade significa algo, significa o direito de dizer às pessoas o que elas não querem ouvir.",
+      "author": "George Orwell",
+      "context": "A novela alegórica de George Orwell, A Revolução dos Bichos, uma crítica ao totalitarismo e ao poder, foi publicada pela primeira vez em 17 de agosto de 1945."
+    },
+    "motivationalQuote": {
+      "text": "Não te esforces para ser um sucesso, mas sim para ser de valor.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Davy Crockett",
+        "description": "Um herói popular americano, pioneiro, soldado e político, famoso como o 'Rei da Fronteira Selvagem'.",
+        "year": "1786"
+      },
+      {
+        "name": "Mae West",
+        "description": "Uma icônica atriz de cinema e teatro, cantora e roteirista americana, reconhecida por sua persona provocadora e espirituosa.",
+        "year": "1893"
+      },
+      {
+        "name": "Robert De Niro",
+        "description": "Um ator e produtor de cinema americano altamente aclamado, conhecido por suas atuações versáteis em uma ampla gama de filmes.",
+        "year": "1943"
+      }
+    ],
+    "events": [
+      {
+        "title": "Indonésia Declara Independência",
+        "description": "Sukarno e Mohammad Hatta proclamaram a independência da Indonésia, iniciando a Revolução Nacional Indonésia contra o Império Holandês.",
+        "year": "1945"
+      },
+      {
+        "title": "Início do Primeiro Serviço Comercial de Barcos a Vapor",
+        "description": "O barco a vapor North River de Robert Fulton (mais tarde conhecido como Clermont) embarcou em sua viagem inaugural da cidade de Nova York para Albany, estabelecendo o primeiro serviço comercial de barco a vapor do mundo.",
+        "year": "1807"
+      },
+      {
+        "title": "Primeiro Voo Transatlântico de Balão Concluído",
+        "description": "O Double Eagle II, tripulado por Ben Abruzzo, Maxie Anderson e Larry Newman, aterrissou com sucesso perto de Paris, completando o primeiro voo transatlântico de balão da história.",
+        "year": "1978"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia da Independência da Indonésia",
+      "teaser": "Este feriado nacional comemora a declaração de independência da Indonésia dos Países Baixos em 17 de agosto de 1945."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Jacint de Polònia",
+        "type": "Prevere i Missioner",
+        "description": "Nascut en la noblesa al voltant del 1185, Sant Jacint es va convertir en un dels primers dominics i va ser enviat per Sant Domènec a predicar i establir l'Orde a Polònia, viatjant extensament i convertint-ne molts."
+      },
+      {
+        "name": "Mamet de Cesarea",
+        "type": "Màrtir",
+        "description": "Nascut a la presó al segle III de pares cristians que van morir per la seva fe, Sant Mamant va ser criat per una vídua cristiana i més tard es va convertir en ermità, conegut per la seva capacitat per domar animals salvatges i per suportar la tortura per les seves creences."
+      },
+      {
+        "name": "Papa Eusebi",
+        "type": "Papa i Màrtir",
+        "description": "Servint com a Papa a principis del segle IV, Eusebi es va enfrontar a una disputa violenta a Roma per la readmissió dels apòstates després de la persecució, cosa que va portar al seu exili a Sicília on va morir poc després."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Independència d'Indonèsia",
+        "description": "Aquesta festa nacional commemora la declaració d'independència d'Indonèsia dels Països Baixos el 17 d'agost de 1945."
+      },
+      {
+        "name": "Dia de la Independència del Gabon",
+        "description": "Aquest dia celebra la independència del Gabon de França, aconseguida el 17 d'agost de 1960."
+      },
+      {
+        "name": "Dia Nacional de les Botigues de Segona Mà",
+        "description": "Una commemoració no oficial als EUA dedicada a celebrar el valor de les compres de segona mà i a donar suport a les botigues d'articles usats."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si la llibertat significa alguna cosa, significa el dret a dir a la gent el que no vol sentir.",
+      "author": "George Orwell",
+      "context": "La novel·la al·legòrica de George Orwell, La rebel·lió dels animals, una crítica al totalitarisme i al poder, es va publicar per primera vegada el 17 d'agost de 1945."
+    },
+    "motivationalQuote": {
+      "text": "No us esforceu per ser un èxit, sinó per ser de valor.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Davy Crockett",
+        "description": "Un heroi popular americà, pioner, soldat i polític, famosament conegut com el 'Rei de la Frontera Salvatge'.",
+        "year": "1786"
+      },
+      {
+        "name": "Mae West",
+        "description": "Una icònica actriu de cinema i teatre, cantant i guionista americana, reconeguda per la seva personalitat provocadora i enginyosa.",
+        "year": "1893"
+      },
+      {
+        "name": "Robert De Niro",
+        "description": "Un aclamat actor i productor de cinema americà, conegut per les seves interpretacions versàtils en una àmplia gamma de pel·lícules.",
+        "year": "1943"
+      }
+    ],
+    "events": [
+      {
+        "title": "Indonèsia Declara la Independència",
+        "description": "Sukarno i Mohammad Hatta van proclamar la independència d'Indonèsia, iniciant la Revolució Nacional Indonèsia contra l'Imperi Neerlandès.",
+        "year": "1945"
+      },
+      {
+        "title": "Comença el Primer Servei Comercial de Vaixells de Vapor",
+        "description": "El vaixell de vapor North River de Robert Fulton (més tard conegut com a Clermont) va iniciar el seu viatge inaugural des de la ciutat de Nova York fins a Albany, establint el primer servei comercial de vaixells de vapor del món.",
+        "year": "1807"
+      },
+      {
+        "title": "Completat el Primer Vol Transatlàntic en Globus",
+        "description": "El Double Eagle II, tripulat per Ben Abruzzo, Maxie Anderson i Larry Newman, va aterrar amb èxit prop de París, completant el primer vol transatlàntic en globus de la història.",
+        "year": "1978"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de la Independència d'Indonèsia",
+      "teaser": "Aquesta festa nacional commemora la declaració d'independència d'Indonèsia dels Països Baixos el 17 d'agost de 1945."
+    }
+  }
+}

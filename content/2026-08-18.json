@@ -1,0 +1,307 @@
+{
+  "date": "2026-08-18",
+  "es": {
+    "saints": [
+      {
+        "name": "San Floro y Lauro",
+        "type": "Mártires, Canteros",
+        "description": "Estos hermanos, que eran canteros en Iliria en el siglo II, enseñaron sobre la vida cristiana mientras trabajaban en un templo pagano. Ayudaron a curar al hijo de un sacerdote, lo que llevó a muchas conversiones, y finalmente fueron martirizados por su fe junto con otros 300 cristianos."
+      },
+      {
+        "name": "San Agapito de Palestrina",
+        "type": "Mártir",
+        "description": "San Agapito fue un joven de quince años que fue arrestado, torturado y decapitado en el año 274 por proclamar públicamente su fe cristiana durante la persecución aureliana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Constitución de Indonesia",
+        "description": "Este día conmemora la adopción de la primera constitución de Indonesia el 18 de agosto de 1945, un día después de su proclamación de independencia, estableciendo el marco legal de la nueva república."
+      },
+      {
+        "name": "Día de Long Tan",
+        "description": "Observado en Australia y Nueva Zelanda, este día marca la Batalla de Long Tan el 18 de agosto de 1966, donde las fuerzas ANZAC libraron un enfrentamiento significativo durante la Guerra de Vietnam."
+      },
+      {
+        "name": "Día de Nunca Rendirse",
+        "description": "Esta conmemoración anima a las personas a mantenerse motivadas y resilientes al establecer y lograr metas, sin importar los desafíos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El fracaso es imposible.",
+      "author": "Susan B. Anthony",
+      "context": "Aunque no pronunciada en esta fecha específica, este famoso grito de guerra de la sufragista Susan B. Anthony encapsula el espíritu del movimiento por el sufragio femenino, que logró su éxito monumental el 18 de agosto de 1920, con la ratificación de la 19ª Enmienda, que garantizaba a las mujeres el derecho al voto en los Estados Unidos."
+    },
+    "motivationalQuote": {
+      "text": "Si no puedes volar, corre; si no puedes correr, camina; si no puedes caminar, gatea; pero hagas lo que hagas, tienes que seguir avanzando.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Robert Redford",
+        "description": "Un consumado actor y cineasta estadounidense con una prolífica carrera que abarca más de seis décadas, conocido por fundar el Festival de Cine de Sundance.",
+        "year": "1936"
+      },
+      {
+        "name": "Patrick Swayze",
+        "description": "Un versátil actor, bailarín y cantautor estadounidense, que interpretó memorables personajes principales en varios géneros cinematográficos.",
+        "year": "1952"
+      },
+      {
+        "name": "Edward Norton",
+        "description": "Un reconocido actor, productor y director estadounidense, reconocido por sus interpretaciones versátiles y muy elogiadas en varias películas aclamadas.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Ratificada la 19ª Enmienda a la Constitución de EE. UU.",
+        "description": "Tennessee ratificó la 19ª Enmienda, otorgando a las mujeres estadounidenses el derecho al voto, después de décadas de defensa y convirtiéndose en el 36º estado en aprobarla.",
+        "year": "1920"
+      },
+      {
+        "title": "Descubrimiento de Fobos",
+        "description": "El astrónomo estadounidense Asaph Hall descubrió Fobos, una de las dos lunas de Marte, que orbita a solo 3.700 millas de la superficie del planeta.",
+        "year": "1877"
+      },
+      {
+        "title": "Dedicado el Puente de las Mil Islas",
+        "description": "El Puente de las Mil Islas, que conecta el estado de Nueva York, Estados Unidos, con Ontario, Canadá, sobre el río San Lorenzo, fue dedicado por el presidente de los EE. UU., Franklin D. Roosevelt.",
+        "year": "1938"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la Constitución de Indonesia",
+      "teaser": "Este día conmemora la adopción de la primera constitución de Indonesia el 18 de agosto de 1945, un día después de su proclamación de independencia, estableciendo el marco legal de la nueva república."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saints Florus and Laurus",
+        "type": "Martyrs, Stonemasons",
+        "description": "These brothers, who were stonemasons in Illyria in the 2nd century, taught about Christian life while working on a pagan temple. They helped heal a priest's son, leading to many conversions, and were eventually martyred for their faith alongside 300 other Christians."
+      },
+      {
+        "name": "Saint Agapitus of Palestrina",
+        "type": "Martyr",
+        "description": "St. Agapitus was a fifteen-year-old youth who was arrested, tortured, and beheaded in 274 for publicly proclaiming his Christian faith during the Aurelian Persecution."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Indonesia Constitution Day",
+        "description": "This day commemorates the adoption of Indonesia's first constitution on August 18, 1945, a day after its independence proclamation, establishing the new republic's legal framework."
+      },
+      {
+        "name": "Long Tan Day",
+        "description": "Observed in Australia and New Zealand, this day marks the Battle of Long Tan on August 18, 1966, where ANZAC forces fought a significant engagement during the Vietnam War."
+      },
+      {
+        "name": "Never Give Up Day",
+        "description": "This observance encourages individuals to stay motivated and resilient by setting and achieving goals, no matter the challenges."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Failure is impossible.",
+      "author": "Susan B. Anthony",
+      "context": "While not uttered on this specific date, this famous rallying cry by suffragist Susan B. Anthony encapsulates the spirit of the women's suffrage movement, which achieved its monumental success on August 18, 1920, with the ratification of the 19th Amendment, guaranteeing women the right to vote in the United States."
+    },
+    "motivationalQuote": {
+      "text": "If you can't fly then run, if you can't run then walk, if you can't walk then crawl, but whatever you do you have to keep moving forward.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Robert Redford",
+        "description": "An accomplished American actor and filmmaker with a prolific career spanning over six decades, known for founding the Sundance Film Festival.",
+        "year": "1936"
+      },
+      {
+        "name": "Patrick Swayze",
+        "description": "A versatile American actor, dancer, and singer-songwriter, who portrayed memorable lead characters in various film genres.",
+        "year": "1952"
+      },
+      {
+        "name": "Edward Norton",
+        "description": "A renowned American actor, producer, and director recognized for his versatile and highly praised performances in various acclaimed movies.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "19th Amendment to U.S. Constitution Ratified",
+        "description": "Tennessee ratified the 19th Amendment, granting American women the right to vote, after decades of advocacy and becoming the 36th state to approve it.",
+        "year": "1920"
+      },
+      {
+        "title": "Discovery of Phobos",
+        "description": "American astronomer Asaph Hall discovered Phobos, one of Mars's two moons, which orbits only 3,700 miles from the planet's surface.",
+        "year": "1877"
+      },
+      {
+        "title": "Thousand Islands Bridge Dedicated",
+        "description": "The Thousand Islands Bridge, connecting New York State, United States, with Ontario, Canada, over the St. Lawrence River, was dedicated by U.S. President Franklin D. Roosevelt.",
+        "year": "1938"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Indonesia Constitution Day",
+      "teaser": "This day commemorates the adoption of Indonesia's first constitution on August 18, 1945, a day after its independence proclamation, establishing the new republic's legal framework."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Floro e Lauro",
+        "type": "Mártires, Pedreiros",
+        "description": "Esses irmãos, que eram pedreiros na Ilíria no século II, ensinaram sobre a vida cristã enquanto trabalhavam em um templo pagão. Eles ajudaram a curar o filho de um sacerdote, levando a muitas conversões, e foram eventualmente martirizados por sua fé junto com outros 300 cristãos."
+      },
+      {
+        "name": "Santo Agapito de Palestrina",
+        "type": "Mártir",
+        "description": "Santo Agapito era um jovem de quinze anos que foi preso, torturado e decapitado em 274 por proclamar publicamente sua fé cristã durante a Perseguição Aureliana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Constituição da Indonésia",
+        "description": "Este dia comemora a adoção da primeira constituição da Indonésia em 18 de agosto de 1945, um dia após sua proclamação de independência, estabelecendo o quadro legal da nova república."
+      },
+      {
+        "name": "Dia de Long Tan",
+        "description": "Observado na Austrália e Nova Zelândia, este dia marca a Batalha de Long Tan em 18 de agosto de 1966, onde as forças ANZAC travaram um confronto significativo durante a Guerra do Vietnã."
+      },
+      {
+        "name": "Dia de Nunca Desistir",
+        "description": "Esta comemoração incentiva os indivíduos a se manterem motivados e resilientes, estabelecendo e alcançando metas, independentemente dos desafios."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O fracasso é impossível.",
+      "author": "Susan B. Anthony",
+      "context": "Embora não proferida nesta data específica, este famoso grito de guerra da sufragista Susan B. Anthony encapsula o espírito do movimento sufragista feminino, que alcançou seu sucesso monumental em 18 de agosto de 1920, com a ratificação da 19ª Emenda, garantindo às mulheres o direito ao voto nos Estados Unidos."
+    },
+    "motivationalQuote": {
+      "text": "Se você não pode voar, então corra; se não pode correr, então ande; se não pode andar, então rasteje; mas faça o que fizer, você tem que continuar avançando.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Robert Redford",
+        "description": "Um realizado ator e cineasta americano com uma carreira prolífica que abrange mais de seis décadas, conhecido por fundar o Festival de Cinema de Sundance.",
+        "year": "1936"
+      },
+      {
+        "name": "Patrick Swayze",
+        "description": "Um versátil ator, dançarino e cantor-compositor americano, que interpretou personagens principais memoráveis em vários gêneros cinematográficos.",
+        "year": "1952"
+      },
+      {
+        "name": "Edward Norton",
+        "description": "Um renomado ator, produtor e diretor americano, reconhecido por suas atuações versáteis e muito elogiadas em vários filmes aclamados.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "19ª Emenda à Constituição dos EUA Ratificada",
+        "description": "O Tennessee ratificou a 19ª Emenda, concedendo às mulheres americanas o direito ao voto, após décadas de defesa e tornando-se o 36º estado a aprová-la.",
+        "year": "1920"
+      },
+      {
+        "title": "Descoberta de Fobos",
+        "description": "O astrônomo americano Asaph Hall descobriu Fobos, uma das duas luas de Marte, que orbita a apenas 3.700 milhas da superfície do planeta.",
+        "year": "1877"
+      },
+      {
+        "title": "Ponte das Mil Ilhas Dedicada",
+        "description": "A Ponte das Mil Ilhas, conectando o estado de Nova York, Estados Unidos, com Ontário, Canadá, sobre o Rio São Lourenço, foi dedicada pelo presidente dos EUA, Franklin D. Roosevelt.",
+        "year": "1938"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia da Constituição da Indonésia",
+      "teaser": "Este dia comemora a adoção da primeira constituição da Indonésia em 18 de agosto de 1945, um dia após sua proclamação de independência, estabelecendo o quadro legal da nova república."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sants Florus i Laurus",
+        "type": "Màrtirs, picapedrers",
+        "description": "Aquests germans, picapedrers a Il·líria al segle II, van ensenyar sobre la vida cristiana mentre treballaven en un temple pagà. Van ajudar a curar el fill d'un sacerdot, la qual cosa va portar a moltes conversions, i finalment van ser martiritzats per la seva fe juntament amb 300 altres cristians."
+      },
+      {
+        "name": "Sant Agapit de Palestrina",
+        "type": "Màrtir",
+        "description": "Sant Agapit era un jove de quinze anys que va ser arrestat, torturat i decapitat l'any 274 per proclamar públicament la seva fe cristiana durant la persecució aureliana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Constitució d'Indonèsia",
+        "description": "Aquest dia commemora l'adopció de la primera constitució d'Indonèsia el 18 d'agost de 1945, un dia després de la seva proclamació d'independència, establint el marc legal de la nova república."
+      },
+      {
+        "name": "Dia de Long Tan",
+        "description": "Observat a Austràlia i Nova Zelanda, aquest dia commemora la Batalla de Long Tan el 18 d'agost de 1966, on les forces ANZAC van lliurar un important combat durant la Guerra del Vietnam."
+      },
+      {
+        "name": "Dia de Mai Rendir-se",
+        "description": "Aquesta observança anima els individus a mantenir-se motivats i resilients establint i assolint metes, sense importar els reptes."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El fracàs és impossible.",
+      "author": "Susan B. Anthony",
+      "context": "Tot i que no pronunciada en aquesta data específica, aquest famós crit de guerra de la sufragista Susan B. Anthony encapsula l'esperit del moviment sufragista femení, que va aconseguir el seu èxit monumental el 18 d'agost de 1920, amb la ratificació de la 19a Esmena, garantint a les dones el dret a vot als Estats Units."
+    },
+    "motivationalQuote": {
+      "text": "Si no pots volar, corre; si no pots córrer, camina; si no pots caminar, arrossega't, però facis el que facis, has de seguir avançant.",
+      "author": "Martin Luther King Jr."
+    },
+    "births": [
+      {
+        "name": "Robert Redford",
+        "description": "Un actor i cineasta nord-americà consumat amb una prolífica carrera que abasta més de sis dècades, conegut per fundar el Festival de Cinema de Sundance.",
+        "year": "1936"
+      },
+      {
+        "name": "Patrick Swayze",
+        "description": "Un actor, ballarí i cantautor nord-americà versàtil, que va interpretar personatges principals memorables en diversos gèneres cinematogràfics.",
+        "year": "1952"
+      },
+      {
+        "name": "Edward Norton",
+        "description": "Un reconegut actor, productor i director nord-americà, reconegut per les seves interpretacions versàtils i molt elogiades en diverses pel·lícules aclamades.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Ratificació de la 19a Esmena de la Constitució dels EUA",
+        "description": "Tennessee va ratificar la 19a Esmena, atorgant a les dones americanes el dret a vot, després de dècades de defensa i esdevenint el 36è estat a aprovar-la.",
+        "year": "1920"
+      },
+      {
+        "title": "Descobriment de Fobos",
+        "description": "L'astrònom nord-americà Asaph Hall va descobrir Fobos, una de les dues llunes de Mart, que orbita a només 3.700 milles de la superfície del planeta.",
+        "year": "1877"
+      },
+      {
+        "title": "Dedicació del Pont de les Mil Illes",
+        "description": "El Pont de les Mil Illes, que connecta l'estat de Nova York, Estats Units, amb Ontario, Canadà, sobre el riu Sant Llorenç, va ser dedicat pel president dels EUA, Franklin D. Roosevelt.",
+        "year": "1938"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de la Constitució d'Indonèsia",
+      "teaser": "Aquest dia commemora l'adopció de la primera constitució d'Indonèsia el 18 d'agost de 1945, un dia després de la seva proclamació d'independència, establint el marc legal de la nova república."
+    }
+  }
+}

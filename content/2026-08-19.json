@@ -1,0 +1,312 @@
+{
+  "date": "2026-08-19",
+  "es": {
+    "saints": [
+      {
+        "name": "San Gran Mártir Andrés el General",
+        "type": "Comandante Militar y Mártir",
+        "description": "Andrés fue un comandante militar del ejército romano que, junto con 2.593 soldados, abrazó el cristianismo tras una victoria milagrosa y posteriormente fue martirizado por su fe durante el reinado del emperador Maximiano (284-305 d.C.)."
+      },
+      {
+        "name": "Santos Mártires Timoteo, Agapio y Tecla",
+        "type": "Mártires",
+        "description": "Estos mártires cristianos sufrieron persecución durante el reinado del emperador Diocleciano en el año 304 d.C. en Palestina, conocidos por su fe inquebrantable frente a la adversidad."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial de la Asistencia Humanitaria",
+        "description": "Esta observancia internacional reconoce los esfuerzos de los trabajadores humanitarios y crea conciencia sobre las crisis globales, conmemorando el bombardeo de 2003 de la sede de la ONU en Bagdad."
+      },
+      {
+        "name": "Día Nacional de la Aviación (EE. UU.)",
+        "description": "Establecido por el presidente Franklin D. Roosevelt en 1939, este día conmemora el cumpleaños del pionero de la aviación Orville Wright, celebrando los avances en los viajes aéreos."
+      },
+      {
+        "name": "Día Internacional del Orangután",
+        "description": "Este día está dedicado a crear conciencia sobre el orangután, en peligro crítico de extinción, cuya población ha disminuido significativamente debido a la deforestación y la industria del aceite de palma."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si todos trabajáramos bajo la suposición de que lo que se acepta como verdadero es realmente verdadero, habría pocas esperanzas de avance.",
+      "author": "Orville Wright",
+      "context": "Orville Wright, el pionero de la aviación estadounidense a quien se le atribuye la invención y el vuelo del primer avión exitoso del mundo junto a su hermano Wilbur, nació el 19 de agosto de 1871. Esta cita refleja su espíritu innovador y la necesidad de desafiar la sabiduría convencional, lo cual fue fundamental en su logro monumental del vuelo motorizado."
+    },
+    "motivationalQuote": {
+      "text": "La forma de empezar es dejar de hablar y empezar a hacer.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Orville Wright",
+        "description": "Un pionero de la aviación estadounidense, coinventó y voló el primer avión exitoso del mundo con su hermano Wilbur.",
+        "year": "1871"
+      },
+      {
+        "name": "Coco Chanel",
+        "description": "Una pionera diseñadora de moda y empresaria francesa, se le atribuye haber liberado a las mujeres de los corsés y popularizar un estilo chic deportivo y casual.",
+        "year": "1883"
+      },
+      {
+        "name": "Bill Clinton",
+        "description": "Se desempeñó como el 42º Presidente de los Estados Unidos de 1993 a 2001.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Proceso de Fotografía del Daguerrotipo Donado al Mundo",
+        "description": "El gobierno francés anunció públicamente el proceso fotográfico de Louis Daguerre, el daguerrotipo, como un regalo 'gratuito para el mundo', haciendo accesible la fotografía.",
+        "year": "1839"
+      },
+      {
+        "title": "Abre el Indianapolis Motor Speedway",
+        "description": "El icónico Indianapolis Motor Speedway celebró su primera carrera de automóviles, marcando un hito significativo en la historia del automovilismo.",
+        "year": "1909"
+      },
+      {
+        "title": "Última Brigada de Combate de EE. UU. Sale de Irak",
+        "description": "La última brigada de combate estadounidense salió de Irak, lo que significó un cambio importante y el fin formal de las operaciones de combate de EE. UU. en la Guerra de Irak.",
+        "year": "2010"
+      },
+      {
+        "title": "Última Brigada de Combate de EE. UU. Sale de Irak",
+        "description": "La última brigada de combate estadounidense salió de Irak, lo que significó un cambio importante y el fin formal de las operaciones de combate de EE. UU. en la Guerra de Irak.",
+        "year": "2010"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial de la Asistencia Humanitaria",
+      "teaser": "Esta observancia internacional reconoce los esfuerzos de los trabajadores humanitarios y crea conciencia sobre las crisis globales, conmemorando el bombardeo de 2003 de la sede de la ONU en Bagdad."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Holy Great Martyr Andrew the General",
+        "type": "Military Commander and Martyr",
+        "description": "Andrew was a military commander in the Roman army who, along with 2,593 soldiers, embraced Christianity after a miraculous victory and was subsequently martyred for their faith during the reign of Emperor Maximian (284-305 AD)."
+      },
+      {
+        "name": "Holy Martyrs Timothy, Agapius, and Thekla",
+        "type": "Martyrs",
+        "description": "These Christian martyrs suffered persecution during the reign of Emperor Diocletian in 304 AD in Palestine, known for their unwavering faith in the face of adversity."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Humanitarian Day",
+        "description": "This international observance recognizes the efforts of humanitarian workers and raises awareness about global crises, commemorating the 2003 bombing of the UN headquarters in Baghdad."
+      },
+      {
+        "name": "National Aviation Day (U.S.)",
+        "description": "Established by President Franklin D. Roosevelt in 1939, this day commemorates the birthday of aviation pioneer Orville Wright, celebrating advancements in air travel."
+      },
+      {
+        "name": "International Orangutan Day",
+        "description": "This day is dedicated to raising awareness for the critically endangered orangutan, whose population has significantly declined due to deforestation and the palm oil industry."
+      }
+    ],
+    "historicalQuote": {
+      "text": "If we all worked on the assumption that what is accepted as true is really true, there would be little hope of advance.",
+      "author": "Orville Wright",
+      "context": "Orville Wright, the American aviation pioneer credited with inventing and flying the world's first successful airplane alongside his brother Wilbur, was born on August 19, 1871. This quote reflects his innovative spirit and the need to challenge conventional wisdom, which was instrumental in their monumental achievement of powered flight."
+    },
+    "motivationalQuote": {
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Orville Wright",
+        "description": "An American aviation pioneer, he co-invented and flew the world's first successful airplane with his brother Wilbur.",
+        "year": "1871"
+      },
+      {
+        "name": "Coco Chanel",
+        "description": "A pioneering French fashion designer and businesswoman, she is credited with liberating women from corsets and popularizing a sporty, casual chic style.",
+        "year": "1883"
+      },
+      {
+        "name": "Bill Clinton",
+        "description": "He served as the 42nd President of the United States from 1993 to 2001.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Daguerreotype Photography Process Gifted to the World",
+        "description": "The French government publicly announced Louis Daguerre's photographic process, the daguerreotype, as a gift 'free to the world,' making photography accessible.",
+        "year": "1839"
+      },
+      {
+        "title": "Indianapolis Motor Speedway Opens",
+        "description": "The iconic Indianapolis Motor Speedway hosted its first automobile race, marking a significant milestone in the history of motorsports.",
+        "year": "1909"
+      },
+      {
+        "title": "Last U.S. Combat Brigade Exits Iraq",
+        "description": "The final American combat brigade exited Iraq, signifying a major shift and the formal end of U.S. combat operations in the Iraq War.",
+        "year": "2010"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Humanitarian Day",
+      "teaser": "This international observance recognizes the efforts of humanitarian workers and raises awareness about global crises, commemorating the 2003 bombing of the UN headquarters in Baghdad."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Grande Mártir André, o General",
+        "type": "Comandante Militar e Mártir",
+        "description": "André foi um comandante militar do exército romano que, juntamente com 2.593 soldados, abraçou o Cristianismo após uma vitória milagrosa e foi subsequentemente martirizado pela sua fé durante o reinado do Imperador Maximiano (284-305 d.C.)."
+      },
+      {
+        "name": "Santos Mártires Timóteo, Agápio e Tecla",
+        "type": "Mártires",
+        "description": "Estes mártires cristãos sofreram perseguição durante o reinado do Imperador Diocleciano em 304 d.C. na Palestina, conhecidos pela sua fé inabalável face à adversidade."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial da Assistência Humanitária",
+        "description": "Esta observância internacional reconhece os esforços dos trabalhadores humanitários e aumenta a conscientização sobre crises globais, comemorando o bombardeio de 2003 da sede da ONU em Bagdá."
+      },
+      {
+        "name": "Dia Nacional da Aviação (EUA)",
+        "description": "Estabelecido pelo Presidente Franklin D. Roosevelt em 1939, este dia comemora o aniversário do pioneiro da aviação Orville Wright, celebrando os avanços nas viagens aéreas."
+      },
+      {
+        "name": "Dia Internacional do Orangotango",
+        "description": "Este dia é dedicado a aumentar a conscientização sobre o orangotango criticamente ameaçado de extinção, cuja população diminuiu significativamente devido ao desmatamento e à indústria do óleo de palma."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Se todos trabalhássemos na suposição de que o que é aceito como verdadeiro é realmente verdadeiro, haveria pouca esperança de progresso.",
+      "author": "Orville Wright",
+      "context": "Orville Wright, o pioneiro da aviação americano creditado com a invenção e o voo do primeiro avião bem-sucedido do mundo ao lado de seu irmão Wilbur, nasceu em 19 de agosto de 1871. Esta citação reflete seu espírito inovador e a necessidade de desafiar a sabedoria convencional, o que foi fundamental para sua conquista monumental do voo motorizado."
+    },
+    "motivationalQuote": {
+      "text": "A maneira de começar é parar de falar e começar a fazer.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Orville Wright",
+        "description": "Um pioneiro da aviação americano, ele coinventou e pilotou o primeiro avião bem-sucedido do mundo com seu irmão Wilbur.",
+        "year": "1871"
+      },
+      {
+        "name": "Coco Chanel",
+        "description": "Uma pioneira designer de moda e empresária francesa, ela é creditada por libertar as mulheres dos espartilhos e popularizar um estilo chique esportivo e casual.",
+        "year": "1883"
+      },
+      {
+        "name": "Bill Clinton",
+        "description": "Ele serviu como o 42º Presidente dos Estados Unidos de 1993 a 2001.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "Processo Fotográfico do Daguerreótipo Doado ao Mundo",
+        "description": "O governo francês anunciou publicamente o processo fotográfico de Louis Daguerre, o daguerreótipo, como um presente 'gratuito para o mundo', tornando a fotografia acessível.",
+        "year": "1839"
+      },
+      {
+        "title": "Indianapolis Motor Speedway Abre",
+        "description": "O icônico Indianapolis Motor Speedway sediou sua primeira corrida de automóveis, marcando um marco significativo na história do automobilismo.",
+        "year": "1909"
+      },
+      {
+        "title": "Última Brigada de Combate dos EUA Sai do Iraque",
+        "description": "A brigada de combate americana final saiu do Iraque, significando uma mudança importante e o fim formal das operações de combate dos EUA na Guerra do Iraque.",
+        "year": "2010"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial da Assistência Humanitária",
+      "teaser": "Esta observância internacional reconhece os esforços dos trabalhadores humanitários e aumenta a conscientização sobre crises globais, comemorando o bombardeio de 2003 da sede da ONU em Bagdá."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Gran Màrtir Andreu el General",
+        "type": "Comandant Militar i Màrtir",
+        "description": "Andreu va ser un comandant militar de l'exèrcit romà que, juntament amb 2.593 soldats, va abraçar el cristianisme després d'una victòria miraculosa i posteriorment va ser martiritzat per la seva fe durant el regnat de l'emperador Maximià (284-305 dC)."
+      },
+      {
+        "name": "Sants Màrtirs Timoteu, Agapi i Tecla",
+        "type": "Màrtirs",
+        "description": "Aquests màrtirs cristians van patir persecució durant el regnat de l'emperador Dioclecià l'any 304 dC a Palestina, coneguts per la seva fe inquebrantable davant l'adversitat."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial Humanitari",
+        "description": "Aquesta commemoració internacional reconeix els esforços dels treballadors humanitaris i sensibilitza sobre les crisis globals, commemorant el bombardeig de la seu de l'ONU a Bagdad el 2003."
+      },
+      {
+        "name": "Dia Nacional de l'Aviació (EUA)",
+        "description": "Establert pel president Franklin D. Roosevelt el 1939, aquest dia commemora l'aniversari del pioner de l'aviació Orville Wright, celebrant els avenços en els viatges aeris."
+      },
+      {
+        "name": "Dia Internacional de l'Orangutan",
+        "description": "Aquest dia està dedicat a sensibilitzar sobre l'orangutan, una espècie en perill crític d'extinció, la població del qual ha disminuït significativament a causa de la desforestació i la indústria de l'oli de palma."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si tots treballéssim partint del supòsit que allò que s'accepta com a cert és realment cert, hi hauria poca esperança d'avançar.",
+      "author": "Orville Wright",
+      "context": "Orville Wright, el pioner de l'aviació nord-americà a qui s'atribueix la invenció i el primer vol de l'avió amb èxit del món juntament amb el seu germà Wilbur, va néixer el 19 d'agost de 1871. Aquesta cita reflecteix el seu esperit innovador i la necessitat de desafiar la saviesa convencional, que va ser fonamental en el seu monumental assoliment del vol propulsat."
+    },
+    "motivationalQuote": {
+      "text": "La manera de començar és deixar de parlar i començar a fer.",
+      "author": "Walt Disney"
+    },
+    "births": [
+      {
+        "name": "Orville Wright",
+        "description": "Un pioner de l'aviació nord-americà, va coinventar i va volar el primer avió amb èxit del món amb el seu germà Wilbur.",
+        "year": "1871"
+      },
+      {
+        "name": "Coco Chanel",
+        "description": "Una pionera dissenyadora de moda i empresària francesa, se li atribueix haver alliberat les dones de les cotilles i popularitzar un estil esportiu i elegant informal.",
+        "year": "1883"
+      },
+      {
+        "name": "Bill Clinton",
+        "description": "Va ser el 42è president dels Estats Units de 1993 a 2001.",
+        "year": "1946"
+      }
+    ],
+    "events": [
+      {
+        "title": "El procés fotogràfic del daguerreotip regalat al món",
+        "description": "El govern francès va anunciar públicament el procés fotogràfic de Louis Daguerre, el daguerreotip, com un regal 'lliure per al món', fent accessible la fotografia.",
+        "year": "1839"
+      },
+      {
+        "title": "S'obre l'Indianapolis Motor Speedway",
+        "description": "L'emblemàtic Indianapolis Motor Speedway va acollir la seva primera cursa d'automòbils, marcant una fita important en la història dels esports de motor.",
+        "year": "1909"
+      },
+      {
+        "title": "Última brigada de combat dels EUA surt de l'Iraq",
+        "description": "La brigada de combat nord-americana final va sortir de l'Iraq, significat un canvi important i el final formal de les operacions de combat dels EUA a la Guerra de l'Iraq.",
+        "year": "2010"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial Humanitari",
+      "teaser": "Aquesta commemoració internacional reconeix els esforços dels treballadors humanitaris i sensibilitza sobre les crisis globals, commemorant el bombardeig de la seu de l'ONU a Bagdad el 2003."
+    }
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "date": "2026-08-20",
+  "es": {
+    "saints": [
+      {
+        "name": "San Bernardo de Claraval",
+        "type": "Abad, Doctor de la Iglesia",
+        "description": "Un abad francés y un líder importante en la reforma del monacato benedictino, fue fundamental para revitalizar la Orden Cisterciense y tuvo una profunda influencia en los asuntos espirituales y políticos de la Europa del siglo XII. Falleció en este día en 1153."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional (Hungría)",
+        "description": "Este día conmemora la fundación del estado húngaro por Esteban I, su primer rey, quien fue canonizado el 20 de agosto de 1083."
+      },
+      {
+        "name": "Día de la Restauración de la Independencia (Estonia)",
+        "description": "Esta observancia celebra el restablecimiento de la independencia de Estonia de la Unión Soviética el 20 de agosto de 1991."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nunca en el campo del conflicto humano tantos le debieron tanto a tan pocos.",
+      "author": "Winston Churchill",
+      "context": "Winston Churchill pronunció este famoso tributo a la Royal Air Force el 20 de agosto de 1940, reconociendo sus heroicos esfuerzos durante la Batalla de Inglaterra."
+    },
+    "motivationalQuote": {
+      "text": "La mayor gloria en la vida no reside en no caer nunca, sino en levantarse cada vez que caemos.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "Benjamin Harrison",
+        "description": "El 23º presidente de los Estados Unidos, republicano, quien promulgó la Ley Antimonopolio Sherman.",
+        "year": "1833"
+      },
+      {
+        "name": "Jacqueline Susann",
+        "description": "Una novelista y actriz estadounidense, conocida por su exitoso libro 'El Valle de las Muñecas', que encabezó la lista de best-sellers de The New York Times.",
+        "year": "1918"
+      },
+      {
+        "name": "Robert Plant",
+        "description": "Un icónico cantante y compositor de rock inglés, ampliamente reconocido como el vocalista principal y letrista de la legendaria banda de rock Led Zeppelin.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fin Formal de la Guerra Civil Americana Declarado",
+        "description": "El presidente Andrew Johnson declaró formalmente el fin de la Guerra Civil Americana, poniendo fin legal al conflicto meses después de que los combates hubieran cesado en gran medida.",
+        "year": "1866"
+      },
+      {
+        "title": "Debut de la 'Obertura 1812' de Chaikovski",
+        "description": "La dramática 'Obertura 1812' de Piotr Ilich Chaikovski se estrenó en Moscú, conmemorando la exitosa defensa de Rusia contra el ejército francés invasor de Napoleón.",
+        "year": "1882"
+      },
+      {
+        "title": "Lanzamiento de la Sonda Espacial Voyager 2",
+        "description": "La NASA lanzó la sonda espacial Voyager 2, una sonda no tripulada que realizaría sobrevuelos históricos a Júpiter, Saturno, Urano y Neptuno, llevando un disco de oro con mensajes de la Tierra.",
+        "year": "1977"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional (Hungría)",
+      "teaser": "Este día conmemora la fundación del estado húngaro por Esteban I, su primer rey, quien fue canonizado el 20 de agosto de 1083."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Bernard of Clairvaux",
+        "type": "Abbot, Doctor of the Church",
+        "description": "A French abbot and a major leader in the reform of Benedictine monasticism, he was instrumental in revitalizing the Cistercian Order and had a profound influence on the spiritual and political affairs of 12th-century Europe. He died on this day in 1153."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Day (Hungary)",
+        "description": "This day commemorates the founding of the Hungarian state by Stephen I, its first king, who was canonized on August 20, 1083."
+      },
+      {
+        "name": "Independence Restoration Day (Estonia)",
+        "description": "This observance celebrates Estonia's re-establishment of independence from the Soviet Union on August 20, 1991."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Never in the field of human conflict was so much owed by so many to so few.",
+      "author": "Winston Churchill",
+      "context": "Winston Churchill delivered this famous tribute to the Royal Air Force on August 20, 1940, recognizing their heroic efforts during the Battle of Britain."
+    },
+    "motivationalQuote": {
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "Benjamin Harrison",
+        "description": "The 23rd President of the United States, a Republican, who signed into law the Sherman Antitrust Act.",
+        "year": "1833"
+      },
+      {
+        "name": "Jacqueline Susann",
+        "description": "An American novelist and actress, best known for her best-selling book 'Valley of the Dolls,' which topped The New York Times Best Seller list.",
+        "year": "1918"
+      },
+      {
+        "name": "Robert Plant",
+        "description": "An iconic English rock singer and songwriter, widely recognized as the lead vocalist and lyricist of the legendary rock band Led Zeppelin.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "American Civil War Formally Declared Over",
+        "description": "President Andrew Johnson formally declared the American Civil War to be over, bringing a legal end to the conflict months after the fighting had largely ceased.",
+        "year": "1866"
+      },
+      {
+        "title": "Tchaikovsky's '1812 Overture' Debuts",
+        "description": "Pyotr Ilyich Tchaikovsky's dramatic '1812 Overture' premiered in Moscow, commemorating Russia's successful defense against Napoleon's invading French army.",
+        "year": "1882"
+      },
+      {
+        "title": "Voyager 2 Spacecraft Launched",
+        "description": "NASA launched the Voyager 2 spacecraft, an unmanned probe that would go on to make historic flybys of Jupiter, Saturn, Uranus, and Neptune, carrying a golden record with messages from Earth.",
+        "year": "1977"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Day (Hungary)",
+      "teaser": "This day commemorates the founding of the Hungarian state by Stephen I, its first king, who was canonized on August 20, 1083."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Bernardo de Claraval",
+        "type": "Abade, Doutor da Igreja",
+        "description": "Um abade francês e um importante líder na reforma do monaquismo beneditino, foi fundamental para revitalizar a Ordem Cisterciense e teve uma profunda influência nos assuntos espirituais e políticos da Europa do século XII. Ele faleceu neste dia em 1153."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional (Hungria)",
+        "description": "Este dia comemora a fundação do estado húngaro por Estêvão I, seu primeiro rei, que foi canonizado em 20 de agosto de 1083."
+      },
+      {
+        "name": "Dia da Restauração da Independência (Estónia)",
+        "description": "Esta celebração comemora o restabelecimento da independência da Estónia da União Soviética em 20 de agosto de 1991."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nunca no campo do conflito humano tantos deveram tanto a tão poucos.",
+      "author": "Winston Churchill",
+      "context": "Winston Churchill proferiu este famoso tributo à Royal Air Force em 20 de agosto de 1940, reconhecendo seus esforços heroicos durante a Batalha da Grã-Bretanha."
+    },
+    "motivationalQuote": {
+      "text": "A maior glória em viver não reside em nunca cair, mas em levantar-se cada vez que caímos.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "Benjamin Harrison",
+        "description": "O 23º Presidente dos Estados Unidos, republicano, que sancionou a Lei Antitruste Sherman.",
+        "year": "1833"
+      },
+      {
+        "name": "Jacqueline Susann",
+        "description": "Uma romancista e atriz americana, mais conhecida pelo seu livro best-seller 'Vale das Bonecas', que liderou a lista de best-sellers do The New York Times.",
+        "year": "1918"
+      },
+      {
+        "name": "Robert Plant",
+        "description": "Um icónico cantor e compositor de rock inglês, amplamente reconhecido como o vocalista principal e letrista da lendária banda de rock Led Zeppelin.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fim Formal da Guerra Civil Americana Declarado",
+        "description": "O Presidente Andrew Johnson declarou formalmente o fim da Guerra Civil Americana, encerrando legalmente o conflito meses depois que os combates haviam cessado em grande parte.",
+        "year": "1866"
+      },
+      {
+        "title": "Estreia da 'Abertura 1812' de Tchaikovsky",
+        "description": "A dramática 'Abertura 1812' de Pyotr Ilyich Tchaikovsky estreou em Moscou, comemorando a bem-sucedida defesa da Rússia contra o exército francês invasor de Napoleão.",
+        "year": "1882"
+      },
+      {
+        "title": "Lançamento da Sonda Espacial Voyager 2",
+        "description": "A NASA lançou a sonda espacial Voyager 2, uma sonda não tripulada que faria sobrevoos históricos por Júpiter, Saturno, Urano e Netuno, levando um disco de ouro com mensagens da Terra.",
+        "year": "1977"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional (Hungria)",
+      "teaser": "Este dia comemora a fundação do estado húngaro por Estêvão I, seu primeiro rei, que foi canonizado em 20 de agosto de 1083."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Bernat de Claravall",
+        "type": "Abat, Doctor de l'Església",
+        "description": "Un abat francès i un dels principals líders de la reforma del monacat benedictí, va ser fonamental per a la revitalització de l'Orde Cistercenc i va tenir una profunda influència en els afers espirituals i polítics de l'Europa del segle XII. Va morir aquest dia de 1153."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional (Hongria)",
+        "description": "Aquest dia commemora la fundació de l'estat hongarès per Esteve I, el seu primer rei, que va ser canonitzat el 20 d'agost de 1083."
+      },
+      {
+        "name": "Dia de la Restauració de la Independència (Estònia)",
+        "description": "Aquesta celebració commemora el restabliment de la independència d'Estònia de la Unió Soviètica el 20 d'agost de 1991."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Mai en el camp del conflicte humà tants van deure tant a tan pocs.",
+      "author": "Winston Churchill",
+      "context": "Winston Churchill va pronunciar aquest famós homenatge a la Royal Air Force el 20 d'agost de 1940, reconeixent els seus esforços heroics durant la Batalla d'Anglaterra."
+    },
+    "motivationalQuote": {
+      "text": "La glòria més gran de la vida no rau en no caure mai, sinó en aixecar-se cada vegada que caiem.",
+      "author": "Nelson Mandela"
+    },
+    "births": [
+      {
+        "name": "Benjamin Harrison",
+        "description": "El 23è President dels Estats Units, un republicà, que va signar la Llei Antimonopoli de Sherman.",
+        "year": "1833"
+      },
+      {
+        "name": "Jacqueline Susann",
+        "description": "Una novel·lista i actriu nord-americana, més coneguda pel seu llibre supervendes 'Valley of the Dolls', que va encapçalar la llista de best-sellers de The New York Times.",
+        "year": "1918"
+      },
+      {
+        "name": "Robert Plant",
+        "description": "Un icònic cantant i compositor de rock anglès, àmpliament reconegut com el vocalista principal i lletrista de la llegendària banda de rock Led Zeppelin.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fi Formal de la Guerra Civil Americana Declarada",
+        "description": "El president Andrew Johnson va declarar formalment acabada la Guerra Civil Americana, posant fi legalment al conflicte mesos després que els combats haguessin cessat en gran part.",
+        "year": "1866"
+      },
+      {
+        "title": "Debut de l''Obertura 1812' de Txaikovski",
+        "description": "La dramàtica 'Obertura 1812' de Piotr Ilitx Txaikovski es va estrenar a Moscou, commemorant la defensa reeixida de Rússia contra l'exèrcit francès invasor de Napoleó.",
+        "year": "1882"
+      },
+      {
+        "title": "Llançament de la Nau Espacial Voyager 2",
+        "description": "La NASA va llançar la nau espacial Voyager 2, una sonda no tripulada que faria històrics sobrevols de Júpiter, Saturn, Urà i Neptú, portant un disc d'or amb missatges de la Terra.",
+        "year": "1977"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional (Hongria)",
+      "teaser": "Aquest dia commemora la fundació de l'estat hongarès per Esteve I, el seu primer rei, que va ser canonitzat el 20 d'agost de 1083."
+    }
+  }
+}

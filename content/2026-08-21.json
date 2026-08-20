@@ -1,0 +1,307 @@
+{
+  "date": "2026-08-21",
+  "es": {
+    "saints": [
+      {
+        "name": "Papa San Pío X",
+        "type": "Papa",
+        "description": "Nacido Giuseppe Melchiorre Sarto, sirvió como Papa de 1903 a 1914. Es conocido por su teología conservadora y sus reformas, incluyendo la promoción de la Comunión frecuente."
+      },
+      {
+        "name": "San Francisco de Sales",
+        "type": "Obispo y Doctor de la Iglesia",
+        "description": "Figura influyente en la Contrarreforma, fue Obispo de Ginebra y es conocido por sus escritos sobre dirección espiritual y la vida devota, convirtiéndose en Doctor de la Iglesia."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de Conmemoración y Homenaje a las Víctimas del Terrorismo",
+        "description": "Este día es proclamado por la Asamblea General de la ONU para honrar a las víctimas del terrorismo en todo el mundo y promover los derechos humanos."
+      },
+      {
+        "name": "Día Nacional de las Personas Mayores (EE. UU.)",
+        "description": "En los Estados Unidos, este día honra las contribuciones de los estadounidenses mayores y concientiza sobre los desafíos que enfrentan."
+      },
+      {
+        "name": "Día de Ninoy Aquino (Filipinas)",
+        "description": "Un día festivo nacional en Filipinas que conmemora el asesinato del líder de la oposición Benigno Aquino Jr. en 1983."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Confío en Dios que mi vida se me conceda nueve meses más, después de los cuales, en caso de mi muerte, no habría Regencia. Tendría entonces la satisfacción de dejar la autoridad Real al ejercicio personal de esa joven [Princesa, más tarde Reina, Victoria], la heredera presunta de la Corona, y no en manos de una persona ahora cerca de mí [la madre de Victoria, la Duquesa de Kent], quien está rodeada de malos consejeros y quien es ella misma incompetente para actuar con propiedad en la posición en la que sería colocada.",
+      "author": "Guillermo IV del Reino Unido",
+      "context": "Guillermo IV, Rey del Reino Unido y Hannover, nació el 21 de agosto de 1765. Esta cita refleja sus firmes opiniones con respecto a la sucesión y su deseo de que la Princesa Victoria accediera al trono como adulta, evitando una regencia por parte de su madre."
+    },
+    "motivationalQuote": {
+      "text": "La única forma de hacer un gran trabajo es amar lo que haces.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Guillermo IV del Reino Unido",
+        "description": "Rey del Reino Unido y Hannover de 1830 a 1837, conocido como 'El Rey Marinero' por su carrera naval.",
+        "year": "1765"
+      },
+      {
+        "name": "Count Basie",
+        "description": "Pianista de jazz, organista, director de orquesta y compositor estadounidense, reconocido por su influyente big band.",
+        "year": "1904"
+      },
+      {
+        "name": "Wilt Chamberlain",
+        "description": "Un legendario baloncestista profesional estadounidense, ampliamente considerado como uno de los mejores jugadores en la historia del deporte.",
+        "year": "1936"
+      }
+    ],
+    "events": [
+      {
+        "title": "Hawái se Convierte en el 50.º Estado de EE. UU.",
+        "description": "El presidente Dwight D. Eisenhower firmó una proclamación declarando oficialmente a Hawái el 50.º estado de los Estados Unidos.",
+        "year": "1959"
+      },
+      {
+        "title": "Lanzamiento de Gemini 5, Estableciendo un Récord de Resistencia Espacial",
+        "description": "La NASA lanzó Gemini 5, que estableció un nuevo récord de resistencia de vuelo espacial humano de casi ocho días, crucial para futuras misiones lunares.",
+        "year": "1965"
+      },
+      {
+        "title": "El Gran Eclipse Solar Total Americano",
+        "description": "Un eclipse solar total atravesó los Estados Unidos continentales de costa a costa, visible desde Oregón hasta Carolina del Sur, cautivando a millones.",
+        "year": "2017"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de Conmemoración y Homenaje a las Víctimas del Terrorismo",
+      "teaser": "Este día es proclamado por la Asamblea General de la ONU para honrar a las víctimas del terrorismo en todo el mundo y promover los derechos humanos."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Pope Saint Pius X",
+        "type": "Pope",
+        "description": "Born Giuseppe Melchiorre Sarto, he served as Pope from 1903 to 1914. He is known for his conservative theology and reforms, including promoting frequent Holy Communion."
+      },
+      {
+        "name": "Saint Francis de Sales",
+        "type": "Bishop and Doctor of the Church",
+        "description": "An influential figure in the Counter-Reformation, he was a Bishop of Geneva and is known for his writings on spiritual direction and the devout life, becoming a Doctor of the Church."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Remembrance and Tribute to the Victims of Terrorism",
+        "description": "This day is proclaimed by the UN General Assembly to honor victims of terrorism worldwide and promote human rights."
+      },
+      {
+        "name": "National Senior Citizens Day (U.S.)",
+        "description": "In the United States, this day honors the contributions of older Americans and raises awareness of the challenges they face."
+      },
+      {
+        "name": "Ninoy Aquino Day (Philippines)",
+        "description": "A national holiday in the Philippines commemorating the assassination of opposition leader Benigno Aquino Jr. in 1983."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I trust in God that my life may be spared for nine months longer, after which period, in the event of my death, no Regency would take place. I should then have the satisfaction of leaving the Royal authority to the personal exercise of that young lady [Princess, later Queen, Victoria], the heiress presumptive to the Crown, and not in the hands of a person now near me [Victoria's mother, the Duchess of Kent], who is surrounded by evil advisers and who is herself incompetent to act with propriety in the station in which she would be placed.",
+      "author": "William IV of the United Kingdom",
+      "context": "William IV, King of the United Kingdom and Hanover, was born on August 21, 1765. This quote reflects his strong opinions regarding the succession and his desire for Princess Victoria to accede to the throne as an adult, avoiding a regency by her mother."
+    },
+    "motivationalQuote": {
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "William IV of the United Kingdom",
+        "description": "The King of the United Kingdom and Hanover from 1830 to 1837, known as 'The Sailor King' for his naval career.",
+        "year": "1765"
+      },
+      {
+        "name": "Count Basie",
+        "description": "An American jazz pianist, organist, bandleader, and composer, recognized for his influential big band.",
+        "year": "1904"
+      },
+      {
+        "name": "Wilt Chamberlain",
+        "description": "A legendary American professional basketball player, widely regarded as one of the greatest players in the sport's history.",
+        "year": "1936"
+      }
+    ],
+    "events": [
+      {
+        "title": "Hawaii Becomes the 50th U.S. State",
+        "description": "President Dwight D. Eisenhower signed a proclamation officially declaring Hawaii the 50th state of the United States.",
+        "year": "1959"
+      },
+      {
+        "title": "Gemini 5 Launched, Setting Space Endurance Record",
+        "description": "NASA launched Gemini 5, which set a new human spaceflight endurance record of nearly eight days, crucial for future lunar missions.",
+        "year": "1965"
+      },
+      {
+        "title": "The Great American Total Solar Eclipse",
+        "description": "A total solar eclipse traversed the continental United States from coast to coast, visible from Oregon to South Carolina, captivating millions.",
+        "year": "2017"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of Remembrance and Tribute to the Victims of Terrorism",
+      "teaser": "This day is proclaimed by the UN General Assembly to honor victims of terrorism worldwide and promote human rights."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Papa São Pio X",
+        "type": "Papa",
+        "description": "Nascido Giuseppe Melchiorre Sarto, serviu como Papa de 1903 a 1914. Ele é conhecido por sua teologia conservadora e reformas, incluindo a promoção da Comunhão frequente."
+      },
+      {
+        "name": "São Francisco de Sales",
+        "type": "Bispo e Doutor da Igreja",
+        "description": "Figura influente na Contrarreforma, foi Bispo de Genebra e é conhecido por seus escritos sobre direção espiritual e a vida devota, tornando-se um Doutor da Igreja."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Memória e Homenagem às Vítimas do Terrorismo",
+        "description": "Este dia é proclamado pela Assembleia Geral da ONU para homenagear as vítimas do terrorismo em todo o mundo e promover os direitos humanos."
+      },
+      {
+        "name": "Dia Nacional dos Idosos (EUA)",
+        "description": "Nos Estados Unidos, este dia homenageia as contribuições dos americanos mais velhos e aumenta a conscientização sobre os desafios que eles enfrentam."
+      },
+      {
+        "name": "Dia de Ninoy Aquino (Filipinas)",
+        "description": "Feriado nacional nas Filipinas que comemora o assassinato do líder da oposição Benigno Aquino Jr. em 1983."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Confio em Deus que a minha vida possa ser poupada por mais nove meses, após os quais, no caso da minha morte, nenhuma Regência ocorreria. Teria então a satisfação de deixar a autoridade Real ao exercício pessoal daquela jovem [Princesa, mais tarde Rainha, Vitória], a herdeira presuntiva da Coroa, e não nas mãos de uma pessoa agora perto de mim [a mãe de Vitória, a Duquesa de Kent], que está rodeada de maus conselheiros e que é ela própria incompetente para agir com propriedade na posição em que seria colocada.",
+      "author": "Guilherme IV do Reino Unido",
+      "context": "Guilherme IV, Rei do Reino Unido e Hanover, nasceu em 21 de agosto de 1765. Esta citação reflete suas fortes opiniões sobre a sucessão e seu desejo de que a Princesa Vitória acedesse ao trono como adulta, evitando uma regência por sua mãe."
+    },
+    "motivationalQuote": {
+      "text": "A única forma de fazer um ótimo trabalho é amar o que você faz.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Guilherme IV do Reino Unido",
+        "description": "O Rei do Reino Unido e Hanover de 1830 a 1837, conhecido como 'O Rei Marinheiro' por sua carreira naval.",
+        "year": "1765"
+      },
+      {
+        "name": "Count Basie",
+        "description": "Um pianista de jazz, organista, líder de banda e compositor americano, reconhecido por sua influente big band.",
+        "year": "1904"
+      },
+      {
+        "name": "Wilt Chamberlain",
+        "description": "Um lendário jogador profissional de basquete americano, amplamente considerado um dos maiores jogadores na história do esporte.",
+        "year": "1936"
+      }
+    ],
+    "events": [
+      {
+        "title": "Havaí se Torna o 50.º Estado dos EUA",
+        "description": "O Presidente Dwight D. Eisenhower assinou uma proclamação declarando oficialmente o Havaí o 50.º estado dos Estados Unidos.",
+        "year": "1959"
+      },
+      {
+        "title": "Gemini 5 Lançado, Estabelecendo Recorde de Resistência Espacial",
+        "description": "A NASA lançou a Gemini 5, que estabeleceu um novo recorde de resistência de voo espacial humano de quase oito dias, crucial para futuras missões lunares.",
+        "year": "1965"
+      },
+      {
+        "title": "O Grande Eclipse Solar Total Americano",
+        "description": "Um eclipse solar total atravessou os Estados Unidos continentais de costa a costa, visível do Oregon à Carolina do Sul, cativando milhões.",
+        "year": "2017"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional de Memória e Homenagem às Vítimas do Terrorismo",
+      "teaser": "Este dia é proclamado pela Assembleia Geral da ONU para homenagear as vítimas do terrorismo em todo o mundo e promover os direitos humanos."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Papa Sant Pius X",
+        "type": "Papa",
+        "description": "Nascut Giuseppe Melchiorre Sarto, va servir com a Papa de 1903 a 1914. És conegut per la seva teologia conservadora i les seves reformes, incloent la promoció de la comunió freqüent."
+      },
+      {
+        "name": "Sant Francesc de Sales",
+        "type": "Bisbe i Doctor de l'Església",
+        "description": "Figura influent de la Contrareforma, va ser Bisbe de Ginebra i és conegut pels seus escrits sobre direcció espiritual i la vida devota, convertint-se en Doctor de l'Església."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de Commemoració i Homenatge a les Víctimes del Terrorisme",
+        "description": "Aquest dia és proclamat per l'Assemblea General de l'ONU per honrar les víctimes del terrorisme arreu del món i promoure els drets humans."
+      },
+      {
+        "name": "Dia Nacional de la Gent Gran (EUA)",
+        "description": "Als Estats Units, aquest dia honra les contribucions dels nord-americans grans i sensibilitza sobre els reptes que afronten."
+      },
+      {
+        "name": "Dia de Ninoy Aquino (Filipines)",
+        "description": "Un dia festiu nacional a les Filipines que commemora l'assassinat del líder de l'oposició Benigno Aquino Jr. el 1983."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Confio en Déu que la meva vida es pugui perllongar nou mesos més, després d'aquest període, en cas de la meva mort, no hi hauria Regència. Aleshores tindria la satisfacció de deixar l'autoritat Reial a l'exercici personal d'aquesta jove [Princesa, més tard Reina, Victòria], l'hereva presumpte a la Corona, i no en mans d'una persona ara a prop meu [la mare de Victòria, la Duquessa de Kent], que està envoltada de mals consellers i que és ella mateixa incompetent per actuar amb propietat en la posició en què seria col·locada.",
+      "author": "Guillem IV del Regne Unit",
+      "context": "Guillem IV, Rei del Regne Unit i Hannover, va néixer el 21 d'agost de 1765. Aquesta cita reflecteix les seves fortes opinions sobre la successió i el seu desig que la Princesa Victòria accedís al tron com a adulta, evitant una regència per part de la seva mare."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de fer una gran feina és estimar allò que fas.",
+      "author": "Steve Jobs"
+    },
+    "births": [
+      {
+        "name": "Guillem IV del Regne Unit",
+        "description": "Rei del Regne Unit i Hannover de 1830 a 1837, conegut com 'El Rei Mariner' per la seva carrera naval.",
+        "year": "1765"
+      },
+      {
+        "name": "Count Basie",
+        "description": "Pianista de jazz, organista, director de banda i compositor nord-americà, reconegut per la seva influent big band.",
+        "year": "1904"
+      },
+      {
+        "name": "Wilt Chamberlain",
+        "description": "Llegendari jugador de bàsquet professional nord-americà, àmpliament considerat un dels millors jugadors de la història de l'esport.",
+        "year": "1936"
+      }
+    ],
+    "events": [
+      {
+        "title": "Hawaii Es Converteix en el 50è Estat dels EUA",
+        "description": "El president Dwight D. Eisenhower va signar una proclamació que declarava oficialment Hawaii el 50è estat dels Estats Units.",
+        "year": "1959"
+      },
+      {
+        "title": "El Gemini 5 és Llançat, Establert un Rècord de Resistència Espacial",
+        "description": "La NASA va llançar el Gemini 5, que va establir un nou rècord de resistència de vol espacial tripulat de gairebé vuit dies, crucial per a futures missions lunars.",
+        "year": "1965"
+      },
+      {
+        "title": "El Gran Eclipsi Solar Total Americà",
+        "description": "Un eclipsi solar total va travessar els Estats Units continentals de costa a costa, visible des d'Oregon fins a Carolina del Sud, captivant milions de persones.",
+        "year": "2017"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de Commemoració i Homenatge a les Víctimes del Terrorisme",
+      "teaser": "Aquest dia és proclamat per l'Assemblea General de l'ONU per honrar les víctimes del terrorisme arreu del món i promoure els drets humans."
+    }
+  }
+}

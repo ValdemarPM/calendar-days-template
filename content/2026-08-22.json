@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-22",
+  "es": {
+    "saints": [
+      {
+        "name": "Reinado de la Santísima Virgen María",
+        "type": "Conmemoración Católica",
+        "description": "Esta festividad honra a María como Reina del Cielo y de la Tierra, reconociendo su relación maternal con Cristo Rey."
+      },
+      {
+        "name": "San Sinforiano de Autun",
+        "type": "Mártir",
+        "description": "Un joven de la Galia que fue martirizado en el siglo II por negarse a adorar dioses paganos durante el reinado del emperador Aureliano."
+      },
+      {
+        "name": "Mártir Agatónico de Nicomedia y Compañeros",
+        "type": "Mártires",
+        "description": "Agatónico y sus compañeros, incluidos Zótico y Teoprepio, aceptaron la muerte por Cristo durante el reinado del emperador Maximiano en el siglo IV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de Conmemoración de las Víctimas de Actos de Violencia Basados en la Religión o las Creencias",
+        "description": "Una observancia de las Naciones Unidas designada para honrar a las víctimas de la violencia motivada por la religión y promover la libertad de pensamiento, conciencia y religión."
+      },
+      {
+        "name": "Día del Folclore",
+        "description": "Este día celebra las tradiciones culturales, las historias orales, la música folclórica, la narración de cuentos y las costumbres, conmemorando la fecha en que William John Thoms acuñó la palabra 'folclore' en 1846."
+      },
+      {
+        "name": "Día Nacional Sé Un Ángel",
+        "description": "Una observancia que fomenta las buenas acciones y la amabilidad hacia los demás, inspirando actos de apoyo desinteresado."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ninguna lección parece estar tan profundamente inculcada por la experiencia de la vida como la de que nunca debes confiar en los expertos. Si crees a los médicos, nada es saludable; si crees a los teólogos, nada es inocente; si crees a los soldados, nada es seguro. Todos ellos requieren que su vino fuerte sea diluido por una muy grande mezcla de insípido sentido común.",
+      "author": "Robert Gascoyne-Cecil, 3er Marqués de Salisbury",
+      "context": "Robert Gascoyne-Cecil, un estadista británico que se desempeñó como Primer Ministro, falleció el 22 de agosto de 1903."
+    },
+    "motivationalQuote": {
+      "text": "Es mejor fracasar en la originalidad que tener éxito en la imitación.",
+      "author": "Herman Melville"
+    },
+    "births": [
+      {
+        "name": "Denis Papin",
+        "description": "Un físico y matemático francés conocido por su invención de la olla a presión y su trabajo fundamental sobre la máquina de vapor.",
+        "year": "1647"
+      },
+      {
+        "name": "Claude Debussy",
+        "description": "Un influyente compositor francés cuyas innovadoras armonías y color orquestal impactaron enormemente la música del siglo XX.",
+        "year": "1862"
+      },
+      {
+        "name": "Ray Bradbury",
+        "description": "Un autor estadounidense célebre por sus relatos cortos y novelas de ciencia ficción, fantasía, terror y misterio, incluyendo 'Fahrenheit 451'.",
+        "year": "1920"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Copa América Ganada",
+        "description": "La goleta 'America' superó a los buques británicos frente a la costa inglesa para ganar un trofeo que llegó a ser conocido como la Copa América, una prestigiosa regata de vela internacional.",
+        "year": "1851"
+      },
+      {
+        "title": "Primera Convención de Ginebra Firmada",
+        "description": "Doce naciones firmaron la Primera Convención de Ginebra, sentando las bases del derecho internacional humanitario y estableciendo normas para la protección de las víctimas de conflictos armados.",
+        "year": "1864"
+      },
+      {
+        "title": "Avión Cohete X-15 Alcanza Altitud Récord",
+        "description": "El Vuelo 91 del X-15, pilotado por Joe Walker, alcanzó la mayor altitud del programa X-15, superando los límites del vuelo hipersónico y la exploración espacial.",
+        "year": "1963"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de Conmemoración de las Víctimas de Actos de Violencia Basados en la Religión o las Creencias",
+      "teaser": "Una observancia de las Naciones Unidas designada para honrar a las víctimas de la violencia motivada por la religión y promover la libertad de pensamiento, conciencia y religión."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Queenship of the Blessed Virgin Mary",
+        "type": "Catholic Commemoration",
+        "description": "This feast honors Mary as Queen of Heaven and Earth, recognizing her motherly relationship to Christ the King."
+      },
+      {
+        "name": "St. Symphorian of Autun",
+        "type": "Martyr",
+        "description": "A young man from Gaul who was martyred in the 2nd century for refusing to worship pagan gods during the reign of Emperor Aurelian."
+      },
+      {
+        "name": "Martyr Agathonicus of Nicomedia and Companions",
+        "type": "Martyrs",
+        "description": "Agathonicus and his companions, including Zoticus and Theoprepius, accepted death for Christ during the reign of Emperor Maximian in the 4th century."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief",
+        "description": "A United Nations observance designated to honor victims of religiously motivated violence and promote freedom of thought, conscience, and religion."
+      },
+      {
+        "name": "Folklore Day",
+        "description": "This day celebrates cultural traditions, oral histories, folk music, storytelling, and customs, commemorating the date William John Thoms coined the word 'folklore' in 1846."
+      },
+      {
+        "name": "National Be An Angel Day",
+        "description": "An observance encouraging good deeds and kindness towards others, inspiring acts of selfless support."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No lesson seems to be so deeply inculcated by the experience of life as that you should never trust experts. If you believe doctors, nothing is wholesome: if you believe the theologians, nothing is innocent: if you believe the soldiers, nothing is safe. They all require their strong wine diluted by a very large admixture of insipid common sense.",
+      "author": "Robert Gascoyne-Cecil, 3rd Marquess of Salisbury",
+      "context": "Robert Gascoyne-Cecil, a British statesman who served as Prime Minister, died on August 22, 1903."
+    },
+    "motivationalQuote": {
+      "text": "It is better to fail in originality, than to succeed in imitation.",
+      "author": "Herman Melville"
+    },
+    "births": [
+      {
+        "name": "Denis Papin",
+        "description": "A French physicist and mathematician known for his invention of the pressure cooker and his foundational work on the steam engine.",
+        "year": "1647"
+      },
+      {
+        "name": "Claude Debussy",
+        "description": "An influential French composer whose innovative harmonies and orchestral color greatly impacted 20th-century music.",
+        "year": "1862"
+      },
+      {
+        "name": "Ray Bradbury",
+        "description": "An American author celebrated for his science fiction, fantasy, horror, and mystery short stories and novels, including 'Fahrenheit 451'.",
+        "year": "1920"
+      }
+    ],
+    "events": [
+      {
+        "title": "First America's Cup Won",
+        "description": "The schooner 'America' outraced British vessels off the English coast to win a trophy that became known as the America's Cup, a prestigious international sailing regatta.",
+        "year": "1851"
+      },
+      {
+        "title": "First Geneva Convention Signed",
+        "description": "Twelve nations signed the First Geneva Convention, laying the groundwork for international humanitarian law and establishing rules for the protection of victims of armed conflicts.",
+        "year": "1864"
+      },
+      {
+        "title": "X-15 Rocket Plane Achieves Record Altitude",
+        "description": "X-15 Flight 91, piloted by Joe Walker, reached the highest altitude of the X-15 program, pushing the boundaries of hypersonic flight and space exploration.",
+        "year": "1963"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief",
+      "teaser": "A United Nations observance designated to honor victims of religiously motivated violence and promote freedom of thought, conscience, and religion."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Reinado da Bem-Aventurada Virgem Maria",
+        "type": "Comemoração Católica",
+        "description": "Esta festa honra Maria como Rainha do Céu e da Terra, reconhecendo sua relação maternal com Cristo Rei."
+      },
+      {
+        "name": "São Sinforiano de Autun",
+        "type": "Mártir",
+        "description": "Um jovem da Gália que foi martirizado no século II por se recusar a adorar deuses pagãos durante o reinado do Imperador Aureliano."
+      },
+      {
+        "name": "Mártir Agatônico de Nicomédia e Companheiros",
+        "type": "Mártires",
+        "description": "Agatônico e seus companheiros, incluindo Zótico e Teoprépio, aceitaram a morte por Cristo durante o reinado do Imperador Maximiano no século IV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional em Memória das Vítimas de Atos de Violência Baseados na Religião ou Crença",
+        "description": "Uma observância das Nações Unidas designada para homenagear as vítimas de violência motivada religiosamente e promover a liberdade de pensamento, consciência e religião."
+      },
+      {
+        "name": "Dia do Folclore",
+        "description": "Este dia celebra as tradições culturais, histórias orais, música folclórica, narração de histórias e costumes, comemorando a data em que William John Thoms cunhou a palavra 'folclore' em 1846."
+      },
+      {
+        "name": "Dia Nacional Seja Um Anjo",
+        "description": "Uma observância que incentiva boas ações e bondade para com os outros, inspirando atos de apoio altruísta."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nenhuma lição parece ser tão profundamente inculcada pela experiência da vida quanto a de que você nunca deve confiar em especialistas. Se você acredita nos médicos, nada é saudável; se você acredita nos teólogos, nada é inocente; se você acredita nos soldados, nada é seguro. Todos eles exigem que seu vinho forte seja diluído por uma grande mistura de bom senso insípido.",
+      "author": "Robert Gascoyne-Cecil, 3º Marquês de Salisbury",
+      "context": "Robert Gascoyne-Cecil, um estadista britânico que serviu como Primeiro-Ministro, faleceu em 22 de agosto de 1903."
+    },
+    "motivationalQuote": {
+      "text": "É melhor falhar na originalidade do que ter sucesso na imitação.",
+      "author": "Herman Melville"
+    },
+    "births": [
+      {
+        "name": "Denis Papin",
+        "description": "Um físico e matemático francês conhecido por sua invenção da panela de pressão e seu trabalho fundamental sobre a máquina a vapor.",
+        "year": "1647"
+      },
+      {
+        "name": "Claude Debussy",
+        "description": "Um influente compositor francês cujas harmonias inovadoras e cor orquestral impactaram grandemente a música do século XX.",
+        "year": "1862"
+      },
+      {
+        "name": "Ray Bradbury",
+        "description": "Um autor americano celebrado por seus contos e romances de ficção científica, fantasia, horror e mistério, incluindo 'Fahrenheit 451'.",
+        "year": "1920"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeira Copa América Vencida",
+        "description": "A escuna 'America' superou embarcações britânicas na costa inglesa para ganhar um troféu que ficou conhecido como a America's Cup (Copa América), uma prestigiosa regata internacional de vela.",
+        "year": "1851"
+      },
+      {
+        "title": "Primeira Convenção de Genebra Assinada",
+        "description": "Doze nações assinaram a Primeira Convenção de Genebra, estabelecendo as bases do direito humanitário internacional e definindo regras para a proteção das vítimas de conflitos armados.",
+        "year": "1864"
+      },
+      {
+        "title": "Avião Foguete X-15 Atinge Altitude Recorde",
+        "description": "O Voo 91 do X-15, pilotado por Joe Walker, atingiu a maior altitude do programa X-15, empurrando os limites do voo hipersônico e da exploração espacial.",
+        "year": "1963"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional em Memória das Vítimas de Atos de Violência Baseados na Religião ou Crença",
+      "teaser": "Uma observância das Nações Unidas designada para homenagear as vítimas de violência motivada religiosamente e promover a liberdade de pensamento, consciência e religião."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Reialesa de la Santíssima Verge Maria",
+        "type": "Commemoració Catòlica",
+        "description": "Aquesta festa honora Maria com a Reina del Cel i de la Terra, reconeixent la seva relació maternal amb Crist Rei."
+      },
+      {
+        "name": "Sant Simforià d'Autun",
+        "type": "Màrtir",
+        "description": "Un jove de la Gàl·lia que va ser martiritzat al segle II per negar-se a adorar déus pagans durant el regnat de l'emperador Aurelià."
+      },
+      {
+        "name": "Màrtir Agatònic de Nicomèdia i Companys",
+        "type": "Màrtirs",
+        "description": "Agatònic i els seus companys, inclosos Zòtic i Teoprepi, van acceptar la mort per Crist durant el regnat de l'emperador Maximià al segle IV."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional en Commemoració de les Víctimes d'Actes de Violència Basats en la Religió o les Creences",
+        "description": "Una observança de les Nacions Unides designada per honorar les víctimes de la violència per motius religiosos i promoure la llibertat de pensament, consciència i religió."
+      },
+      {
+        "name": "Dia del Folklore",
+        "description": "Aquest dia celebra les tradicions culturals, les històries orals, la música popular, la narració d'històries i els costums, commemorant la data en què William John Thoms va encunyar la paraula 'folklore' el 1846."
+      },
+      {
+        "name": "Dia Nacional de Ser un Àngel",
+        "description": "Una observança que encoratja les bones accions i la bondat envers els altres, inspirant actes de suport desinteressat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Cap lliçó sembla estar tan profundament inculcada per l'experiència de la vida com la que mai no s'ha de confiar en els experts. Si creus els metges, res és saludable: si creus els teòlegs, res és innocent: si creus els soldats, res és segur. Tots requereixen el seu vi fort diluït per una gran barreja de sentit comú insípid.",
+      "author": "Robert Gascoyne-Cecil, 3r Marquès de Salisbury",
+      "context": "Robert Gascoyne-Cecil, un estadista britànic que va servir com a primer ministre, va morir el 22 d'agost de 1903."
+    },
+    "motivationalQuote": {
+      "text": "És millor fracassar en l'originalitat que tenir èxit en la imitació.",
+      "author": "Herman Melville"
+    },
+    "births": [
+      {
+        "name": "Denis Papin",
+        "description": "Un físic i matemàtic francès conegut per la seva invenció de l'olla a pressió i el seu treball fonamental sobre la màquina de vapor.",
+        "year": "1647"
+      },
+      {
+        "name": "Claude Debussy",
+        "description": "Un influent compositor francès les harmonies innovadores i el color orquestral del qual van impactar enormement la música del segle XX.",
+        "year": "1862"
+      },
+      {
+        "name": "Ray Bradbury",
+        "description": "Un autor estatunidenc celebrat per les seves històries curtes i novel·les de ciència-ficció, fantasia, terror i misteri, incloent 'Fahrenheit 451'.",
+        "year": "1920"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primera Copa Amèrica Guanyada",
+        "description": "La goleta 'America' va superar els vaixells britànics a la costa anglesa per guanyar un trofeu que es va conèixer com la Copa Amèrica, una prestigiosa regata internacional de vela.",
+        "year": "1851"
+      },
+      {
+        "title": "Primera Convenció de Ginebra Signada",
+        "description": "Dotze nacions van signar la Primera Convenció de Ginebra, establint les bases del dret internacional humanitari i les normes per a la protecció de les víctimes de conflictes armats.",
+        "year": "1864"
+      },
+      {
+        "title": "L'avió coet X-15 assoleix una altitud rècord",
+        "description": "El vol 91 de l'X-15, pilotat per Joe Walker, va assolir l'altitud més alta del programa X-15, superant els límits del vol hipersònic i l'exploració espacial.",
+        "year": "1963"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional en Commemoració de les Víctimes d'Actes de Violència Basats en la Religió o les Creences",
+      "teaser": "Una observança de les Nacions Unides designada per honorar les víctimes de la violència per motius religiosos i promoure la llibertat de pensament, consciència i religió."
+    }
+  }
+}

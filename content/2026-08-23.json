@@ -1,0 +1,295 @@
+{
+  "date": "2026-08-23",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Rosa de Lima",
+        "type": "Virgen, Terciaria Dominica",
+        "description": "Nacida Isabel Flores de Oliva en Perú, Santa Rosa de Lima fue la primera persona nacida en el hemisferio occidental en ser canonizada por la Iglesia Católica Romana. Dedicó su vida a Dios desde joven, practicando intensa oración y penitencia, y sirviendo a los pobres y enfermos."
+      },
+      {
+        "name": "San Antonio de Gerace",
+        "type": "Monje Basiliano",
+        "description": "San Antonio de Gerace fue un monje basiliano en Calabria, Italia, conocido por su estilo de vida ascético, profunda oración y milagros. Fue amigo de San Nicodemo de Mammola y San Jeiunio de Gerace."
+      },
+      {
+        "name": "San Ireneo de Lyon",
+        "type": "Obispo, Mártir",
+        "description": "Nacido en Esmirna, el Hieromártir Ireneo fue Obispo de Lyon y es considerado uno de los primeros Padres de la Iglesia. Fue martirizado alrededor del año 202 d.C. por su fe cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional de Cabalgar el Viento",
+        "description": "Este día conmemora la primera aeronave de propulsión humana exitosa del mundo, el Gossamer Condor 2, que realizó su primer vuelo el 23 de agosto de 1977."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Creo que es tan importante cantar sobre mañanas hermosas como hablar sobre barrios marginales. Simplemente no podría escribir nada sin esperanza.",
+      "author": "Oscar Hammerstein II",
+      "context": "Oscar Hammerstein II, un renombrado letrista y productor teatral estadounidense, falleció el 23 de agosto de 1960. Fue una figura significativa en el teatro musical estadounidense, conocido por su enfoque optimista y esperanzador en la composición de canciones."
+    },
+    "motivationalQuote": {
+      "text": "No te esfuerces por ser un éxito, sino más bien por ser de valor.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Kobe Bryant",
+        "description": "Un icónico jugador de baloncesto estadounidense, Kobe Bryant jugó toda su carrera de 20 años con Los Angeles Lakers, logrando numerosos reconocimientos, incluyendo cinco campeonatos y 18 apariciones en el All-Star.",
+        "year": "1978"
+      },
+      {
+        "name": "Gene Kelly",
+        "description": "Un actor, bailarín y coreógrafo estadounidense, Gene Kelly era conocido por su estilo de baile enérgico y atlético en musicales de Hollywood como 'Cantando bajo la lluvia' y 'Un americano en París'.",
+        "year": "1912"
+      },
+      {
+        "name": "Rick Springfield",
+        "description": "Un músico, cantautor y actor australiano, Rick Springfield es más conocido por su exitosa canción de 1981 'Jessie's Girl' y su papel como el Dr. Noah Drake en la telenovela 'General Hospital'.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "La World Wide Web se Abrió al Público",
+        "description": "En este día, la World Wide Web se abrió oficialmente al público, marcando un paso monumental en la comunicación global y el intercambio de información.",
+        "year": "1991"
+      },
+      {
+        "title": "Armenia Declara su Independencia",
+        "description": "Armenia declaró su independencia de la Unión Soviética, convirtiéndose en la primera república no báltica en separarse de la URSS.",
+        "year": "1990"
+      },
+      {
+        "title": "Primera Fotografía de la Tierra desde la Órbita Lunar",
+        "description": "El Lunar Orbiter 1 de la NASA tomó la primera fotografía de la Tierra desde la órbita alrededor de la Luna, proporcionando una perspectiva innovadora de nuestro planeta natal.",
+        "year": "1966"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional de Cabalgar el Viento",
+      "teaser": "Este día conmemora la primera aeronave de propulsión humana exitosa del mundo, el Gossamer Condor 2, que realizó su primer vuelo el 23 de agosto de 1977."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Rose of Lima",
+        "type": "Virgin, Lay Dominican",
+        "description": "Born Isabel Flores de Oliva in Peru, St. Rose of Lima was the first person born in the Western Hemisphere to be canonized by the Roman Catholic Church. She dedicated her life to God from a young age, practicing intense prayer and penance, and serving the poor and sick."
+      },
+      {
+        "name": "St. Anthony of Gerace",
+        "type": "Basilian Monk",
+        "description": "Saint Anthony of Gerace was a Basilian monk in Calabria, Italy, known for his ascetic lifestyle, deep prayer, and miracles. He was a friend of Saint Nicodemus of Mammola and Saint Jeiunio of Gerace."
+      },
+      {
+        "name": "Hieromartyr Irenaeus, Bishop of Lyons",
+        "type": "Bishop, Martyr",
+        "description": "Born in Smyrna, Hieromartyr Irenaeus was Bishop of Lyons and is considered one of the earliest Church Fathers. He was martyred around 202 AD for his Christian faith."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Ride The Wind Day",
+        "description": "This day commemorates the world's first successful human-powered aircraft, the Gossamer Condor 2, which took flight on August 23, 1977."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I think it is just as important to sing about beautiful mornings as it is to talk about slums. I just couldn't write anything without hope in it.",
+      "author": "Oscar Hammerstein II",
+      "context": "Oscar Hammerstein II, a renowned American lyricist and theatrical producer, passed away on August 23, 1960. He was a significant figure in American musical theater, known for his optimistic and hopeful approach to songwriting."
+    },
+    "motivationalQuote": {
+      "text": "Strive not to be a success, but rather to be of value.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Kobe Bryant",
+        "description": "An iconic American basketball player, Kobe Bryant played his entire 20-year career with the Los Angeles Lakers, achieving numerous accolades including five championships and 18 All-Star appearances.",
+        "year": "1978"
+      },
+      {
+        "name": "Gene Kelly",
+        "description": "An American actor, dancer, and choreographer, Gene Kelly was known for his energetic and athletic dance style in Hollywood musicals such as 'Singin' in the Rain' and 'An American in Paris'.",
+        "year": "1912"
+      },
+      {
+        "name": "Rick Springfield",
+        "description": "An Australian musician, singer-songwriter, and actor, Rick Springfield is best known for his 1981 hit song 'Jessie's Girl' and his role as Dr. Noah Drake on the soap opera 'General Hospital'.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "World Wide Web Opened to the Public",
+        "description": "On this day, the World Wide Web was officially opened to the public, marking a monumental step in global communication and information sharing.",
+        "year": "1991"
+      },
+      {
+        "title": "Armenia Declares Independence",
+        "description": "Armenia declared its independence from the Soviet Union, becoming the first non-Baltic republic to secede from the USSR.",
+        "year": "1990"
+      },
+      {
+        "title": "First Photograph of Earth from Lunar Orbit",
+        "description": "NASA's Lunar Orbiter 1 took the first photograph of Earth from orbit around the Moon, providing a groundbreaking perspective of our home planet.",
+        "year": "1966"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Ride The Wind Day",
+      "teaser": "This day commemorates the world's first successful human-powered aircraft, the Gossamer Condor 2, which took flight on August 23, 1977."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Rosa de Lima",
+        "type": "Virgem, Leiga Dominicana",
+        "description": "Nascida Isabel Flores de Oliva no Peru, Santa Rosa de Lima foi a primeira pessoa nascida no hemisfério ocidental a ser canonizada pela Igreja Católica Romana. Dedicou sua vida a Deus desde cedo, praticando intensa oração e penitência, e servindo aos pobres e enfermos."
+      },
+      {
+        "name": "Santo Antônio de Gerace",
+        "type": "Monge Basiliano",
+        "description": "Santo Antônio de Gerace foi um monge basiliano na Calábria, Itália, conhecido por seu estilo de vida ascético, profunda oração e milagres. Ele era amigo de São Nicodemo de Mammola e São Jeiunio de Gerace."
+      },
+      {
+        "name": "Santo Irineu de Lyon",
+        "type": "Bispo, Mártir",
+        "description": "Nascido em Esmirna, o Hieromártir Ireneu foi Bispo de Lyon e é considerado um dos primeiros Padres da Igreja. Foi martirizado por volta de 202 d.C. por sua fé cristã."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de Cavalgar o Vento",
+        "description": "Este dia comemora a primeira aeronave de propulsão humana bem-sucedida do mundo, o Gossamer Condor 2, que levantou voo em 23 de agosto de 1977."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Acho que é tão importante cantar sobre manhãs bonitas quanto falar sobre favelas. Eu simplesmente não conseguiria escrever nada sem esperança.",
+      "author": "Oscar Hammerstein II",
+      "context": "Oscar Hammerstein II, um renomado letrista e produtor teatral americano, faleceu em 23 de agosto de 1960. Ele foi uma figura significativa no teatro musical americano, conhecido por sua abordagem otimista e esperançosa na composição de músicas."
+    },
+    "motivationalQuote": {
+      "text": "Não se esforce para ser um sucesso, mas sim para ser de valor.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Kobe Bryant",
+        "description": "Um icônico jogador de basquete americano, Kobe Bryant jogou toda a sua carreira de 20 anos com o Los Angeles Lakers, alcançando inúmeras honrarias, incluindo cinco campeonatos e 18 aparições no All-Star.",
+        "year": "1978"
+      },
+      {
+        "name": "Gene Kelly",
+        "description": "Um ator, dançarino e coreógrafo americano, Gene Kelly era conhecido por seu estilo de dança enérgico e atlético em musicais de Hollywood como 'Cantando na Chuva' e 'Um Americano em Paris'.",
+        "year": "1912"
+      },
+      {
+        "name": "Rick Springfield",
+        "description": "Um músico, cantor, compositor e ator australiano, Rick Springfield é mais conhecido por sua música de sucesso de 1981 'Jessie's Girl' e seu papel como Dr. Noah Drake na novela 'General Hospital'.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "A World Wide Web Aberta ao Público",
+        "description": "Neste dia, a World Wide Web foi oficialmente aberta ao público, marcando um passo monumental na comunicação global e no compartilhamento de informações.",
+        "year": "1991"
+      },
+      {
+        "title": "Armênia Declara Independência",
+        "description": "A Armênia declarou sua independência da União Soviética, tornando-se a primeira república não-báltica a se separar da URSS.",
+        "year": "1990"
+      },
+      {
+        "title": "Primeira Fotografia da Terra da Órbita Lunar",
+        "description": "A Lunar Orbiter 1 da NASA tirou a primeira fotografia da Terra da órbita ao redor da Lua, proporcionando uma perspectiva inovadora do nosso planeta natal.",
+        "year": "1966"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional de Cavalgar o Vento",
+      "teaser": "Este dia comemora a primeira aeronave de propulsão humana bem-sucedida do mundo, o Gossamer Condor 2, que levantou voo em 23 de agosto de 1977."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Rosa de Lima",
+        "type": "Verge, Terciària Dominica",
+        "description": "Nascuda Isabel Flores de Oliva al Perú, Santa Rosa de Lima va ser la primera persona nascuda a l'Hemisferi Occidental a ser canonitzada per l'Església Catòlica Romana. Va dedicar la seva vida a Déu des de jove, practicant oració i penitència intenses, i servint els pobres i els malalts."
+      },
+      {
+        "name": "Sant Antoni de Gerace",
+        "type": "Monjo Basilià",
+        "description": "Sant Antoni de Gerace va ser un monjo basilià a Calàbria, Itàlia, conegut pel seu estil de vida ascètic, la seva profunda oració i els seus miracles. Va ser amic de Sant Nicodem de Mammola i Sant Jeiunio de Gerace."
+      },
+      {
+        "name": "Sant Ireneu de Lió",
+        "type": "Bisbe, Màrtir",
+        "description": "Nascut a Esmirna, el Hieromàrtir Ireneu va ser Bisbe de Lió i és considerat un dels Pares de l'Església més antics. Va ser martiritzat al voltant de l'any 202 dC per la seva fe cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de Cavalcar el Vent",
+        "description": "Aquest dia commemora el primer avió de propulsió humana amb èxit del món, el Gossamer Condor 2, que va volar el 23 d'agost de 1977."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Crec que és tan important cantar sobre matins bonics com parlar de barris marginals. Simplement no podria escriure res sense esperança.",
+      "author": "Oscar Hammerstein II",
+      "context": "Oscar Hammerstein II, un reconegut lletrista i productor teatral nord-americà, va morir el 23 d'agost de 1960. Va ser una figura important en el teatre musical nord-americà, conegut pel seu enfocament optimista i esperançador en la composició de cançons."
+    },
+    "motivationalQuote": {
+      "text": "No t'esforcis per ser un èxit, sinó per ser de valor.",
+      "author": "Albert Einstein"
+    },
+    "births": [
+      {
+        "name": "Kobe Bryant",
+        "description": "Un icònic jugador de bàsquet nord-americà, Kobe Bryant va jugar tota la seva carrera de 20 anys amb els Los Angeles Lakers, aconseguint nombrosos reconeixements, inclosos cinc campionats i 18 aparicions a l'All-Star.",
+        "year": "1978"
+      },
+      {
+        "name": "Gene Kelly",
+        "description": "Un actor, ballarí i coreògraf nord-americà, Gene Kelly era conegut pel seu estil de ball enèrgic i atlètic en musicals de Hollywood com 'Cantant sota la pluja' i 'Un americà a París'.",
+        "year": "1912"
+      },
+      {
+        "name": "Rick Springfield",
+        "description": "Un músic, cantautor i actor australià, Rick Springfield és més conegut per la seva cançó d'èxit de 1981 'Jessie's Girl' i el seu paper com el Dr. Noah Drake a la telenovel·la 'General Hospital'.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "La World Wide Web Oberta al Públic",
+        "description": "En aquest dia, la World Wide Web va ser oficialment oberta al públic, marcant un pas monumental en la comunicació global i l'intercanvi d'informació.",
+        "year": "1991"
+      },
+      {
+        "title": "Armènia Declara la Independència",
+        "description": "Armènia va declarar la seva independència de la Unió Soviètica, convertint-se en la primera república no bàltica a secessionar-se de l'URSS.",
+        "year": "1990"
+      },
+      {
+        "title": "Primera Fotografia de la Terra des de l'Òrbita Lunar",
+        "description": "La sonda Lunar Orbiter 1 de la NASA va prendre la primera fotografia de la Terra des de l'òrbita de la Lluna, proporcionant una perspectiva innovadora del nostre planeta natal.",
+        "year": "1966"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional de Cavalcar el Vent",
+      "teaser": "Aquest dia commemora el primer avió de propulsió humana amb èxit del món, el Gossamer Condor 2, que va volar el 23 d'agost de 1977."
+    }
+  }
+}

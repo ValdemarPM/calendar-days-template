@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-24",
+  "es": {
+    "saints": [
+      {
+        "name": "San Bartolomé Apóstol",
+        "type": "Apóstol, Mártir",
+        "description": "Uno de los Doce Apóstoles de Jesús, también conocido como Natanael. Tradicionalmente se cree que predicó el Evangelio en India, Mesopotamia, Persia, Egipto y Armenia, y fue martirizado por su fe, posiblemente siendo desollado vivo."
+      },
+      {
+        "name": "Hieromártir Eutiquio",
+        "type": "Obispo, Mártir",
+        "description": "Discípulo de los Santos Juan el Teólogo y Pablo, Eutiquio predicó el Evangelio y sufrió muchos padecimientos, incluyendo hambre, palizas, fuego y ataques de bestias salvajes, antes de ser decapitado en su ciudad natal."
+      },
+      {
+        "name": "Santa María Micaela del Santísimo Sacramento",
+        "type": "Virgen, Fundadora",
+        "description": "Una monja española que fundó las Adoratrices Esclavas del Santísimo Sacramento y de la Caridad para atender a mujeres necesitadas. Murió de cólera mientras cuidaba a los enfermos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional del Waffle (Estados Unidos)",
+        "description": "Este día conmemora el aniversario de Cornelius Swarthout al recibir la primera patente de EE. UU. para una plancha de gofres el 24 de agosto de 1869."
+      },
+      {
+        "name": "Día Internacional de la Música Extraña",
+        "description": "Fundado por el compositor Patrick Grant en 1998, este día anima a la gente a explorar y escuchar música que nunca antes hayan oído."
+      },
+      {
+        "name": "Día de la Bandera de Liberia (Liberia)",
+        "description": "Esta observancia nacional marca el 24 de agosto de 1847, cuando Liberia adoptó oficialmente su bandera, inspirada en la bandera estadounidense."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Lo más difícil es la decisión de actuar, el resto es solo tenacidad.",
+      "author": "Amelia Earhart",
+      "context": "Amelia Earhart, una aviadora estadounidense pionera, se convirtió en la primera mujer en volar sola y sin escalas a través de los Estados Unidos el 24 de agosto de 1932, aterrizando en Newark, Nueva Jersey, después de un vuelo de 19 horas desde Los Ángeles."
+    },
+    "motivationalQuote": {
+      "text": "La única persona en la que estás destinado a convertirte es la persona que decides ser.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Dave Chappelle",
+        "description": "Un aclamado comediante de stand-up, actor y productor estadounidense conocido por su serie de comedia satírica 'Chappelle's Show'.",
+        "year": "1973"
+      },
+      {
+        "name": "Marlee Matlin",
+        "description": "Una actriz estadounidense que es la única intérprete sorda en ganar el Premio de la Academia a la Mejor Actriz, por su papel debut en 'Hijos de un dios menor'.",
+        "year": "1965"
+      },
+      {
+        "name": "Stephen Fry",
+        "description": "Un actor, comediante, escritor y presentador inglés, reconocido por su extenso trabajo en televisión, cine y literatura.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Monte Vesubio Erupciona",
+        "description": "En un evento catastrófico, el Monte Vesubio erupcionó, enterrando las ciudades romanas de Pompeya, Herculano y Estabia bajo ceniza volcánica y piedra pómez.",
+        "year": "0079"
+      },
+      {
+        "title": "Vuelo Histórico de Amelia Earhart",
+        "description": "Amelia Earhart completó con éxito el primer vuelo transcontinental en solitario y sin escalas realizado por una mujer, volando desde Los Ángeles hasta Newark, Nueva Jersey.",
+        "year": "1932"
+      },
+      {
+        "title": "El Tratado de la OTAN Entra en Vigor",
+        "description": "El Tratado del Atlántico Norte, firmado en abril de 1949, entró oficialmente en vigor, estableciendo la Organización del Tratado del Atlántico Norte (OTAN) como una alianza militar intergubernamental.",
+        "year": "1949"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional del Waffle (Estados Unidos)",
+      "teaser": "Este día conmemora el aniversario de Cornelius Swarthout al recibir la primera patente de EE. UU. para una plancha de gofres el 24 de agosto de 1869."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Bartholomew the Apostle",
+        "type": "Apostle, Martyr",
+        "description": "One of the Twelve Apostles of Jesus, also known as Nathanael. He is traditionally believed to have preached the Gospel in India, Mesopotamia, Persia, Egypt, and Armenia, and was martyred for his faith, possibly by being flayed alive."
+      },
+      {
+        "name": "Hieromartyr Eutyches",
+        "type": "Bishop, Martyr",
+        "description": "A disciple of Saints John the Theologian and Paul, Eutyches preached the Gospel and underwent many sufferings, including hunger, beatings, fire, and attacks by wild beasts, before being beheaded in his native city."
+      },
+      {
+        "name": "Saint María Micaela of the Blessed Sacrament",
+        "type": "Virgin, Foundress",
+        "description": "A Spanish nun who founded the Handmaids of the Blessed Sacrament and of Charity to care for women in need. She died from cholera while tending to the sick."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Waffle Day (United States)",
+        "description": "This day commemorates the anniversary of Cornelius Swarthout receiving the first U.S. patent for a waffle iron on August 24, 1869."
+      },
+      {
+        "name": "International Strange Music Day",
+        "description": "Founded by composer Patrick Grant in 1998, this day encourages people to explore and listen to music they have never heard before."
+      },
+      {
+        "name": "Liberia Flag Day (Liberia)",
+        "description": "This national observance marks August 24, 1847, when Liberia officially adopted its flag, inspired by the American flag."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The most difficult thing is the decision to act, the rest is merely tenacity.",
+      "author": "Amelia Earhart",
+      "context": "Amelia Earhart, a pioneering American aviator, became the first woman to fly solo and non-stop across the United States on August 24, 1932, landing in Newark, New Jersey, after a 19-hour flight from Los Angeles."
+    },
+    "motivationalQuote": {
+      "text": "The only person you are destined to become is the person you decide to be.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Dave Chappelle",
+        "description": "An acclaimed American stand-up comedian, actor, and producer known for his satirical sketch comedy series 'Chappelle's Show'.",
+        "year": "1973"
+      },
+      {
+        "name": "Marlee Matlin",
+        "description": "An American actress who is the only deaf performer to win the Academy Award for Best Actress, for her debut role in 'Children of a Lesser God'.",
+        "year": "1965"
+      },
+      {
+        "name": "Stephen Fry",
+        "description": "An English actor, comedian, writer, and presenter, recognized for his extensive work in television, film, and literature.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "Mount Vesuvius Erupts",
+        "description": "In a catastrophic event, Mount Vesuvius erupted, burying the Roman cities of Pompeii, Herculaneum, and Stabiae under volcanic ash and pumice.",
+        "year": "0079"
+      },
+      {
+        "title": "Amelia Earhart's Historic Flight",
+        "description": "Amelia Earhart successfully completed the first solo, non-stop transcontinental flight by a woman, flying from Los Angeles to Newark, New Jersey.",
+        "year": "1932"
+      },
+      {
+        "title": "NATO Treaty Takes Effect",
+        "description": "The North Atlantic Treaty, signed in April 1949, officially came into force, establishing the North Atlantic Treaty Organization (NATO) as an intergovernmental military alliance.",
+        "year": "1949"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Waffle Day (United States)",
+      "teaser": "This day commemorates the anniversary of Cornelius Swarthout receiving the first U.S. patent for a waffle iron on August 24, 1869."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Bartolomeu Apóstolo",
+        "type": "Apóstolo, Mártir",
+        "description": "Um dos Doze Apóstolos de Jesus, também conhecido como Natanael. Tradicionalmente, acredita-se que ele pregou o Evangelho na Índia, Mesopotâmia, Pérsia, Egito e Armênia, e foi martirizado por sua fé, possivelmente sendo esfolado vivo."
+      },
+      {
+        "name": "Hieromártir Eutiques",
+        "type": "Bispo, Mártir",
+        "description": "Discípulo dos Santos João, o Teólogo, e Paulo, Eutiques pregou o Evangelho e passou por muitos sofrimentos, incluindo fome, espancamentos, fogo e ataques de feras, antes de ser decapitado em sua cidade natal."
+      },
+      {
+        "name": "Santa Maria Micaela do Santíssimo Sacramento",
+        "type": "Virgem, Fundadora",
+        "description": "Uma freira espanhola que fundou as Adoradoras Escravas do Santíssimo Sacramento e da Caridade para cuidar de mulheres necessitadas. Morreu de cólera enquanto cuidava dos doentes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional do Waffle (Estados Unidos)",
+        "description": "Este dia comemora o aniversário de Cornelius Swarthout ao receber a primeira patente dos EUA para um ferro de waffle em 24 de agosto de 1869."
+      },
+      {
+        "name": "Dia Internacional da Música Estranha",
+        "description": "Fundado pelo compositor Patrick Grant em 1998, este dia incentiva as pessoas a explorar e ouvir músicas que nunca ouviram antes."
+      },
+      {
+        "name": "Dia da Bandeira da Libéria (Libéria)",
+        "description": "Esta observância nacional marca 24 de agosto de 1847, quando a Libéria adotou oficialmente sua bandeira, inspirada na bandeira americana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "A coisa mais difícil é a decisão de agir, o resto é meramente tenacidade.",
+      "author": "Amelia Earhart",
+      "context": "Amelia Earhart, uma aviadora americana pioneira, tornou-se a primeira mulher a voar sozinha e sem escalas pelos Estados Unidos em 24 de agosto de 1932, aterrissando em Newark, Nova Jersey, após um voo de 19 horas de Los Angeles."
+    },
+    "motivationalQuote": {
+      "text": "A única pessoa que você está destinado a se tornar é a pessoa que você decide ser.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Dave Chappelle",
+        "description": "Um aclamado comediante de stand-up, ator e produtor americano conhecido por sua série de comédia satírica 'Chappelle's Show'.",
+        "year": "1973"
+      },
+      {
+        "name": "Marlee Matlin",
+        "description": "Uma atriz americana que é a única artista surda a ganhar o Oscar de Melhor Atriz, por seu papel de estreia em 'Filhos de um Deus Menor'.",
+        "year": "1965"
+      },
+      {
+        "name": "Stephen Fry",
+        "description": "Um ator, comediante, escritor e apresentador inglês, reconhecido por seu extenso trabalho em televisão, cinema e literatura.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "O Monte Vesúvio Entra em Erupção",
+        "description": "Em um evento catastrófico, o Monte Vesúvio entrou em erupção, soterrando as cidades romanas de Pompeia, Herculano e Estábia sob cinzas vulcânicas e pedra-pomes.",
+        "year": "0079"
+      },
+      {
+        "title": "Voo Histórico de Amelia Earhart",
+        "description": "Amelia Earhart completou com sucesso o primeiro voo transcontinental solo e sem escalas de uma mulher, voando de Los Angeles para Newark, Nova Jersey.",
+        "year": "1932"
+      },
+      {
+        "title": "O Tratado da OTAN Entra em Vigor",
+        "description": "O Tratado do Atlântico Norte, assinado em abril de 1949, entrou oficialmente em vigor, estabelecendo a Organização do Tratado do Atlântico Norte (OTAN) como uma aliança militar intergovernamental.",
+        "year": "1949"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional do Waffle (Estados Unidos)",
+      "teaser": "Este dia comemora o aniversário de Cornelius Swarthout ao receber a primeira patente dos EUA para um ferro de waffle em 24 de agosto de 1869."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Bartomeu Apòstol",
+        "type": "Apòstol, Màrtir",
+        "description": "Un dels Dotze Apòstols de Jesús, també conegut com Natanael. Tradicionalment es creu que va predicar l'Evangeli a l'Índia, Mesopotàmia, Pèrsia, Egipte i Armènia, i va ser martiritzat per la seva fe, possiblement sent escorxat viu."
+      },
+      {
+        "name": "Hieromàrtir Eutiques",
+        "type": "Bisbe, Màrtir",
+        "description": "Deixeble dels Sants Joan el Teòleg i Pau, Eutiques va predicar l'Evangeli i va patir molts sofriments, incloent fam, pallisses, foc i atacs de bèsties salvatges, abans de ser decapitat a la seva ciutat natal."
+      },
+      {
+        "name": "Santa Maria Micaela del Santíssim Sagrament",
+        "type": "Verge, Fundadora",
+        "description": "Una monja espanyola que va fundar les Esclaves del Santíssim Sagrament i de la Caritat per atendre dones necessitades. Va morir de còlera mentre cuidava els malalts."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional del Waffle (Estats Units)",
+        "description": "Aquest dia commemora l'aniversari de Cornelius Swarthout rebent la primera patent dels EUA per a una gofrera el 24 d'agost de 1869."
+      },
+      {
+        "name": "Dia Internacional de la Música Estranya",
+        "description": "Fundat pel compositor Patrick Grant el 1998, aquest dia anima la gent a explorar i escoltar música que mai no havien sentit abans."
+      },
+      {
+        "name": "Dia de la Bandera de Libèria (Libèria)",
+        "description": "Aquesta celebració nacional marca el 24 d'agost de 1847, quan Libèria va adoptar oficialment la seva bandera, inspirada en la bandera americana."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El més difícil és la decisió d'actuar, la resta és simplement tenacitat.",
+      "author": "Amelia Earhart",
+      "context": "Amelia Earhart, una aviadora americana pionera, va esdevenir la primera dona a volar sola i sense escales a través dels Estats Units el 24 d'agost de 1932, aterrant a Newark, Nova Jersey, després d'un vol de 19 hores des de Los Angeles."
+    },
+    "motivationalQuote": {
+      "text": "L'única persona en qui estàs destinat a convertir-te és la persona que decideixes ser.",
+      "author": "Ralph Waldo Emerson"
+    },
+    "births": [
+      {
+        "name": "Dave Chappelle",
+        "description": "Un aclamat comediant de stand-up, actor i productor nord-americà conegut per la seva sèrie de comèdia satírica 'Chappelle's Show'.",
+        "year": "1973"
+      },
+      {
+        "name": "Marlee Matlin",
+        "description": "Una actriu americana que és l'única intèrpret sorda a guanyar l'Oscar a la millor actriu, pel seu paper de debut a 'Fills d'un déu menor'.",
+        "year": "1965"
+      },
+      {
+        "name": "Stephen Fry",
+        "description": "Un actor, comediant, escriptor i presentador anglès, reconegut pel seu extens treball en televisió, cinema i literatura.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Vesuvi entra en erupció",
+        "description": "En un esdeveniment catastròfic, el Vesuvi va entrar en erupció, enterrant les ciutats romanes de Pompeia, Herculà i Estàbia sota cendra volcànica i pedra tosca.",
+        "year": "0079"
+      },
+      {
+        "title": "Vol històric d'Amelia Earhart",
+        "description": "Amelia Earhart va completar amb èxit el primer vol transcontinental en solitari i sense escales per una dona, volant de Los Angeles a Newark, Nova Jersey.",
+        "year": "1932"
+      },
+      {
+        "title": "Entra en vigor el Tractat de l'OTAN",
+        "description": "El Tractat de l'Atlàntic Nord, signat l'abril de 1949, va entrar oficialment en vigor, establint l'Organització del Tractat de l'Atlàntic Nord (OTAN) com una aliança militar intergovernamental.",
+        "year": "1949"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional del Waffle (Estats Units)",
+      "teaser": "Aquest dia commemora l'aniversari de Cornelius Swarthout rebent la primera patent dels EUA per a una gofrera el 24 d'agost de 1869."
+    }
+  }
+}

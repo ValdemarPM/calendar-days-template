@@ -1,0 +1,367 @@
+{
+  "date": "2026-08-25",
+  "es": {
+    "saints": [
+      {
+        "name": "San Luis IX",
+        "type": "Rey de Francia",
+        "description": "Nacido en 1214, el rey Luis IX fue conocido por su profunda espiritualidad, su compromiso con la justicia y sus actos de caridad, incluyendo lavar los pies de los pobres."
+      },
+      {
+        "name": "San José de Calasanz",
+        "type": "Sacerdote",
+        "description": "Dedicó su vida a educar a niños pobres, estableciendo la primera escuela gratuita para niños y llegando a ser conocido como el patrón de las Escuelas Católicas."
+      },
+      {
+        "name": "San Bartolomé",
+        "type": "Apóstol",
+        "description": "La Iglesia Ortodoxa Oriental conmemora el regreso de sus santas reliquias en este día."
+      },
+      {
+        "name": "San Tito",
+        "type": "Obispo de Creta",
+        "description": "Discípulo de San Pablo, se convirtió en el primer Obispo de Creta y es conmemorado en la Iglesia Ortodoxa."
+      },
+      {
+        "name": "San Ginés de Arlés",
+        "type": "Mártir",
+        "description": "Este santo es venerado como mártir, sufriendo por su fe en los primeros siglos del cristianismo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Fundación del Servicio de Parques Nacionales",
+        "description": "Celebrado en Estados Unidos, este día marca la creación de la agencia que protege los tesoros naturales y culturales de América."
+      },
+      {
+        "name": "Día de la Independencia de Uruguay",
+        "description": "Este feriado nacional conmemora la declaración de independencia de Uruguay del Imperio Brasileño en 1825."
+      },
+      {
+        "name": "Día Nacional del Banana Split",
+        "description": "Una celebración anual en EE. UU. dedicada a disfrutar del popular postre helado."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Es un pequeño paso para [un] hombre, un gran salto para la humanidad.",
+      "author": "Neil Armstrong",
+      "context": "Neil Armstrong, la primera persona en caminar sobre la luna, falleció el 25 de agosto de 2012, a la edad de 82 años."
+    },
+    "motivationalQuote": {
+      "text": "Recuerda ser amable contigo mismo y con los demás. Todos somos hijos del azar y nadie puede decir por qué algunos campos florecerán mientras otros yacen marrones bajo el sol de agosto.",
+      "author": "Kent Nerburn"
+    },
+    "births": [
+      {
+        "name": "Sean Connery",
+        "description": "Actor escocés que alcanzó el estrellato internacional interpretando a James Bond y ganó un Oscar por su papel en 'Los Intocables'.",
+        "year": "1930"
+      },
+      {
+        "name": "Tim Burton",
+        "description": "Director de cine, productor y guionista estadounidense conocido por sus películas de fantasía gótica y terror.",
+        "year": "1958"
+      },
+      {
+        "name": "Gene Simmons",
+        "description": "Músico, cantante y compositor israelí-estadounidense, más conocido como el bajista y co-vocalista principal de la banda de rock Kiss.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "Establecido el Servicio de Parques Nacionales de EE. UU.",
+        "description": "El presidente Woodrow Wilson firmó el acta que creaba el Servicio de Parques Nacionales, una agencia dedicada a preservar lugares naturales e históricos para el disfrute del pueblo estadounidense.",
+        "year": "1916"
+      },
+      {
+        "title": "Uruguay Declara su Independencia",
+        "description": "Uruguay declaró su independencia del Imperio Brasileño, un momento crucial en la lucha del país por la soberanía.",
+        "year": "1825"
+      },
+      {
+        "title": "París Liberada en la Segunda Guerra Mundial",
+        "description": "Las fuerzas aliadas liberaron París de la ocupación alemana, un punto de inflexión significativo en las etapas finales de la Segunda Guerra Mundial en Europa.",
+        "year": "1944"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la Fundación del Servicio de Parques Nacionales",
+      "teaser": "Celebrado en Estados Unidos, este día marca la creación de la agencia que protege los tesoros naturales y culturales de América."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Louis IX",
+        "type": "King of France",
+        "description": "Born in 1214, King Louis IX was known for his deep spirituality, commitment to justice, and charitable acts, including washing the feet of the poor."
+      },
+      {
+        "name": "Saint Joseph Calasanz",
+        "type": "Priest",
+        "description": "He dedicated his life to educating poor children, establishing the first free school for children and becoming known as the patron of Catholic Schools."
+      },
+      {
+        "name": "Saint Bartholomew",
+        "type": "Apostle",
+        "description": "The Eastern Orthodox Church commemorates the return of his holy relics on this day."
+      },
+      {
+        "name": "Saint Titus",
+        "type": "Bishop of Crete",
+        "description": "A disciple of Saint Paul, he became the first Bishop of Crete and is commemorated in the Orthodox Church."
+      },
+      {
+        "name": "Saint Genesius of Arles",
+        "type": "Martyr",
+        "description": "This saint is venerated as a martyr, suffering for his faith in the early centuries of Christianity."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Park Service Founders Day",
+        "description": "Celebrated in the United States, this day marks the creation of the agency that protects America's natural and cultural treasures."
+      },
+      {
+        "name": "Uruguay's Independence Day",
+        "description": "This national holiday commemorates Uruguay's declaration of independence from the Brazilian Empire in 1825."
+      },
+      {
+        "name": "National Banana Split Day",
+        "description": "An annual observance in the U.S. dedicated to enjoying the popular ice cream dessert."
+      }
+    ],
+    "historicalQuote": {
+      "text": "That's one small step for [a] man, one giant leap for mankind.",
+      "author": "Neil Armstrong",
+      "context": "Neil Armstrong, the first person to walk on the moon, died on August 25, 2012, at the age of 82."
+    },
+    "motivationalQuote": {
+      "text": "Remember to be gentle with yourself and others. We are all children of chance and none can say why some fields will blossom while others lay brown beneath the August sun.",
+      "author": "Kent Nerburn"
+    },
+    "births": [
+      {
+        "name": "Sean Connery",
+        "description": "A Scottish actor who achieved international stardom playing James Bond and won an Oscar for his role in 'The Untouchables.'",
+        "year": "1930"
+      },
+      {
+        "name": "Tim Burton",
+        "description": "An American film director, producer, and screenwriter known for his gothic fantasy and horror films.",
+        "year": "1958"
+      },
+      {
+        "name": "Gene Simmons",
+        "description": "An Israeli-American musician, singer, and songwriter, best known as the bassist and co-lead singer of the rock band Kiss.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "U.S. National Park Service Established",
+        "description": "President Woodrow Wilson signed the act creating the National Park Service, an agency dedicated to preserving natural and historical places for the enjoyment of the American people.",
+        "year": "1916"
+      },
+      {
+        "title": "Uruguay Declares Independence",
+        "description": "Uruguay declared its independence from the Brazilian Empire, a pivotal moment in the country's struggle for sovereignty.",
+        "year": "1825"
+      },
+      {
+        "title": "Paris Liberated in World War II",
+        "description": "Allied forces liberated Paris from German occupation, a significant turning point in the final stages of World War II in Europe.",
+        "year": "1944"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Park Service Founders Day",
+      "teaser": "Celebrated in the United States, this day marks the creation of the agency that protects America's natural and cultural treasures."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Luís IX",
+        "type": "Rei da França",
+        "description": "Nascido em 1214, o Rei Luís IX era conhecido por sua profunda espiritualidade, compromisso com a justiça e atos de caridade, incluindo lavar os pés dos pobres."
+      },
+      {
+        "name": "São José de Calasanz",
+        "type": "Sacerdote",
+        "description": "Ele dedicou sua vida a educar crianças pobres, estabelecendo a primeira escola gratuita para crianças e tornando-se conhecido como o padroeiro das Escolas Católicas."
+      },
+      {
+        "name": "São Bartolomeu",
+        "type": "Apóstolo",
+        "description": "A Igreja Ortodoxa Oriental comemora o retorno de suas santas relíquias neste dia."
+      },
+      {
+        "name": "São Tito",
+        "type": "Bispo de Creta",
+        "description": "Discípulo de São Paulo, ele se tornou o primeiro Bispo de Creta e é comemorado na Igreja Ortodoxa."
+      },
+      {
+        "name": "São Genésio de Arles",
+        "type": "Mártir",
+        "description": "Este santo é venerado como mártir, sofrendo por sua fé nos primeiros séculos do Cristianismo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dos Fundadores do Serviço Nacional de Parques",
+        "description": "Celebrado nos Estados Unidos, este dia marca a criação da agência que protege os tesouros naturais e culturais da América."
+      },
+      {
+        "name": "Dia da Independência do Uruguai",
+        "description": "Este feriado nacional comemora a declaração de independência do Uruguai do Império Brasileiro em 1825."
+      },
+      {
+        "name": "Dia Nacional do Banana Split",
+        "description": "Uma observância anual nos EUA dedicada a desfrutar da popular sobremesa de sorvete."
+      }
+    ],
+    "historicalQuote": {
+      "text": "É um pequeno passo para [um] homem, um salto gigante para a humanidade.",
+      "author": "Neil Armstrong",
+      "context": "Neil Armstrong, a primeira pessoa a pisar na lua, faleceu em 25 de agosto de 2012, aos 82 anos de idade."
+    },
+    "motivationalQuote": {
+      "text": "Lembre-se de ser gentil consigo mesmo e com os outros. Somos todos filhos do acaso e ninguém pode dizer por que alguns campos florescerão enquanto outros jazem secos sob o sol de agosto.",
+      "author": "Kent Nerburn"
+    },
+    "births": [
+      {
+        "name": "Sean Connery",
+        "description": "Ator escocês que alcançou o estrelato internacional interpretando James Bond e ganhou um Oscar por seu papel em 'Os Intocáveis'.",
+        "year": "1930"
+      },
+      {
+        "name": "Tim Burton",
+        "description": "Cineasta, produtor e roteirista americano conhecido por seus filmes de fantasia gótica e terror.",
+        "year": "1958"
+      },
+      {
+        "name": "Gene Simmons",
+        "description": "Músico, cantor e compositor israelo-americano, mais conhecido como baixista e co-vocalista da banda de rock Kiss.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "Serviço Nacional de Parques dos EUA Estabelecido",
+        "description": "O Presidente Woodrow Wilson assinou a lei que criava o Serviço Nacional de Parques, uma agência dedicada a preservar locais naturais e históricos para o desfrute do povo americano.",
+        "year": "1916"
+      },
+      {
+        "title": "Uruguai Declara Independência",
+        "description": "O Uruguai declarou sua independência do Império Brasileiro, um momento crucial na luta do país pela soberania.",
+        "year": "1825"
+      },
+      {
+        "title": "Paris Libertada na Segunda Guerra Mundial",
+        "description": "As forças aliadas libertaram Paris da ocupação alemã, um ponto de viragem significativo nas fases finais da Segunda Guerra Mundial na Europa.",
+        "year": "1944"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia dos Fundadores do Serviço Nacional de Parques",
+      "teaser": "Celebrado nos Estados Unidos, este dia marca a criação da agência que protege os tesouros naturais e culturais da América."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Lluís IX",
+        "type": "Rei de França",
+        "description": "Nascut el 1214, el rei Lluís IX va ser conegut per la seva profunda espiritualitat, el seu compromís amb la justícia i els seus actes de caritat, incloent el rentat dels peus dels pobres."
+      },
+      {
+        "name": "Sant Josep de Calassanç",
+        "type": "Sacerdot",
+        "description": "Va dedicar la seva vida a l'educació dels nens pobres, establint la primera escola gratuïta per a nens i sent conegut com el patró de les Escoles Catòliques."
+      },
+      {
+        "name": "Sant Bartomeu",
+        "type": "Apòstol",
+        "description": "L'Església Ortodoxa Oriental commemora el retorn de les seves santes relíquies en aquest dia."
+      },
+      {
+        "name": "Sant Tit",
+        "type": "Bisbe de Creta",
+        "description": "Deixeble de Sant Pau, va esdevenir el primer bisbe de Creta i és commemorat a l'Església Ortodoxa."
+      },
+      {
+        "name": "Sant Genís d'Arles",
+        "type": "Màrtir",
+        "description": "Aquest sant és venerat com a màrtir, sofrint per la seva fe en els primers segles del cristianisme."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Fundació del Servei de Parcs Nacionals",
+        "description": "Celebrat als Estats Units, aquest dia commemora la creació de l'agència que protegeix els tresors naturals i culturals d'Amèrica."
+      },
+      {
+        "name": "Dia de la Independència de l'Uruguai",
+        "description": "Aquesta festa nacional commemora la declaració d'independència de l'Uruguai de l'Imperi Brasiler el 1825."
+      },
+      {
+        "name": "Dia Nacional del Banana Split",
+        "description": "Una celebració anual als EUA dedicada a gaudir de la popular postra de gelat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Un petit pas per a [un] home, un gran salt per a la humanitat.",
+      "author": "Neil Armstrong",
+      "context": "Neil Armstrong, la primera persona a caminar sobre la lluna, va morir el 25 d'agost de 2012, a l'edat de 82 anys."
+    },
+    "motivationalQuote": {
+      "text": "Recorda ser amable amb tu mateix i amb els altres. Tots som fills de l'atzar i ningú pot dir per què alguns camps floriran mentre altres jeuen marrons sota el sol d'agost.",
+      "author": "Kent Nerburn"
+    },
+    "births": [
+      {
+        "name": "Sean Connery",
+        "description": "Un actor escocès que va aconseguir fama internacional interpretant a James Bond i va guanyar un Oscar pel seu paper a 'Els Intocables'.",
+        "year": "1930"
+      },
+      {
+        "name": "Tim Burton",
+        "description": "Un director de cinema, productor i guionista americà conegut per les seves pel·lícules de fantasia gòtica i terror.",
+        "year": "1958"
+      },
+      {
+        "name": "Gene Simmons",
+        "description": "Un músic, cantant i compositor israelià-americà, més conegut com el baixista i co-vocalista de la banda de rock Kiss.",
+        "year": "1949"
+      }
+    ],
+    "events": [
+      {
+        "title": "S'estableix el Servei de Parcs Nacionals dels EUA",
+        "description": "El president Woodrow Wilson va signar l'acte de creació del Servei de Parcs Nacionals, una agència dedicada a preservar llocs naturals i històrics per al gaudi del poble americà.",
+        "year": "1916"
+      },
+      {
+        "title": "L'Uruguai declara la Independència",
+        "description": "L'Uruguai va declarar la seva independència de l'Imperi Brasiler, un moment clau en la lluita del país per la seva sobirania.",
+        "year": "1825"
+      },
+      {
+        "title": "París alliberat a la Segona Guerra Mundial",
+        "description": "Les forces aliades van alliberar París de l'ocupació alemanya, un punt d'inflexió significatiu en les etapes finals de la Segona Guerra Mundial a Europa.",
+        "year": "1944"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de la Fundació del Servei de Parcs Nacionals",
+      "teaser": "Celebrat als Estats Units, aquest dia commemora la creació de l'agència que protegeix els tresors naturals i culturals d'Amèrica."
+    }
+  }
+}

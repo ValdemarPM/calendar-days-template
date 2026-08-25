@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-26",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa María de Jesús Crucificado",
+        "type": "Monja Carmelita Descalza",
+        "description": "Nacida Mariam Baouardy, fue una monja greco-católica melquita, virgen, mística y estigmatizada, conocida por su profunda espiritualidad y devoción a la caridad. Falleció en 1878."
+      },
+      {
+        "name": "Santa Juana Isabel des Bichier des Anges",
+        "type": "Fundadora",
+        "description": "Fue una monja francesa que cofundó las Hermanas de la Cruz (Hermanas de San Andrés) con San Andrés Fournet para cuidar a los enfermos y a los pobres, y para educar a las personas en la Francia rural. Falleció en 1838."
+      },
+      {
+        "name": "Santos Adrián y Natalia de Nicomedia",
+        "type": "Mártires",
+        "description": "Un matrimonio que fue martirizado por su fe cristiana durante las persecuciones del emperador Maximiano en Nicomedia alrededor del año 306 d.C."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Igualdad de la Mujer",
+        "description": "Conmemora la certificación en 1920 de la 19.ª Enmienda a la Constitución de los EE. UU., que otorgó a las mujeres el derecho al voto, y destaca los esfuerzos continuos por la igualdad de derechos de las mujeres."
+      },
+      {
+        "name": "Día Nacional del Perro",
+        "description": "Celebra a todos los perros, mestizos y de raza pura, y llama la atención sobre el número de perros en refugios y la importancia de la adopción."
+      },
+      {
+        "name": "Onam",
+        "description": "El principal festival anual de la cosecha celebrado en Kerala, India, que da la bienvenida al legendario rey Mahabali con decoraciones florales, carreras de botes y banquetes tradicionales."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Difunde amor dondequiera que vayas; primero que nada en tu casa. Da amor a tus hijos, a tu esposa o esposo, al vecino de al lado. Que nadie se acerque a ti sin irse mejor y más feliz. Sé la expresión viva de la bondad de Dios; bondad en tu rostro, bondad en tus ojos, bondad en tu sonrisa.",
+      "author": "Madre Teresa",
+      "context": "Madre Teresa, una monja y misionera católica romana albanesa-india que más tarde fue canonizada como Santa Teresa de Calcuta, nació el 26 de agosto de 1910."
+    },
+    "motivationalQuote": {
+      "text": "Si no puedes volar, corre; si no puedes correr, camina; si no puedes caminar, gatea; pero hagas lo que hagas, tienes que seguir avanzando.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Katherine Johnson",
+        "description": "Una matemática estadounidense cuyas cálculos de mecánica orbital fueron críticos para el éxito de los vuelos espaciales tripulados de la NASA.",
+        "year": "1918"
+      },
+      {
+        "name": "Lee de Forest",
+        "description": "Un inventor estadounidense a menudo llamado el 'Padre de la Radio' por su invención del tubo de vacío Audion, que fue esencial para la radiodifusión.",
+        "year": "1873"
+      },
+      {
+        "name": "Albert Sabin",
+        "description": "Un investigador médico polaco-estadounidense que desarrolló la vacuna oral contra la polio, que ayudó a erradicar en gran medida la polio en todo el mundo.",
+        "year": "1906"
+      }
+    ],
+    "events": [
+      {
+        "title": "Sufragio Femenino Alcanzado en EE. UU.",
+        "description": "La 19.ª Enmienda a la Constitución de los EE. UU., que otorgaba a las mujeres el derecho al voto, fue certificada, marcando un paso monumental para los derechos civiles y la igualdad.",
+        "year": "1920"
+      },
+      {
+        "title": "Aprobada la Declaración de los Derechos del Hombre y del Ciudadano",
+        "description": "Durante la Revolución Francesa, la Asamblea Nacional Constituyente aprobó este documento fundamental, que declaraba derechos y principios universales que influyeron en las democracias modernas.",
+        "year": "1789"
+      },
+      {
+        "title": "Liberia Proclamada República Independiente",
+        "description": "La nación de África Occidental de Liberia declaró su independencia, convirtiéndose en la primera república independiente de África y un símbolo de libertad.",
+        "year": "1847"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la Igualdad de la Mujer",
+      "teaser": "Conmemora la certificación en 1920 de la 19.ª Enmienda a la Constitución de los EE. UU., que otorgó a las mujeres el derecho al voto, y destaca los esfuerzos continuos por la igualdad de derechos de las mujeres."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Mary of Jesus Crucified",
+        "type": "Discalced Carmelite Nun",
+        "description": "Born Mariam Baouardy, she was a Melkite Greek Catholic nun, virgin, mystic, and stigmatic known for her profound spirituality and devotion to charity. She died in 1878."
+      },
+      {
+        "name": "St. Jeanne Elizabeth des Bichier des Anges",
+        "type": "Foundress",
+        "description": "She was a French nun who co-founded the Sisters of the Cross (Sisters of Saint Andrew) with Saint Andrew Fournet to care for the sick and poor, and to educate people in rural France. She died in 1838."
+      },
+      {
+        "name": "Sts. Adrian and Natalia of Nicomedia",
+        "type": "Martyrs",
+        "description": "A husband and wife who were martyred for their Christian faith during the persecutions of Emperor Maximian in Nicomedia around 306 AD."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Women's Equality Day",
+        "description": "Commemorates the 1920 certification of the 19th Amendment to the U.S. Constitution, granting women the right to vote, and highlights ongoing efforts for women's equal rights."
+      },
+      {
+        "name": "National Dog Day",
+        "description": "Celebrates all dogs, mixed breed and purebred, and brings attention to the number of dogs in shelters and the importance of adoption."
+      },
+      {
+        "name": "Onam",
+        "description": "The main annual harvest festival celebrated in Kerala, India, welcoming the legendary King Mahabali with flower decorations, boat races, and traditional feasts."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Spread love everywhere you go; first of all in your house. Give love to your children, to your wife or husband, to a next door neighbor. Let no one ever come to you without leaving better and happier. Be the living expression of God's kindness; kindness in your face, kindness in your eyes, kindness in your smile.",
+      "author": "Mother Teresa",
+      "context": "Mother Teresa, an Albanian-Indian Roman Catholic nun and missionary who was later canonized as Saint Teresa of Calcutta, was born on August 26, 1910."
+    },
+    "motivationalQuote": {
+      "text": "If you can't fly, then run, if you can't run, then walk, if you can't walk, then crawl, but whatever you do, you have to keep moving forward.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Katherine Johnson",
+        "description": "An American mathematician whose calculations of orbital mechanics were critical to the success of NASA's crewed spaceflights.",
+        "year": "1918"
+      },
+      {
+        "name": "Lee de Forest",
+        "description": "An American inventor often called the 'Father of Radio' for his invention of the Audion vacuum tube, which was essential for radio broadcasting.",
+        "year": "1873"
+      },
+      {
+        "name": "Albert Sabin",
+        "description": "A Polish-American medical researcher who developed the oral polio vaccine, which helped to largely eradicate polio worldwide.",
+        "year": "1906"
+      }
+    ],
+    "events": [
+      {
+        "title": "Women's Suffrage Achieved in the U.S.",
+        "description": "The 19th Amendment to the U.S. Constitution, granting women the right to vote, was certified, marking a monumental step for civil rights and equality.",
+        "year": "1920"
+      },
+      {
+        "title": "Declaration of the Rights of Man and of the Citizen Approved",
+        "description": "During the French Revolution, the National Constituent Assembly approved this foundational document, declaring universal rights and principles that influenced modern democracies.",
+        "year": "1789"
+      },
+      {
+        "title": "Liberia Proclaimed an Independent Republic",
+        "description": "The West African nation of Liberia declared its independence, becoming Africa's first independent republic and a symbol of freedom.",
+        "year": "1847"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Women's Equality Day",
+      "teaser": "Commemorates the 1920 certification of the 19th Amendment to the U.S. Constitution, granting women the right to vote, and highlights ongoing efforts for women's equal rights."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Maria de Jesus Crucificado",
+        "type": "Monja Carmelita Descalça",
+        "description": "Nascida Mariam Baouardy, foi uma freira greco-católica melquita, virgem, mística e estigmatizada, conhecida pela sua profunda espiritualidade e devoção à caridade. Faleceu em 1878."
+      },
+      {
+        "name": "Santa Joana Isabel des Bichier des Anges",
+        "type": "Fundadora",
+        "description": "Foi uma freira francesa que cofundou as Irmãs da Cruz (Irmãs de Santo André) com Santo André Fournet para cuidar dos doentes e dos pobres, e para educar as pessoas na França rural. Faleceu em 1838."
+      },
+      {
+        "name": "Santos Adriano e Natália de Nicomédia",
+        "type": "Mártires",
+        "description": "Um casal que foi martirizado pela sua fé cristã durante as perseguições do Imperador Maximiano em Nicomédia por volta de 306 d.C."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Igualdade da Mulher",
+        "description": "Comemora a certificação, em 1920, da 19.ª Emenda à Constituição dos EUA, que concedeu às mulheres o direito ao voto, e destaca os esforços contínuos pelos direitos iguais das mulheres."
+      },
+      {
+        "name": "Dia Nacional do Cão",
+        "description": "Celebra todos os cães, raças mistas e de raça pura, e chama a atenção para o número de cães em abrigos e a importância da adoção."
+      },
+      {
+        "name": "Onam",
+        "description": "O principal festival anual da colheita celebrado em Kerala, Índia, dando as boas-vindas ao lendário Rei Mahabali com decorações de flores, corridas de barcos e banquetes tradicionais."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Espalhe amor por onde for; primeiramente em sua casa. Dê amor aos seus filhos, à sua esposa ou marido, ao vizinho. Que ninguém nunca venha a você sem sair melhor e mais feliz. Seja a expressão viva da bondade de Deus; bondade em seu rosto, bondade em seus olhos, bondade em seu sorriso.",
+      "author": "Madre Teresa",
+      "context": "Madre Teresa, uma freira e missionária católica romana albanesa-indiana que mais tarde foi canonizada como Santa Teresa de Calcutá, nasceu em 26 de agosto de 1910."
+    },
+    "motivationalQuote": {
+      "text": "Se você não pode voar, corra; se não pode correr, ande; se não pode andar, rasteje; mas, faça o que fizer, você tem que continuar avançando.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Katherine Johnson",
+        "description": "Uma matemática americana cujos cálculos de mecânica orbital foram críticos para o sucesso dos voos espaciais tripulados da NASA.",
+        "year": "1918"
+      },
+      {
+        "name": "Lee de Forest",
+        "description": "Um inventor americano muitas vezes chamado de 'Pai do Rádio' pela sua invenção do tubo de vácuo Audion, que foi essencial para a radiodifusão.",
+        "year": "1873"
+      },
+      {
+        "name": "Albert Sabin",
+        "description": "Um pesquisador médico polonês-americano que desenvolveu a vacina oral contra a pólio, que ajudou a erradicar em grande parte a pólio em todo o mundo.",
+        "year": "1906"
+      }
+    ],
+    "events": [
+      {
+        "title": "Sufrágio Feminino Alcançado nos EUA",
+        "description": "A 19.ª Emenda à Constituição dos EUA, que concedeu às mulheres o direito ao voto, foi certificada, marcando um passo monumental para os direitos civis e a igualdade.",
+        "year": "1920"
+      },
+      {
+        "title": "Aprovada a Declaração dos Direitos do Homem e do Cidadão",
+        "description": "Durante a Revolução Francesa, a Assembleia Nacional Constituinte aprovou este documento fundamental, declarando direitos e princípios universais que influenciaram as democracias modernas.",
+        "year": "1789"
+      },
+      {
+        "title": "Libéria Proclamada República Independente",
+        "description": "A nação da África Ocidental da Libéria declarou sua independência, tornando-se a primeira república independente da África e um símbolo de liberdade.",
+        "year": "1847"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia da Igualdade da Mulher",
+      "teaser": "Comemora a certificação, em 1920, da 19.ª Emenda à Constituição dos EUA, que concedeu às mulheres o direito ao voto, e destaca os esforços contínuos pelos direitos iguais das mulheres."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Maria de Jesús Crucificat",
+        "type": "Monja Carmelita Descalça",
+        "description": "Nascuda Mariam Baouardy, fou una monja catòlica grega melquita, verge, mística i estigmatitzada, coneguda per la seva profunda espiritualitat i devoció a la caritat. Va morir el 1878."
+      },
+      {
+        "name": "Santa Joana Elisabet des Bichier dels Àngels",
+        "type": "Fundadora",
+        "description": "Fou una monja francesa que va cofundar les Germanes de la Creu (Germanes de Sant Andreu) amb Sant Andreu Fournet per tenir cura dels malalts i dels pobres, i per educar la gent a la França rural. Va morir el 1838."
+      },
+      {
+        "name": "Sants Adrià i Natàlia de Nicomèdia",
+        "type": "Màrtirs",
+        "description": "Un marit i muller que van ser martiritzats per la seva fe cristiana durant les persecucions de l'emperador Maximià a Nicomèdia al voltant del 306 dC."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Igualtat de les Dones",
+        "description": "Commemora la certificació el 1920 de la 19a Esmena a la Constitució dels EUA, que atorgava a les dones el dret a vot, i posa de manifest els esforços continus pels drets iguals de les dones."
+      },
+      {
+        "name": "Dia Nacional del Gos",
+        "description": "Celebra tots els gossos, de raça mixta i pura, i crida l'atenció sobre el nombre de gossos en refugis i la importància de l'adopció."
+      },
+      {
+        "name": "Onam",
+        "description": "El principal festival anual de la collita celebrat a Kerala, Índia, donant la benvinguda al llegendari Rei Mahabali amb decoracions florals, curses de vaixells i festes tradicionals."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Escampeu l'amor per tot arreu on aneu; primer de tot a casa vostra. Doneu amor als vostres fills, a la vostra esposa o marit, al vostre veí. Que ningú vingui mai a vosaltres sense marxar millor i més feliç. Sigueu l'expressió viva de la bondat de Déu; bondat a la vostra cara, bondat als vostres ulls, bondat al vostre somriure.",
+      "author": "Mare Teresa",
+      "context": "La Mare Teresa, una monja catòlica romana i missionera albanesa-índia que més tard va ser canonitzada com a Santa Teresa de Calcuta, va néixer el 26 d'agost de 1910."
+    },
+    "motivationalQuote": {
+      "text": "Si no pots volar, corre, si no pots córrer, camina, si no pots caminar, arrossega't, però facis el que facis, has de seguir avançant.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Katherine Johnson",
+        "description": "Una matemàtica nord-americana els càlculs de mecànica orbital de la qual van ser crucials per a l'èxit dels vols espacials tripulats de la NASA.",
+        "year": "1918"
+      },
+      {
+        "name": "Lee de Forest",
+        "description": "Un inventor nord-americà sovint anomenat el 'Pare de la Ràdio' per la seva invenció del tub de buit Audion, que va ser essencial per a la radiodifusió.",
+        "year": "1873"
+      },
+      {
+        "name": "Albert Sabin",
+        "description": "Un investigador mèdic polonès-nord-americà que va desenvolupar la vacuna oral contra la pòlio, que va ajudar a erradicar en gran mesura la pòlio a tot el món.",
+        "year": "1906"
+      }
+    ],
+    "events": [
+      {
+        "title": "Sufragi Femení Aconseguit als EUA",
+        "description": "La 19a Esmena a la Constitució dels EUA, que atorgava a les dones el dret a vot, va ser certificada, marcant un pas monumental pels drets civils i la igualtat.",
+        "year": "1920"
+      },
+      {
+        "title": "Aprovada la Declaració dels Drets de l'Home i del Ciutadà",
+        "description": "Durant la Revolució Francesa, l'Assemblea Nacional Constituent va aprovar aquest document fundacional, declarant drets i principis universals que van influir en les democràcies modernes.",
+        "year": "1789"
+      },
+      {
+        "title": "Libèria Proclamada República Independent",
+        "description": "La nació de Libèria, a l'Àfrica Occidental, va declarar la seva independència, convertint-se en la primera república independent d'Àfrica i un símbol de llibertat.",
+        "year": "1847"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de la Igualtat de les Dones",
+      "teaser": "Commemora la certificació el 1920 de la 19a Esmena a la Constitució dels EUA, que atorgava a les dones el dret a vot, i posa de manifest els esforços continus pels drets iguals de les dones."
+    }
+  }
+}

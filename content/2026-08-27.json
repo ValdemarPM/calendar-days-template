@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-27",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Mónica",
+        "type": "Madre/Viuda",
+        "description": "Santa Mónica es la patrona de las madres, conocida por sus persistentes oraciones y lágrimas que llevaron a la conversión de su hijo, San Agustín, y de su esposo pagano, Patricio."
+      },
+      {
+        "name": "Venerable Poemen el Grande",
+        "type": "Monje/Padre del Desierto",
+        "description": "El Venerable Poemen el Grande fue un anacoreta egipcio (padre del desierto) del siglo V, reconocido por su sabiduría, ascetismo y guía espiritual."
+      },
+      {
+        "name": "San Fanurio el Gran Mártir",
+        "type": "Gran Mártir",
+        "description": "San Fanurio, cuyo icono fue descubierto milagrosamente en Rodas alrededor del año 1500, es venerado como un santo 'recién revelado' y a menudo es invocado por aquellos que han perdido algo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional del 'Solo Porque Sí'",
+        "description": "Este día anima a las personas a hacer algo espontáneo sin ninguna razón en particular, fomentando la alegría y los actos inesperados de bondad."
+      },
+      {
+        "name": "Día de la Independencia de Moldavia",
+        "description": "Esta fiesta nacional conmemora la declaración de independencia de Moldavia de la Unión Soviética el 27 de agosto de 1991."
+      },
+      {
+        "name": "Día Nacional de la Hamburguesa",
+        "description": "Una celebración popular, particularmente en EE. UU. y el Reino Unido, que celebra la icónica hamburguesa de carne en un pan."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El ayer no es nuestro para recuperar, pero el mañana es nuestro para ganar o perder.",
+      "author": "Lyndon B. Johnson",
+      "context": "Lyndon B. Johnson, el 36º Presidente de los Estados Unidos, nació el 27 de agosto de 1908. Es conocido por firmar legislaciones históricas como la Ley de Derechos Civiles de 1964."
+    },
+    "motivationalQuote": {
+      "text": "En tres palabras puedo resumir todo lo que he aprendido sobre la vida: Continúa.",
+      "author": "Robert Frost"
+    },
+    "births": [
+      {
+        "name": "Lyndon B. Johnson",
+        "description": "Un político estadounidense que se desempeñó como el 36º Presidente de los Estados Unidos de 1963 a 1969.",
+        "year": "1908"
+      },
+      {
+        "name": "Georg Wilhelm Friedrich Hegel",
+        "description": "Un filósofo alemán muy influyente, una de las figuras más importantes del idealismo alemán y de la filosofía del siglo XIX.",
+        "year": "1770"
+      },
+      {
+        "name": "Donald Bradman",
+        "description": "Un jugador de críquet internacional australiano, ampliamente reconocido como el mejor bateador de todos los tiempos.",
+        "year": "1908"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primer Pozo Petrolero Exitoso Perforado Comercialmente",
+        "description": "En 1859, Edwin Drake perforó con éxito el primer pozo petrolero comercialmente viable cerca de Titusville, Pensilvania, dando inicio a la industria petrolera moderna.",
+        "year": "1859"
+      },
+      {
+        "title": "Pacto Kellogg-Briand Firmado",
+        "description": "Quince naciones firmaron el Pacto Kellogg-Briand en París en 1928, un tratado internacional que renunciaba a la guerra como instrumento de política nacional.",
+        "year": "1928"
+      },
+      {
+        "title": "Primer Vuelo del Primer Avión a Reacción",
+        "description": "El Heinkel He 178, el primer avión del mundo propulsado únicamente por un motor turborreactor, realizó su vuelo inaugural en 1939, un paso monumental en la historia de la aviación.",
+        "year": "1939"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional del 'Solo Porque Sí'",
+      "teaser": "Este día anima a las personas a hacer algo espontáneo sin ninguna razón en particular, fomentando la alegría y los actos inesperados de bondad."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Monica",
+        "type": "Mother/Widow",
+        "description": "St. Monica is the patron saint of mothers, known for her persistent prayers and tears that led to the conversion of her son, Saint Augustine, and her pagan husband, Patricius."
+      },
+      {
+        "name": "Venerable Poemen the Great",
+        "type": "Monk/Desert Father",
+        "description": "Venerable Poemen the Great was an Egyptian anchorite (desert father) of the 5th century, renowned for his wisdom, asceticism, and spiritual guidance."
+      },
+      {
+        "name": "St. Phanourios the Great Martyr",
+        "type": "Great Martyr",
+        "description": "St. Phanourios, whose icon was miraculously discovered in Rhodes around 1500, is revered as a 'newly-revealed' saint and is often invoked by those who have lost something."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Just Because Day",
+        "description": "This day encourages people to do something spontaneous for no particular reason, fostering joy and unexpected acts of kindness."
+      },
+      {
+        "name": "Moldova Independence Day",
+        "description": "This national holiday commemorates Moldova's declaration of independence from the Soviet Union on August 27, 1991."
+      },
+      {
+        "name": "National Burger Day",
+        "description": "A popular observance, particularly in the U.S. and UK, celebrating the iconic beef patty on a bun."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Yesterday is not ours to recover, but tomorrow is ours to win or lose.",
+      "author": "Lyndon B. Johnson",
+      "context": "Lyndon B. Johnson, the 36th President of the United States, was born on August 27, 1908. He is known for signing landmark legislation like the Civil Rights Act of 1964."
+    },
+    "motivationalQuote": {
+      "text": "In three words I can sum up everything I've learned about life: It goes on.",
+      "author": "Robert Frost"
+    },
+    "births": [
+      {
+        "name": "Lyndon B. Johnson",
+        "description": "An American politician who served as the 36th President of the United States from 1963 to 1969.",
+        "year": "1908"
+      },
+      {
+        "name": "Georg Wilhelm Friedrich Hegel",
+        "description": "A highly influential German philosopher, one of the most important figures in German idealism and 19th-century philosophy.",
+        "year": "1770"
+      },
+      {
+        "name": "Donald Bradman",
+        "description": "An Australian international cricketer, widely acknowledged as the greatest batsman of all time.",
+        "year": "1908"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Commercially Successful Oil Well Drilled",
+        "description": "In 1859, Edwin Drake successfully drilled the first commercially viable oil well near Titusville, Pennsylvania, launching the modern petroleum industry.",
+        "year": "1859"
+      },
+      {
+        "title": "Kellogg-Briand Pact Signed",
+        "description": "Fifteen nations signed the Kellogg-Briand Pact in Paris in 1928, an international treaty that renounced war as an instrument of national policy.",
+        "year": "1928"
+      },
+      {
+        "title": "Maiden Flight of the First Jet Aircraft",
+        "description": "The Heinkel He 178, the world's first aircraft powered solely by a turbojet engine, made its inaugural flight in 1939, a monumental step in aviation history.",
+        "year": "1939"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Just Because Day",
+      "teaser": "This day encourages people to do something spontaneous for no particular reason, fostering joy and unexpected acts of kindness."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Mônica",
+        "type": "Mãe/Viúva",
+        "description": "Santa Mônica é a padroeira das mães, conhecida por suas orações persistentes e lágrimas que levaram à conversão de seu filho, Santo Agostinho, e de seu marido pagão, Patrício."
+      },
+      {
+        "name": "Venerável Poemen o Grande",
+        "type": "Monge/Pai do Deserto",
+        "description": "O Venerável Poemen o Grande foi um anacoreta egípcio (pai do deserto) do século V, renomado por sua sabedoria, ascetismo e orientação espiritual."
+      },
+      {
+        "name": "São Fanúrio o Grande Mártir",
+        "type": "Grande Mártir",
+        "description": "São Fanúrio, cujo ícone foi milagrosamente descoberto em Rodes por volta de 1500, é reverenciado como um santo 'recentemente revelado' e é frequentemente invocado por aqueles que perderam algo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional do 'Apenas Porque Sim'",
+        "description": "Este dia encoraja as pessoas a fazerem algo espontâneo sem um motivo particular, promovendo a alegria e atos inesperados de bondade."
+      },
+      {
+        "name": "Dia da Independência da Moldávia",
+        "description": "Este feriado nacional comemora a declaração de independência da Moldávia da União Soviética em 27 de agosto de 1991."
+      },
+      {
+        "name": "Dia Nacional do Hambúrguer",
+        "description": "Uma celebração popular, particularmente nos EUA e no Reino Unido, que celebra o icônico hambúrguer de carne em um pão."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O ontem não é nosso para recuperar, mas o amanhã é nosso para vencer ou perder.",
+      "author": "Lyndon B. Johnson",
+      "context": "Lyndon B. Johnson, o 36º Presidente dos Estados Unidos, nasceu em 27 de agosto de 1908. Ele é conhecido por assinar legislações marcantes como a Lei dos Direitos Civis de 1964."
+    },
+    "motivationalQuote": {
+      "text": "Em três palavras posso resumir tudo o que aprendi sobre a vida: Ela continua.",
+      "author": "Robert Frost"
+    },
+    "births": [
+      {
+        "name": "Lyndon B. Johnson",
+        "description": "Um político americano que serviu como o 36º Presidente dos Estados Unidos de 1963 a 1969.",
+        "year": "1908"
+      },
+      {
+        "name": "Georg Wilhelm Friedrich Hegel",
+        "description": "Um filósofo alemão altamente influente, uma das figuras mais importantes do idealismo alemão e da filosofia do século XIX.",
+        "year": "1770"
+      },
+      {
+        "name": "Donald Bradman",
+        "description": "Um jogador de críquete internacional australiano, amplamente reconhecido como o maior rebatedor de todos os tempos.",
+        "year": "1908"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro Poço de Petróleo Perfurado com Sucesso Comercial",
+        "description": "Em 1859, Edwin Drake perfurou com sucesso o primeiro poço de petróleo comercialmente viável perto de Titusville, Pensilvânia, lançando a moderna indústria petrolífera.",
+        "year": "1859"
+      },
+      {
+        "title": "Pacto Kellogg-Briand Assinado",
+        "description": "Quinze nações assinaram o Pacto Kellogg-Briand em Paris em 1928, um tratado internacional que renunciou à guerra como instrumento de política nacional.",
+        "year": "1928"
+      },
+      {
+        "title": "Voo Inaugural do Primeiro Avião a Jato",
+        "description": "O Heinkel He 178, o primeiro avião do mundo movido exclusivamente por um motor turborreator, fez seu voo inaugural em 1939, um passo monumental na história da aviação.",
+        "year": "1939"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional do 'Apenas Porque Sim'",
+      "teaser": "Este dia encoraja as pessoas a fazerem algo espontâneo sem um motivo particular, promovendo a alegria e atos inesperados de bondade."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Mònica",
+        "type": "Mare/Vídua",
+        "description": "Santa Mònica és la patrona de les mares, coneguda per les seves oracions i llàgrimes persistents que van portar a la conversió del seu fill, Sant Agustí, i del seu marit pagà, Patrici."
+      },
+      {
+        "name": "Venerable Poemen el Gran",
+        "type": "Monjo/Pare del Desert",
+        "description": "Venerable Poemen el Gran va ser un anacoreta egipci (pare del desert) del segle V, reconegut per la seva saviesa, ascetisme i guia espiritual."
+      },
+      {
+        "name": "Sant Fanuri el Gran Màrtir",
+        "type": "Gran Màrtir",
+        "description": "Sant Fanuri, la icona del qual va ser descoberta miraculosament a Rodes al voltant de 1500, és venerat com un sant 'recentment revelat' i sovint és invocat per aquells que han perdut alguna cosa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional del Perquè Sí",
+        "description": "Aquest dia anima la gent a fer alguna cosa espontània sense cap raó particular, fomentant l'alegria i els actes de bondat inesperats."
+      },
+      {
+        "name": "Dia de la Independència de Moldàvia",
+        "description": "Aquesta festa nacional commemora la declaració d'independència de Moldàvia de la Unió Soviètica el 27 d'agost de 1991."
+      },
+      {
+        "name": "Dia Nacional de l'Hamburguesa",
+        "description": "Una celebració popular, particularment als EUA i al Regne Unit, que celebra la icònica carn picada en un panet."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Ahir no és nostre per recuperar-lo, però demà és nostre per guanyar o perdre.",
+      "author": "Lyndon B. Johnson",
+      "context": "Lyndon B. Johnson, el 36è president dels Estats Units, va néixer el 27 d'agost de 1908. És conegut per signar legislacions històriques com la Llei de Drets Civils de 1964."
+    },
+    "motivationalQuote": {
+      "text": "En tres paraules puc resumir tot el que he après de la vida: Continua.",
+      "author": "Robert Frost"
+    },
+    "births": [
+      {
+        "name": "Lyndon B. Johnson",
+        "description": "Un polític nord-americà que va exercir com el 36è president dels Estats Units de 1963 a 1969.",
+        "year": "1908"
+      },
+      {
+        "name": "Georg Wilhelm Friedrich Hegel",
+        "description": "Un filòsof alemany molt influent, una de les figures més importants de l'idealisme alemany i de la filosofia del segle XIX.",
+        "year": "1770"
+      },
+      {
+        "name": "Donald Bradman",
+        "description": "Un jugador de criquet internacional australià, àmpliament reconegut com el millor batedor de tots els temps.",
+        "year": "1908"
+      }
+    ],
+    "events": [
+      {
+        "title": "Perforació del primer pou de petroli comercialment reeixit",
+        "description": "El 1859, Edwin Drake va perforar amb èxit el primer pou de petroli comercialment viable prop de Titusville, Pennsilvània, llançant la indústria petroliera moderna.",
+        "year": "1859"
+      },
+      {
+        "title": "Signatura del Pacte Kellogg-Briand",
+        "description": "Quinze nacions van signar el Pacte Kellogg-Briand a París el 1928, un tractat internacional que renunciava a la guerra com a instrument de política nacional.",
+        "year": "1928"
+      },
+      {
+        "title": "Primer vol del primer avió a reacció",
+        "description": "L'Heinkel He 178, el primer avió del món propulsat únicament per un motor turboreactor, va realitzar el seu vol inaugural el 1939, un pas monumental en la història de l'aviació.",
+        "year": "1939"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional del Perquè Sí",
+      "teaser": "Aquest dia anima la gent a fer alguna cosa espontània sense cap raó particular, fomentant l'alegria i els actes de bondat inesperats."
+    }
+  }
+}

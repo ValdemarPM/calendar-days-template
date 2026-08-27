@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-28",
+  "es": {
+    "saints": [
+      {
+        "name": "San Moisés el Etíope de Scete",
+        "type": "Venerable",
+        "description": "Un santo egipcio del siglo IV que se convirtió de ser un temido líder de ladrones a un anciano monástico conocido por su humildad y sabiduría espiritual."
+      },
+      {
+        "name": "Justa Ana la Profetisa, Hija de Fanuel",
+        "type": "Profetisa",
+        "description": "Una profetisa anciana del Evangelio de Lucas que pasó su vida en ayuno y oración en el Templo, reconociendo al niño Jesús como el Mesías."
+      },
+      {
+        "name": "Mártir Susana, Reina de Georgia",
+        "type": "Reina y Mártir",
+        "description": "Una reina georgiana del siglo V que fue martirizada por su fe cristiana por su esposo, el gobernante zoroastriano Varsken."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de la Mujer Emiratí",
+        "description": "Esta observancia en los EAU celebra los logros y contribuciones de las mujeres emiratíes en diversos campos."
+      },
+      {
+        "name": "Día del Recuerdo del Puente del Arcoíris",
+        "description": "Un día internacional dedicado a recordar y honrar a las queridas mascotas que han fallecido."
+      },
+      {
+        "name": "Día Nacional de la Pajarita",
+        "description": "Una observancia cultural en los EE. UU. que celebra la distintiva y elegante prenda de cuello, la pajarita."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tengo un sueño: que mis cuatro hijos pequeños vivan un día en una nación donde no serán juzgados por el color de su piel sino por el contenido de su carácter.",
+      "author": "Martin Luther King Jr.",
+      "context": "El 28 de agosto de 1963, Martin Luther King Jr. pronunció su icónico discurso 'Tengo un sueño' durante la Marcha en Washington por el Trabajo y la Libertad, articulando una poderosa visión para la igualdad y la justicia racial."
+    },
+    "motivationalQuote": {
+      "text": "Todo el mundo piensa en cambiar el mundo, pero nadie piensa en cambiarse a sí mismo.",
+      "author": "León Tolstói"
+    },
+    "births": [
+      {
+        "name": "Johann Wolfgang von Goethe",
+        "description": "Un célebre escritor, poeta, novelista y dramaturgo alemán, considerado una de las figuras más grandes de la literatura alemana y de la era romántica europea.",
+        "year": "1749"
+      },
+      {
+        "name": "Shania Twain",
+        "description": "Una superestrella canadiense de la música country, conocida por su innovadora fusión de música country y pop y sus numerosas canciones exitosas.",
+        "year": "1965"
+      },
+      {
+        "name": "Jack Black",
+        "description": "Un actor, comediante, músico y compositor estadounidense, famoso por sus enérgicas actuaciones en películas y como la mitad del dúo de comedia rock Tenacious D.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "La Ley de Abolición de la Esclavitud recibe la Sanción Real",
+        "description": "El Parlamento Británico aprobó la Ley de Abolición de la Esclavitud, declarando ilegal la compra o posesión de esclavos en todo el Imperio Británico.",
+        "year": "1833"
+      },
+      {
+        "title": "Marcha en Washington por el Trabajo y la Libertad",
+        "description": "Más de 200.000 defensores de los derechos civiles se reunieron en Washington D.C., culminando con el histórico discurso 'Tengo un sueño' de Martin Luther King Jr.",
+        "year": "1963"
+      },
+      {
+        "title": "William Herschel descubre Encélado",
+        "description": "El astrónomo británico William Herschel descubrió Encélado, la sexta luna más grande de Saturno.",
+        "year": "1789"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de la Mujer Emiratí",
+      "teaser": "Esta observancia en los EAU celebra los logros y contribuciones de las mujeres emiratíes en diversos campos."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Moses the Ethiopian of Scete",
+        "type": "Venerable",
+        "description": "A fourth-century Egyptian saint who converted from being a feared leader of robbers to a monastic elder known for his humility and spiritual wisdom."
+      },
+      {
+        "name": "Righteous Anna the Prophetess, Daughter of Phanuel",
+        "type": "Prophetess",
+        "description": "An elderly prophetess from the Gospel of Luke who spent her life in fasting and prayer at the Temple, recognizing the infant Jesus as the Messiah."
+      },
+      {
+        "name": "Martyr Susanna, Queen of Georgia",
+        "type": "Queen and Martyr",
+        "description": "A 5th-century Georgian queen who was martyred for her Christian faith by her husband, the Zoroastrian ruler Varsken."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Emirati Women's Day",
+        "description": "This observance in the UAE celebrates the achievements and contributions of Emirati women in various fields."
+      },
+      {
+        "name": "Rainbow Bridge Remembrance Day",
+        "description": "An international day dedicated to remembering and honoring beloved pets who have passed away."
+      },
+      {
+        "name": "National Bow Tie Day",
+        "description": "A cultural observance in the U.S. that celebrates the distinctive and stylish neckwear, the bow tie."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.",
+      "author": "Martin Luther King Jr.",
+      "context": "On August 28, 1963, Martin Luther King Jr. delivered his iconic 'I Have a Dream' speech during the March on Washington for Jobs and Freedom, articulating a powerful vision for racial equality and justice."
+    },
+    "motivationalQuote": {
+      "text": "Everyone thinks of changing the world, but no one thinks of changing himself.",
+      "author": "Leo Tolstoy"
+    },
+    "births": [
+      {
+        "name": "Johann Wolfgang von Goethe",
+        "description": "A celebrated German writer, poet, novelist, and dramatist, considered one of the greatest figures of German literature and the European Romantic era.",
+        "year": "1749"
+      },
+      {
+        "name": "Shania Twain",
+        "description": "A Canadian country music superstar, known for her groundbreaking fusion of country and pop music and her numerous hit songs.",
+        "year": "1965"
+      },
+      {
+        "name": "Jack Black",
+        "description": "An American actor, comedian, musician, and songwriter, famous for his energetic performances in films and as one half of the comedy rock duo Tenacious D.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Slavery Abolition Act receives Royal Assent",
+        "description": "The British Parliament passed the Slavery Abolition Act, making the purchase or ownership of slaves illegal throughout the British Empire.",
+        "year": "1833"
+      },
+      {
+        "title": "March on Washington for Jobs and Freedom",
+        "description": "More than 200,000 civil rights supporters gathered in Washington D.C., culminating in Martin Luther King Jr.'s historic 'I Have a Dream' speech.",
+        "year": "1963"
+      },
+      {
+        "title": "William Herschel discovers Enceladus",
+        "description": "British astronomer William Herschel discovered Enceladus, the sixth-largest moon of Saturn.",
+        "year": "1789"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Emirati Women's Day",
+      "teaser": "This observance in the UAE celebrates the achievements and contributions of Emirati women in various fields."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Moisés, o Etíope de Scete",
+        "type": "Venerável",
+        "description": "Um santo egípcio do século IV que se converteu de um temido líder de ladrões a um ancião monástico conhecido por sua humildade e sabedoria espiritual."
+      },
+      {
+        "name": "Justa Ana, a Profetisa, Filha de Fanuel",
+        "type": "Profetisa",
+        "description": "Uma profetisa idosa do Evangelho de Lucas que passou a vida em jejum e oração no Templo, reconhecendo o menino Jesus como o Messias."
+      },
+      {
+        "name": "Mártir Susana, Rainha da Geórgia",
+        "type": "Rainha e Mártir",
+        "description": "Uma rainha georgiana do século V que foi martirizada por sua fé cristã por seu marido, o governante zoroastriano Varsken."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia da Mulher Emiradense",
+        "description": "Esta celebração nos EAU homenageia as conquistas e contribuições das mulheres emiradenses em diversas áreas."
+      },
+      {
+        "name": "Dia da Lembrança da Ponte Arco-Íris",
+        "description": "Um dia internacional dedicado a recordar e honrar animais de estimação queridos que faleceram."
+      },
+      {
+        "name": "Dia Nacional da Gravata Borboleta",
+        "description": "Uma celebração cultural nos EUA que celebra o distintivo e elegante acessório de pescoço, a gravata borboleta."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Eu tenho um sonho: que meus quatro pequenos filhos um dia vivam em uma nação onde não serão julgados pela cor de sua pele, mas pelo conteúdo de seu caráter.",
+      "author": "Martin Luther King Jr.",
+      "context": "Em 28 de agosto de 1963, Martin Luther King Jr. proferiu seu icônico discurso 'Eu Tenho um Sonho' durante a Marcha em Washington por Empregos e Liberdade, articulando uma poderosa visão para a igualdade e justiça racial."
+    },
+    "motivationalQuote": {
+      "text": "Todo mundo pensa em mudar o mundo, mas ninguém pensa em mudar a si mesmo.",
+      "author": "Leon Tolstói"
+    },
+    "births": [
+      {
+        "name": "Johann Wolfgang von Goethe",
+        "description": "Um célebre escritor, poeta, romancista e dramaturgo alemão, considerado uma das maiores figuras da literatura alemã e da era Romântica europeia.",
+        "year": "1749"
+      },
+      {
+        "name": "Shania Twain",
+        "description": "Uma superestrella canadense da música country, conhecida por sua fusão inovadora de música country e pop e por suas inúmeras canções de sucesso.",
+        "year": "1965"
+      },
+      {
+        "name": "Jack Black",
+        "description": "Um ator, comediante, músico e compositor americano, famoso por suas performances energéticas em filmes e como metade da dupla de comédia rock Tenacious D.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "Lei de Abolição da Escravatura recebe Assentimento Real",
+        "description": "O Parlamento Britânico aprovou a Lei de Abolição da Escravatura, tornando a compra ou posse de escravos ilegal em todo o Império Britânico.",
+        "year": "1833"
+      },
+      {
+        "title": "Marcha em Washington por Empregos e Liberdade",
+        "description": "Mais de 200.000 apoiadores dos direitos civis se reuniram em Washington D.C., culminando no histórico discurso 'Eu Tenho um Sonho' de Martin Luther King Jr.",
+        "year": "1963"
+      },
+      {
+        "title": "William Herschel descobre Encélado",
+        "description": "O astrônomo britânico William Herschel descobriu Encélado, a sexta maior lua de Saturno.",
+        "year": "1789"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia da Mulher Emiradense",
+      "teaser": "Esta celebração nos EAU homenageia as conquistas e contribuições das mulheres emiradenses em diversas áreas."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Moisès l'Etíop de Scete",
+        "type": "Venerable",
+        "description": "Un sant egipci del segle IV que va passar de ser un temut líder de lladres a un ancià monàstic conegut per la seva humilitat i saviesa espiritual."
+      },
+      {
+        "name": "Justa Anna la Profetessa, filla de Fanuel",
+        "type": "Profetessa",
+        "description": "Una profetessa anciana de l'Evangeli de Lluc que va passar la seva vida en dejuni i oració al Temple, reconeixent el nen Jesús com el Messies."
+      },
+      {
+        "name": "Màrtir Susanna, Reina de Geòrgia",
+        "type": "Reina i Màrtir",
+        "description": "Una reina georgiana del segle V que va ser martiritzada per la seva fe cristiana pel seu marit, el governant zoroastre Varsken."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia de la Dona Emiratiana",
+        "description": "Aquesta commemoració als Emirats Àrabs Units celebra els èxits i les contribucions de les dones emiratianes en diversos camps."
+      },
+      {
+        "name": "Dia del Record del Pont de l'Arc de Sant Martí",
+        "description": "Un dia internacional dedicat a recordar i honorar les estimades mascotes que han mort."
+      },
+      {
+        "name": "Dia Nacional de la Pajarita",
+        "description": "Una celebració cultural als EUA que celebra el distintiu i elegant complement de coll, la pajarita."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tinc un somni que els meus quatre fills petits un dia viuran en una nació on no seran jutjats pel color de la seva pell, sinó pel contingut del seu caràcter.",
+      "author": "Martin Luther King Jr.",
+      "context": "El 28 d'agost de 1963, Martin Luther King Jr. va pronunciar el seu icònic discurs 'Tinc un somni' durant la Marxa a Washington per la Feina i la Llibertat, articulant una poderosa visió per la igualtat racial i la justícia."
+    },
+    "motivationalQuote": {
+      "text": "Tothom pensa en canviar el món, però ningú pensa en canviar-se a si mateix.",
+      "author": "Lev Tolstoi"
+    },
+    "births": [
+      {
+        "name": "Johann Wolfgang von Goethe",
+        "description": "Un cèlebre escriptor, poeta, novel·lista i dramaturg alemany, considerat una de les figures més grans de la literatura alemanya i de l'era romàntica europea.",
+        "year": "1749"
+      },
+      {
+        "name": "Shania Twain",
+        "description": "Una superestrella canadenca de la música country, coneguda per la seva innovadora fusió de música country i pop i pels seus nombrosos èxits.",
+        "year": "1965"
+      },
+      {
+        "name": "Jack Black",
+        "description": "Un actor, còmic, músic i cantautor nord-americà, famós per les seves enèrgiques actuacions en pel·lícules i com una de les meitats del duo de comèdia rock Tenacious D.",
+        "year": "1969"
+      }
+    ],
+    "events": [
+      {
+        "title": "La Llei d'Abolició de l'Esclavitud rep l'Assentiment Reial",
+        "description": "El Parlament Britànic va aprovar la Llei d'Abolició de l'Esclavitud, fent il·legal la compra o propietat d'esclaus a tot l'Imperi Britànic.",
+        "year": "1833"
+      },
+      {
+        "title": "Marxa a Washington per la Feina i la Llibertat",
+        "description": "Més de 200.000 defensors dels drets civils es van reunir a Washington D.C., culminant amb l'històric discurs 'Tinc un somni' de Martin Luther King Jr.",
+        "year": "1963"
+      },
+      {
+        "title": "William Herschel descobreix Encèlad",
+        "description": "L'astrònom britànic William Herschel va descobrir Encèlad, la sisena lluna més gran de Saturn.",
+        "year": "1789"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia de la Dona Emiratiana",
+      "teaser": "Aquesta commemoració als Emirats Àrabs Units celebra els èxits i les contribucions de les dones emiratianes en diversos camps."
+    }
+  }
+}

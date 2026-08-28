@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-29",
+  "es": {
+    "saints": [
+      {
+        "name": "San Juan Bautista",
+        "type": "Profeta, Precursor y Bautista; Mártir",
+        "description": "Conmemorado por su decapitación, un martirio que ocurrió después de que condenara públicamente el matrimonio ilegal de Herodes."
+      },
+      {
+        "name": "Santa Juana Jugan (Santa María de la Cruz)",
+        "type": "Fundadora",
+        "description": "Una monja francesa que fundó las Hermanitas de los Pobres, dedicada al cuidado de los ancianos pobres."
+      },
+      {
+        "name": "San Arcadios el Taumaturgo",
+        "type": "Obispo",
+        "description": "Un santo ortodoxo y obispo de Arsinoe, Chipre, conocido por su ascetismo y virtudes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional contra los Ensayos Nucleares",
+        "description": "Establecido por la ONU en 2009, este día aboga por la prohibición de los ensayos nucleares y destaca los efectos devastadores de las explosiones nucleares."
+      },
+      {
+        "name": "Día Según Hoyle",
+        "description": "Este día honra a Edmond Hoyle, un escritor inglés que estandarizó las reglas de los juegos de cartas, dando origen a la frase 'según Hoyle'."
+      },
+      {
+        "name": "Día Nacional del Deporte (India)",
+        "description": "Celebrado anualmente en India el 29 de agosto, conmemora el cumpleaños de la leyenda del hockey Mayor Dhyan Chand y fomenta la participación en deportes."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En un mundo lleno de odio, todavía debemos atrevernos a esperar. En un mundo lleno de ira, todavía debemos atrevernos a consolar. En un mundo lleno de desesperación, todavía debemos atrevernos a soñar. Y en un mundo lleno de desconfianza, todavía debemos atrevernos a creer.",
+      "author": "Michael Jackson",
+      "context": "Michael Jackson, el icónico 'Rey del Pop', nació el 29 de agosto de 1958. Esta cita refleja sus mensajes de esperanza y cambio positivo."
+    },
+    "motivationalQuote": {
+      "text": "Puedes encontrar muchas derrotas, pero no debes ser derrotado. De hecho, puede ser necesario encontrar las derrotas para que sepas quién eres, de qué puedes levantarte, cómo puedes superarlo.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "John Locke",
+        "description": "Un influyente filósofo y médico inglés, ampliamente considerado como una de las figuras más importantes en el desarrollo del pensamiento político y filosófico moderno.",
+        "year": "1632"
+      },
+      {
+        "name": "Ingrid Bergman",
+        "description": "Una célebre actriz sueca con una carrera que abarca cinco décadas, venerada como una de las figuras más influyentes en la historia cinematográfica.",
+        "year": "1915"
+      },
+      {
+        "name": "Michael Jackson",
+        "description": "Un cantante, compositor y bailarín estadounidense, conocido como el 'Rey del Pop', que se convirtió en una superestrella mundial con su música y sus icónicas actuaciones.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Michael Faraday Descubre la Inducción Electromagnética",
+        "description": "El científico inglés Michael Faraday demostró experimentalmente que un campo magnético cambiante puede inducir un voltaje en un conductor, un descubrimiento que fue fundamental para la creación de generadores y transformadores eléctricos.",
+        "year": "1831"
+      },
+      {
+        "title": "Independencia de Brasil Reconocida por Portugal",
+        "description": "Diplomáticos portugueses y brasileños firmaron el Tratado de Río de Janeiro, donde Portugal reconoció formalmente la independencia de Brasil, poniendo fin a la Guerra de Independencia de Brasil.",
+        "year": "1825"
+      },
+      {
+        "title": "Se Inaugura el Ferrocarril de Cremallera de Mount Washington",
+        "description": "El Ferrocarril de Cremallera de Mount Washington, el primer ferrocarril de cremallera de montaña del mundo, se inauguró oficialmente, ofreciendo una hazaña de ingeniería única y pionera.",
+        "year": "1869"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional contra los Ensayos Nucleares",
+      "teaser": "Establecido por la ONU en 2009, este día aboga por la prohibición de los ensayos nucleares y destaca los efectos devastadores de las explosiones nucleares."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint John the Baptist",
+        "type": "Prophet, Forerunner, and Baptist; Martyr",
+        "description": "Commemorated for his beheading, a martyrdom that occurred after he publicly condemned Herod's unlawful marriage."
+      },
+      {
+        "name": "Saint Jeanne Jugan (St. Mary of the Cross)",
+        "type": "Foundress",
+        "description": "A French nun who founded the Little Sisters of the Poor, dedicated to caring for the elderly poor."
+      },
+      {
+        "name": "Saint Arkadios the Wonderworker",
+        "type": "Bishop",
+        "description": "An Orthodox saint and Bishop of Arsinoe, Cyprus, known for his asceticism and virtues."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day against Nuclear Tests",
+        "description": "Established by the UN in 2009, this day advocates for a nuclear test ban and highlights the devastating effects of nuclear explosions."
+      },
+      {
+        "name": "According to Hoyle Day",
+        "description": "This day honors Edmond Hoyle, an English writer who standardized card game rules, giving rise to the phrase 'according to Hoyle.'"
+      },
+      {
+        "name": "National Sports Day (India)",
+        "description": "Observed annually in India on August 29, it celebrates the birthday of hockey legend Major Dhyan Chand and encourages participation in sports."
+      }
+    ],
+    "historicalQuote": {
+      "text": "In a world filled with hate, we must still dare to hope. In a world filled with anger, we must still dare to comfort. In a world filled with despair, we must still dare to dream. And in a world filled with distrust, we must still dare to believe.",
+      "author": "Michael Jackson",
+      "context": "Michael Jackson, the iconic 'King of Pop,' was born on August 29, 1958. This quote reflects his messages of hope and positive change."
+    },
+    "motivationalQuote": {
+      "text": "You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from, how you can still come out of it.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "John Locke",
+        "description": "An influential English philosopher and physician, widely regarded as one of the most important figures in the development of modern political and philosophical thought.",
+        "year": "1632"
+      },
+      {
+        "name": "Ingrid Bergman",
+        "description": "A celebrated Swedish actress with a career spanning five decades, revered as one of the most influential figures in cinematic history.",
+        "year": "1915"
+      },
+      {
+        "name": "Michael Jackson",
+        "description": "An American singer, songwriter, and dancer, known as the 'King of Pop,' who became a worldwide superstar with his music and iconic performances.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Michael Faraday Discovers Electromagnetic Induction",
+        "description": "English scientist Michael Faraday experimentally demonstrated that a changing magnetic field can induce a voltage in a conductor, a discovery that was fundamental to the creation of electric generators and transformers.",
+        "year": "1831"
+      },
+      {
+        "title": "Brazilian Independence Recognized by Portugal",
+        "description": "Portuguese and Brazilian diplomats signed the Treaty of Rio de Janeiro, where Portugal formally recognized Brazil's independence, bringing an end to the Brazilian War of Independence.",
+        "year": "1825"
+      },
+      {
+        "title": "Mount Washington Cog Railway Opens",
+        "description": "The Mount Washington Cog Railway, the world's first mountain-climbing rack railway, officially opened, offering a unique and pioneering engineering feat.",
+        "year": "1869"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day against Nuclear Tests",
+      "teaser": "Established by the UN in 2009, this day advocates for a nuclear test ban and highlights the devastating effects of nuclear explosions."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São João Batista",
+        "type": "Profeta, Precursor e Batista; Mártir",
+        "description": "Comemorado por sua decapitação, um martírio que ocorreu depois que ele condenou publicamente o casamento ilegal de Herodes."
+      },
+      {
+        "name": "Santa Joana Jugan (Santa Maria da Cruz)",
+        "type": "Fundadora",
+        "description": "Uma freira francesa que fundou as Irmãzinhas dos Pobres, dedicada a cuidar dos idosos pobres."
+      },
+      {
+        "name": "Santo Arcádio o Taumaturgo",
+        "type": "Bispo",
+        "description": "Um santo ortodoxo e Bispo de Arsinoe, Chipre, conhecido por seu ascetismo e virtudes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional contra os Testes Nucleares",
+        "description": "Estabelecido pela ONU em 2009, este dia defende a proibição de testes nucleares e destaca os efeitos devastadores das explosões nucleares."
+      },
+      {
+        "name": "Dia 'Segundo Hoyle'",
+        "description": "Este dia homenageia Edmond Hoyle, um escritor inglês que padronizou as regras dos jogos de cartas, dando origem à frase 'segundo Hoyle'."
+      },
+      {
+        "name": "Dia Nacional do Esporte (Índia)",
+        "description": "Observado anualmente na Índia em 29 de agosto, celebra o aniversário da lenda do hóquei Major Dhyan Chand e incentiva a participação em esportes."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Em um mundo cheio de ódio, ainda devemos ousar ter esperança. Em um mundo cheio de raiva, ainda devemos ousar consolar. Em um mundo cheio de desespero, ainda devemos ousar sonhar. E em um mundo cheio de desconfiança, ainda devemos ousar acreditar.",
+      "author": "Michael Jackson",
+      "context": "Michael Jackson, o icônico 'Rei do Pop', nasceu em 29 de agosto de 1958. Esta citação reflete suas mensagens de esperança e mudança positiva."
+    },
+    "motivationalQuote": {
+      "text": "Você pode encontrar muitas derrotas, mas não deve ser derrotado. De fato, pode ser necessário encontrar as derrotas, para que você possa saber quem é, do que pode se erguer, como ainda pode sair delas.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "John Locke",
+        "description": "Um influente filósofo e médico inglês, amplamente considerado uma das figuras mais importantes no desenvolvimento do pensamento político e filosófico moderno.",
+        "year": "1632"
+      },
+      {
+        "name": "Ingrid Bergman",
+        "description": "Uma célebre atriz sueca com uma carreira de cinco décadas, reverenciada como uma das figuras mais influentes na história do cinema.",
+        "year": "1915"
+      },
+      {
+        "name": "Michael Jackson",
+        "description": "Um cantor, compositor e dançarino americano, conhecido como o 'Rei do Pop', que se tornou uma superestrella mundial com sua música e performances icônicas.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Michael Faraday Descobre a Indução Eletromagnética",
+        "description": "O cientista inglês Michael Faraday demonstrou experimentalmente que um campo magnético em mudança pode induzir uma voltagem em um condutor, uma descoberta que foi fundamental para a criação de geradores e transformadores elétricos.",
+        "year": "1831"
+      },
+      {
+        "title": "Independência do Brasil Reconhecida por Portugal",
+        "description": "Diplomatas portugueses e brasileiros assinaram o Tratado do Rio de Janeiro, onde Portugal reconheceu formalmente a independência do Brasil, pondo fim à Guerra da Independência do Brasil.",
+        "year": "1825"
+      },
+      {
+        "title": "Ferrovia de Cremalheira de Mount Washington é Inaugurada",
+        "description": "A Ferrovia de Cremalheira de Mount Washington, a primeira ferrovia de cremalheira de montanha do mundo, foi oficialmente inaugurada, oferecendo uma façanha de engenharia única e pioneira.",
+        "year": "1869"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional contra os Testes Nucleares",
+      "teaser": "Estabelecido pela ONU em 2009, este dia defende a proibição de testes nucleares e destaca os efeitos devastadores das explosões nucleares."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Joan Baptista",
+        "type": "Profeta, Precursor i Baptista; Màrtir",
+        "description": "Commemorat per la seva decapitació, un martiri que va ocórrer després que condemnés públicament el matrimoni il·legal d'Herodes."
+      },
+      {
+        "name": "Santa Joana Jugan (Santa Maria de la Creu)",
+        "type": "Fundadora",
+        "description": "Una monja francesa que va fundar les Germanetes dels Pobres, dedicada a tenir cura dels ancians pobres."
+      },
+      {
+        "name": "Sant Arcadi el Taumaturg",
+        "type": "Bisbe",
+        "description": "Un sant ortodox i Bisbe d'Arsínoe, Xipre, conegut pel seu ascetisme i virtuts."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional contra els Assajos Nuclears",
+        "description": "Establert per l'ONU el 2009, aquest dia advoca per la prohibició dels assajos nuclears i destaca els efectes devastadors de les explosions nuclears."
+      },
+      {
+        "name": "Dia 'According to Hoyle'",
+        "description": "Aquest dia honora Edmond Hoyle, un escriptor anglès que va estandarditzar les regles dels jocs de cartes, donant lloc a la frase 'according to Hoyle'."
+      },
+      {
+        "name": "Dia Nacional de l'Esport (Índia)",
+        "description": "Celebrat anualment a l'Índia el 29 d'agost, commemora l'aniversari de la llegenda de l'hoquei Major Dhyan Chand i fomenta la participació en esports."
+      }
+    ],
+    "historicalQuote": {
+      "text": "En un món ple d'odi, encara hem d'atrevir-nos a esperar. En un món ple d'ira, encara hem d'atrevir-nos a consolar. En un món ple de desesperació, encara hem d'atrevir-nos a somiar. I en un món ple de desconfiança, encara hem d'atrevir-nos a creure.",
+      "author": "Michael Jackson",
+      "context": "Michael Jackson, l'icònic 'Rei del Pop', va néixer el 29 d'agost de 1958. Aquesta cita reflecteix els seus missatges d'esperança i canvi positiu."
+    },
+    "motivationalQuote": {
+      "text": "Potser trobareu moltes derrotes, però no heu de ser derrotats. De fet, pot ser necessari trobar-vos amb les derrotes, perquè pugueu saber qui sou, de què us podeu aixecar, com podeu sortir-ne encara.",
+      "author": "Maya Angelou"
+    },
+    "births": [
+      {
+        "name": "John Locke",
+        "description": "Un influent filòsof i metge anglès, àmpliament considerat una de les figures més importants en el desenvolupament del pensament polític i filosòfic modern.",
+        "year": "1632"
+      },
+      {
+        "name": "Ingrid Bergman",
+        "description": "Una cèlebre actriu sueca amb una carrera de cinc dècades, venerada com una de les figures més influents de la història cinematogràfica.",
+        "year": "1915"
+      },
+      {
+        "name": "Michael Jackson",
+        "description": "Un cantant, compositor i ballarí nord-americà, conegut com el 'Rei del Pop', que es va convertir en una superestrella mundial amb la seva música i les seves icòniques actuacions.",
+        "year": "1958"
+      }
+    ],
+    "events": [
+      {
+        "title": "Michael Faraday descobreix la inducció electromagnètica",
+        "description": "El científic anglès Michael Faraday va demostrar experimentalment que un camp magnètic canviant pot induir una tensió en un conductor, un descobriment fonamental per a la creació de generadors elèctrics i transformadors.",
+        "year": "1831"
+      },
+      {
+        "title": "Portugal reconeix la independència del Brasil",
+        "description": "Diplomàtics portuguesos i brasilers van signar el Tractat de Rio de Janeiro, on Portugal va reconèixer formalment la independència del Brasil, posant fi a la Guerra de la Independència del Brasil.",
+        "year": "1825"
+      },
+      {
+        "title": "S'inaugura el ferrocarril de cremallera de Mount Washington",
+        "description": "El ferrocarril de cremallera de Mount Washington, el primer ferrocarril de cremallera de muntanya del món, es va inaugurar oficialment, oferint una fita d'enginyeria única i pionera.",
+        "year": "1869"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional contra els Assajos Nuclears",
+      "teaser": "Establert per l'ONU el 2009, aquest dia advoca per la prohibició dels assajos nuclears i destaca els efectes devastadors de les explosions nuclears."
+    }
+  }
+}

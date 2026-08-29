@@ -1,0 +1,327 @@
+{
+  "date": "2026-08-30",
+  "es": {
+    "saints": [
+      {
+        "name": "Santos Félix y Adaucto",
+        "type": "Sacerdote y Mártires",
+        "description": "Félix, un santo sacerdote, fue martirizado en Roma durante la persecución de Diocleciano. Mientras era llevado a la ejecución, un extraño llamado Adaucto se declaró cristiano y fue decapitado junto a él alrededor del año 303 d.C."
+      },
+      {
+        "name": "San Pamaquio",
+        "type": "Senador Romano",
+        "description": "Nacido en una noble familia romana a finales del siglo IV, Pamaquio se convirtió en senador. Tras la muerte de su esposa, vendió sus propiedades y estableció un hospicio para los pobres, los enfermos y los peregrinos en Roma."
+      },
+      {
+        "name": "San Alejandro de Constantinopla",
+        "type": "Patriarca de Constantinopla",
+        "description": "Alejandro (325-340 d.C.) sirvió como obispo vicario y representó al primer Patriarca de Constantinopla en el Primer Sínodo Ecuménico de Nicea en 325. Fue conocido por su fuerte oposición al arrianismo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de las Víctimas de Desapariciones Forzadas",
+        "description": "Esta observancia de la ONU busca crear conciencia sobre la práctica de la desaparición forzada, donde individuos son secretamente detenidos por actores estatales, negando a sus familias información sobre su paradero."
+      },
+      {
+        "name": "Día Internacional del Tiburón Ballena",
+        "description": "Este día está dedicado a crear conciencia sobre el tiburón ballena, el pez más grande del océano, clasificado como en peligro de extinción debido a diversas amenazas."
+      },
+      {
+        "name": "Día de Frankenstein",
+        "description": "Esta observancia cultural marca el cumpleaños de Mary Wollstonecraft Godwin Shelley, autora de 'Frankenstein', una novela que se considera que inventó la ciencia ficción."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Después de tanto tiempo dedicado a un trabajo doloroso, llegar de golpe a la cumbre de mis deseos fue la consumación más gratificante de mis esfuerzos.",
+      "author": "Mary Wollstonecraft Shelley",
+      "context": "Mary Wollstonecraft Shelley, la novelista romántica inglesa más conocida por 'Frankenstein', nació el 30 de agosto de 1797."
+    },
+    "motivationalQuote": {
+      "text": "Si no puedes volar, corre; si no puedes correr, camina; si no puedes caminar, gatea; pero hagas lo que hagas, tienes que seguir avanzando.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Mary Wollstonecraft Shelley",
+        "description": "Una novelista inglesa que escribió la novela gótica 'Frankenstein' y es considerada una pionera de la ciencia ficción.",
+        "year": "1797"
+      },
+      {
+        "name": "Warren Buffett",
+        "description": "Un magnate empresarial, inversor y filántropo estadounidense, ampliamente considerado como uno de los inversores más exitosos de la historia.",
+        "year": "1930"
+      },
+      {
+        "name": "Cameron Diaz",
+        "description": "Una actriz estadounidense que saltó a la fama en la década de 1990 con papeles en películas como 'La Máscara' y 'Algo Pasa con Mary'.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "Thurgood Marshall Confirmado en la Corte Suprema",
+        "description": "Thurgood Marshall fue confirmado por el Senado de EE. UU. como el primer Juez Afroamericano de la Corte Suprema de los Estados Unidos.",
+        "year": "1967"
+      },
+      {
+        "title": "Línea Directa Moscú-Washington Entra en Funcionamiento",
+        "description": "El enlace de comunicación directo, famosamente conocido como la 'Línea Directa', entre los líderes de EE. UU. y la Unión Soviética entró en funcionamiento, con el objetivo de prevenir una guerra nuclear accidental.",
+        "year": "1963"
+      },
+      {
+        "title": "Primer Afroamericano en el Espacio",
+        "description": "Guion S. Bluford Jr. se convirtió en el primer afroamericano en viajar al espacio a bordo de la misión del Transbordador Espacial Challenger (STS-8).",
+        "year": "1983"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de las Víctimas de Desapariciones Forzadas",
+      "teaser": "Esta observancia de la ONU busca crear conciencia sobre la práctica de la desaparición forzada, donde individuos son secretamente detenidos por actores estatales, negando a sus familias información sobre su paradero."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saints Felix and Adauctus",
+        "type": "Priest and Martyrs",
+        "description": "Felix, a holy priest, was martyred in Rome during the Diocletian persecution. As he was led to execution, a stranger named Adauctus declared himself a Christian and was beheaded alongside him around 303 AD."
+      },
+      {
+        "name": "Saint Pammachius",
+        "type": "Roman Senator",
+        "description": "Born into a noble Roman family in the late 4th century, Pammachius became a senator. After his wife's death, he sold his estates and established a hospice for the poor, sick, and pilgrims in Rome."
+      },
+      {
+        "name": "Saint Alexander of Constantinople",
+        "type": "Patriarch of Constantinople",
+        "description": "Alexander (325-340 AD) served as a vicar bishop and represented the first Patriarch of Constantinople at the First Ecumenical Synod of Nicaea in 325. He was known for his strong opposition to Arianism."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of the Victims of Enforced Disappearances",
+        "description": "This UN observance raises awareness about the practice of enforced disappearance, where individuals are secretly detained by state actors, denying their families information about their whereabouts."
+      },
+      {
+        "name": "International Whale Shark Day",
+        "description": "This day is dedicated to raising awareness for the whale shark, the largest fish in the ocean, which is classified as endangered due to various threats."
+      },
+      {
+        "name": "Frankenstein Day",
+        "description": "This cultural observance marks the birthday of Mary Wollstonecraft Godwin Shelley, author of 'Frankenstein,' a novel that is considered to have invented science fiction."
+      }
+    ],
+    "historicalQuote": {
+      "text": "After so much time spent in painful labour, to arrive at once at the summit of my desires, was the most gratifying consummation of my toils.",
+      "author": "Mary Wollstonecraft Shelley",
+      "context": "Mary Wollstonecraft Shelley, the English Romantic novelist best known for 'Frankenstein,' was born on August 30, 1797."
+    },
+    "motivationalQuote": {
+      "text": "If you can't fly, then run, if you can't run, then walk, if you can't walk, then crawl, but whatever you do, you have to keep moving forward.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Mary Wollstonecraft Shelley",
+        "description": "An English novelist who wrote the Gothic novel 'Frankenstein' and is considered a pioneer of science fiction.",
+        "year": "1797"
+      },
+      {
+        "name": "Warren Buffett",
+        "description": "An American business magnate, investor, and philanthropist, widely regarded as one of the most successful investors in history.",
+        "year": "1930"
+      },
+      {
+        "name": "Cameron Diaz",
+        "description": "An American actress who rose to fame in the 1990s with roles in films such as 'The Mask' and 'There's Something About Mary.'",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "Thurgood Marshall Confirmed to Supreme Court",
+        "description": "Thurgood Marshall was confirmed by the U.S. Senate as the first African American Justice of the United States Supreme Court.",
+        "year": "1967"
+      },
+      {
+        "title": "Moscow–Washington Hotline Goes into Operation",
+        "description": "The direct communication link, famously known as the 'Hotline,' between the leaders of the U.S. and the Soviet Union went into operation, aiming to prevent accidental nuclear war.",
+        "year": "1963"
+      },
+      {
+        "title": "First African American in Space",
+        "description": "Guion S. Bluford Jr. became the first African American to travel into space aboard the Space Shuttle Challenger (STS-8) mission.",
+        "year": "1983"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of the Victims of Enforced Disappearances",
+      "teaser": "This UN observance raises awareness about the practice of enforced disappearance, where individuals are secretly detained by state actors, denying their families information about their whereabouts."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santos Félix e Adauto",
+        "type": "Sacerdote e Mártires",
+        "description": "Félix, um santo sacerdote, foi martirizado em Roma durante a perseguição de Diocleciano. Enquanto era levado para a execução, um estranho chamado Adaucto declarou-se cristão e foi decapitado ao lado dele por volta de 303 d.C."
+      },
+      {
+        "name": "São Pamáquio",
+        "type": "Senador Romano",
+        "description": "Nascido em uma nobre família romana no final do século IV, Pamaquio tornou-se senador. Após a morte de sua esposa, ele vendeu suas propriedades e estabeleceu um hospício para os pobres, doentes e peregrinos em Roma."
+      },
+      {
+        "name": "Santo Alexandre de Constantinopla",
+        "type": "Patriarca de Constantinopla",
+        "description": "Alexandre (325-340 d.C.) serviu como bispo vigário e representou o primeiro Patriarca de Constantinopla no Primeiro Sínodo Ecumênico de Niceia em 325. Ele era conhecido por sua forte oposição ao Arianismo."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional das Vítimas de Desaparecimentos Forçados",
+        "description": "Esta observância da ONU visa aumentar a conscientização sobre a prática do desaparecimento forçado, onde indivíduos são secretamente detidos por agentes estatais, negando às suas famílias informações sobre o seu paradeiro."
+      },
+      {
+        "name": "Dia Internacional do Tubarão-Baleia",
+        "description": "Este dia é dedicado a aumentar a conscientização sobre o tubarão-baleia, o maior peixe do oceano, que é classificado como ameaçado de extinção devido a várias ameaças."
+      },
+      {
+        "name": "Dia de Frankenstein",
+        "description": "Esta celebração cultural marca o aniversário de Mary Wollstonecraft Godwin Shelley, autora de 'Frankenstein', um romance que é considerado o inventor da ficção científica."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Depois de tanto tempo gasto em trabalho doloroso, chegar de repente ao auge dos meus desejos foi a consumação mais gratificante dos meus esforços.",
+      "author": "Mary Wollstonecraft Shelley",
+      "context": "Mary Wollstonecraft Shelley, a romancista romântica inglesa mais conhecida por 'Frankenstein', nasceu em 30 de agosto de 1797."
+    },
+    "motivationalQuote": {
+      "text": "Se você não pode voar, corra; se não pode correr, caminhe; se não pode caminhar, rasteje; mas faça o que fizer, você tem que continuar avançando.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Mary Wollstonecraft Shelley",
+        "description": "Uma romancista inglesa que escreveu o romance gótico 'Frankenstein' e é considerada uma pioneira da ficção científica.",
+        "year": "1797"
+      },
+      {
+        "name": "Warren Buffett",
+        "description": "Um magnata dos negócios, investidor e filantropo americano, amplamente considerado um dos investidores mais bem-sucedidos da história.",
+        "year": "1930"
+      },
+      {
+        "name": "Cameron Diaz",
+        "description": "Uma atriz americana que alcançou a fama na década de 1990 com papéis em filmes como 'O Máscara' e 'Quem Vai Ficar Com Mary?'.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "Thurgood Marshall Confirmado na Suprema Corte",
+        "description": "Thurgood Marshall foi confirmado pelo Senado dos EUA como o primeiro Juiz Afro-Americano da Suprema Corte dos Estados Unidos.",
+        "year": "1967"
+      },
+      {
+        "title": "Linha Direta Moscou-Washington Entra em Operação",
+        "description": "O link de comunicação direto, conhecido como a 'Linha Direta', entre os líderes dos EUA e da União Soviética entrou em operação, visando prevenir uma guerra nuclear acidental.",
+        "year": "1963"
+      },
+      {
+        "title": "Primeiro Afro-Americano no Espaço",
+        "description": "Guion S. Bluford Jr. tornou-se o primeiro afro-americano a viajar para o espaço a bordo da missão do Ônibus Espacial Challenger (STS-8).",
+        "year": "1983"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional das Vítimas de Desaparecimentos Forçados",
+      "teaser": "Esta observância da ONU visa aumentar a conscientização sobre a prática do desaparecimento forçado, onde indivíduos são secretamente detidos por agentes estatais, negando às suas famílias informações sobre o seu paradeiro."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sants Fèlix i Adaucte",
+        "type": "Prevere i Màrtirs",
+        "description": "Fèlix, un sant prevere, va ser martiritzat a Roma durant la persecució de Dioclecià. Mentre era conduït a l'execució, un estrany anomenat Adaucte es va declarar cristià i va ser decapitat al seu costat al voltant del 303 dC."
+      },
+      {
+        "name": "Sant Pammachi",
+        "type": "Senador Romà",
+        "description": "Nascut en una noble família romana a finals del segle IV, Pammachi es va convertir en senador. Després de la mort de la seva esposa, va vendre les seves propietats i va establir un hospici per a pobres, malalts i pelegrins a Roma."
+      },
+      {
+        "name": "Sant Alexandre de Constantinoble",
+        "type": "Patriarca de Constantinoble",
+        "description": "Alexandre (325-340 dC) va servir com a bisbe vicari i va representar el primer Patriarca de Constantinoble al Primer Sínode Ecumènic de Nicea l'any 325. Va ser conegut per la seva ferma oposició a l'arrianisme."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de les Víctimes de Desaparicions Forçades",
+        "description": "Aquesta observança de l'ONU sensibilitza sobre la pràctica de la desaparició forçada, on els individus són detinguts en secret per actors estatals, negant a les seves famílies informació sobre el seu parador."
+      },
+      {
+        "name": "Dia Internacional del Tauró Balena",
+        "description": "Aquest dia es dedica a sensibilitzar sobre el tauró balena, el peix més gran de l'oceà, classificat com a espècie en perill d'extinció a causa de diverses amenaces."
+      },
+      {
+        "name": "Dia de Frankenstein",
+        "description": "Aquesta celebració cultural marca l'aniversari de Mary Wollstonecraft Godwin Shelley, autora de 'Frankenstein', una novel·la considerada l'origen de la ciència-ficció."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Després de tant de temps passat en un treball dolorós, arribar de cop al cim dels meus desitjos, va ser la consumació més gratificant dels meus esforços.",
+      "author": "Mary Wollstonecraft Shelley",
+      "context": "Mary Wollstonecraft Shelley, la novel·lista romàntica anglesa més coneguda per 'Frankenstein', va néixer el 30 d'agost de 1797."
+    },
+    "motivationalQuote": {
+      "text": "Si no pots volar, corre; si no pots córrer, camina; si no pots caminar, arrossega't, però facis el que facis, has de seguir avançant.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Mary Wollstonecraft Shelley",
+        "description": "Una novel·lista anglesa que va escriure la novel·la gòtica 'Frankenstein' i és considerada una pionera de la ciència-ficció.",
+        "year": "1797"
+      },
+      {
+        "name": "Warren Buffett",
+        "description": "Un magnat dels negocis, inversor i filantrop estatunidenc, àmpliament considerat un dels inversors més reeixits de la història.",
+        "year": "1930"
+      },
+      {
+        "name": "Cameron Diaz",
+        "description": "Una actriu estatunidenca que va saltar a la fama als anys 90 amb papers en pel·lícules com 'La Màscara' i 'Boja per Mary'.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "Thurgood Marshall confirmat al Tribunal Suprem",
+        "description": "Thurgood Marshall va ser confirmat pel Senat dels EUA com el primer jutge afroamericà del Tribunal Suprem dels Estats Units.",
+        "year": "1967"
+      },
+      {
+        "title": "La línia directa Moscou-Washington entra en funcionament",
+        "description": "L'enllaç de comunicació directe, famosament conegut com a 'Línia Directa', entre els líders dels EUA i la Unió Soviètica va entrar en funcionament, amb l'objectiu de prevenir una guerra nuclear accidental.",
+        "year": "1963"
+      },
+      {
+        "title": "Primer afroamericà a l'espai",
+        "description": "Guion S. Bluford Jr. es va convertir en el primer afroamericà a viatjar a l'espai a bord de la missió del Transbordador Espacial Challenger (STS-8).",
+        "year": "1983"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de les Víctimes de Desaparicions Forçades",
+      "teaser": "Aquesta observança de l'ONU sensibilitza sobre la pràctica de la desaparició forçada, on els individus són detinguts en secret per actors estatals, negant a les seves famílies informació sobre el seu parador."
+    }
+  }
+}

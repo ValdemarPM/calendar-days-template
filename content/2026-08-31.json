@@ -1,0 +1,291 @@
+{
+  "date": "2026-08-31",
+  "es": {
+    "saints": [
+      {
+        "name": "San Ramón Nonnato",
+        "type": "Sacerdote",
+        "description": "Ramón Nonnato fue un sacerdote catalán que nació por cesárea después de la muerte de su madre, de ahí su apellido que significa 'no nacido'. Es el santo patrón de las matronas, obstetras y mujeres embarazadas, conocido por su ministerio a los cautivos."
+      },
+      {
+        "name": "San Aidan de Lindisfarne",
+        "type": "Obispo",
+        "description": "Monje y misionero irlandés, a San Aidan se le atribuye la restauración del cristianismo en Northumbria, Inglaterra, y fundó el monasterio en la isla de Lindisfarne."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de las Personas Afrodescendientes",
+        "description": "Este día celebra las ricas culturas, contribuciones y resiliencia de las personas afrodescendientes y promueve el respeto por sus derechos humanos."
+      },
+      {
+        "name": "Día Internacional de Concienciación sobre la Sobredosis",
+        "description": "Un evento global que se lleva a cabo para crear conciencia sobre la sobredosis, reducir el estigma de las muertes relacionadas con las drogas y reconocer el dolor que sienten las familias y amigos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Intenta aprender a respirar profundamente, a saborear realmente la comida cuando comes, y cuando duermes, a dormir de verdad. Intenta, en la medida de lo posible, estar completamente vivo con todas tus fuerzas, y cuando rías, ríe a carcajadas. Y cuando te enfades, enfádate de verdad. Intenta estar vivo. Ya estarás muerto bastante pronto.",
+      "author": "William Saroyan",
+      "context": "William Saroyan, un aclamado autor estadounidense, nació el 31 de agosto de 1908. Esta cita refleja su vibrante filosofía de abrazar la vida al máximo, lo que se alinea con la celebración de su nacimiento."
+    },
+    "motivationalQuote": {
+      "text": "Cree que puedes y ya estás a mitad de camino.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Richard Gere",
+        "description": "Actor estadounidense conocido por sus papeles en películas como 'Oficial y Caballero' y 'Pretty Woman', también es un prominente humanitario.",
+        "year": "1949"
+      },
+      {
+        "name": "Van Morrison",
+        "description": "Un influyente cantautor, multiinstrumentista y productor discográfico norirlandés, conocido por su distintiva mezcla de soul, R&B, blues y música folk celta.",
+        "year": "1945"
+      },
+      {
+        "name": "Maria Montessori",
+        "description": "Médica y educadora italiana, más conocida por su filosofía de la educación que lleva su nombre, el Método Montessori, que enfatiza el aprendizaje centrado en el niño.",
+        "year": "1870"
+      }
+    ],
+    "events": [
+      {
+        "title": "Malasia obtiene la independencia",
+        "description": "La Federación de Malasia, ahora Malasia, logró la independencia del Reino Unido, marcando un momento significativo de autodeterminación para la nación.",
+        "year": "1957"
+      },
+      {
+        "title": "Trinidad y Tobago se independiza",
+        "description": "La nación caribeña de Trinidad y Tobago obtuvo su independencia del dominio británico, convirtiéndose en un estado soberano dentro de la Commonwealth británica.",
+        "year": "1962"
+      },
+      {
+        "title": "Acuerdo del Movimiento Solidaridad en Polonia",
+        "description": "Se firmó un acuerdo en Gdansk, Polonia, que estableció el sindicato Solidaridad, un evento fundamental en la lucha por los derechos de los trabajadores y la democracia en Europa del Este.",
+        "year": "1980"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de las Personas Afrodescendientes",
+      "teaser": "Este día celebra las ricas culturas, contribuciones y resiliencia de las personas afrodescendientes y promueve el respeto por sus derechos humanos."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Raymond Nonnatus",
+        "type": "Priest",
+        "description": "Raymond Nonnatus was a Catalonian priest delivered by Caesarean section after his mother's death, hence his surname meaning 'not born'. He is the patron saint of midwives, obstetricians, and expectant mothers, known for his ministry to captives."
+      },
+      {
+        "name": "Saint Aidan of Lindisfarne",
+        "type": "Bishop",
+        "description": "An Irish monk and missionary, Saint Aidan is credited with restoring Christianity to Northumbria, England, and founded the monastery on the island of Lindisfarne."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day for People of African Descent",
+        "description": "This day celebrates the rich cultures, contributions, and resilience of people of African descent and promotes respect for their human rights."
+      },
+      {
+        "name": "International Overdose Awareness Day",
+        "description": "A global event held to raise awareness of overdose, reduce the stigma of drug-related deaths, and acknowledge the grief felt by families and friends."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Try to learn to breathe deeply, really to taste food when you eat, and when you sleep really to sleep. Try as much as possible to be wholly alive with all your might, and when you laugh, laugh like hell. And when you get angry, get good and angry. Try to be alive. You will be dead soon enough.",
+      "author": "William Saroyan",
+      "context": "William Saroyan, an acclaimed American author, was born on August 31, 1908. This quote reflects his vibrant philosophy of embracing life to its fullest, aligning with the celebration of his birth."
+    },
+    "motivationalQuote": {
+      "text": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Richard Gere",
+        "description": "An American actor known for his roles in films such as 'An Officer and a Gentleman' and 'Pretty Woman', he is also a prominent humanitarian.",
+        "year": "1949"
+      },
+      {
+        "name": "Van Morrison",
+        "description": "A highly influential Northern Irish singer-songwriter, multi-instrumentalist, and record producer, known for his distinct blend of soul, R&B, blues, and Celtic folk music.",
+        "year": "1945"
+      },
+      {
+        "name": "Maria Montessori",
+        "description": "An Italian physician and educator, best known for her philosophy of education that bears her name, the Montessori Method, which emphasizes child-centered learning.",
+        "year": "1870"
+      }
+    ],
+    "events": [
+      {
+        "title": "Malaya Gains Independence",
+        "description": "The Federation of Malaya, now Malaysia, achieved independence from the United Kingdom, marking a significant moment of self-determination for the nation.",
+        "year": "1957"
+      },
+      {
+        "title": "Trinidad and Tobago Becomes Independent",
+        "description": "The Caribbean nation of Trinidad and Tobago gained its independence from British rule, becoming a sovereign state within the British Commonwealth.",
+        "year": "1962"
+      },
+      {
+        "title": "Solidarity Movement Agreement in Poland",
+        "description": "An agreement was signed in Gdansk, Poland, establishing the Solidarity trade union, a pivotal event in the struggle for workers' rights and democracy in Eastern Europe.",
+        "year": "1980"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day for People of African Descent",
+      "teaser": "This day celebrates the rich cultures, contributions, and resilience of people of African descent and promotes respect for their human rights."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Raimundo Nonato",
+        "type": "Sacerdote",
+        "description": "Raimundo Nonato foi um sacerdote catalão nascido por cesariana após a morte de sua mãe, daí seu sobrenome significar 'não nascido'. Ele é o santo padroeiro de parteiras, obstetras e futuras mães, conhecido por seu ministério aos cativos."
+      },
+      {
+        "name": "Santo Aidan de Lindisfarne",
+        "type": "Bispo",
+        "description": "Monge e missionário irlandês, Santo Aidan é creditado por restaurar o cristianismo na Nortúmbria, Inglaterra, e fundou o mosteiro na ilha de Lindisfarne."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional dos Afrodescendentes",
+        "description": "Este dia celebra as ricas culturas, contribuições e resiliência dos povos afrodescendentes e promove o respeito pelos seus direitos humanos."
+      },
+      {
+        "name": "Dia Internacional de Conscientização sobre Overdose",
+        "description": "Um evento global realizado para aumentar a conscientização sobre overdose, reduzir o estigma das mortes relacionadas a drogas e reconhecer o luto sentido por famílias e amigos."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tente aprender a respirar profundamente, a realmente saborear a comida quando come, e quando dorme, a realmente dormir. Tente, o máximo possível, estar totalmente vivo com toda a sua força, e quando rir, ria pra valer. E quando ficar com raiva, fique bem bravo. Tente estar vivo. Você estará morto em breve.",
+      "author": "William Saroyan",
+      "context": "William Saroyan, um aclamado autor americano, nasceu em 31 de agosto de 1908. Esta citação reflete sua vibrante filosofia de abraçar a vida ao máximo, alinhando-se com a celebração de seu nascimento."
+    },
+    "motivationalQuote": {
+      "text": "Acredite que você pode e já está no meio do caminho.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Richard Gere",
+        "description": "Um ator americano conhecido por seus papéis em filmes como 'A Força do Destino' e 'Uma Linda Mulher', ele também é um proeminente humanitário.",
+        "year": "1949"
+      },
+      {
+        "name": "Van Morrison",
+        "description": "Um influente cantor-compositor, multi-instrumentista e produtor musical norte-irlandês, conhecido por sua distinta mistura de soul, R&B, blues e música folk celta.",
+        "year": "1945"
+      },
+      {
+        "name": "Maria Montessori",
+        "description": "Médica e educadora italiana, mais conhecida por sua filosofia de educação que leva seu nome, o Método Montessori, que enfatiza a aprendizagem centrada na criança.",
+        "year": "1870"
+      }
+    ],
+    "events": [
+      {
+        "title": "Malásia Conquista a Independência",
+        "description": "A Federação da Malásia, agora Malásia, alcançou a independência do Reino Unido, marcando um momento significativo de autodeterminação para a nação.",
+        "year": "1957"
+      },
+      {
+        "title": "Trindade e Tobago Torna-se Independente",
+        "description": "A nação caribenha de Trindade e Tobago obteve sua independência do domínio britânico, tornando-se um estado soberano dentro da Commonwealth Britânica.",
+        "year": "1962"
+      },
+      {
+        "title": "Acordo do Movimento Solidariedade na Polônia",
+        "description": "Um acordo foi assinado em Gdansk, Polônia, estabelecendo o sindicato Solidariedade, um evento crucial na luta pelos direitos dos trabalhadores e pela democracia na Europa Oriental.",
+        "year": "1980"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional dos Afrodescendentes",
+      "teaser": "Este dia celebra as ricas culturas, contribuições e resiliência dos povos afrodescendentes e promove o respeito pelos seus direitos humanos."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Ramon Nonnat",
+        "type": "Sacerdot",
+        "description": "Ramon Nonnat va ser un sacerdot català nascut per cesària després de la mort de la seva mare, d'aquí el seu cognom que significa 'no nascut'. És el patró de les llevadores, obstetres i mares embarassades, conegut pel seu ministeri als captius."
+      },
+      {
+        "name": "Sant Aidan de Lindisfarne",
+        "type": "Bisbe",
+        "description": "Monjo i missioner irlandès, a Sant Aidan se li atribueix la restauració del cristianisme a Northumbria, Anglaterra, i va fundar el monestir a l'illa de Lindisfarne."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de les Persones Afrodescendents",
+        "description": "Aquest dia celebra les riques cultures, contribucions i la resiliència de les persones afrodescendents i promou el respecte pels seus drets humans."
+      },
+      {
+        "name": "Dia Internacional de Sensibilització sobre la Sobredosi",
+        "description": "Un esdeveniment global que se celebra per conscienciar sobre la sobredosi, reduir l'estigma de les morts relacionades amb les drogues i reconèixer el dolor que senten les famílies i amics."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Intenta aprendre a respirar profundament, a assaborir de veritat el menjar quan menges, i quan dorms, a dormir de veritat. Intenta tant com sigui possible estar completament viu amb totes les teves forces, i quan riguis, riu amb ganes. I quan t'enfadis, enfada't de veritat. Intenta estar viu. Aviat seràs mort.",
+      "author": "William Saroyan",
+      "context": "William Saroyan, un aclamat autor nord-americà, va néixer el 31 d'agost de 1908. Aquesta cita reflecteix la seva vibrant filosofia d'abraçar la vida al màxim, alineant-se amb la celebració del seu naixement."
+    },
+    "motivationalQuote": {
+      "text": "Creu que pots i ja hi ets a mig camí.",
+      "author": "Theodore Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Richard Gere",
+        "description": "Actor nord-americà conegut pels seus papers en pel·lícules com 'Oficial i cavaller' i 'Pretty Woman', també és un prominent humanitari.",
+        "year": "1949"
+      },
+      {
+        "name": "Van Morrison",
+        "description": "Cantautor, multiinstrumentista i productor discogràfic nord-irlandès molt influent, conegut per la seva distintiva barreja de soul, R&B, blues i música folk celta.",
+        "year": "1945"
+      },
+      {
+        "name": "Maria Montessori",
+        "description": "Metgessa i pedagoga italiana, més coneguda per la seva filosofia de l'educació que porta el seu nom, el Mètode Montessori, que posa l'accent en l'aprenentatge centrat en el nen.",
+        "year": "1870"
+      }
+    ],
+    "events": [
+      {
+        "title": "Malàisia assoleix la independència",
+        "description": "La Federació de Malaia, ara Malàisia, va obtenir la independència del Regne Unit, marcant un moment significatiu d'autodeterminació per a la nació.",
+        "year": "1957"
+      },
+      {
+        "title": "Trinitat i Tobago esdevé independent",
+        "description": "La nació caribenya de Trinitat i Tobago va obtenir la seva independència del domini britànic, convertint-se en un estat sobirà dins de la Commonwealth britànica.",
+        "year": "1962"
+      },
+      {
+        "title": "Acord del Moviment Solidaritat a Polònia",
+        "description": "Es va signar un acord a Gdansk, Polònia, establint el sindicat Solidaritat, un esdeveniment fonamental en la lluita pels drets dels treballadors i la democràcia a Europa de l'Est.",
+        "year": "1980"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de les Persones Afrodescendents",
+      "teaser": "Aquest dia celebra les riques cultures, contribucions i la resiliència de les persones afrodescendents i promou el respecte pels seus drets humans."
+    }
+  }
+}

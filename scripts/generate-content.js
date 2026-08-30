@@ -1,5 +1,7 @@
 // Runs in GitHub Actions. Writes content/YYYY-MM-DD.json for tomorrow's date.
-// Pipeline: (1) search+verify in EN with grounding → (2) translate to ES/EN/PT/CA → (3) verify proper names with grounding → (4) compute notification highlight
+// Pipeline: (1) search+verify in EN with grounding → (1.5) veto a motivationalQuote used
+// in the last 6 months and re-pick once → (2) translate to ES/EN/PT/CA → (3) verify
+// proper names with grounding → (4) compute notification highlight
 // Requires: GEMINI_API_KEY environment variable.
 
 const fs = require('fs');
@@ -130,6 +132,81 @@ Output ONLY a JSON object with corrections (no markdown fences). For each langua
   "pt": { "saints": [...], "quoteAuthor": null, "motivationalQuoteAuthor": null, "births": [...] },
   "ca": { "saints": [...], "quoteAuthor": null, "motivationalQuoteAuthor": null, "births": [...] }
 }`;
+}
+
+// Normalizes quote text for repeat detection: strip accents, lowercase, flatten
+// punctuation and whitespace. Ported from my-days/scripts/content-index.js so minor
+// re-punctuation ("Jr." vs "Jr", added commas) still counts as the same quote.
+function normalizeQuote(text) {
+  return String(text || '')
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+// Scans already-generated content/*.json in the [isoDate - months, isoDate) window and
+// collects the English motivationalQuote / historicalQuote texts already used. Reading
+// only the EN block is sufficient — the other languages are translations of it.
+// Every file is parsed defensively; a malformed or older-schema file is skipped, never fatal.
+function collectRecentQuotes(contentDir, isoDate, months = 6) {
+  const target = new Date(`${isoDate}T00:00:00Z`);
+  const windowStart = new Date(target);
+  windowStart.setUTCMonth(windowStart.getUTCMonth() - months);
+  const startIso = windowStart.toISOString().split('T')[0];
+
+  const motivational = new Set();
+  const historical = new Set();
+  const motivationalRaw = []; // most-recent-first, original casing, de-duplicated
+
+  let files;
+  try {
+    files = fs.readdirSync(contentDir);
+  } catch (e) {
+    console.warn(`      collectRecentQuotes: cannot read ${contentDir} (${e.message}) — no history available`);
+    return { motivational, historical, rawList: [] };
+  }
+
+  const inWindow = files
+    .filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f))
+    .map(f => f.slice(0, 10))
+    .filter(d => d >= startIso && d < isoDate)
+    .sort()
+    .reverse(); // newest first, so the exclusion list favours the most recent quotes
+
+  for (const d of inWindow) {
+    try {
+      const day = JSON.parse(fs.readFileSync(path.join(contentDir, `${d}.json`), 'utf8'));
+      const mq = day.en?.motivationalQuote?.text;
+      const hq = day.en?.historicalQuote?.text;
+      if (mq) {
+        const key = normalizeQuote(mq);
+        if (key && !motivational.has(key)) {
+          motivational.add(key);
+          motivationalRaw.push(mq.replace(/\s+/g, ' ').trim());
+        }
+      }
+      if (hq) historical.add(normalizeQuote(hq));
+    } catch (e) {
+      console.warn(`      collectRecentQuotes: skipping ${d}.json (${e.message})`);
+    }
+  }
+
+  return { motivational, historical, rawList: motivationalRaw.slice(0, 60) };
+}
+
+// Non-grounded re-pick of the "Reflexion of the Day" with an explicit do-not-reuse list.
+// A motivational quote need not connect to the date, so no Google Search is needed.
+function buildRepickPrompt(excludeList) {
+  const numbered = excludeList.map((q, i) => `${i + 1}. ${q}`).join('\n');
+  return `Give one inspiring or thought-provoking motivational quote from a well-known author, philosopher, scientist, or public figure.
+
+It must NOT be any of the following quotes, nor a close paraphrase or variant of them:
+${numbered}
+
+Pick something genuinely different from every entry above. Output ONLY a JSON object (no markdown fences):
+{ "text": "The full motivational quote in English", "author": "Author Name" }`;
 }
 
 async function callGemini(prompt, { grounding = false, label = '', retries = 2 } = {}) {
@@ -357,13 +434,42 @@ async function main() {
   const isoDate = target.toISOString().split('T')[0];
 
   // Step 1: search and verify content in English with grounding
-  console.log(`[1/4] Searching and verifying content for ${dateString} (${isoDate})...`);
+  console.log(`[1/5] Searching and verifying content for ${dateString} (${isoDate})...`);
   let baseContent = await callGemini(buildSearchPrompt(dateString), { grounding: true, label: 'search' });
   console.log(`      Saints: ${baseContent.saints?.length ?? 0}, Births: ${baseContent.births?.length ?? 0}, Events: ${baseContent.events?.length ?? 0}`);
   baseContent = await backfillMissingYears(baseContent, dateString);
 
+  // Step 1.5: the "Reflexion of the Day" (motivationalQuote) is not date-bound, so Gemini
+  // tends to reuse a small pool of favourites across days. Veto any quote already used in
+  // the last 6 months and ask once more with an explicit do-not-reuse list. Non-fatal:
+  // if the re-pick fails or still repeats, keep the original and let the run succeed —
+  // a repeated secondary field must not cost the whole day's content.
+  console.log(`[1.5/5] Checking the Reflexion of the Day against the last 6 months...`);
+  const recentQuotes = collectRecentQuotes(path.join(__dirname, '..', 'content'), isoDate, 6);
+  const firstPick = baseContent.motivationalQuote?.text ?? '';
+  if (firstPick && recentQuotes.motivational.has(normalizeQuote(firstPick))) {
+    console.log(`      "${firstPick.slice(0, 60)}…" used within 6 months — re-picking`);
+    try {
+      const repick = await callGemini(buildRepickPrompt(recentQuotes.rawList), { grounding: false, label: 'quote-repick' });
+      if (repick?.text && !recentQuotes.motivational.has(normalizeQuote(repick.text))) {
+        baseContent.motivationalQuote = { text: repick.text, author: repick.author ?? '' };
+        console.log(`      re-picked: "${repick.text.slice(0, 60)}…" — ${repick.author ?? 'unknown'}`);
+      } else {
+        console.warn(`      re-pick empty or still repeated — keeping original (review this date)`);
+      }
+    } catch (e) {
+      console.warn(`      quote-repick call failed (${e.message}) — keeping original`);
+    }
+  } else {
+    console.log(`      Reflexion of the Day is fresh — no re-pick needed`);
+  }
+  const historicalText = baseContent.historicalQuote?.text ?? '';
+  if (historicalText && recentQuotes.historical.has(normalizeQuote(historicalText))) {
+    console.warn(`      NOTE: historicalQuote "${historicalText.slice(0, 60)}…" also used within 6 months (date-bound, not re-picked)`);
+  }
+
   // Step 2: translate in two batches to avoid output token limits
-  console.log(`[2/4] Translating to ES, EN, PT, CA (two batches)...`);
+  console.log(`[2/5] Translating to ES, EN, PT, CA (two batches)...`);
   const [batch1, batch2] = await Promise.all([
     callGemini(buildTranslationPrompt(baseContent, ['es', 'pt']), { grounding: false, label: 'translation-es-pt' }),
     callGemini(buildTranslationPrompt(baseContent, ['en', 'ca']), { grounding: false, label: 'translation-en-ca' }),
@@ -375,12 +481,12 @@ async function main() {
   );
 
   // Step 3: verify and correct proper names with grounding
-  console.log(`[3/4] Verifying proper names across languages...`);
+  console.log(`[3/5] Verifying proper names across languages...`);
   const corrections = await callGemini(buildVerificationPrompt(dateString, translated, baseContent), { grounding: true, label: 'verification' });
   const verified = applyNameCorrections(translated, corrections);
 
   // Step 4: derive the push-notification highlight per language (deterministic, no Gemini call)
-  console.log(`[4/4] Computing notification highlights...`);
+  console.log(`[4/5] Computing notification highlights...`);
   const withHighlights = addNotificationHighlights(verified, ['es', 'en', 'pt', 'ca']);
 
   const output = { date: isoDate, ...withHighlights };
@@ -399,4 +505,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { computeNotificationHighlight, addNotificationHighlights };
+module.exports = { computeNotificationHighlight, addNotificationHighlights, normalizeQuote, collectRecentQuotes, buildRepickPrompt };

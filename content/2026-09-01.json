@@ -1,0 +1,343 @@
+{
+  "date": "2026-09-01",
+  "es": {
+    "saints": [
+      {
+        "name": "San Simeón Estilita el Viejo",
+        "type": "Monje/Ermitaño",
+        "description": "Nacido en Capadocia, fue un asceta venerado que pasó 37 años viviendo sobre una pequeña plataforma, o stylos, en el norte de Siria, dedicado a la oración y la abnegación."
+      },
+      {
+        "name": "San Gil",
+        "type": "Abad/Ermitaño",
+        "description": "Un santo ermitaño griego, es uno de los Catorce Santos Auxiliadores, venerado como patrón de mendigos, personas con discapacidad y bosques, y fundó una abadía en Saint-Gilles-du-Gard, Francia."
+      },
+      {
+        "name": "Santa Verena",
+        "type": "Virgen/Reclusa/Asceta",
+        "description": "Una virgen egipcia que acompañó a miembros de la Legión Tebana y más tarde fue conocida por sus habilidades curativas y su dedicada atención a los leprosos en Suiza."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Año Nuevo Eclesiástico Ortodoxo",
+        "description": "Este día marca el comienzo del año eclesiástico para los cristianos ortodoxos, centrándose en la renovación espiritual y la acción de gracias."
+      },
+      {
+        "name": "Jornada Mundial de Oración por el Cuidado de la Creación",
+        "description": "Celebrado por las Iglesias Católica y Ortodoxa, este día fomenta la reflexión y la oración por la administración ambiental."
+      },
+      {
+        "name": "Día del Wattle",
+        "description": "Celebrado en Australia, este día honra el emblema floral del país, la acacia dorada (golden wattle), y marca el comienzo de la primavera."
+      },
+      {
+        "name": "Día de Emma M. Nutt",
+        "description": "Este día conmemora a Emma M. Nutt, quien se convirtió en la primera mujer operadora de teléfono del mundo el 1 de septiembre de 1878."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si siempre hubiera seguido mi mejor juicio, mi vida habría sido muy aburrida.",
+      "author": "Edgar Rice Burroughs",
+      "context": "Edgar Rice Burroughs, el aclamado autor y creador de Tarzán, nació el 1 de septiembre de 1875. Esta cita refleja su espíritu aventurero, que era evidente en sus obras literarias imaginativas."
+    },
+    "motivationalQuote": {
+      "text": "Nadie puede hacerte sentir inferior sin tu consentimiento.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Edgar Rice Burroughs",
+        "description": "Un escritor de ficción estadounidense mejor conocido por sus relatos de aventuras, incluida la creación del personaje Tarzán.",
+        "year": "1875"
+      },
+      {
+        "name": "Rocky Marciano",
+        "description": "Un boxeador profesional estadounidense y el único campeón de peso pesado en retirarse invicto con un récord perfecto.",
+        "year": "1923"
+      },
+      {
+        "name": "Gloria Estefan",
+        "description": "Una cantante, compositora y actriz cubanoamericana que saltó a la fama como la vocalista principal de Miami Sound Machine.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "Se publica el primer libro de poesía de una mujer negra",
+        "description": "En un hito significativo, se publicó 'Poems on Various Subjects, Religious and Moral' de Phillis Wheatley, marcando el primer libro de poesía conocido escrito por una mujer negra.",
+        "year": "1773"
+      },
+      {
+        "title": "La primera mujer operadora de teléfono del mundo comienza a trabajar",
+        "description": "Emma M. Nutt fue reclutada por Alexander Graham Bell para la Boston Telephone Dispatch Company, convirtiéndose en la primera mujer operadora de teléfono del mundo.",
+        "year": "1878"
+      },
+      {
+        "title": "Pioneer 11 se convierte en la primera nave espacial en visitar Saturno",
+        "description": "La nave espacial estadounidense Pioneer 11 realizó con éxito el primer sobrevuelo de Saturno, proporcionando datos e imágenes valiosas del planeta anillado.",
+        "year": "1979"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Año Nuevo Eclesiástico Ortodoxo",
+      "teaser": "Este día marca el comienzo del año eclesiástico para los cristianos ortodoxos, centrándose en la renovación espiritual y la acción de gracias."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Simeon Stylites the Elder",
+        "type": "Monk/Hermit",
+        "description": "Born in Cappadocia, he was a revered ascetic who spent 37 years living atop a small platform, or stylos, in northern Syria, dedicated to prayer and self-denial."
+      },
+      {
+        "name": "St. Giles",
+        "type": "Abbot/Hermit",
+        "description": "A Greek hermit saint, he is one of the Fourteen Holy Helpers, revered as a patron saint of beggars, disabled people, and forests, and founded an abbey in Saint-Gilles-du-Gard, France."
+      },
+      {
+        "name": "St. Verena",
+        "type": "Virgin/Recluse/Ascetic",
+        "description": "An Egyptian virgin who accompanied members of the Theban Legion and later became known for her healing abilities and devoted care for lepers in Switzerland."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Orthodox Ecclesiastical New Year",
+        "description": "This day marks the beginning of the church year for Orthodox Christians, focusing on spiritual renewal and giving thanks."
+      },
+      {
+        "name": "World Day of Prayer for the Care of Creation",
+        "description": "Observed by the Catholic and Orthodox Churches, this day encourages reflection and prayer for environmental stewardship."
+      },
+      {
+        "name": "Wattle Day",
+        "description": "Celebrated in Australia, this day honors the country's floral emblem, the golden wattle, and marks the beginning of spring."
+      },
+      {
+        "name": "Emma M. Nutt Day",
+        "description": "This day commemorates Emma M. Nutt, who became the world's first female telephone operator on September 1, 1878."
+      }
+    ],
+    "historicalQuote": {
+      "text": "If I had followed my better judgment always, my life would have been a very dull one.",
+      "author": "Edgar Rice Burroughs",
+      "context": "Edgar Rice Burroughs, the acclaimed author and creator of Tarzan, was born on September 1, 1875. This quote reflects his adventurous spirit, which was evident in his imaginative literary works."
+    },
+    "motivationalQuote": {
+      "text": "No one can make you feel inferior without your consent.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Edgar Rice Burroughs",
+        "description": "An American fiction writer best known for his tales of adventure, including the creation of the character Tarzan.",
+        "year": "1875"
+      },
+      {
+        "name": "Rocky Marciano",
+        "description": "An American professional boxer and the only heavyweight champion to retire undefeated with a perfect record.",
+        "year": "1923"
+      },
+      {
+        "name": "Gloria Estefan",
+        "description": "A Cuban-American singer, songwriter, and actress who rose to fame as the lead singer of the Miami Sound Machine.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Book of Poetry by a Black Woman Published",
+        "description": "In a significant milestone, Phillis Wheatley's 'Poems on Various Subjects, Religious and Moral' was published, marking the first known book of poetry by a Black woman.",
+        "year": "1773"
+      },
+      {
+        "title": "World's First Female Telephone Operator Begins Work",
+        "description": "Emma M. Nutt was recruited by Alexander Graham Bell to the Boston Telephone Dispatch Company, becoming the world's first female telephone operator.",
+        "year": "1878"
+      },
+      {
+        "title": "Pioneer 11 Becomes First Spacecraft to Visit Saturn",
+        "description": "The U.S. Pioneer 11 successfully made the first-ever flyby of Saturn, providing valuable data and images of the ringed planet.",
+        "year": "1979"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Orthodox Ecclesiastical New Year",
+      "teaser": "This day marks the beginning of the church year for Orthodox Christians, focusing on spiritual renewal and giving thanks."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Simeão Estilita, o Velho",
+        "type": "Monge/Eremita",
+        "description": "Nascido na Capadócia, foi um asceta reverenciado que passou 37 anos vivendo sobre uma pequena plataforma, ou stylos, no norte da Síria, dedicado à oração e à abnegação."
+      },
+      {
+        "name": "São Gil",
+        "type": "Abade/Eremita",
+        "description": "Um santo eremita grego, é um dos Catorze Santos Auxiliares, venerado como padroeiro de mendigos, pessoas com deficiência e florestas, e fundou uma abadia em Saint-Gilles-du-Gard, França."
+      },
+      {
+        "name": "Santa Verena",
+        "type": "Virgem/Reclusa/Asceta",
+        "description": "Uma virgem egípcia que acompanhou membros da Legião Tebana e mais tarde ficou conhecida por suas habilidades de cura e cuidado dedicado a leprosos na Suíça."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Ano Novo Eclesiástico Ortodoxo",
+        "description": "Este dia marca o início do ano eclesiástico para os cristãos ortodoxos, focando na renovação espiritual e na gratidão."
+      },
+      {
+        "name": "Dia Mundial de Oração pelo Cuidado da Criação",
+        "description": "Observado pelas Igrejas Católica e Ortodoxa, este dia incentiva a reflexão e a oração pela gestão ambiental."
+      },
+      {
+        "name": "Dia do Wattle",
+        "description": "Celebrado na Austrália, este dia homenageia o emblema floral do país, a acácia-dourada (golden wattle), e marca o início da primavera."
+      },
+      {
+        "name": "Dia de Emma M. Nutt",
+        "description": "Este dia comemora Emma M. Nutt, que se tornou a primeira operadora de telefone feminina do mundo em 1º de setembro de 1878."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Se eu tivesse sempre seguido meu melhor julgamento, minha vida teria sido muito entediante.",
+      "author": "Edgar Rice Burroughs",
+      "context": "Edgar Rice Burroughs, o aclamado autor e criador de Tarzan, nasceu em 1º de setembro de 1875. Esta citação reflete seu espírito aventureiro, evidente em suas obras literárias imaginativas."
+    },
+    "motivationalQuote": {
+      "text": "Ninguém pode fazer você se sentir inferior sem o seu consentimento.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Edgar Rice Burroughs",
+        "description": "Um escritor de ficção americano mais conhecido por suas histórias de aventura, incluindo a criação do personagem Tarzan.",
+        "year": "1875"
+      },
+      {
+        "name": "Rocky Marciano",
+        "description": "Um boxeador profissional americano e o único campeão dos pesos pesados a se aposentar invicto com um recorde perfeito.",
+        "year": "1923"
+      },
+      {
+        "name": "Gloria Estefan",
+        "description": "Uma cantora, compositora e atriz cubano-americana que alcançou a fama como vocalista principal da Miami Sound Machine.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "Publicado o Primeiro Livro de Poesia de uma Mulher Negra",
+        "description": "Em um marco significativo, 'Poems on Various Subjects, Religious and Moral' de Phillis Wheatley foi publicado, marcando o primeiro livro de poesia conhecido por uma mulher negra.",
+        "year": "1773"
+      },
+      {
+        "title": "Primeira Operadora de Telefone Feminina do Mundo Começa a Trabalhar",
+        "description": "Emma M. Nutt foi recrutada por Alexander Graham Bell para a Boston Telephone Dispatch Company, tornando-se a primeira operadora de telefone feminina do mundo.",
+        "year": "1878"
+      },
+      {
+        "title": "Pioneer 11 Torna-se a Primeira Nave Espacial a Visitar Saturno",
+        "description": "A Pioneer 11 dos EUA realizou com sucesso o primeiro sobrevoo de Saturno, fornecendo dados e imagens valiosas do planeta anelado.",
+        "year": "1979"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Ano Novo Eclesiástico Ortodoxo",
+      "teaser": "Este dia marca o início do ano eclesiástico para os cristãos ortodoxos, focando na renovação espiritual e na gratidão."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Simeó Estilita el Vell",
+        "type": "Monjo/Ermità",
+        "description": "Nascut a Capadòcia, va ser un asceta venerat que va passar 37 anys vivint dalt d'una petita plataforma, o 'stylos', al nord de Síria, dedicat a l'oració i a l'autonegació."
+      },
+      {
+        "name": "Sant Gil",
+        "type": "Abat/Ermità",
+        "description": "Un sant ermità grec, és un dels Catorze Sants Auxiliadors, venerat com a patró dels captaires, les persones amb discapacitat i els boscos, i va fundar una abadia a Saint-Gilles-du-Gard, França."
+      },
+      {
+        "name": "Santa Verena",
+        "type": "Verge/Reclusa/Asceta",
+        "description": "Una verge egípcia que va acompanyar membres de la Legió Tebana i més tard va ser coneguda per les seves habilitats curatives i la seva atenció dedicada als leprosos a Suïssa."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Any Nou Eclesiàstic Ortodox",
+        "description": "Aquest dia marca l'inici de l'any eclesiàstic per als cristians ortodoxos, centrant-se en la renovació espiritual i l'acció de gràcies."
+      },
+      {
+        "name": "Jornada Mundial d'Oració per la Cura de la Creació",
+        "description": "Observat per les Esglésies Catòlica i Ortodoxa, aquest dia encoratja la reflexió i l'oració per la gestió ambiental."
+      },
+      {
+        "name": "Wattle Day",
+        "description": "Celebrat a Austràlia, aquest dia honra l'emblema floral del país, l'acàcia daurada (golden wattle), i marca l'inici de la primavera."
+      },
+      {
+        "name": "Dia d'Emma M. Nutt",
+        "description": "Aquest dia commemora Emma M. Nutt, que va esdevenir la primera operadora telefònica del món l'1 de setembre de 1878."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Si hagués seguit sempre el meu millor judici, la meva vida hauria estat molt avorrida.",
+      "author": "Edgar Rice Burroughs",
+      "context": "Edgar Rice Burroughs, l'aclamat autor i creador de Tarzan, va néixer l'1 de setembre de 1875. Aquesta cita reflecteix el seu esperit aventurer, que era evident en les seves obres literàries imaginatives."
+    },
+    "motivationalQuote": {
+      "text": "Ningú no pot fer-te sentir inferior sense el teu consentiment.",
+      "author": "Eleanor Roosevelt"
+    },
+    "births": [
+      {
+        "name": "Edgar Rice Burroughs",
+        "description": "Un escriptor de ficció nord-americà més conegut per les seves històries d'aventures, incloent la creació del personatge de Tarzan.",
+        "year": "1875"
+      },
+      {
+        "name": "Rocky Marciano",
+        "description": "Un boxejador professional nord-americà i l'únic campió de pes pesant que es va retirar invicte amb un rècord perfecte.",
+        "year": "1923"
+      },
+      {
+        "name": "Gloria Estefan",
+        "description": "Una cantant, compositora i actriu cubanoamericana que va assolir la fama com a vocalista principal de la Miami Sound Machine.",
+        "year": "1957"
+      }
+    ],
+    "events": [
+      {
+        "title": "Publicat el Primer Llibre de Poesia d'una Dona Negra",
+        "description": "En una fita significativa, 'Poems on Various Subjects, Religious and Moral' de Phillis Wheatley va ser publicat, marcant el primer llibre de poesia conegut d'una dona negra.",
+        "year": "1773"
+      },
+      {
+        "title": "La Primera Operadora Telefònica del Món Comença a Treballar",
+        "description": "Emma M. Nutt va ser reclutada per Alexander Graham Bell a la Boston Telephone Dispatch Company, esdevenint la primera operadora telefònica del món.",
+        "year": "1878"
+      },
+      {
+        "title": "La Pioneer 11 Esdevé la Primera Nau Espacial a Visitar Saturn",
+        "description": "La Pioneer 11 dels EUA va realitzar amb èxit el primer sobrevol de Saturn, proporcionant dades i imatges valuoses del planeta anellat.",
+        "year": "1979"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Any Nou Eclesiàstic Ortodox",
+      "teaser": "Aquest dia marca l'inici de l'any eclesiàstic per als cristians ortodoxos, centrant-se en la renovació espiritual i l'acció de gràcies."
+    }
+  }
+}

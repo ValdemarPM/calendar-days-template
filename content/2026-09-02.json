@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-02",
+  "es": {
+    "saints": [
+      {
+        "name": "San Salomón Le Clercq",
+        "type": "Hermano Religioso, Mártir",
+        "description": "San Salomón fue un hermano religioso francés y maestro que fue martirizado durante la Revolución Francesa por negarse a abandonar su fe. Fue canonizado en 2016."
+      },
+      {
+        "name": "San Agrícola de Aviñón",
+        "type": "Obispo",
+        "description": "San Agrícola fue un obispo del siglo VII de Aviñón, Francia, conocido por su caridad, defensa de los pobres y por construir una iglesia y un convento benedictino. También es patrón de las cigüeñas."
+      },
+      {
+        "name": "Mártir Mamas de Cesarea",
+        "type": "Mártir",
+        "description": "El Santo Mártir Mamas nació en el siglo III de padres cristianos piadosos que murieron en prisión. Es conocido por haber superado el fuego y las bestias salvajes antes de ser apuñalado con un tridente."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial del Coco",
+        "description": "Esta observancia internacional crea conciencia sobre los cultivadores de coco y el papel diverso de la fruta en la región de Asia-Pacífico."
+      },
+      {
+        "name": "Día de la Victoria sobre Japón (V-J Day)",
+        "description": "Este día conmemora la firma formal del Instrumento de Rendición de Japón en 1945, marcando oficialmente el fin de la Segunda Guerra Mundial."
+      },
+      {
+        "name": "Día del Ajuste del Calendario",
+        "description": "Esta observancia marca el 2 de septiembre de 1752, cuando Gran Bretaña y sus colonias eliminaron 11 días del calendario para alinearse con el calendario gregoriano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Habla suavemente y lleva un gran garrote; llegarás lejos.",
+      "author": "Theodore Roosevelt",
+      "context": "Theodore Roosevelt, entonces Vicepresidente, pronunció esta famosa frase durante un discurso en la Feria Estatal de Minnesota el 2 de septiembre de 1901."
+    },
+    "motivationalQuote": {
+      "text": "Somos lo que hacemos repetidamente. La excelencia, entonces, no es un acto, sino un hábito.",
+      "author": "Aristóteles"
+    },
+    "births": [
+      {
+        "name": "Keanu Reeves",
+        "description": "Un versátil actor y músico canadiense, es ampliamente reconocido por sus papeles principales en películas de acción como la serie 'Matrix' y 'John Wick'.",
+        "year": "1964"
+      },
+      {
+        "name": "Salma Hayek",
+        "description": "Una aclamada actriz y productora de cine mexicano-estadounidense, ha hecho importantes contribuciones a Hollywood y es conocida por sus diversos papeles.",
+        "year": "1966"
+      },
+      {
+        "name": "Terry Bradshaw",
+        "description": "Ex mariscal de campo de la NFL para los Pittsburgh Steelers, es cuatro veces campeón del Super Bowl y ahora un destacado analista deportivo de televisión.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fin de la Segunda Guerra Mundial (Día de la Victoria sobre Japón)",
+        "description": "Japón se rindió formalmente a las naciones aliadas a bordo del USS Missouri en la Bahía de Tokio, marcando oficialmente el fin de la Segunda Guerra Mundial.",
+        "year": "1945"
+      },
+      {
+        "title": "Fundación del Departamento del Tesoro de EE. UU.",
+        "description": "El Departamento del Tesoro de los Estados Unidos fue establecido por una ley del Congreso para administrar los ingresos del gobierno y financiar la nueva nación.",
+        "year": "1789"
+      },
+      {
+        "title": "Primera Condecoración de Eagle Scout Otorgada",
+        "description": "Arthur Rose Eldred recibió la primera condecoración de Eagle Scout por los Boy Scouts de América, reconociendo sus logros excepcionales en el escultismo.",
+        "year": "1912"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial del Coco",
+      "teaser": "Esta observancia internacional crea conciencia sobre los cultivadores de coco y el papel diverso de la fruta en la región de Asia-Pacífico."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Solomon Le Clercq",
+        "type": "Religious Brother, Martyr",
+        "description": "St. Solomon was a French religious brother and teacher who was martyred during the French Revolution for refusing to abandon his faith. He was canonized in 2016."
+      },
+      {
+        "name": "St. Agricola of Avignon",
+        "type": "Bishop",
+        "description": "St. Agricola was a 7th-century bishop of Avignon, France, known for his charity, defense of the poor, and building a church and Benedictine convent. He is also a patron of storks."
+      },
+      {
+        "name": "Martyr Mamas of Caesarea",
+        "type": "Martyr",
+        "description": "Holy Martyr Mamas was born in the 3rd century to pious Christian parents who died in prison. He is known for overcoming fire and wild beasts before being stabbed with a trident."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Coconut Day",
+        "description": "This international observance raises awareness about coconut growers and the fruit's diverse role across the Asia-Pacific region."
+      },
+      {
+        "name": "V-J Day (Victory over Japan Day)",
+        "description": "This day commemorates the formal signing of Japan's Instrument of Surrender in 1945, officially marking the end of World War II."
+      },
+      {
+        "name": "Calendar Adjustment Day",
+        "description": "This observance marks September 2, 1752, when Britain and its colonies dropped 11 days from the calendar to align with the Gregorian calendar."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Speak softly and carry a big stick; you will go far.",
+      "author": "Theodore Roosevelt",
+      "context": "Theodore Roosevelt, then Vice President, uttered this famous phrase during a speech at the Minnesota State Fair on September 2, 1901."
+    },
+    "motivationalQuote": {
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle"
+    },
+    "births": [
+      {
+        "name": "Keanu Reeves",
+        "description": "A versatile Canadian actor and musician, he is widely recognized for his leading roles in action films like 'The Matrix' series and 'John Wick'.",
+        "year": "1964"
+      },
+      {
+        "name": "Salma Hayek",
+        "description": "A highly acclaimed Mexican-American actress and film producer, she has made significant contributions to Hollywood and is known for her diverse roles.",
+        "year": "1966"
+      },
+      {
+        "name": "Terry Bradshaw",
+        "description": "A former NFL quarterback for the Pittsburgh Steelers, he is a four-time Super Bowl champion and now a prominent television sports analyst.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "End of World War II (V-J Day)",
+        "description": "Japan formally surrendered to the Allied nations aboard the USS Missouri in Tokyo Bay, officially marking the end of World War II.",
+        "year": "1945"
+      },
+      {
+        "title": "U.S. Department of the Treasury Founded",
+        "description": "The United States Department of the Treasury was established by an act of Congress to manage government revenue and finance the new nation.",
+        "year": "1789"
+      },
+      {
+        "title": "First Eagle Scout Award Presented",
+        "description": "Arthur Rose Eldred was awarded the first Eagle Scout award by the Boy Scouts of America, recognizing his exceptional achievements in scouting.",
+        "year": "1912"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Coconut Day",
+      "teaser": "This international observance raises awareness about coconut growers and the fruit's diverse role across the Asia-Pacific region."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Salomão Le Clercq",
+        "type": "Irmão Religioso, Mártir",
+        "description": "São Salomão foi um irmão religioso e professor francês que foi martirizado durante a Revolução Francesa por se recusar a abandonar sua fé. Ele foi canonizado em 2016."
+      },
+      {
+        "name": "Santo Agrícola de Avignon",
+        "type": "Bispo",
+        "description": "Santo Agrícola foi um bispo do século VII de Avignon, França, conhecido por sua caridade, defesa dos pobres e por construir uma igreja e um convento beneditino. Ele também é padroeiro das cegonhas."
+      },
+      {
+        "name": "Mártir Mamas de Cesareia",
+        "type": "Mártir",
+        "description": "O Santo Mártir Mamas nasceu no século III de pais cristãos piedosos que morreram na prisão. Ele é conhecido por superar o fogo e feras selvagens antes de ser esfaqueado com um tridente."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial do Coco",
+        "description": "Esta observância internacional conscientiza sobre os produtores de coco e o papel diversificado da fruta na região da Ásia-Pacífico."
+      },
+      {
+        "name": "Dia da Vitória sobre o Japão (Dia V-J)",
+        "description": "Este dia comemora a assinatura formal do Instrumento de Rendição do Japão em 1945, marcando oficialmente o fim da Segunda Guerra Mundial."
+      },
+      {
+        "name": "Dia do Ajuste do Calendário",
+        "description": "Esta observância marca 2 de setembro de 1752, quando a Grã-Bretanha e suas colônias removeram 11 dias do calendário para se alinhar com o calendário gregoriano."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Fale suavemente e carregue um grande porrete; você irá longe.",
+      "author": "Theodore Roosevelt",
+      "context": "Theodore Roosevelt, então Vice-Presidente, proferiu esta famosa frase durante um discurso na Feira Estadual de Minnesota em 2 de setembro de 1901."
+    },
+    "motivationalQuote": {
+      "text": "Somos o que fazemos repetidamente. A excelência, então, não é um ato, mas um hábito.",
+      "author": "Aristóteles"
+    },
+    "births": [
+      {
+        "name": "Keanu Reeves",
+        "description": "Um versátil ator e músico canadense, ele é amplamente reconhecido por seus papéis principais em filmes de ação como a série 'Matrix' e 'John Wick'.",
+        "year": "1964"
+      },
+      {
+        "name": "Salma Hayek",
+        "description": "Uma aclamada atriz e produtora de cinema mexicano-americana, ela fez contribuições significativas para Hollywood e é conhecida por seus diversos papéis.",
+        "year": "1966"
+      },
+      {
+        "name": "Terry Bradshaw",
+        "description": "Ex-quarterback da NFL pelo Pittsburgh Steelers, ele é quatro vezes campeão do Super Bowl e agora um proeminente analista esportivo de televisão.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fim da Segunda Guerra Mundial (Dia da Vitória sobre o Japão)",
+        "description": "O Japão rendeu-se formalmente às nações aliadas a bordo do USS Missouri na Baía de Tóquio, marcando oficialmente o fim da Segunda Guerra Mundial.",
+        "year": "1945"
+      },
+      {
+        "title": "Fundação do Departamento do Tesouro dos EUA",
+        "description": "O Departamento do Tesouro dos Estados Unidos foi estabelecido por um ato do Congresso para gerenciar a receita do governo e financiar a nova nação.",
+        "year": "1789"
+      },
+      {
+        "title": "Primeiro Prêmio Eagle Scout Concedido",
+        "description": "Arthur Rose Eldred recebeu o primeiro prêmio Eagle Scout dos Boy Scouts da América, reconhecendo suas conquistas excepcionais no escotismo.",
+        "year": "1912"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial do Coco",
+      "teaser": "Esta observância internacional conscientiza sobre os produtores de coco e o papel diversificado da fruta na região da Ásia-Pacífico."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Salomó Le Clercq",
+        "type": "Germà religiós, Màrtir",
+        "description": "Sant Salomó va ser un germà religiós i mestre francès que va ser martiritzat durant la Revolució Francesa per negar-se a abandonar la seva fe. Va ser canonitzat el 2016."
+      },
+      {
+        "name": "Sant Agrícola d'Avinyó",
+        "type": "Bisbe",
+        "description": "Sant Agrícola va ser un bisbe del segle VII d'Avinyó, França, conegut per la seva caritat, la defensa dels pobres i la construcció d'una església i un convent benedictí. També és patró de les cigonyes."
+      },
+      {
+        "name": "Màrtir Mammes de Cesarea",
+        "type": "Màrtir",
+        "description": "El Sant Màrtir Mammes va néixer al segle III de pares cristians pietosos que van morir a la presó. És conegut per haver superat el foc i les bèsties salvatges abans de ser apunyalat amb un trident."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial del Coco",
+        "description": "Aquesta celebració internacional sensibilitza sobre els conreadors de coco i el paper divers de la fruita a la regió d'Àsia-Pacífic."
+      },
+      {
+        "name": "Dia de la Victòria sobre el Japó (Dia V-J)",
+        "description": "Aquest dia commemora la signatura formal de l'Acta de Rendició del Japó el 1945, marcant oficialment la fi de la Segona Guerra Mundial."
+      },
+      {
+        "name": "Dia d'Ajustament del Calendari",
+        "description": "Aquesta celebració marca el 2 de setembre de 1752, quan Gran Bretanya i les seves colònies van eliminar 11 dies del calendari per alinear-se amb el calendari gregorià."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Parla amb suavitat i porta un gran garrot; arribaràs lluny.",
+      "author": "Theodore Roosevelt",
+      "context": "Theodore Roosevelt, aleshores vicepresident, va pronunciar aquesta famosa frase durant un discurs a la Fira Estatal de Minnesota el 2 de setembre de 1901."
+    },
+    "motivationalQuote": {
+      "text": "Som allò que fem repetidament. L'excel·lència, doncs, no és un acte, sinó un hàbit.",
+      "author": "Aristòtil"
+    },
+    "births": [
+      {
+        "name": "Keanu Reeves",
+        "description": "Un versàtil actor i músic canadenc, és àmpliament reconegut pels seus papers principals en pel·lícules d'acció com la sèrie 'Matrix' i 'John Wick'.",
+        "year": "1964"
+      },
+      {
+        "name": "Salma Hayek",
+        "description": "Una actriu i productora de cinema mexicano-americana molt aclamada, ha fet contribucions significatives a Hollywood i és coneguda pels seus diversos papers.",
+        "year": "1966"
+      },
+      {
+        "name": "Terry Bradshaw",
+        "description": "Un antic quarterback de la NFL per als Pittsburgh Steelers, és quatre vegades campió de la Super Bowl i ara un destacat analista esportiu de televisió.",
+        "year": "1948"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fi de la Segona Guerra Mundial (Dia de la Victòria sobre el Japó)",
+        "description": "El Japó es va rendir formalment a les nacions aliades a bord del USS Missouri a la badia de Tòquio, marcant oficialment la fi de la Segona Guerra Mundial.",
+        "year": "1945"
+      },
+      {
+        "title": "Fundació del Departament del Tresor dels EUA",
+        "description": "El Departament del Tresor dels Estats Units va ser establert per una llei del Congrés per gestionar els ingressos del govern i finançar la nova nació.",
+        "year": "1789"
+      },
+      {
+        "title": "Primer Premi Eagle Scout Lliurat",
+        "description": "Arthur Rose Eldred va rebre el primer premi Eagle Scout per part dels Boy Scouts d'Amèrica, en reconeixement als seus èxits excepcionals en l'escoltisme.",
+        "year": "1912"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial del Coco",
+      "teaser": "Aquesta celebració internacional sensibilitza sobre els conreadors de coco i el paper divers de la fruita a la regió d'Àsia-Pacífic."
+    }
+  }
+}

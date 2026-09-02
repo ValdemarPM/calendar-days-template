@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-03",
+  "es": {
+    "saints": [
+      {
+        "name": "Papa San Gregorio Magno",
+        "type": "Papa y Doctor de la Iglesia",
+        "description": "Nacido en una noble familia romana, se convirtió en Papa en 590, fortaleciendo el papel espiritual y político del papado, reformando la liturgia de la iglesia y promoviendo el canto gregoriano."
+      },
+      {
+        "name": "Hieromártir Antimo de Nicomedia",
+        "type": "Obispo y Mártir",
+        "description": "Sufrió el martirio durante la persecución de cristianos bajo los emperadores Diocleciano y Maximiano a principios del siglo IV, guiando valientemente a su rebaño a través de cartas."
+      },
+      {
+        "name": "Santa Febe la Diaconisa",
+        "type": "Diaconisa",
+        "description": "Mencionada por San Pablo en su Epístola a los Romanos, fue una respetada mujer cristiana primitiva que sirvió a la Iglesia en Cencreas, cerca de Corinto."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional del Rascacielos",
+        "description": "Este día fomenta la apreciación por las maravillas arquitectónicas de los rascacielos y su contribución a los paisajes urbanos."
+      },
+      {
+        "name": "Día Nacional del Welsh Rarebit",
+        "description": "Un día para disfrutar y celebrar el Welsh rarebit, un plato tradicional británico hecho con una salsa de queso salada servida sobre tostadas."
+      },
+      {
+        "name": "Día de la Marina Mercante",
+        "description": "Conmemorado en varios países, este día honra a los valientes hombres y mujeres de la Marina Mercante que aseguran el comercio global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Prefiero ser fiel a mí mismo, incluso a riesgo de incurrir en el ridículo de los demás, antes que ser falso e incurrir en mi propio aborrecimiento.",
+      "author": "Frederick Douglass",
+      "context": "Frederick Douglass, un prominente abolicionista, periodista, autor y defensor de los derechos humanos, escapó famosamente de la esclavitud el 3 de septiembre de 1838, viajando hacia el norte disfrazado de marinero."
+    },
+    "motivationalQuote": {
+      "text": "El mayor peligro para la mayoría de nosotros no es que nuestro objetivo sea demasiado alto y lo perdamos, sino que sea demasiado bajo y lo alcancemos.",
+      "author": "Miguel Ángel"
+    },
+    "births": [
+      {
+        "name": "Prudence Crandall",
+        "description": "Educadora y activista estadounidense que fundó la Canterbury Female Boarding School, una de las primeras escuelas para niñas afroamericanas.",
+        "year": "1803"
+      },
+      {
+        "name": "Louis Sullivan",
+        "description": "Influyente arquitecto estadounidense conocido como el 'Padre de los Rascacielos' y pionero de la arquitectura moderna, famoso por su adagio 'la forma sigue siempre a la función'.",
+        "year": "1856"
+      },
+      {
+        "name": "Dorothy Maynor",
+        "description": "Renombrada soprano de concierto estadounidense que más tarde fundó la Harlem School of the Arts, proporcionando educación artística a miles de estudiantes.",
+        "year": "1910"
+      }
+    ],
+    "events": [
+      {
+        "title": "Firma del Tratado de París",
+        "description": "La Guerra de Independencia de los Estados Unidos concluyó oficialmente con la firma del Tratado de París por representantes de Estados Unidos y Gran Bretaña.",
+        "year": "1783"
+      },
+      {
+        "title": "Frederick Douglass escapa de la esclavitud",
+        "description": "El abolicionista Frederick Douglass logró su dramática escape de la esclavitud, viajando de Baltimore a la ciudad de Nueva York para comenzar su vida como hombre libre y defensor.",
+        "year": "1838"
+      },
+      {
+        "title": "Viking 2 aterriza en Marte",
+        "description": "La nave espacial estadounidense Viking 2 aterrizó exitosamente en Utopia Planitia en Marte, enviando posteriormente las primeras fotos a color y de cerca de la superficie marciana.",
+        "year": "1976"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional del Rascacielos",
+      "teaser": "Este día fomenta la apreciación por las maravillas arquitectónicas de los rascacielos y su contribución a los paisajes urbanos."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Pope Saint Gregory the Great",
+        "type": "Pope and Doctor of the Church",
+        "description": "Born into a noble Roman family, he became Pope in 590, strengthening the papacy's spiritual and political role, reforming church liturgy, and promoting Gregorian chant."
+      },
+      {
+        "name": "Hieromartyr Anthimus of Nicomedia",
+        "type": "Bishop and Martyr",
+        "description": "He suffered martyrdom during the persecution of Christians under Emperors Diocletian and Maximian in the early 4th century, courageously guiding his flock through letters."
+      },
+      {
+        "name": "Saint Phoebe the Deaconess",
+        "type": "Deaconess",
+        "description": "Mentioned by St. Paul in his Epistle to the Romans, she was a respected early Christian woman who served the Church in Cenchreae near Corinth."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Skyscraper Day",
+        "description": "This day encourages appreciation for the architectural marvels of skyscrapers and their contribution to urban landscapes."
+      },
+      {
+        "name": "National Welsh Rarebit Day",
+        "description": "A day to enjoy and celebrate Welsh rarebit, a traditional British dish made with a savory cheese sauce served over toast."
+      },
+      {
+        "name": "Merchant Navy Day",
+        "description": "Commemorated in various countries, this day honors the brave men and women of the Merchant Navy who ensure global trade."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I prefer to be true to myself, even at the hazard of incurring the ridicule of others, rather than to be false, and to incur my own abhorrence.",
+      "author": "Frederick Douglass",
+      "context": "Frederick Douglass, a prominent abolitionist, journalist, author, and human rights advocate, famously escaped from slavery on September 3, 1838, by traveling north disguised as a sailor."
+    },
+    "motivationalQuote": {
+      "text": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+      "author": "Michelangelo"
+    },
+    "births": [
+      {
+        "name": "Prudence Crandall",
+        "description": "An American educator and activist who founded the Canterbury Female Boarding School, an early school for African American girls.",
+        "year": "1803"
+      },
+      {
+        "name": "Louis Sullivan",
+        "description": "An influential American architect known as the 'Father of Skyscrapers' and a pioneer of modern architecture, famous for his adage 'form ever follows function.'",
+        "year": "1856"
+      },
+      {
+        "name": "Dorothy Maynor",
+        "description": "A renowned American concert soprano who later founded the Harlem School of the Arts, providing arts education to thousands of students.",
+        "year": "1910"
+      }
+    ],
+    "events": [
+      {
+        "title": "Treaty of Paris Signed",
+        "description": "The American Revolutionary War officially concluded with the signing of the Treaty of Paris by representatives of the United States and Great Britain.",
+        "year": "1783"
+      },
+      {
+        "title": "Frederick Douglass Escapes Slavery",
+        "description": "Abolitionist Frederick Douglass made his dramatic escape from slavery, traveling from Baltimore to New York City to begin his life as a free man and advocate.",
+        "year": "1838"
+      },
+      {
+        "title": "Viking 2 Lands on Mars",
+        "description": "The American Viking 2 spacecraft successfully landed at Utopia Planitia on Mars, subsequently sending back the first close-up, color photos of the Martian surface.",
+        "year": "1976"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Skyscraper Day",
+      "teaser": "This day encourages appreciation for the architectural marvels of skyscrapers and their contribution to urban landscapes."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Papa São Gregório Magno",
+        "type": "Papa e Doutor da Igreja",
+        "description": "Nascido em uma nobre família romana, tornou-se Papa em 590, fortalecendo o papel espiritual e político do papado, reformando a liturgia da igreja e promovendo o canto gregoriano."
+      },
+      {
+        "name": "Hieromártir Ântimo de Nicomédia",
+        "type": "Bispo e Mártir",
+        "description": "Sofreu o martírio durante a perseguição aos cristãos sob os imperadores Diocleciano e Maximiano no início do século IV, guiando corajosamente seu rebanho por meio de cartas."
+      },
+      {
+        "name": "Santa Febe a Diaconisa",
+        "type": "Diaconisa",
+        "description": "Mencionada por São Paulo em sua Epístola aos Romanos, foi uma respeitada mulher cristã primitiva que serviu a Igreja em Cencréia, perto de Corinto."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional do Arranha-Céu",
+        "description": "Este dia incentiva a apreciação pelas maravilhas arquitetônicas dos arranha-céus e sua contribuição para as paisagens urbanas."
+      },
+      {
+        "name": "Dia Nacional do Welsh Rarebit",
+        "description": "Um dia para desfrutar e celebrar o Welsh rarebit, um prato britânico tradicional feito com um molho de queijo saboroso servido sobre torradas."
+      },
+      {
+        "name": "Dia da Marinha Mercante",
+        "description": "Comemorado em vários países, este dia homenageia os bravos homens e mulheres da Marinha Mercante que garantem o comércio global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Prefiro ser fiel a mim mesmo, mesmo correndo o risco de incorrer no ridículo dos outros, do que ser falso e incorrer na minha própria aversão.",
+      "author": "Frederick Douglass",
+      "context": "Frederick Douglass, um proeminente abolicionista, jornalista, autor e defensor dos direitos humanos, escapou famosamente da escravidão em 3 de setembro de 1838, viajando para o norte disfarçado de marinheiro."
+    },
+    "motivationalQuote": {
+      "text": "O maior perigo para a maioria de nós não é que nosso objetivo seja muito alto e o percamos, mas que seja muito baixo e o alcancemos.",
+      "author": "Miguel Ângelo"
+    },
+    "births": [
+      {
+        "name": "Prudence Crandall",
+        "description": "Educadora e ativista americana que fundou a Canterbury Female Boarding School, uma das primeiras escolas para meninas afro-americanas.",
+        "year": "1803"
+      },
+      {
+        "name": "Louis Sullivan",
+        "description": "Influente arquiteto americano conhecido como o 'Pai dos Arranha-Céus' e pioneiro da arquitetura moderna, famoso por seu adágio 'a forma sempre segue a função'.",
+        "year": "1856"
+      },
+      {
+        "name": "Dorothy Maynor",
+        "description": "Renomada soprano de concerto americana que mais tarde fundou a Harlem School of the Arts, proporcionando educação artística a milhares de estudantes.",
+        "year": "1910"
+      }
+    ],
+    "events": [
+      {
+        "title": "Assinatura do Tratado de Paris",
+        "description": "A Guerra Revolucionária Americana concluiu oficialmente com a assinatura do Tratado de Paris por representantes dos Estados Unidos e da Grã-Bretanha.",
+        "year": "1783"
+      },
+      {
+        "title": "Frederick Douglass escapa da escravidão",
+        "description": "O abolicionista Frederick Douglass realizou sua dramática fuga da escravidão, viajando de Baltimore para a cidade de Nova York para iniciar sua vida como homem livre e defensor.",
+        "year": "1838"
+      },
+      {
+        "title": "Viking 2 pousa em Marte",
+        "description": "A espaçonave americana Viking 2 pousou com sucesso em Utopia Planitia em Marte, enviando posteriormente as primeiras fotos coloridas e em close da superfície marciana.",
+        "year": "1976"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional do Arranha-Céu",
+      "teaser": "Este dia incentiva a apreciação pelas maravilhas arquitetônicas dos arranha-céus e sua contribuição para as paisagens urbanas."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Papa Sant Gregori el Gran",
+        "type": "Papa i Doctor de l'Església",
+        "description": "Nascut en una noble família romana, es va convertir en Papa l'any 590, reforçant el paper espiritual i polític del papat, reformant la litúrgia de l'església i promovent el cant gregorià."
+      },
+      {
+        "name": "Hieromàrtir Antimo de Nicomèdia",
+        "type": "Bisbe i Màrtir",
+        "description": "Va patir martiri durant la persecució dels cristians sota els emperadors Dioclecià i Maximià a principis del segle IV, guiant amb valentia el seu ramat mitjançant cartes."
+      },
+      {
+        "name": "Santa Febe la Diaconessa",
+        "type": "Diaconessa",
+        "description": "Mencionada per Sant Pau a la seva Epístola als Romans, va ser una dona cristiana primitiva respectada que va servir l'Església a Cèncrea, prop de Corint."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional dels Grats-cels",
+        "description": "Aquest dia fomenta l'apreciació per les meravelles arquitectòniques dels gratacels i la seva contribució als paisatges urbans."
+      },
+      {
+        "name": "Dia Nacional del Welsh Rarebit",
+        "description": "Un dia per gaudir i celebrar el Welsh rarebit, un plat tradicional britànic fet amb una salsa de formatge saborosa servida sobre torrades."
+      },
+      {
+        "name": "Dia de la Marina Mercant",
+        "description": "Commemorat en diversos països, aquest dia honra els valents homes i dones de la Marina Mercant que asseguren el comerç global."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Prefereixo ser fidel a mi mateix, fins i tot corrent el risc d'incórrer en el ridícul dels altres, que no pas ser fals i incórrer en la meva pròpia aversió.",
+      "author": "Frederick Douglass",
+      "context": "Frederick Douglass, un destacat abolicionista, periodista, autor i defensor dels drets humans, va escapar famosament de l'esclavitud el 3 de setembre de 1838, viatjant cap al nord disfressat de mariner."
+    },
+    "motivationalQuote": {
+      "text": "El perill més gran per a la majoria de nosaltres no és que el nostre objectiu sigui massa alt i el perdem, sinó que sigui massa baix i l'assolim.",
+      "author": "Miquel Àngel"
+    },
+    "births": [
+      {
+        "name": "Prudence Crandall",
+        "description": "Una educadora i activista nord-americana que va fundar la Canterbury Female Boarding School, una de les primeres escoles per a noies afroamericanes.",
+        "year": "1803"
+      },
+      {
+        "name": "Louis Sullivan",
+        "description": "Un influent arquitecte nord-americà conegut com el 'Pare dels gratacels' i pioner de l'arquitectura moderna, famós pel seu adagi 'la forma sempre segueix la funció'.",
+        "year": "1856"
+      },
+      {
+        "name": "Dorothy Maynor",
+        "description": "Una reconeguda soprano de concert nord-americana que més tard va fundar la Harlem School of the Arts, proporcionant educació artística a milers d'estudiants.",
+        "year": "1910"
+      }
+    ],
+    "events": [
+      {
+        "title": "Signatura del Tractat de París",
+        "description": "La Guerra d'Independència dels Estats Units va concloure oficialment amb la signatura del Tractat de París per part dels representants dels Estats Units i la Gran Bretanya.",
+        "year": "1783"
+      },
+      {
+        "title": "Frederick Douglass escapa de l'esclavitud",
+        "description": "L'abolicionista Frederick Douglass va fer la seva dramàtica fugida de l'esclavitud, viatjant de Baltimore a la ciutat de Nova York per començar la seva vida com a home lliure i defensor.",
+        "year": "1838"
+      },
+      {
+        "title": "La Viking 2 aterra a Mart",
+        "description": "La nau espacial nord-americana Viking 2 va aterrar amb èxit a Utopia Planitia a Mart, enviant posteriorment les primeres fotos en color i de prop de la superfície marciana.",
+        "year": "1976"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional dels Grats-cels",
+      "teaser": "Aquest dia fomenta l'apreciació per les meravelles arquitectòniques dels gratacels i la seva contribució als paisatges urbans."
+    }
+  }
+}

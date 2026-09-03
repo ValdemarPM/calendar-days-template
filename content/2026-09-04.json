@@ -1,0 +1,347 @@
+{
+  "date": "2026-09-04",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Rosa de Viterbo",
+        "type": "Franciscana Secular / Predicadora",
+        "description": "Nacida en 1233, Rosa dedicó su vida a la oración, la penitencia y la ayuda a los pobres. A los 10 años, se hizo franciscana secular y predicó el arrepentimiento en las calles, incluso enfrentando el exilio por apoyar al Papa."
+      },
+      {
+        "name": "San Ultán de Ardbraccan",
+        "type": "Obispo",
+        "description": "Obispo irlandés del siglo VII, San Ultán fue conocido por su extenso cuidado de los pobres, enfermos y huérfanos. También se cree que recopiló los escritos de Santa Brígida de Irlanda."
+      },
+      {
+        "name": "Santo Profeta Moisés",
+        "type": "Profeta y vidente de Dios",
+        "description": "Conmemorado en la Iglesia Ortodoxa Oriental, Moisés es venerado como una figura central en las religiones abrahámicas, liderando a los israelitas fuera de Egipto y recibiendo los Diez Mandamientos."
+      },
+      {
+        "name": "Hieromártir Bábilas de Antioquía",
+        "type": "Obispo de Antioquía",
+        "description": "Bábilas, obispo de Antioquía del siglo III, sufrió el martirio junto con tres jóvenes durante las persecuciones bajo el emperador Decio por su fe cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional de la Vida Silvestre",
+        "description": "Este día está dedicado a honrar la vida y obra de Steve Irwin, a concienciar sobre las especies en peligro de extinción y a abogar por la conservación de la vida silvestre en todo el mundo."
+      },
+      {
+        "name": "Janmashtami",
+        "description": "Un importante festival hindú que celebra el nacimiento del Señor Krishna, observado con ayuno, celebraciones a medianoche y la tradición Dahi Handi."
+      },
+      {
+        "name": "Día de los Colores Universitarios",
+        "description": "Observado el primer viernes de septiembre, este día anima a estudiantes, exalumnos y aficionados a mostrar su espíritu de equipo vistiendo los colores y la ropa de su universidad."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Los hombres pueden morir de hambre por falta de autorrealización tanto como por falta de pan.",
+      "author": "Richard Wright",
+      "context": "Richard Wright, un influyente autor afroamericano, nació el 4 de septiembre de 1908. Sus obras a menudo exploraban temas de injusticia racial y la lucha por la identidad, reflejando una profunda comprensión de las necesidades humanas más allá del mero sustento."
+    },
+    "motivationalQuote": {
+      "text": "La vida es un 10% lo que te sucede y un 90% cómo reaccionas a ello.",
+      "author": "Charles R. Swindoll"
+    },
+    "births": [
+      {
+        "name": "Richard Wright",
+        "description": "Un influyente autor estadounidense conocido por sus novelas, cuentos y no ficción, que exploran las experiencias de los hombres negros a finales del siglo XIX y mediados del XX. Sus obras notables incluyen 'Hijo nativo' y 'Chico negro'.",
+        "year": "1908"
+      },
+      {
+        "name": "Antonin Artaud",
+        "description": "Un dramaturgo, poeta y teórico francés pionero que influyó significativamente en el teatro del siglo XX con su concepto del 'Teatro de la Crueldad'.",
+        "year": "1896"
+      },
+      {
+        "name": "Shinya Yamanaka",
+        "description": "Un médico e investigador japonés ganador del Premio Nobel, reconocido por su trabajo pionero sobre las células madre pluripotentes inducidas, que revolucionó la medicina regenerativa.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundación de Los Ángeles",
+        "description": "En este día, 44 colonos españoles establecieron 'El Pueblo de Nuestra Señora La Reina de los Ángeles', que se convertiría en la moderna ciudad de Los Ángeles.",
+        "year": "1781"
+      },
+      {
+        "title": "La Central Pearl Street Comienza a Operar",
+        "description": "La Central Pearl Street en la ciudad de Nueva York, diseñada por Thomas Edison, se convirtió en la primera central eléctrica en suministrar electricidad a clientes de pago, marcando un momento crucial en la historia de la distribución de energía eléctrica.",
+        "year": "1882"
+      },
+      {
+        "title": "Google Inc. Fundada",
+        "description": "Larry Page y Sergey Brin incorporaron oficialmente Google Inc. mientras eran estudiantes de doctorado en la Universidad de Stanford, sentando las bases de lo que se convertiría en un gigante tecnológico global.",
+        "year": "1998"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional de la Vida Silvestre",
+      "teaser": "Este día está dedicado a honrar la vida y obra de Steve Irwin, a concienciar sobre las especies en peligro de extinción y a abogar por la conservación de la vida silvestre en todo el mundo."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Rose of Viterbo",
+        "type": "Secular Franciscan / Preacher",
+        "description": "Born in 1233, Rose dedicated her life to prayer, penance, and aiding the poor. At age 10, she became a Secular Franciscan and preached repentance in the streets, even facing exile for supporting the Pope."
+      },
+      {
+        "name": "Saint Ultan of Ardbraccan",
+        "type": "Bishop",
+        "description": "A 7th-century Irish bishop, Saint Ultan was known for his extensive care for the poor, sick, and orphans. He is also believed to have collected the writings of Saint Brigid of Ireland."
+      },
+      {
+        "name": "Holy Prophet Moses",
+        "type": "Prophet and God-seer",
+        "description": "Commemorated in the Eastern Orthodox Church, Moses is revered as a central figure in Abrahamic religions, leading the Israelites out of Egypt and receiving the Ten Commandments."
+      },
+      {
+        "name": "Hieromartyr Babylas of Antioch",
+        "type": "Bishop of Antioch",
+        "description": "Babylas, a 3rd-century Bishop of Antioch, suffered martyrdom along with three youths during the persecutions under Emperor Decius for his Christian faith."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Wildlife Day",
+        "description": "This day is dedicated to honoring the life and work of Steve Irwin, raising awareness for endangered species, and advocating for wildlife conservation worldwide."
+      },
+      {
+        "name": "Janmashtami",
+        "description": "A major Hindu festival celebrating the birth of Lord Krishna, observed with fasting, midnight celebrations, and the Dahi Handi tradition."
+      },
+      {
+        "name": "College Colors Day",
+        "description": "Observed on the first Friday of September, this day encourages students, alumni, and fans to show their team spirit by wearing their college's colors and apparel."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Men can starve from a lack of self-realization as much as they can from a lack of bread.",
+      "author": "Richard Wright",
+      "context": "Richard Wright, an influential African-American author, was born on September 4, 1908. His works often explored themes of racial injustice and the struggle for identity, reflecting a deep understanding of human needs beyond mere sustenance."
+    },
+    "motivationalQuote": {
+      "text": "Life is 10% what happens to you and 90% how you react to it.",
+      "author": "Charles R. Swindoll"
+    },
+    "births": [
+      {
+        "name": "Richard Wright",
+        "description": "An influential American author known for his novels, short stories, and non-fiction, exploring the experiences of Black men in the late 19th and mid-20th centuries. His notable works include 'Native Son' and 'Black Boy'.",
+        "year": "1908"
+      },
+      {
+        "name": "Antonin Artaud",
+        "description": "A pioneering French dramatist, poet, and theorist who significantly influenced 20th-century theatre with his concept of the 'Theatre of Cruelty'.",
+        "year": "1896"
+      },
+      {
+        "name": "Shinya Yamanaka",
+        "description": "A Nobel Prize-winning Japanese physician and researcher, recognized for his groundbreaking work on induced pluripotent stem cells, which revolutionized regenerative medicine.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "Founding of Los Angeles",
+        "description": "On this day, 44 Spanish settlers established 'El Pueblo de Nuestra Señora La Reina de los Ángeles' (The Village of Our Lady, the Queen of the Angels), which would grow into the modern city of Los Angeles.",
+        "year": "1781"
+      },
+      {
+        "title": "Pearl Street Station Begins Operation",
+        "description": "The Pearl Street Station in New York City, designed by Thomas Edison, became the first central power plant to supply electricity to paying customers, marking a pivotal moment in the history of electrical power distribution.",
+        "year": "1882"
+      },
+      {
+        "title": "Google Inc. Founded",
+        "description": "Larry Page and Sergey Brin officially incorporated Google Inc. while they were Ph.D. students at Stanford University, laying the foundation for what would become a global technology giant.",
+        "year": "1998"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Wildlife Day",
+      "teaser": "This day is dedicated to honoring the life and work of Steve Irwin, raising awareness for endangered species, and advocating for wildlife conservation worldwide."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Rosa de Viterbo",
+        "type": "Franciscana Secular / Pregadora",
+        "description": "Nascida em 1233, Rosa dedicou sua vida à oração, penitência e ajuda aos pobres. Aos 10 anos, tornou-se Franciscana Secular e pregou o arrependimento nas ruas, enfrentando inclusive o exílio por apoiar o Papa."
+      },
+      {
+        "name": "Santo Ultan de Ardbraccan",
+        "type": "Bispo",
+        "description": "Um bispo irlandês do século VII, Santo Ultan era conhecido por seu extenso cuidado com os pobres, doentes e órfãos. Acredita-se também que ele tenha coletado os escritos de Santa Brígida da Irlanda."
+      },
+      {
+        "name": "Santo Profeta Moisés",
+        "type": "Profeta e vidente de Deus",
+        "description": "Comemorado na Igreja Ortodoxa Oriental, Moisés é reverenciado como uma figura central nas religiões abraâmicas, liderando os israelitas para fora do Egito e recebendo os Dez Mandamentos."
+      },
+      {
+        "name": "Hieromártir Bábilas de Antioquia",
+        "type": "Bispo de Antioquia",
+        "description": "Báblias, um Bispo de Antioquia do século III, sofreu martírio junto com três jovens durante as perseguições sob o Imperador Décio por sua fé cristã."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional da Vida Selvagem",
+        "description": "Este dia é dedicado a homenagear a vida e obra de Steve Irwin, aumentando a conscientização sobre espécies ameaçadas e defendendo a conservação da vida selvagem em todo o mundo."
+      },
+      {
+        "name": "Janmashtami",
+        "description": "Um grande festival hindu que celebra o nascimento do Senhor Krishna, observado com jejum, celebrações à meia-noite e a tradição Dahi Handi."
+      },
+      {
+        "name": "Dia das Cores Universitárias",
+        "description": "Observado na primeira sexta-feira de setembro, este dia incentiva estudantes, ex-alunos e fãs a mostrarem seu espírito de equipe vestindo as cores e roupas de suas universidades."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Os homens podem morrer de fome por falta de autorrealização tanto quanto por falta de pão.",
+      "author": "Richard Wright",
+      "context": "Richard Wright, um influente autor afro-americano, nasceu em 4 de setembro de 1908. Suas obras frequentemente exploravam temas de injustiça racial e a luta pela identidade, refletindo uma profunda compreensão das necessidades humanas para além do mero sustento."
+    },
+    "motivationalQuote": {
+      "text": "A vida é 10% o que acontece com você e 90% como você reage a isso.",
+      "author": "Charles R. Swindoll"
+    },
+    "births": [
+      {
+        "name": "Richard Wright",
+        "description": "Um influente autor americano conhecido por seus romances, contos e não ficção, explorando as experiências de homens negros no final do século XIX e meados do século XX. Suas obras notáveis incluem 'Native Son' e 'Black Boy'.",
+        "year": "1908"
+      },
+      {
+        "name": "Antonin Artaud",
+        "description": "Um dramaturgo, poeta e teórico francês pioneiro que influenciou significativamente o teatro do século XX com seu conceito de 'Teatro da Crueldade'.",
+        "year": "1896"
+      },
+      {
+        "name": "Shinya Yamanaka",
+        "description": "Um médico e pesquisador japonês laureado com o Prêmio Nobel, reconhecido por seu trabalho inovador sobre células-tronco pluripotentes induzidas, que revolucionou a medicina regenerativa.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundação de Los Angeles",
+        "description": "Neste dia, 44 colonos espanhóis estabeleceram 'El Pueblo de Nuestra Señora La Reina de los Ángeles' (A Vila de Nossa Senhora, a Rainha dos Anjos), que se tornaria a moderna cidade de Los Angeles.",
+        "year": "1781"
+      },
+      {
+        "title": "A Estação Pearl Street Começa a Operar",
+        "description": "A Estação Pearl Street na cidade de Nova York, projetada por Thomas Edison, tornou-se a primeira central elétrica a fornecer eletricidade a clientes pagantes, marcando um momento crucial na história da distribuição de energia elétrica.",
+        "year": "1882"
+      },
+      {
+        "title": "Google Inc. Fundada",
+        "description": "Larry Page e Sergey Brin incorporaram oficialmente a Google Inc. enquanto eram estudantes de doutorado na Universidade de Stanford, lançando as bases para o que se tornaria um gigante global da tecnologia.",
+        "year": "1998"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional da Vida Selvagem",
+      "teaser": "Este dia é dedicado a homenagear a vida e obra de Steve Irwin, aumentando a conscientização sobre espécies ameaçadas e defendendo a conservação da vida selvagem em todo o mundo."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Rosa de Viterbo",
+        "type": "Franciscana Seglar / Predicadora",
+        "description": "Nascuda el 1233, Rosa va dedicar la seva vida a la pregària, la penitència i a ajudar els pobres. Als 10 anys, es va fer Franciscana Seglar i va predicar el penediment als carrers, arribant a ser exiliada per donar suport al Papa."
+      },
+      {
+        "name": "Sant Ultan d'Ardbraccan",
+        "type": "Bisbe",
+        "description": "Bisbe irlandès del segle VII, Sant Ultan era conegut per la seva extensa cura dels pobres, malalts i orfes. També es creu que va recopilar els escrits de Santa Brígida d'Irlanda."
+      },
+      {
+        "name": "Sant Profeta Moisès",
+        "type": "Profeta i Vident de Déu",
+        "description": "Commemorat a l'Església Ortodoxa Oriental, Moisès és venerat com una figura central en les religions abrahàmiques, liderant els israelites fora d'Egipte i rebent els Deu Manaments."
+      },
+      {
+        "name": "Hieromàrtir Bàbil d'Antioquia",
+        "type": "Bisbe d'Antioquia",
+        "description": "Bàbil, un bisbe d'Antioquia del segle III, va patir el martiri juntament amb tres joves durant les persecucions de l'emperador Deci per la seva fe cristiana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de la Vida Salvatge",
+        "description": "Aquest dia està dedicat a honorar la vida i obra de Steve Irwin, a conscienciar sobre les espècies en perill d'extinció i a defensar la conservació de la vida salvatge a tot el món."
+      },
+      {
+        "name": "Janmashtami",
+        "description": "Un important festival hindú que celebra el naixement del Senyor Krishna, observat amb dejuni, celebracions de mitjanit i la tradició del Dahi Handi."
+      },
+      {
+        "name": "Dia dels Colors Universitaris",
+        "description": "Celebrat el primer divendres de setembre, aquest dia anima estudiants, exalumnes i aficionats a mostrar el seu esperit d'equip vestint els colors i la roba de la seva universitat."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Els homes poden morir de fam per manca d'autorealització tant com per manca de pa.",
+      "author": "Richard Wright",
+      "context": "Richard Wright, un influent autor afroamericà, va néixer el 4 de setembre de 1908. Les seves obres sovint exploraven temes d'injustícia racial i la lluita per la identitat, reflectint una profunda comprensió de les necessitats humanes més enllà del mer sustent."
+    },
+    "motivationalQuote": {
+      "text": "La vida és un 10% el que et passa i un 90% com reacciones a això.",
+      "author": "Charles R. Swindoll"
+    },
+    "births": [
+      {
+        "name": "Richard Wright",
+        "description": "Un influent autor americà conegut per les seves novel·les, contes i obres de no-ficció, que exploraven les experiències dels homes negres a finals del segle XIX i mitjans del segle XX. Les seves obres notables inclouen 'Native Son' i 'Black Boy'.",
+        "year": "1908"
+      },
+      {
+        "name": "Antonin Artaud",
+        "description": "Un dramaturg, poeta i teòric francès pioner que va influir significativament en el teatre del segle XX amb el seu concepte del 'Teatre de la Crueltat'.",
+        "year": "1896"
+      },
+      {
+        "name": "Shinya Yamanaka",
+        "description": "Un metge i investigador japonès guanyador del Premi Nobel, reconegut pel seu treball innovador sobre les cèl·lules mare pluripotents induïdes, que va revolucionar la medicina regenerativa.",
+        "year": "1962"
+      }
+    ],
+    "events": [
+      {
+        "title": "Fundació de Los Angeles",
+        "description": "Aquest dia, 44 colons espanyols van establir 'El Pueblo de Nuestra Señora La Reina de los Ángeles' (El Poble de Nostra Senyora, la Reina dels Àngels), que es convertiria en la moderna ciutat de Los Angeles.",
+        "year": "1781"
+      },
+      {
+        "title": "La Central de Pearl Street Comença a Operar",
+        "description": "La Central de Pearl Street a la ciutat de Nova York, dissenyada per Thomas Edison, es va convertir en la primera central elèctrica a subministrar electricitat a clients de pagament, marcant un moment crucial en la història de la distribució d'energia elèctrica.",
+        "year": "1882"
+      },
+      {
+        "title": "Fundació de Google Inc.",
+        "description": "Larry Page i Sergey Brin van incorporar oficialment Google Inc. mentre eren estudiants de doctorat a la Universitat de Stanford, establint les bases del que es convertiria en un gegant tecnològic global.",
+        "year": "1998"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional de la Vida Salvatge",
+      "teaser": "Aquest dia està dedicat a honorar la vida i obra de Steve Irwin, a conscienciar sobre les espècies en perill d'extinció i a defensar la conservació de la vida salvatge a tot el món."
+    }
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "date": "2026-09-05",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Teresa de Calcuta (Madre Teresa)",
+        "type": "Monja, Misionera, Fundadora",
+        "description": "Nacida Agnes Gonxha Bojaxhiu, fue una monja católica romana que fundó las Misioneras de la Caridad en Calcuta, India, dedicando su vida a servir a los más pobres entre los pobres."
+      },
+      {
+        "name": "Santo Profeta Zacarías y Justa Isabel",
+        "type": "Profeta y Justa",
+        "description": "Conmemorados en el cristianismo ortodoxo, son conocidos como los padres de San Juan Bautista."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Caridad",
+        "description": "Establecido por las Naciones Unidas en 2012, este día conmemora el aniversario del fallecimiento de la Madre Teresa y tiene como objetivo promover las donaciones caritativas, el voluntariado y las actividades filantrópicas en todo el mundo."
+      },
+      {
+        "name": "Día Nacional de la Pizza de Queso",
+        "description": "Una observancia en EE. UU. que celebra la sencilla y querida pizza de queso."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No todos podemos hacer grandes cosas. Pero podemos hacer cosas pequeñas con gran amor.",
+      "author": "Madre Teresa",
+      "context": "Madre Teresa, laureada con el Premio Nobel de la Paz y fundadora de las Misioneras de la Caridad, falleció el 5 de septiembre de 1997. El Día Internacional de la Caridad se celebra en esta fecha en su honor, reflejando su dedicación de toda la vida al servicio desinteresado."
+    },
+    "motivationalQuote": {
+      "text": "A un hombre se le puede quitar todo menos una cosa: la última de las libertades humanas, elegir su actitud en cualquier conjunto dado de circunstancias, elegir su propio camino.",
+      "author": "Viktor Frankl"
+    },
+    "births": [
+      {
+        "name": "Freddie Mercury",
+        "description": "Un cantante, compositor y productor discográfico británico, más conocido como el vocalista principal y principal compositor de la banda de rock Queen, celebrado por su extravagante personalidad escénica y su potente voz.",
+        "year": "1946"
+      },
+      {
+        "name": "Michael Keaton",
+        "description": "Un aclamado actor estadounidense conocido por sus papeles versátiles en películas como 'Beetlejuice', 'Batman' y 'Birdman'.",
+        "year": "1951"
+      },
+      {
+        "name": "Raquel Welch",
+        "description": "Una icónica actriz y cantante estadounidense que se convirtió en un símbolo sexual global en las décadas de 1960 y 1970, conocida por sus papeles en películas como 'Hace un millón de años'.",
+        "year": "1940"
+      }
+    ],
+    "events": [
+      {
+        "title": "Se Convoca el Primer Congreso Continental",
+        "description": "En un momento crucial que llevó a la Revolución Americana, delegados de doce de las trece colonias se reunieron en Filadelfia para discutir quejas contra el dominio británico.",
+        "year": "1774"
+      },
+      {
+        "title": "Lanzamiento de la Sonda Espacial Voyager 1",
+        "description": "La NASA lanzó la Voyager 1, una sonda interestelar que exploraría el Sistema Solar exterior y se convertiría en el primer objeto hecho por el hombre en entrar en el espacio interestelar.",
+        "year": "1977"
+      },
+      {
+        "title": "Comienzan los Acuerdos de Camp David",
+        "description": "El presidente egipcio Anwar Sadat y el primer ministro israelí Menachem Begin se reunieron en Camp David, dando inicio a 12 días de negociaciones secretas que llevaron a un histórico tratado de paz.",
+        "year": "1978"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Caridad",
+      "teaser": "Establecido por las Naciones Unidas en 2012, este día conmemora el aniversario del fallecimiento de la Madre Teresa y tiene como objetivo promover las donaciones caritativas, el voluntariado y las actividades filantrópicas en todo el mundo."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Teresa of Calcutta (Mother Teresa)",
+        "type": "Nun, Missionary, Founder",
+        "description": "Born Agnes Gonxha Bojaxhiu, she was a Roman Catholic nun who founded the Missionaries of Charity in Calcutta, India, dedicating her life to serving the poorest of the poor."
+      },
+      {
+        "name": "Holy Prophet Zechariah and Righteous Elizabeth",
+        "type": "Prophet and Righteous",
+        "description": "Commemorated in Orthodox Christianity, they are known as the parents of Saint John the Baptist."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day of Charity",
+        "description": "Established by the United Nations in 2012, this day commemorates the anniversary of Mother Teresa's passing and aims to promote charitable giving, volunteerism, and philanthropic activities worldwide."
+      },
+      {
+        "name": "National Cheese Pizza Day",
+        "description": "An observance in the U.S. that celebrates the simple and beloved cheese pizza."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Not all of us can do great things. But we can do small things with great love.",
+      "author": "Mother Teresa",
+      "context": "Mother Teresa, a Nobel Peace Prize laureate and founder of the Missionaries of Charity, passed away on September 5, 1997. The International Day of Charity is observed on this date in her honor, reflecting her lifelong dedication to selfless service."
+    },
+    "motivationalQuote": {
+      "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way.",
+      "author": "Victor Frankl"
+    },
+    "births": [
+      {
+        "name": "Freddie Mercury",
+        "description": "A British singer, songwriter, and record producer, best known as the lead vocalist and primary songwriter of the rock band Queen, celebrated for his flamboyant stage persona and powerful vocals.",
+        "year": "1946"
+      },
+      {
+        "name": "Michael Keaton",
+        "description": "An acclaimed American actor known for his versatile roles in films such as 'Beetlejuice,' 'Batman,' and 'Birdman.'",
+        "year": "1951"
+      },
+      {
+        "name": "Raquel Welch",
+        "description": "An iconic American actress and singer who became a global sex symbol in the 1960s and 1970s, known for her roles in films like 'One Million Years B.C.'",
+        "year": "1940"
+      }
+    ],
+    "events": [
+      {
+        "title": "First Continental Congress Convenes",
+        "description": "In a pivotal moment leading to the American Revolution, delegates from twelve of the thirteen colonies gathered in Philadelphia to discuss grievances against British rule.",
+        "year": "1774"
+      },
+      {
+        "title": "Voyager 1 Spacecraft Launched",
+        "description": "NASA launched Voyager 1, an interstellar probe that would go on to explore the outer Solar System and become the first human-made object to enter interstellar space.",
+        "year": "1977"
+      },
+      {
+        "title": "Camp David Accords Begin",
+        "description": "Egyptian President Anwar Sadat and Israeli Prime Minister Menachem Begin met at Camp David, beginning 12 days of secret negotiations that led to a historic peace treaty.",
+        "year": "1978"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day of Charity",
+      "teaser": "Established by the United Nations in 2012, this day commemorates the anniversary of Mother Teresa's passing and aims to promote charitable giving, volunteerism, and philanthropic activities worldwide."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Teresa de Calcutá (Madre Teresa)",
+        "type": "Freira, Missionária, Fundadora",
+        "description": "Nascida Agnes Gonxha Bojaxhiu, foi uma freira católica romana que fundou as Missionárias da Caridade em Calcutá, Índia, dedicando sua vida a servir os mais pobres dos pobres."
+      },
+      {
+        "name": "Santo Profeta Zacarias e Justa Isabel",
+        "type": "Profeta e Justa",
+        "description": "Comemorados no cristianismo ortodoxo, são conhecidos como os pais de São João Batista."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Caridade",
+        "description": "Estabelecido pelas Nações Unidas em 2012, este dia comemora o aniversário do falecimento da Madre Teresa e visa promover a doação caritativa, o voluntariado e as atividades filantrópicas em todo o mundo."
+      },
+      {
+        "name": "Dia Nacional da Pizza de Queijo",
+        "description": "Uma celebração nos EUA que homenageia a simples e amada pizza de queijo."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Nem todos nós podemos fazer grandes coisas. Mas podemos fazer pequenas coisas com grande amor.",
+      "author": "Madre Teresa",
+      "context": "Madre Teresa, laureada com o Prêmio Nobel da Paz e fundadora das Missionárias da Caridade, faleceu em 5 de setembro de 1997. O Dia Internacional da Caridade é observado nesta data em sua homenagem, refletindo sua dedicação vitalícia ao serviço altruísta."
+    },
+    "motivationalQuote": {
+      "text": "Tudo pode ser tirado de um homem, exceto uma coisa: a última das liberdades humanas — escolher a sua atitude em qualquer conjunto de circunstâncias, escolher o seu próprio caminho.",
+      "author": "Viktor Frankl"
+    },
+    "births": [
+      {
+        "name": "Freddie Mercury",
+        "description": "Um cantor, compositor e produtor musical britânico, mais conhecido como o vocalista principal e principal compositor da banda de rock Queen, celebrado por sua persona de palco extravagante e vocais poderosos.",
+        "year": "1946"
+      },
+      {
+        "name": "Michael Keaton",
+        "description": "Um aclamado ator americano conhecido por seus papéis versáteis em filmes como 'Os Fantasmas Se Divertem', 'Batman' e 'Birdman'.",
+        "year": "1951"
+      },
+      {
+        "name": "Raquel Welch",
+        "description": "Uma icônica atriz e cantora americana que se tornou um símbolo sexual global nas décadas de 1960 e 1970, conhecida por seus papéis em filmes como 'Mil Séculos Antes de Cristo'.",
+        "year": "1940"
+      }
+    ],
+    "events": [
+      {
+        "title": "Primeiro Congresso Continental é Convocado",
+        "description": "Em um momento crucial que levou à Revolução Americana, delegados de doze das treze colônias se reuniram na Filadélfia para discutir queixas contra o domínio britânico.",
+        "year": "1774"
+      },
+      {
+        "title": "Sonda Espacial Voyager 1 Lançada",
+        "description": "A NASA lançou a Voyager 1, uma sonda interestelar que exploraria o Sistema Solar exterior e se tornaria o primeiro objeto feito pelo homem a entrar no espaço interestelar.",
+        "year": "1977"
+      },
+      {
+        "title": "Acordos de Camp David Começam",
+        "description": "O Presidente egípcio Anwar Sadat e o Primeiro-Ministro israelense Menachem Begin se encontraram em Camp David, iniciando 12 dias de negociações secretas que levaram a um tratado de paz histórico.",
+        "year": "1978"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Caridade",
+      "teaser": "Estabelecido pelas Nações Unidas em 2012, este dia comemora o aniversário do falecimento da Madre Teresa e visa promover a doação caritativa, o voluntariado e as atividades filantrópicas em todo o mundo."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Teresa de Calcuta (Mare Teresa)",
+        "type": "Monja, Missionera, Fundadora",
+        "description": "Nascuda Agnes Gonxha Bojaxhiu, va ser una monja catòlica romana que va fundar les Missioneres de la Caritat a Calcuta, Índia, dedicant la seva vida a servir els més pobres entre els pobres."
+      },
+      {
+        "name": "Sant Profeta Zacaries i Justa Elisabet",
+        "type": "Profeta i Justa",
+        "description": "Commemorats en el cristianisme ortodox, són coneguts com els pares de Sant Joan Baptista."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de la Caritat",
+        "description": "Establert per les Nacions Unides el 2012, aquest dia commemora l'aniversari de la mort de la Mare Teresa i té com a objectiu promoure les donacions benèfiques, el voluntariat i les activitats filantròpiques a tot el món."
+      },
+      {
+        "name": "Dia Nacional de la Pizza de Formatge",
+        "description": "Una celebració als EUA que festeja la senzilla i estimada pizza de formatge."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No tots podem fer grans coses. Però podem fer petites coses amb gran amor.",
+      "author": "Mare Teresa",
+      "context": "La Mare Teresa, guardonada amb el Premi Nobel de la Pau i fundadora de les Missioneres de la Caritat, va morir el 5 de setembre de 1997. El Dia Internacional de la Caritat se celebra en aquesta data en el seu honor, reflectint la seva dedicació de per vida al servei desinteressat."
+    },
+    "motivationalQuote": {
+      "text": "Tot pot ser pres d'un home excepte una cosa: l'última de les llibertats humanes —escollir la pròpia actitud en qualsevol circumstància donada, escollir el propi camí.",
+      "author": "Viktor Frankl"
+    },
+    "births": [
+      {
+        "name": "Freddie Mercury",
+        "description": "Cantant, compositor i productor discogràfic britànic, més conegut com el vocalista principal i principal compositor de la banda de rock Queen, celebrat per la seva flamboyant personalitat escènica i les seves potents veus.",
+        "year": "1946"
+      },
+      {
+        "name": "Michael Keaton",
+        "description": "Un aclamat actor americà conegut pels seus papers versàtils en pel·lícules com 'Beetlejuice', 'Batman' i 'Birdman'.",
+        "year": "1951"
+      },
+      {
+        "name": "Raquel Welch",
+        "description": "Una icònica actriu i cantant americana que va esdevenir un símbol sexual global als anys 60 i 70, coneguda pels seus papers en pel·lícules com 'Fa un milió d'anys'.",
+        "year": "1940"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Primer Congrés Continental es Convocà",
+        "description": "En un moment crucial que va conduir a la Revolució Americana, delegats de dotze de les tretze colònies es van reunir a Filadèlfia per discutir greuges contra el domini britànic.",
+        "year": "1774"
+      },
+      {
+        "title": "Llançament de la Nau Espacial Voyager 1",
+        "description": "La NASA va llançar la Voyager 1, una sonda interestel·lar que aniria a explorar el Sistema Solar exterior i es convertiria en el primer objecte fet per l'home a entrar a l'espai interestel·lar.",
+        "year": "1977"
+      },
+      {
+        "title": "Comencen els Acords de Camp David",
+        "description": "El president egipci Anwar Sadat i el primer ministre israelià Menachem Begin es van reunir a Camp David, iniciant 12 dies de negociacions secretes que van conduir a un tractat de pau històric.",
+        "year": "1978"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de la Caritat",
+      "teaser": "Establert per les Nacions Unides el 2012, aquest dia commemora l'aniversari de la mort de la Mare Teresa i té com a objectiu promoure les donacions benèfiques, el voluntariat i les activitats filantròpiques a tot el món."
+    }
+  }
+}

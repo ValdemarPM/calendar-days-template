@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-06",
+  "es": {
+    "saints": [
+      {
+        "name": "San Onesíforo",
+        "type": "Mártir",
+        "description": "Un converso del siglo I y pariente de San Porfirio, Onesíforo dio refugio y apoyo a San Pablo Apóstol, y fue martirizado durante las persecuciones del emperador Domiciano."
+      },
+      {
+        "name": "San Eleuterio Abad",
+        "type": "Abad",
+        "description": "Un abad del siglo VI de la Abadía de San Marcos cerca de Spoleto, Italia, conocido por su profunda humildad, vida sencilla y el don de los milagros, incluyendo exorcismos."
+      },
+      {
+        "name": "Milagro del Arcángel Miguel en Colosas",
+        "type": "Conmemoración (Ortodoxa)",
+        "description": "Conmemora un milagro del siglo IV donde el Arcángel Miguel salvó una iglesia y un manantial curativo en Colosas, Frigia, de ser destruidos por paganos que desviaron dos ríos para inundar el lugar sagrado."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Nacional de la Lectura de un Libro",
+        "description": "Este día anima a las personas a tomar un libro y dedicarse a la lectura, promoviendo la alfabetización y el disfrute de la literatura."
+      },
+      {
+        "name": "Día de la Independencia de Suazilandia (Esuatini)",
+        "description": "Celebra la independencia de Esuatini (anteriormente Suazilandia) del dominio colonial británico el 6 de septiembre de 1968."
+      },
+      {
+        "name": "Día Internacional de la Caridad",
+        "description": "Designado por las Naciones Unidas, este día reconoce el papel de la caridad en el alivio de la pobreza y la promoción de la cohesión social y el desarrollo sostenible."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El bien que aseguramos para nosotros mismos es precario e incierto hasta que se asegura para todos nosotros y se incorpora a nuestra vida común.",
+      "author": "Jane Addams",
+      "context": "Jane Addams, una reformadora social estadounidense y laureada con el Premio Nobel de la Paz, nació el 6 de septiembre de 1860. Su trabajo defendió la justicia social, el sufragio femenino y la paz mundial."
+    },
+    "motivationalQuote": {
+      "text": "La única forma de encontrar los límites de lo posible es yendo más allá de ellos hacia lo imposible.",
+      "author": "Arthur C. Clarke"
+    },
+    "births": [
+      {
+        "name": "John Dalton",
+        "description": "Un químico y físico británico pionero, reconocido por su teoría atómica, que postulaba que la materia está compuesta por átomos de diferentes pesos y combinados en proporciones simples.",
+        "year": "1766"
+      },
+      {
+        "name": "Jane Addams",
+        "description": "Una influyente activista de asentamientos, reformadora, trabajadora social estadounidense y defensora del sufragio femenino y la paz mundial, cofundadora de Hull House en Chicago.",
+        "year": "1860"
+      },
+      {
+        "name": "Idris Elba",
+        "description": "Un aclamado actor, productor y músico británico, ampliamente reconocido por sus papeles en series de televisión como 'The Wire' y 'Luther', y numerosas películas de Hollywood.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Barco de Magallanes Completa la Primera Circunnavegación",
+        "description": "El barco de Fernando de Magallanes, la Victoria, completó la primera circunnavegación de la Tierra, regresando a España bajo el mando de Juan Sebastián Elcano.",
+        "year": "1522"
+      },
+      {
+        "title": "Se Convoca el Primer Congreso Continental",
+        "description": "Delegados de doce de las trece colonias americanas se reunieron en Filadelfia, Pensilvania, para abordar las quejas contra el dominio británico, marcando un paso fundamental hacia la independencia estadounidense.",
+        "year": "1774"
+      },
+      {
+        "title": "Se Demuestra el Primer Sistema de Televisión Totalmente Electrónico",
+        "description": "El inventor estadounidense Philo Farnsworth demostró con éxito el primer sistema de televisión totalmente electrónico en San Francisco, revolucionando la comunicación y el entretenimiento.",
+        "year": "1927"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Nacional de la Lectura de un Libro",
+      "teaser": "Este día anima a las personas a tomar un libro y dedicarse a la lectura, promoviendo la alfabetización y el disfrute de la literatura."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Onesiphorus",
+        "type": "Martyr",
+        "description": "A first-century convert and relative of Saint Porphyrius, Onesiphorus sheltered and supported Saint Paul the Apostle, and was martyred during the persecutions of Emperor Domitian."
+      },
+      {
+        "name": "St. Eleutherius the Abbot",
+        "type": "Abbot",
+        "description": "A 6th-century abbot of Saint Mark's Abbey near Spoleto, Italy, known for his deep humility, simple life, and the gift of miracles, including exorcisms."
+      },
+      {
+        "name": "Miracle of Archangel Michael at Colossae",
+        "type": "Commemoration (Orthodox)",
+        "description": "Commemorates a 4th-century miracle where the Archangel Michael saved a church and a healing spring at Colossae, Phrygia, from being destroyed by pagans who diverted two rivers to flood the holy site."
+      }
+    ],
+    "observances": [
+      {
+        "name": "National Read a Book Day",
+        "description": "This day encourages individuals to pick up a book and engage in reading, promoting literacy and the joy of literature."
+      },
+      {
+        "name": "Swaziland Independence Day (Eswatini)",
+        "description": "Celebrates the independence of Eswatini (formerly Swaziland) from British colonial rule on September 6, 1968."
+      },
+      {
+        "name": "International Day of Charity",
+        "description": "Designated by the United Nations, this day recognizes the role of charity in alleviating poverty and promoting social cohesion and sustainable development."
+      }
+    ],
+    "historicalQuote": {
+      "text": "The good we secure for ourselves is precarious and uncertain until it is secured for all of us and incorporated into our common life.",
+      "author": "Jane Addams",
+      "context": "Jane Addams, an American social reformer and Nobel Peace Prize laureate, was born on September 6, 1860. Her work championed social justice, women's suffrage, and world peace."
+    },
+    "motivationalQuote": {
+      "text": "The only way of finding the limits of the possible is by going beyond them into the impossible.",
+      "author": "Arthur C. Clarke"
+    },
+    "births": [
+      {
+        "name": "John Dalton",
+        "description": "A pioneering British chemist and physicist renowned for his atomic theory, which posited that matter is composed of atoms of differing weights and combined in simple ratios.",
+        "year": "1766"
+      },
+      {
+        "name": "Jane Addams",
+        "description": "An influential American settlement activist, reformer, social worker, and an advocate for women's suffrage and world peace, co-founding Chicago's Hull House.",
+        "year": "1860"
+      },
+      {
+        "name": "Idris Elba",
+        "description": "An acclaimed British actor, producer, and musician, widely recognized for his roles in television series like 'The Wire' and 'Luther,' and numerous Hollywood films.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "Magellan's Ship Completes First Circumnavigation",
+        "description": "Ferdinand Magellan's ship, the Victoria, completed the first circumnavigation of the Earth, returning to Spain under the command of Juan Sebastián Elcano.",
+        "year": "1522"
+      },
+      {
+        "title": "First Continental Congress Convenes",
+        "description": "Delegates from twelve of the thirteen American colonies convened in Philadelphia, Pennsylvania, to address grievances against British rule, marking a pivotal step toward American independence.",
+        "year": "1774"
+      },
+      {
+        "title": "First Fully Electronic Television System Demonstrated",
+        "description": "American inventor Philo Farnsworth successfully demonstrated the first fully electronic television system in San Francisco, revolutionizing communication and entertainment.",
+        "year": "1927"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is National Read a Book Day",
+      "teaser": "This day encourages individuals to pick up a book and engage in reading, promoting literacy and the joy of literature."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santo Onésiforo",
+        "type": "Mártir",
+        "description": "Um convertido do século I e parente de São Porfírio, Onésiforo abrigou e apoiou São Paulo Apóstolo, e foi martirizado durante as perseguições do Imperador Domiciano."
+      },
+      {
+        "name": "Santo Eleutério Abade",
+        "type": "Abade",
+        "description": "Um abade do século VI da Abadia de São Marcos perto de Spoleto, Itália, conhecido por sua profunda humildade, vida simples e o dom de milagres, incluindo exorcismos."
+      },
+      {
+        "name": "Milagre do Arcanjo Miguel em Colossos",
+        "type": "Comemoração (Ortodoxa)",
+        "description": "Comemora um milagre do século IV onde o Arcanjo Miguel salvou uma igreja e uma fonte de cura em Colossos, Frígia, de serem destruídos por pagãos que desviaram dois rios para inundar o local sagrado."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de Ler um Livro",
+        "description": "Este dia incentiva as pessoas a pegarem um livro e se engajarem na leitura, promovendo a alfabetização e a alegria da literatura."
+      },
+      {
+        "name": "Dia da Independência da Suazilândia (Eswatini)",
+        "description": "Celebra a independência da Eswatini (anteriormente Suazilândia) do domínio colonial britânico em 6 de setembro de 1968."
+      },
+      {
+        "name": "Dia Internacional da Caridade",
+        "description": "Designado pelas Nações Unidas, este dia reconhece o papel da caridade no alívio da pobreza e na promoção da coesão social e do desenvolvimento sustentável."
+      }
+    ],
+    "historicalQuote": {
+      "text": "O bem que garantimos para nós mesmos é precário e incerto até que seja garantido para todos nós e incorporado à nossa vida comum.",
+      "author": "Jane Addams",
+      "context": "Jane Addams, uma reformadora social americana e laureada com o Prêmio Nobel da Paz, nasceu em 6 de setembro de 1860. Seu trabalho defendeu a justiça social, o sufrágio feminino e a paz mundial."
+    },
+    "motivationalQuote": {
+      "text": "A única maneira de encontrar os limites do possível é indo além deles, para o impossível.",
+      "author": "Arthur C. Clarke"
+    },
+    "births": [
+      {
+        "name": "John Dalton",
+        "description": "Um químico e físico britânico pioneiro, renomado por sua teoria atômica, que postulava que a matéria é composta por átomos de diferentes pesos e combinados em proporções simples.",
+        "year": "1766"
+      },
+      {
+        "name": "Jane Addams",
+        "description": "Uma influente ativista de assentamento, reformadora, assistente social americana e defensora do sufrágio feminino e da paz mundial, cofundadora da Hull House em Chicago.",
+        "year": "1860"
+      },
+      {
+        "name": "Idris Elba",
+        "description": "Um aclamado ator, produtor e músico britânico, amplamente reconhecido por seus papéis em séries de televisão como 'The Wire' e 'Luther', e numerosos filmes de Hollywood.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "O Navio de Magalhães Completa a Primeira Circum-Navegação",
+        "description": "O navio de Fernão de Magalhães, a Victoria, completou a primeira circum-navegação da Terra, retornando à Espanha sob o comando de Juan Sebastián Elcano.",
+        "year": "1522"
+      },
+      {
+        "title": "O Primeiro Congresso Continental é Convocado",
+        "description": "Delegados de doze das treze colônias americanas reuniram-se na Filadélfia, Pensilvânia, para abordar as queixas contra o domínio britânico, marcando um passo fundamental rumo à independência americana.",
+        "year": "1774"
+      },
+      {
+        "title": "Primeiro Sistema de Televisão Totalmente Eletrônico Demonstrado",
+        "description": "O inventor americano Philo Farnsworth demonstrou com sucesso o primeiro sistema de televisão totalmente eletrônico em São Francisco, revolucionando a comunicação e o entretenimento.",
+        "year": "1927"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Nacional de Ler um Livro",
+      "teaser": "Este dia incentiva as pessoas a pegarem um livro e se engajarem na leitura, promovendo a alfabetização e a alegria da literatura."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Onesífor",
+        "type": "Màrtir",
+        "description": "Un convertit del segle I i parent de Sant Porfiri, Onesífor va donar refugi i suport a Sant Pau Apòstol, i va ser martiritzat durant les persecucions de l'emperador Domicià."
+      },
+      {
+        "name": "Sant Eleuteri Abat",
+        "type": "Abat",
+        "description": "Un abat del segle VI de l'Abadia de Sant Marc prop de Spoleto, Itàlia, conegut per la seva profunda humilitat, vida senzilla i el do dels miracles, incloent exorcismes."
+      },
+      {
+        "name": "Miracle de l'Arcàngel Miquel a Colosses",
+        "type": "Commemoració (Ortodoxa)",
+        "description": "Commemora un miracle del segle IV en el qual l'Arcàngel Miquel va salvar una església i una font curativa a Colosses, Frígia, de ser destruïda per pagans que van desviar dos rius per inundar el lloc sagrat."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Nacional de la Lectura d'un Llibre",
+        "description": "Aquest dia anima les persones a agafar un llibre i dedicar-se a la lectura, promovent l'alfabetització i l'alegria de la literatura."
+      },
+      {
+        "name": "Dia de la Independència de Swazilàndia (Eswatini)",
+        "description": "Commemora la independència d'Eswatini (abans Swazilàndia) del domini colonial britànic el 6 de setembre de 1968."
+      },
+      {
+        "name": "Dia Internacional de la Caritat",
+        "description": "Designat per les Nacions Unides, aquest dia reconeix el paper de la caritat per alleujar la pobresa i promoure la cohesió social i el desenvolupament sostenible."
+      }
+    ],
+    "historicalQuote": {
+      "text": "El bé que assegurem per a nosaltres mateixos és precari i incert fins que no s'assegura per a tots nosaltres i s'incorpora a la nostra vida comuna.",
+      "author": "Jane Addams",
+      "context": "Jane Addams, reformadora social nord-americana i premi Nobel de la Pau, va néixer el 6 de setembre de 1860. La seva feina va defensar la justícia social, el sufragi femení i la pau mundial."
+    },
+    "motivationalQuote": {
+      "text": "L'única manera de trobar els límits del possible és anant més enllà, cap a l'impossible.",
+      "author": "Arthur C. Clarke"
+    },
+    "births": [
+      {
+        "name": "John Dalton",
+        "description": "Un químic i físic britànic pioner, reconegut per la seva teoria atòmica, que va postular que la matèria està composta per àtoms de pesos diferents i combinats en proporcions senzilles.",
+        "year": "1766"
+      },
+      {
+        "name": "Jane Addams",
+        "description": "Una influent activista comunitària, reformadora, treballadora social nord-americana i defensora del sufragi femení i la pau mundial, cofundadora de la Hull House de Chicago.",
+        "year": "1860"
+      },
+      {
+        "name": "Idris Elba",
+        "description": "Un aclamat actor, productor i músic britànic, àmpliament reconegut pels seus papers en sèries de televisió com 'The Wire' i 'Luther', i nombroses pel·lícules de Hollywood.",
+        "year": "1972"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Vaixell de Magalhães Completa la Primera Circumnavegació",
+        "description": "El vaixell de Ferran Magalhães, la Victòria, va completar la primera circumnavegació de la Terra, tornant a Espanya sota el comandament de Juan Sebastián Elcano.",
+        "year": "1522"
+      },
+      {
+        "title": "Es Convoca el Primer Congrés Continental",
+        "description": "Delegats de dotze de les tretze colònies americanes es van reunir a Filadèlfia, Pennsilvània, per abordar les queixes contra el domini britànic, marcant un pas fonamental cap a la independència americana.",
+        "year": "1774"
+      },
+      {
+        "title": "Es Demostra el Primer Sistema de Televisió Totalment Electrònic",
+        "description": "L'inventor nord-americà Philo Farnsworth va demostrar amb èxit el primer sistema de televisió totalment electrònic a San Francisco, revolucionant la comunicació i l'entreteniment.",
+        "year": "1927"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Nacional de la Lectura d'un Llibre",
+      "teaser": "Aquest dia anima les persones a agafar un llibre i dedicar-se a la lectura, promovent l'alfabetització i l'alegria de la literatura."
+    }
+  }
+}

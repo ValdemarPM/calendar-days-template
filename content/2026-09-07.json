@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-07",
+  "es": {
+    "saints": [
+      {
+        "name": "Santa Regina",
+        "type": "Virgen Mártir",
+        "description": "Nacida en el siglo III, Santa Regina fue una doncella cristiana que fue repudiada por su padre pagano por su fe y vivió como una humilde pastora antes de su martirio."
+      },
+      {
+        "name": "San Clodoaldo (Cloud)",
+        "type": "Confesor, Abad",
+        "description": "Nacido en 522, San Clodoaldo fue un príncipe franco que renunció a su herencia real tras el asesinato de sus hermanos, convirtiéndose en un ermitaño y más tarde en un abad."
+      },
+      {
+        "name": "Mártir Sozón de Cilicia",
+        "type": "Mártir",
+        "description": "Conmemorado en la Iglesia Ortodoxa, el Mártir Sozón fue un pastor de Cilicia que confesó a Cristo y sufrió martirio durante las persecuciones romanas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día de los Abuelos",
+        "description": "Conmemorado en varios países, incluyendo EE. UU., Canadá e India, este día celebra el importante papel que los abuelos desempeñan en las familias y la sociedad."
+      },
+      {
+        "name": "Día de la Independencia de Brasil",
+        "description": "Brasil celebra su independencia de Portugal en este día, marcado por desfiles, bailes y fuegos artificiales."
+      },
+      {
+        "name": "Día Internacional del Aire Limpio por un Cielo Azul",
+        "description": "Una observancia de las Naciones Unidas que tiene como objetivo concienciar y promover acciones para mejorar la calidad del aire a nivel mundial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Dios puede perdonarte, pero yo nunca podré.",
+      "author": "Isabel I de Inglaterra",
+      "context": "Isabel I, una de las monarcas más famosas de Inglaterra, nació el 7 de septiembre de 1533. Su reinado estuvo marcado por un fuerte liderazgo y maniobras políticas."
+    },
+    "motivationalQuote": {
+      "text": "Si no puedo hacer grandes cosas, puedo hacer pequeñas cosas de una gran manera.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Isabel I de Inglaterra",
+        "description": "Reina de Inglaterra e Irlanda desde 1558 hasta su muerte en 1603, fue la última monarca de la Casa de Tudor y presidió un período de gran florecimiento.",
+        "year": "1533"
+      },
+      {
+        "name": "Buddy Holly",
+        "description": "Influyente cantautor estadounidense y pionero de la música rock and roll, conocido por éxitos como 'That'll Be The Day' y 'Peggy Sue'.",
+        "year": "1936"
+      },
+      {
+        "name": "Chrissie Hynde",
+        "description": "Cantautora y música estadounidense, más conocida como la vocalista principal, guitarrista y principal compositora de la banda de rock The Pretenders.",
+        "year": "1951"
+      }
+    ],
+    "events": [
+      {
+        "title": "Brasil Declara su Independencia",
+        "description": "Este día en 1822, Brasil declaró su independencia del Reino Unido de Portugal, Brasil y Algarves, marcando un momento crucial en su historia.",
+        "year": "1822"
+      },
+      {
+        "title": "Se Celebra el Primer Concurso Miss América",
+        "description": "En 1921, el primer Concurso Miss América tuvo lugar en Atlantic City, Nueva Jersey, evolucionando hacia una tradición de larga data para reconocer el talento y la belleza.",
+        "year": "1921"
+      },
+      {
+        "title": "Se Abre el Salón de la Fama del Fútbol Americano Profesional",
+        "description": "El Salón de la Fama del Fútbol Americano Profesional abrió oficialmente sus puertas en Canton, Ohio, en 1963, celebrando a los mejores jugadores y contribuyentes al fútbol americano.",
+        "year": "1963"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día de los Abuelos",
+      "teaser": "Conmemorado en varios países, incluyendo EE. UU., Canadá e India, este día celebra el importante papel que los abuelos desempeñan en las familias y la sociedad."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Saint Regina",
+        "type": "Virgin Martyr",
+        "description": "Born in the 3rd century, Saint Regina was a Christian maiden who was disowned by her pagan father for her faith and lived as a poor shepherdess before her martyrdom."
+      },
+      {
+        "name": "Saint Cloud (Clodoald)",
+        "type": "Confessor, Abbot",
+        "description": "Born in 522, Saint Cloud was a Frankish prince who renounced his royal heritage after his brothers' murders, becoming a hermit and later an abbot."
+      },
+      {
+        "name": "Martyr Sozon of Cilicia",
+        "type": "Martyr",
+        "description": "Commemorated in the Orthodox Church, Martyr Sozon was a shepherd from Cilicia who confessed Christ and suffered martyrdom during the Roman persecutions."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Grandparents Day",
+        "description": "Commemorated in several countries including the U.S., Canada, and India, this day celebrates the important role grandparents play in families and society."
+      },
+      {
+        "name": "Brazil Independence Day",
+        "description": "Brazil celebrates its independence from Portugal on this day, marked by parades, dancing, and fireworks."
+      },
+      {
+        "name": "International Day of Clean Air for Blue Skies",
+        "description": "A United Nations observance aiming to raise awareness and promote actions to improve air quality globally."
+      }
+    ],
+    "historicalQuote": {
+      "text": "God may forgive you, but I never can.",
+      "author": "Elizabeth I of England",
+      "context": "Elizabeth I, one of England's most famous monarchs, was born on September 7, 1533. Her reign was marked by strong leadership and political maneuvering."
+    },
+    "motivationalQuote": {
+      "text": "If I cannot do great things, I can do small things in a great way.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Elizabeth I of England",
+        "description": "Queen of England and Ireland from 1558 until her death in 1603, she was the last monarch of the House of Tudor and presided over a period of great flourishing.",
+        "year": "1533"
+      },
+      {
+        "name": "Buddy Holly",
+        "description": "An influential American singer-songwriter and a pioneer of rock and roll music, known for hits like 'That'll Be The Day' and 'Peggy Sue'.",
+        "year": "1936"
+      },
+      {
+        "name": "Chrissie Hynde",
+        "description": "An American singer-songwriter and musician, best known as the lead vocalist, guitarist, and primary songwriter of the rock band The Pretenders.",
+        "year": "1951"
+      }
+    ],
+    "events": [
+      {
+        "title": "Brazil Declares Independence",
+        "description": "On this day in 1822, Brazil declared its independence from the United Kingdom of Portugal, Brazil, and Algarves, marking a pivotal moment in its history.",
+        "year": "1822"
+      },
+      {
+        "title": "First Miss America Pageant Held",
+        "description": "In 1921, the first Miss America Pageant took place in Atlantic City, New Jersey, evolving into a long-standing tradition of recognizing talent and beauty.",
+        "year": "1921"
+      },
+      {
+        "title": "Pro Football Hall of Fame Opens",
+        "description": "The Pro Football Hall of Fame officially opened its doors in Canton, Ohio, in 1963, celebrating the greatest players and contributors to American football.",
+        "year": "1963"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is Grandparents Day",
+      "teaser": "Commemorated in several countries including the U.S., Canada, and India, this day celebrates the important role grandparents play in families and society."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Santa Regina",
+        "type": "Virgem Mártir",
+        "description": "Nascida no século III, Santa Regina foi uma jovem cristã que foi renegada por seu pai pagão por sua fé e viveu como uma humilde pastora antes de seu martírio."
+      },
+      {
+        "name": "São Clodoaldo (Cloud)",
+        "type": "Confessor, Abade",
+        "description": "Nascido em 522, São Clodoaldo foi um príncipe franco que renunciou à sua herança real após os assassinatos de seus irmãos, tornando-se um eremita e mais tarde um abade."
+      },
+      {
+        "name": "Mártir Sozonte da Cilícia",
+        "type": "Mártir",
+        "description": "Comemorado na Igreja Ortodoxa, o Mártir Sozon foi um pastor da Cilícia que confessou Cristo e sofreu martírio durante as perseguições romanas."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dos Avós",
+        "description": "Comemorado em vários países, incluindo EUA, Canadá e Índia, este dia celebra o importante papel que os avós desempenham nas famílias e na sociedade."
+      },
+      {
+        "name": "Dia da Independência do Brasil",
+        "description": "O Brasil celebra sua independência de Portugal neste dia, marcada por desfiles, danças e fogos de artifício."
+      },
+      {
+        "name": "Dia Internacional do Ar Puro para um Céu Azul",
+        "description": "Uma observância das Nações Unidas que visa aumentar a conscientização e promover ações para melhorar a qualidade do ar globalmente."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Deus pode perdoar-te, mas eu nunca poderei.",
+      "author": "Isabel I de Inglaterra",
+      "context": "Isabel I, uma das monarcas mais famosas da Inglaterra, nasceu em 7 de setembro de 1533. Seu reinado foi marcado por forte liderança e manobras políticas."
+    },
+    "motivationalQuote": {
+      "text": "Se não posso fazer grandes coisas, posso fazer pequenas coisas de uma grande maneira.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Isabel I de Inglaterra",
+        "description": "Rainha da Inglaterra e Irlanda de 1558 até sua morte em 1603, foi a última monarca da Casa de Tudor e presidiu um período de grande florescimento.",
+        "year": "1533"
+      },
+      {
+        "name": "Buddy Holly",
+        "description": "Um influente cantor e compositor americano e pioneiro da música rock and roll, conhecido por sucessos como 'That'll Be The Day' e 'Peggy Sue'.",
+        "year": "1936"
+      },
+      {
+        "name": "Chrissie Hynde",
+        "description": "Uma cantora, compositora e musicista americana, mais conhecida como a vocalista principal, guitarrista e principal compositora da banda de rock The Pretenders.",
+        "year": "1951"
+      }
+    ],
+    "events": [
+      {
+        "title": "Brasil Declara Independência",
+        "description": "Neste dia em 1822, o Brasil declarou sua independência do Reino Unido de Portugal, Brasil e Algarves, marcando um momento crucial em sua história.",
+        "year": "1822"
+      },
+      {
+        "title": "Primeiro Concurso Miss América Realizado",
+        "description": "Em 1921, o primeiro Concurso Miss América ocorreu em Atlantic City, Nova Jersey, evoluindo para uma longa tradição de reconhecimento de talento e beleza.",
+        "year": "1921"
+      },
+      {
+        "title": "Salão da Fama do Futebol Americano Profissional Abre",
+        "description": "O Salão da Fama do Futebol Americano Profissional abriu oficialmente suas portas em Canton, Ohio, em 1963, celebrando os maiores jogadores e contribuidores para o futebol americano.",
+        "year": "1963"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia dos Avós",
+      "teaser": "Comemorado em vários países, incluindo EUA, Canadá e Índia, este dia celebra o importante papel que os avós desempenham nas famílias e na sociedade."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Santa Regina",
+        "type": "Verge Màrtir",
+        "description": "Nascuda al segle III, Santa Regina va ser una donzella cristiana renegada pel seu pare pagà a causa de la seva fe i va viure com una pastora pobra abans del seu martiri."
+      },
+      {
+        "name": "Sant Clodoald (Cloud)",
+        "type": "Confessor, Abat",
+        "description": "Nascut l'any 522, Sant Clodoald va ser un príncep franc que va renunciar a la seva herència reial després dels assassinats dels seus germans, convertint-se en ermità i, més tard, en abat."
+      },
+      {
+        "name": "Màrtir Sozó de Cilícia",
+        "type": "Màrtir",
+        "description": "Commemorat a l'Església Ortodoxa, el Màrtir Sozó va ser un pastor de Cilícia que va confessar Crist i va patir el martiri durant les persecucions romanes."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia dels Avis",
+        "description": "Commemorat en diversos països, inclosos els EUA, Canadà i l'Índia, aquest dia celebra el paper important que tenen els avis a les famílies i la societat."
+      },
+      {
+        "name": "Dia de la Independència del Brasil",
+        "description": "El Brasil celebra la seva independència de Portugal en aquest dia, marcat per desfilades, balls i focs artificials."
+      },
+      {
+        "name": "Dia Internacional de l'Aire Pur per a un Cel Blau",
+        "description": "Una celebració de les Nacions Unides que té com a objectiu sensibilitzar i promoure accions per millorar la qualitat de l'aire a nivell mundial."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Déu us pot perdonar, però jo mai no ho faré.",
+      "author": "Elisabet I d'Anglaterra",
+      "context": "Elisabet I, una de les monarques més famoses d'Anglaterra, va néixer el 7 de setembre de 1533. El seu regnat va estar marcat per un lideratge fort i maniobres polítiques."
+    },
+    "motivationalQuote": {
+      "text": "Si no puc fer grans coses, puc fer petites coses d'una manera grandiosa.",
+      "author": "Martin Luther King, Jr."
+    },
+    "births": [
+      {
+        "name": "Elisabet I d'Anglaterra",
+        "description": "Reina d'Anglaterra i Irlanda des de 1558 fins a la seva mort el 1603, va ser l'última monarca de la Casa de Tudor i va presidir un període de gran esplendor.",
+        "year": "1533"
+      },
+      {
+        "name": "Buddy Holly",
+        "description": "Un influent cantautor nord-americà i pioner de la música rock and roll, conegut per èxits com 'That'll Be The Day' i 'Peggy Sue'.",
+        "year": "1936"
+      },
+      {
+        "name": "Chrissie Hynde",
+        "description": "Una cantautora i música nord-americana, coneguda principalment com la vocalista principal, guitarrista i compositora principal de la banda de rock The Pretenders.",
+        "year": "1951"
+      }
+    ],
+    "events": [
+      {
+        "title": "El Brasil Declara la Independència",
+        "description": "En aquest dia de 1822, el Brasil va declarar la seva independència del Regne Unit de Portugal, Brasil i Algarves, marcant un moment crucial en la seva història.",
+        "year": "1822"
+      },
+      {
+        "title": "Se Celebra el Primer Concurs de Miss Amèrica",
+        "description": "El 1921, el primer Concurs de Miss Amèrica va tenir lloc a Atlantic City, Nova Jersey, evolucionant cap a una llarga tradició de reconeixement del talent i la bellesa.",
+        "year": "1921"
+      },
+      {
+        "title": "S'Inaugura el Saló de la Fama del Futbol Americà Professional",
+        "description": "El Saló de la Fama del Futbol Americà Professional va obrir oficialment les seves portes a Canton, Ohio, el 1963, celebrant els millors jugadors i contribuïdors al futbol americà.",
+        "year": "1963"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia dels Avis",
+      "teaser": "Commemorat en diversos països, inclosos els EUA, Canadà i l'Índia, aquest dia celebra el paper important que tenen els avis a les famílies i la societat."
+    }
+  }
+}

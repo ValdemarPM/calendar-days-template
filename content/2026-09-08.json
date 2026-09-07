@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-08",
+  "es": {
+    "saints": [
+      {
+        "name": "Natividad de la Santísima Virgen María (Theotokos)",
+        "type": "Día de Fiesta Mayor",
+        "description": "Esta fiesta conmemora el nacimiento de María, la madre de Jesús, un evento fundamental en la teología cristiana, que establece su derecho al título de 'Madre de Dios' tras el Concilio de Éfeso en 431."
+      },
+      {
+        "name": "San Adrián de Nicomedia",
+        "type": "Mártir",
+        "description": "Adrián fue un oficial romano de alto rango que, tras presenciar la fe inquebrantable de los cristianos a quienes torturaba, se convirtió al cristianismo y fue martirizado posteriormente en el año 306 d.C."
+      },
+      {
+        "name": "Papa San Sergio I",
+        "type": "Papa",
+        "description": "Elegido papa en 687, el Papa Sergio I es recordado por resistir los intentos del emperador Justiniano II de imponer ciertos edictos a la Iglesia Romana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional de la Alfabetización",
+        "description": "Establecido por la UNESCO en 1966, este día destaca la importancia de la alfabetización y crea conciencia sobre los desafíos globales en esta materia."
+      },
+      {
+        "name": "Día Mundial de la Fisioterapia",
+        "description": "Esta observancia crea conciencia sobre el papel crucial que desempeñan los fisioterapeutas para mantener a las personas sanas y móviles."
+      },
+      {
+        "name": "Día de Star Trek",
+        "description": "Los fans celebran este día para conmemorar el estreno de Star Trek: La Serie Original el 8 de septiembre de 1966 y su legado cultural duradero."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Cada bloque de piedra tiene una estatua dentro y es tarea del escultor descubrirla.",
+      "author": "Miguel Ángel",
+      "context": "El 8 de septiembre de 1504, la obra maestra de Miguel Ángel, la Estatua de David, fue desvelada en la Piazza della Signoria en Florencia, Italia, tras años de su minucioso trabajo."
+    },
+    "motivationalQuote": {
+      "text": "Puedo sacudirme de todo mientras escribo; mis penas desaparecen, mi valor renace.",
+      "author": "Ana Frank"
+    },
+    "births": [
+      {
+        "name": "Patsy Cline",
+        "description": "Una influyente cantante estadounidense de música country, fue una de las primeras artistas country en cruzar con éxito al pop.",
+        "year": "1932"
+      },
+      {
+        "name": "Pink (Alecia Beth Moore)",
+        "description": "Una cantautora estadounidense, conocida por su mezcla única de pop, rock y R&B y por su potente voz.",
+        "year": "1979"
+      },
+      {
+        "name": "Ricardo I (Corazón de León)",
+        "description": "Rey de Inglaterra desde 1189 hasta su muerte, fue reconocido como líder militar y guerrero durante la Tercera Cruzada.",
+        "year": "1157"
+      }
+    ],
+    "events": [
+      {
+        "title": "Desvelado el David de Miguel Ángel",
+        "description": "La monumental escultura de David de Miguel Ángel fue desvelada públicamente en Florencia, Italia, estableciéndola como una obra maestra del arte renacentista y un símbolo de la libertad cívica.",
+        "year": "1504"
+      },
+      {
+        "title": "Star Trek se estrena en televisión",
+        "description": "La serie de televisión de ciencia ficción Star Trek debutó, presentando una visión esperanzadora e influyente del futuro de la humanidad en el espacio.",
+        "year": "1966"
+      },
+      {
+        "title": "Lanzamiento del Submarino Isaac Peral",
+        "description": "El submarino Isaac Peral, el primero en incluir un torpedo submarino y operar únicamente con electricidad, fue lanzado en Cádiz, España, marcando un hito significativo en la tecnología naval.",
+        "year": "1888"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional de la Alfabetización",
+      "teaser": "Establecido por la UNESCO en 1966, este día destaca la importancia de la alfabetización y crea conciencia sobre los desafíos globales en esta materia."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "Nativity of the Blessed Virgin Mary (Theotokos)",
+        "type": "Major Feast Day",
+        "description": "This feast commemorates the birth of Mary, the mother of Jesus, a pivotal event in Christian theology, establishing her right to the title 'Mother of God' following the Council of Ephesus in 431."
+      },
+      {
+        "name": "Saint Adrian of Nicomedia",
+        "type": "Martyr",
+        "description": "Adrian was a high-ranking Roman officer who, after witnessing the unwavering faith of Christians he was torturing, converted to Christianity and was subsequently martyred in 306 AD."
+      },
+      {
+        "name": "Pope Saint Sergius I",
+        "type": "Pope",
+        "description": "Elected pope in 687, Pope Sergius I is remembered for resisting Emperor Justinian II's attempts to impose certain edicts on the Roman Church."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Literacy Day",
+        "description": "Established by UNESCO in 1966, this day highlights the importance of literacy and raises awareness about global literacy challenges."
+      },
+      {
+        "name": "World Physical Therapy Day",
+        "description": "This observance raises awareness about the crucial role physical therapists play in keeping people healthy and mobile."
+      },
+      {
+        "name": "Star Trek Day",
+        "description": "Fans celebrate this day to commemorate the premiere of Star Trek: The Original Series on September 8, 1966, and its lasting cultural legacy."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Every block of stone has a statue inside it and it is the task of the sculptor to discover it.",
+      "author": "Michelangelo",
+      "context": "On September 8, 1504, Michelangelo's masterpiece, the Statue of David, was unveiled in the Piazza della Signoria in Florence, Italy, after years of his meticulous work."
+    },
+    "motivationalQuote": {
+      "text": "I can shake off everything as I write; my sorrows disappear, my courage is reborn.",
+      "author": "Anne Frank"
+    },
+    "births": [
+      {
+        "name": "Patsy Cline",
+        "description": "An influential American country music singer, she was one of the first country artists to successfully cross over into pop music.",
+        "year": "1932"
+      },
+      {
+        "name": "Pink (Alecia Beth Moore)",
+        "description": "An American singer-songwriter, known for her unique blend of pop, rock, and R&B and her powerful vocals.",
+        "year": "1979"
+      },
+      {
+        "name": "Richard I (the Lionheart)",
+        "description": "King of England from 1189 until his death, he was renowned as a military leader and warrior during the Third Crusade.",
+        "year": "1157"
+      }
+    ],
+    "events": [
+      {
+        "title": "Michelangelo's David Unveiled",
+        "description": "Michelangelo's monumental sculpture of David was publicly unveiled in Florence, Italy, establishing it as a masterpiece of Renaissance art and a symbol of civic liberty.",
+        "year": "1504"
+      },
+      {
+        "title": "Star Trek Premieres on Television",
+        "description": "The science fiction television series Star Trek debuted, introducing a hopeful and influential vision of humanity's future in space.",
+        "year": "1966"
+      },
+      {
+        "title": "Isaac Peral Submarine Launched",
+        "description": "The Isaac Peral submarine, the first to include an undersea torpedo and operate solely on electricity, was launched in Cadiz, Spain, marking a significant naval technology milestone.",
+        "year": "1888"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Literacy Day",
+      "teaser": "Established by UNESCO in 1966, this day highlights the importance of literacy and raises awareness about global literacy challenges."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "Natividade da Santíssima Virgem Maria (Theotokos)",
+        "type": "Dia de Festa Maior",
+        "description": "Esta festa comemora o nascimento de Maria, a mãe de Jesus, um evento crucial na teologia cristã, estabelecendo seu direito ao título de 'Mãe de Deus' após o Concílio de Éfeso em 431."
+      },
+      {
+        "name": "Santo Adriano de Nicomédia",
+        "type": "Mártir",
+        "description": "Adriano era um oficial romano de alta patente que, após testemunhar a fé inabalável dos cristãos que torturava, converteu-se ao cristianismo e foi subsequentemente martirizado em 306 d.C."
+      },
+      {
+        "name": "Papa São Sérgio I",
+        "type": "Papa",
+        "description": "Eleito papa em 687, o Papa Sérgio I é lembrado por resistir às tentativas do Imperador Justiniano II de impor certos editos à Igreja Romana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional da Alfabetização",
+        "description": "Estabelecido pela UNESCO em 1966, este dia destaca a importância da alfabetização e aumenta a conscientização sobre os desafios globais da alfabetização."
+      },
+      {
+        "name": "Dia Mundial da Fisioterapia",
+        "description": "Esta observância aumenta a conscientização sobre o papel crucial que os fisioterapeutas desempenham para manter as pessoas saudáveis e móveis."
+      },
+      {
+        "name": "Dia de Star Trek",
+        "description": "Fãs celebram este dia para comemorar a estreia de Star Trek: A Série Original em 8 de setembro de 1966 e seu duradouro legado cultural."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Cada bloco de pedra tem uma estátua dentro e é tarefa do escultor descobri-la.",
+      "author": "Michelangelo",
+      "context": "Em 8 de setembro de 1504, a obra-prima de Michelangelo, a Estátua de Davi, foi revelada na Piazza della Signoria em Florença, Itália, após anos de seu trabalho meticuloso."
+    },
+    "motivationalQuote": {
+      "text": "Posso me livrar de tudo enquanto escrevo; minhas tristezas desaparecem, minha coragem renasce.",
+      "author": "Anne Frank"
+    },
+    "births": [
+      {
+        "name": "Patsy Cline",
+        "description": "Uma influente cantora americana de música country, foi uma das primeiras artistas country a fazer uma transição bem-sucedida para a música pop.",
+        "year": "1932"
+      },
+      {
+        "name": "Pink (Alecia Beth Moore)",
+        "description": "Uma cantora e compositora americana, conhecida por sua mistura única de pop, rock e R&B e por seus vocais potentes.",
+        "year": "1979"
+      },
+      {
+        "name": "Ricardo I (Coração de Leão)",
+        "description": "Rei da Inglaterra de 1189 até sua morte, ele foi renomado como líder militar e guerreiro durante a Terceira Cruzada.",
+        "year": "1157"
+      }
+    ],
+    "events": [
+      {
+        "title": "Davi de Michelangelo Revelado",
+        "description": "A monumental escultura de Davi de Michelangelo foi publicamente revelada em Florença, Itália, estabelecendo-a como uma obra-prima da arte renascentista e um símbolo de liberdade cívica.",
+        "year": "1504"
+      },
+      {
+        "title": "Star Trek Estreia na Televisão",
+        "description": "A série de televisão de ficção científica Star Trek estreou, introduzindo uma visão esperançosa e influente do futuro da humanidade no espaço.",
+        "year": "1966"
+      },
+      {
+        "title": "Submarino Isaac Peral Lançado",
+        "description": "O submarino Isaac Peral, o primeiro a incluir um torpedo submarino e operar exclusivamente com eletricidade, foi lançado em Cádiz, Espanha, marcando um marco significativo na tecnologia naval.",
+        "year": "1888"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional da Alfabetização",
+      "teaser": "Estabelecido pela UNESCO em 1966, este dia destaca a importância da alfabetização e aumenta a conscientização sobre os desafios globais da alfabetização."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Nativitat de la Santíssima Mare de Déu (Theotokos)",
+        "type": "Dia de Festa Major",
+        "description": "Aquesta festa commemora el naixement de Maria, la mare de Jesús, un esdeveniment fonamental en la teologia cristiana, que estableix el seu dret al títol de 'Mare de Déu' després del Concili d'Efes l'any 431."
+      },
+      {
+        "name": "Sant Adrià de Nicomèdia",
+        "type": "Màrtir",
+        "description": "Adrià era un oficial romà d'alt rang que, després de presenciar la fe inquebrantable dels cristians que torturava, es va convertir al cristianisme i posteriorment va ser martiritzat l'any 306 dC."
+      },
+      {
+        "name": "Papa Sant Sergi I",
+        "type": "Papa",
+        "description": "Elegit papa l'any 687, el Papa Sergi I és recordat per haver resistit els intents de l'emperador Justinià II d'imposar certs edictes a l'Església Romana."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional de l'Alfabetització",
+        "description": "Establert per la UNESCO el 1966, aquest dia destaca la importància de l'alfabetització i consciencia sobre els reptes globals de l'alfabetització."
+      },
+      {
+        "name": "Dia Mundial de la Fisioteràpia",
+        "description": "Aquesta commemoració consciencia sobre el paper crucial que tenen els fisioterapeutes per mantenir la gent sana i mòbil."
+      },
+      {
+        "name": "Dia de Star Trek",
+        "description": "Els fans celebren aquest dia per commemorar l'estrena de Star Trek: La Sèrie Original el 8 de setembre de 1966, i el seu llegat cultural durador."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Cada bloc de pedra té una estàtua dins i la tasca de l'escultor és descobrir-la.",
+      "author": "Miquel Àngel",
+      "context": "El 8 de setembre de 1504, l'obra mestra de Miquel Àngel, l'Estàtua de David, va ser desvelada a la Piazza della Signoria de Florència, Itàlia, després d'anys del seu meticulós treball."
+    },
+    "motivationalQuote": {
+      "text": "M'ho puc treure tot de sobre mentre escric; les meves penes desapareixen, el meu coratge reneix.",
+      "author": "Anne Frank"
+    },
+    "births": [
+      {
+        "name": "Patsy Cline",
+        "description": "Una influent cantant de música country estatunidenca, va ser una de les primeres artistes country a fer el pas amb èxit a la música pop.",
+        "year": "1932"
+      },
+      {
+        "name": "Pink (Alecia Beth Moore)",
+        "description": "Una cantautora estatunidenca, coneguda per la seva barreja única de pop, rock i R&B i la seva potent veu.",
+        "year": "1979"
+      },
+      {
+        "name": "Ricard I (Cor de Lleó)",
+        "description": "Rei d'Anglaterra des del 1189 fins a la seva mort, va ser reconegut com a líder militar i guerrer durant la Tercera Croada.",
+        "year": "1157"
+      }
+    ],
+    "events": [
+      {
+        "title": "Desvelament del David de Miquel Àngel",
+        "description": "L'escultura monumental del David de Miquel Àngel va ser desvelada públicament a Florència, Itàlia, establint-la com una obra mestra de l'art renaixentista i un símbol de llibertat cívica.",
+        "year": "1504"
+      },
+      {
+        "title": "Estrena de Star Trek a la televisió",
+        "description": "La sèrie de televisió de ciència-ficció Star Trek va debutar, introduint una visió esperançadora i influent del futur de la humanitat a l'espai.",
+        "year": "1966"
+      },
+      {
+        "title": "Llançament del submarí Isaac Peral",
+        "description": "El submarí Isaac Peral, el primer a incloure un torpede submarí i a operar exclusivament amb electricitat, va ser llançat a Cadis, Espanya, marcant una fita significativa en la tecnologia naval.",
+        "year": "1888"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional de l'Alfabetització",
+      "teaser": "Establert per la UNESCO el 1966, aquest dia destaca la importància de l'alfabetització i consciencia sobre els reptes globals de l'alfabetització."
+    }
+  }
+}

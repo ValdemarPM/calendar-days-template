@@ -1,0 +1,307 @@
+{
+  "date": "2026-09-09",
+  "es": {
+    "saints": [
+      {
+        "name": "San Pedro Claver",
+        "type": "Sacerdote, Misionero",
+        "description": "Un sacerdote jesuita español, San Pedro Claver dedicó su vida a ministrar a los africanos esclavizados traídos a Cartagena, Colombia, proveyéndoles alimento, medicinas y apoyo espiritual. Bautizó aproximadamente a 300,000 individuos y abogó incansablemente por su dignidad humana."
+      },
+      {
+        "name": "Santos Joaquín y Ana",
+        "type": "Santos y Justos Ancestros de Dios",
+        "description": "En la tradición ortodoxa oriental, el 9 de septiembre se conmemora a los Santos Joaquín y Ana, los padres de la Theotokos (Virgen María). Son venerados como figuras justas que criaron a la Madre de Dios."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Internacional para Proteger la Educación de Ataques",
+        "description": "Esta observancia internacional crea conciencia sobre el impacto de los conflictos armados en estudiantes, maestros e instituciones educativas en todo el mundo."
+      },
+      {
+        "name": "Día Internacional de Concientización sobre los Trastornos del Espectro Alcohólico Fetal",
+        "description": "Este día está dedicado a aumentar la conciencia sobre los Trastornos del Espectro Alcohólico Fetal (TEAF) y la importancia de prevenir el consumo de alcohol durante el embarazo."
+      },
+      {
+        "name": "Día de Compartir tu Cuidado de los Ositos Cariñosos",
+        "description": "El Día de Compartir tu Cuidado de los Ositos Cariñosos anima a las personas a difundir el cuidado, el compartir, el amor, la amistad y la aceptación."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Todo el mundo piensa en cambiar el mundo, pero nadie piensa en cambiarse a sí mismo.",
+      "author": "León Tolstói",
+      "context": "León Tolstói, el renombrado novelista y filósofo ruso, nació el 9 de septiembre de 1828. Esta cita refleja sus ideas filosóficas sobre la responsabilidad personal y la superación personal."
+    },
+    "motivationalQuote": {
+      "text": "Si no diseñas tu propio plan de vida, lo más probable es que caigas en el plan de otra persona. ¿Y adivina qué tienen planeado para ti? No mucho.",
+      "author": "Jim Rohn"
+    },
+    "births": [
+      {
+        "name": "León Tolstói",
+        "description": "Un célebre novelista ruso, León Tolstói es considerado uno de los más grandes autores de todos los tiempos, conocido por obras maestras como 'Guerra y Paz' y 'Anna Karénina'.",
+        "year": "1828"
+      },
+      {
+        "name": "Otis Redding",
+        "description": "Un icónico cantante de soul estadounidense, Otis Redding es recordado por su potente voz y sus exitosas canciones como '(Sittin' On) The Dock of the Bay'.",
+        "year": "1941"
+      },
+      {
+        "name": "Adam Sandler",
+        "description": "Un actor, comediante y cineasta estadounidense, Adam Sandler saltó a la fama en 'Saturday Night Live' y es conocido por numerosas películas cómicas y dramáticas exitosas.",
+        "year": "1966"
+      }
+    ],
+    "events": [
+      {
+        "title": "Se Nombra Washington, D.C.",
+        "description": "La capital de los Estados Unidos fue nombrada oficialmente Washington, D.C., en honor al Presidente George Washington, estableciendo una sede permanente para el gobierno federal.",
+        "year": "1791"
+      },
+      {
+        "title": "California Admitida en la Unión",
+        "description": "California se convirtió en el 31.er estado en unirse a los Estados Unidos, un evento significativo durante el período de expansión hacia el oeste.",
+        "year": "1850"
+      },
+      {
+        "title": "Primera Fotografía en Placa de Cristal Tomada",
+        "description": "El científico británico Sir John Herschel tomó la primera fotografía del mundo en una placa de cristal, un desarrollo crucial en la historia de la fotografía.",
+        "year": "1839"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Internacional para Proteger la Educación de Ataques",
+      "teaser": "Esta observancia internacional crea conciencia sobre el impacto de los conflictos armados en estudiantes, maestros e instituciones educativas en todo el mundo."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Peter Claver",
+        "type": "Priest, Missionary",
+        "description": "A Spanish Jesuit priest, St. Peter Claver dedicated his life to ministering to enslaved Africans brought to Cartagena, Colombia, providing them with food, medicine, and spiritual support. He baptized an estimated 300,000 individuals and tirelessly advocated for their human dignity."
+      },
+      {
+        "name": "Saints Joachim and Anna",
+        "type": "Holy and Righteous Ancestors of God",
+        "description": "In the Eastern Orthodox tradition, September 9 commemorates Saints Joachim and Anna, the parents of the Theotokos (Virgin Mary). They are revered as righteous figures who raised the Mother of God."
+      }
+    ],
+    "observances": [
+      {
+        "name": "International Day to Protect Education from Attack",
+        "description": "This international observance raises awareness about the impact of armed conflict on students, teachers, and educational institutions worldwide."
+      },
+      {
+        "name": "International Fetal Alcohol Spectrum Disorders Awareness Day",
+        "description": "This day is dedicated to increasing awareness of Fetal Alcohol Spectrum Disorders (FASDs) and the importance of preventing alcohol use during pregnancy."
+      },
+      {
+        "name": "Care Bears Share Your Care Day",
+        "description": "Care Bears Share Your Care Day encourages people to spread caring, sharing, love, friendship, and acceptance."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Everyone thinks of changing the world, but no one thinks of changing himself.",
+      "author": "Leo Tolstoy",
+      "context": "Leo Tolstoy, the renowned Russian novelist and philosopher, was born on September 9, 1828. This quote reflects his philosophical ideas on personal responsibility and self-improvement."
+    },
+    "motivationalQuote": {
+      "text": "If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.",
+      "author": "Jim Rohn"
+    },
+    "births": [
+      {
+        "name": "Leo Tolstoy",
+        "description": "A celebrated Russian novelist, Leo Tolstoy is considered one of the greatest authors of all time, known for masterpieces like 'War and Peace' and 'Anna Karenina'.",
+        "year": "1828"
+      },
+      {
+        "name": "Otis Redding",
+        "description": "An iconic American soul singer, Otis Redding is remembered for his powerful vocals and hit songs like '(Sittin' On) The Dock of the Bay'.",
+        "year": "1941"
+      },
+      {
+        "name": "Adam Sandler",
+        "description": "An American actor, comedian, and filmmaker, Adam Sandler rose to fame on 'Saturday Night Live' and is known for numerous successful comedic and dramatic films.",
+        "year": "1966"
+      }
+    ],
+    "events": [
+      {
+        "title": "Washington, D.C. is Named",
+        "description": "The capital of the United States was officially named Washington, D.C., in honor of President George Washington, establishing a permanent seat for the federal government.",
+        "year": "1791"
+      },
+      {
+        "title": "California Admitted to the Union",
+        "description": "California became the 31st state to join the United States, a significant event during the period of westward expansion.",
+        "year": "1850"
+      },
+      {
+        "title": "First Glass Plate Photograph Taken",
+        "description": "British scientist Sir John Herschel took the world's first photograph on a glass plate, a crucial development in the history of photography.",
+        "year": "1839"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is International Day to Protect Education from Attack",
+      "teaser": "This international observance raises awareness about the impact of armed conflict on students, teachers, and educational institutions worldwide."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Pedro Claver",
+        "type": "Sacerdote, Missionário",
+        "description": "Um sacerdote jesuíta espanhol, São Pedro Claver dedicou sua vida a ministrar aos africanos escravizados trazidos para Cartagena, Colômbia, fornecendo-lhes alimentos, medicamentos e apoio espiritual. Ele batizou cerca de 300.000 indivíduos e defendeu incansavelmente sua dignidade humana."
+      },
+      {
+        "name": "Santos Joaquim e Ana",
+        "type": "Santos e Justos Ancestrais de Deus",
+        "description": "Na tradição ortodoxa oriental, 9 de setembro comemora os Santos Joaquim e Ana, os pais da Theotokos (Virgem Maria). Eles são reverenciados como figuras justas que criaram a Mãe de Deus."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional para Proteger a Educação de Ataques",
+        "description": "Esta observância internacional levanta a conscientização sobre o impacto de conflitos armados em estudantes, professores e instituições educacionais em todo o mundo."
+      },
+      {
+        "name": "Dia Internacional de Conscientização sobre os Transtornos do Espectro Alcoólico Fetal",
+        "description": "Este dia é dedicado a aumentar a conscientização sobre os Transtornos do Espectro Alcoólico Fetal (TEAF) e a importância de prevenir o uso de álcool durante a gravidez."
+      },
+      {
+        "name": "Dia de Compartilhar o Cuidado dos Ursinhos Carinhosos",
+        "description": "O Dia de Compartilhar o Cuidado dos Ursinhos Carinhosos incentiva as pessoas a espalharem cuidado, partilha, amor, amizade e aceitação."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Todo mundo pensa em mudar o mundo, mas ninguém pensa em mudar a si mesmo.",
+      "author": "Liev Tolstói",
+      "context": "Liev Tolstói, o renomado romancista e filósofo russo, nasceu em 9 de setembro de 1828. Esta citação reflete suas ideias filosóficas sobre responsabilidade pessoal e autoaperfeiçoamento."
+    },
+    "motivationalQuote": {
+      "text": "Se você não planejar sua própria vida, é provável que caia no plano de outra pessoa. E adivinhe o que eles planejaram para você? Não muito.",
+      "author": "Jim Rohn"
+    },
+    "births": [
+      {
+        "name": "Liev Tolstói",
+        "description": "Um célebre romancista russo, Liev Tolstói é considerado um dos maiores autores de todos os tempos, conhecido por obras-primas como 'Guerra e Paz' e 'Anna Karenina'.",
+        "year": "1828"
+      },
+      {
+        "name": "Otis Redding",
+        "description": "Um icônico cantor de soul americano, Otis Redding é lembrado por seus vocais poderosos e canções de sucesso como '(Sittin' On) The Dock of the Bay'.",
+        "year": "1941"
+      },
+      {
+        "name": "Adam Sandler",
+        "description": "Um ator, comediante e cineasta americano, Adam Sandler ganhou fama no 'Saturday Night Live' e é conhecido por inúmeros filmes de comédia e drama de sucesso.",
+        "year": "1966"
+      }
+    ],
+    "events": [
+      {
+        "title": "Washington, D.C. é Nomeada",
+        "description": "A capital dos Estados Unidos foi oficialmente nomeada Washington, D.C., em homenagem ao Presidente George Washington, estabelecendo uma sede permanente para o governo federal.",
+        "year": "1791"
+      },
+      {
+        "title": "Califórnia Admitida na União",
+        "description": "A Califórnia se tornou o 31º estado a se juntar aos Estados Unidos, um evento significativo durante o período de expansão para o oeste.",
+        "year": "1850"
+      },
+      {
+        "title": "Primeira Fotografia em Placa de Vidro Tirada",
+        "description": "O cientista britânico Sir John Herschel tirou a primeira fotografia do mundo em uma placa de vidro, um desenvolvimento crucial na história da fotografia.",
+        "year": "1839"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Internacional para Proteger a Educação de Ataques",
+      "teaser": "Esta observância internacional levanta a conscientização sobre o impacto de conflitos armados em estudantes, professores e instituições educacionais em todo o mundo."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Pere Claver",
+        "type": "Sacerdot, Missioner",
+        "description": "Sacerdot jesuïta espanyol, Sant Pere Claver va dedicar la seva vida a assistir els africans esclavitzats portats a Cartagena, Colòmbia, proporcionant-los aliments, medicines i suport espiritual. Va batejar aproximadament 300.000 persones i va advocar incansablement per la seva dignitat humana."
+      },
+      {
+        "name": "Sants Joaquim i Anna",
+        "type": "Sants i Justos Avantpassats de Déu",
+        "description": "En la tradició ortodoxa oriental, el 9 de setembre es commemora els Sants Joaquim i Anna, els pares de la Theotokos (Mare de Déu). Són venerats com a figures justes que van criar la Mare de Déu."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Internacional per a Protegir l'Educació dels Atacs",
+        "description": "Aquesta commemoració internacional sensibilitza sobre l'impacte dels conflictes armats en estudiants, professors i institucions educatives d'arreu del món."
+      },
+      {
+        "name": "Dia Internacional de Sensibilització sobre els Trastorns de l'Espectre Alcohòlic Fetal",
+        "description": "Aquest dia es dedica a augmentar la consciència sobre els Trastorns de l'Espectre Alcohòlic Fetal (TEAF) i la importància de prevenir el consum d'alcohol durant l'embaràs."
+      },
+      {
+        "name": "Dia de Compartir la Cura amb els Óssos Amorosos",
+        "description": "El Dia de Compartir la Cura amb els Óssos Amorosos encoratja la gent a difondre la cura, el compartir, l'amor, l'amistat i l'acceptació."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Tothom pensa en canviar el món, però ningú pensa en canviar-se a si mateix.",
+      "author": "Lev Tolstoi",
+      "context": "Lev Tolstoi, el reconegut novel·lista i filòsof rus, va néixer el 9 de setembre de 1828. Aquesta cita reflecteix les seves idees filosòfiques sobre la responsabilitat personal i la millora d'un mateix."
+    },
+    "motivationalQuote": {
+      "text": "Si no dissenyes el teu propi pla de vida, el més probable és que caiguis en el pla d'algú altre. I saps què t'han preparat? No gaire.",
+      "author": "Jim Rohn"
+    },
+    "births": [
+      {
+        "name": "Lev Tolstoi",
+        "description": "Cèlebre novel·lista rus, Lev Tolstoi és considerat un dels més grans autors de tots els temps, conegut per obres mestres com 'Guerra i Pau' i 'Anna Karènina'.",
+        "year": "1828"
+      },
+      {
+        "name": "Otis Redding",
+        "description": "Cantant de soul americà icònic, Otis Redding és recordat per la seva poderosa veu i cançons d'èxit com '(Sittin' On) The Dock of the Bay'.",
+        "year": "1941"
+      },
+      {
+        "name": "Adam Sandler",
+        "description": "Actor, comediant i cineasta americà, Adam Sandler va saltar a la fama a 'Saturday Night Live' i és conegut per nombroses pel·lícules de comèdia i drama d'èxit.",
+        "year": "1966"
+      }
+    ],
+    "events": [
+      {
+        "title": "Washington, D.C. és Anomenada",
+        "description": "La capital dels Estats Units va ser oficialment anomenada Washington, D.C., en honor al president George Washington, establint una seu permanent per al govern federal.",
+        "year": "1791"
+      },
+      {
+        "title": "Califòrnia Admesa a la Unió",
+        "description": "Califòrnia va esdevenir el 31è estat a unir-se als Estats Units, un esdeveniment significatiu durant el període d'expansió cap a l'oest.",
+        "year": "1850"
+      },
+      {
+        "title": "Primera Fotografia en Placa de Vidre Presa",
+        "description": "El científic britànic Sir John Herschel va fer la primera fotografia del món en una placa de vidre, un desenvolupament crucial en la història de la fotografia.",
+        "year": "1839"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Internacional per a Protegir l'Educació dels Atacs",
+      "teaser": "Aquesta commemoració internacional sensibilitza sobre l'impacte dels conflictes armats en estudiants, professors i institucions educatives d'arreu del món."
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "date": "2026-09-10",
+  "es": {
+    "saints": [
+      {
+        "name": "San Nicolás de Tolentino",
+        "type": "Sacerdote, fraile agustino",
+        "description": "Nacido en 1245, Nicolás fue un místico católico italiano conocido por su compasión, caridad y devoción a las almas del Purgatorio. Sirvió como pacificador y ministró a los enfermos y pobres, realizando muchos milagros de curación."
+      },
+      {
+        "name": "Mártires Menodora, Metrodora y Ninfodora",
+        "type": "Vírgenes Mártires",
+        "description": "Estas tres hermanas de Bitinia, Asia Menor, vivieron como ascetas en el desierto. Fueron martirizadas entre el 305 y el 311 d.C. durante las persecuciones bajo el emperador Maximiano por confesar firmemente su fe cristiana."
+      },
+      {
+        "name": "Santa Pulqueria",
+        "type": "Emperatriz bizantina",
+        "description": "Pulqueria (399-453 d.C.) fue una emperatriz bizantina reconocida por su sabiduría, piedad y defensa de la Ortodoxia. Sirvió como corregente y consejera de su hermano, Teodosio II, y contribuyó significativamente a los Concilios Ecuménicos Tercero y Cuarto."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Día Mundial para la Prevención del Suicidio",
+        "description": "Un día internacional que se observa para concienciar a nivel mundial de que el suicidio se puede prevenir."
+      },
+      {
+        "name": "Día Nacional del Intercambio de Ideas",
+        "description": "Una celebración anual en los Estados Unidos que anima a la gente a compartir ideas creativas o útiles e intercambiar pensamientos con otros."
+      },
+      {
+        "name": "Día de Cayo San Jorge",
+        "description": "Un día festivo nacional en Belice que conmemora la Batalla de Cayo San Jorge en 1798."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No deseo que las mujeres tengan poder sobre los hombres; sino sobre sí mismas.",
+      "author": "Mary Wollstonecraft",
+      "context": "Mary Wollstonecraft, una influyente filósofa inglesa, defensora de los derechos de las mujeres y autora de 'Vindicación de los derechos de la mujer', murió el 10 de septiembre de 1797."
+    },
+    "motivationalQuote": {
+      "text": "Los dos días más importantes de tu vida son el día en que naces y el día en que descubres por qué.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Marie Laveau",
+        "description": "Una legendaria herbolaria criolla de Luisiana y practicante de vudú, conocida por su influencia en Nueva Orleans en el siglo XIX.",
+        "year": "1801"
+      },
+      {
+        "name": "Arnold Palmer",
+        "description": "Un icónico golfista profesional estadounidense, apodado 'El Rey', ampliamente considerado como uno de los jugadores más grandes y carismáticos en la historia del deporte.",
+        "year": "1929"
+      },
+      {
+        "name": "Colin Firth",
+        "description": "Un aclamado actor inglés, reconocido por sus versátiles actuaciones en cine y televisión, incluyendo su papel ganador del Oscar en 'El discurso del rey'.",
+        "year": "1960"
+      }
+    ],
+    "events": [
+      {
+        "title": "Elias Howe patenta la máquina de coser",
+        "description": "Al inventor estadounidense Elias Howe se le concedió una patente para su máquina de coser de puntada de cadeneta, revolucionando la producción de ropa y las industrias textiles.",
+        "year": "1846"
+      },
+      {
+        "title": "Se firma el Tratado de Saint-Germain-en-Laye",
+        "description": "El tratado fue firmado formalmente entre las Potencias Aliadas y Austria, disolviendo oficialmente el Imperio Austrohúngaro después de la Primera Guerra Mundial.",
+        "year": "1919"
+      },
+      {
+        "title": "El Gran Colisionador de Hadrones del CERN se enciende",
+        "description": "Científicos de la Organización Europea para la Investigación Nuclear (CERN) encendieron con éxito el Gran Colisionador de Hadrones, marcando un paso monumental en la investigación de la física de partículas.",
+        "year": "2008"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoy es Día Mundial para la Prevención del Suicidio",
+      "teaser": "Un día internacional que se observa para concienciar a nivel mundial de que el suicidio se puede prevenir."
+    }
+  },
+  "en": {
+    "saints": [
+      {
+        "name": "St. Nicholas of Tolentino",
+        "type": "Priest, Augustinian Friar",
+        "description": "Born in 1245, Nicholas was an Italian Catholic mystic known for his compassion, charity, and devotion to the souls in Purgatory. He served as a peacemaker and ministered to the sick and poor, performing many healing miracles."
+      },
+      {
+        "name": "Martyrs Menodora, Metrodora, and Nymphodora",
+        "type": "Virgin Martyrs",
+        "description": "These three sisters from Bithynia, Asia Minor, lived as ascetics in the wilderness. They were martyred between 305-311 AD during the persecutions under Emperor Maximian for steadfastly confessing their Christian faith."
+      },
+      {
+        "name": "St. Pulcheria",
+        "type": "Byzantine Empress",
+        "description": "Pulcheria (399-453 AD) was a Byzantine Empress renowned for her wisdom, piety, and defense of Orthodoxy. She served as co-regent and adviser to her brother, Theodosius II, and contributed significantly to the Third and Fourth Ecumenical Councils."
+      }
+    ],
+    "observances": [
+      {
+        "name": "World Suicide Prevention Day",
+        "description": "An international day observed to raise awareness globally that suicide can be prevented."
+      },
+      {
+        "name": "National Swap Ideas Day",
+        "description": "An annual observance in the United States encouraging people to share creative or helpful ideas and exchange thoughts with others."
+      },
+      {
+        "name": "St. George's Caye Day",
+        "description": "A national holiday in Belize commemorating the Battle of St. George's Caye in 1798."
+      }
+    ],
+    "historicalQuote": {
+      "text": "I do not wish women to have power over men; but over themselves.",
+      "author": "Mary Wollstonecraft",
+      "context": "Mary Wollstonecraft, an influential English philosopher, advocate of women's rights, and author of 'A Vindication of the Rights of Woman,' died on September 10, 1797."
+    },
+    "motivationalQuote": {
+      "text": "The two most important days in your life are the day you are born and the day you find out why.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Marie Laveau",
+        "description": "A legendary Louisiana Creole herbalist and practitioner of Voodoo, known for her influence in New Orleans in the 19th century.",
+        "year": "1801"
+      },
+      {
+        "name": "Arnold Palmer",
+        "description": "An iconic American professional golfer, nicknamed 'The King,' who is widely regarded as one of the greatest and most charismatic players in the sport's history.",
+        "year": "1929"
+      },
+      {
+        "name": "Colin Firth",
+        "description": "An acclaimed English actor, recognized for his versatile performances in film and television, including his Oscar-winning role in 'The King's Speech.'",
+        "year": "1960"
+      }
+    ],
+    "events": [
+      {
+        "title": "Elias Howe patents the sewing machine",
+        "description": "American inventor Elias Howe was granted a patent for his lockstitch sewing machine, revolutionizing clothing production and textile industries.",
+        "year": "1846"
+      },
+      {
+        "title": "Treaty of Saint-Germain-en-Laye signed",
+        "description": "The treaty was formally signed between the Allied Powers and Austria, officially dissolving the Austro-Hungarian Empire after World War I.",
+        "year": "1919"
+      },
+      {
+        "title": "CERN's Large Hadron Collider is powered up",
+        "description": "Scientists at the European Organization for Nuclear Research (CERN) successfully powered up the Large Hadron Collider, marking a monumental step in particle physics research.",
+        "year": "2008"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Today is World Suicide Prevention Day",
+      "teaser": "An international day observed to raise awareness globally that suicide can be prevented."
+    }
+  },
+  "pt": {
+    "saints": [
+      {
+        "name": "São Nicolau de Tolentino",
+        "type": "Sacerdote, Frade Agostiniano",
+        "description": "Nascido em 1245, Nicolau foi um místico católico italiano conhecido por sua compaixão, caridade e devoção às almas no Purgatório. Ele serviu como pacificador e ministrou aos doentes e pobres, realizando muitos milagres de cura."
+      },
+      {
+        "name": "Mártires Menodora, Metrodora e Ninfodora",
+        "type": "Virgens Mártires",
+        "description": "Estas três irmãs da Bitínia, Ásia Menor, viveram como ascetas no deserto. Elas foram martirizadas entre 305-311 d.C. durante as perseguições sob o Imperador Maximiano por confessarem firmemente sua fé cristã."
+      },
+      {
+        "name": "Santa Pulquéria",
+        "type": "Imperatriz Bizantina",
+        "description": "Pulquéria (399-453 d.C.) foi uma Imperatriz Bizantina renomada por sua sabedoria, piedade e defesa da Ortodoxia. Ela serviu como corregente e conselheira de seu irmão, Teodósio II, e contribuiu significativamente para o Terceiro e Quarto Concílios Ecumênicos."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial de Prevenção do Suicídio",
+        "description": "Um dia internacional observado para aumentar a conscientização global de que o suicídio pode ser prevenido."
+      },
+      {
+        "name": "Dia Nacional da Troca de Ideias",
+        "description": "Uma observância anual nos Estados Unidos que encoraja as pessoas a compartilhar ideias criativas ou úteis e trocar pensamentos com os outros."
+      },
+      {
+        "name": "Dia de Caye de São Jorge",
+        "description": "Um feriado nacional em Belize que comemora a Batalha de Caye de São Jorge em 1798."
+      }
+    ],
+    "historicalQuote": {
+      "text": "Não desejo que as mulheres tenham poder sobre os homens; mas sobre si mesmas.",
+      "author": "Mary Wollstonecraft",
+      "context": "Mary Wollstonecraft, uma influente filósofa inglesa, defensora dos direitos das mulheres e autora de 'Uma Reivindicação dos Direitos da Mulher', morreu em 10 de setembro de 1797."
+    },
+    "motivationalQuote": {
+      "text": "Os dois dias mais importantes da sua vida são o dia em que você nasce e o dia em que você descobre por quê.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Marie Laveau",
+        "description": "Uma lendária herborista crioula da Louisiana e praticante de Vodu, conhecida por sua influência em Nova Orleans no século XIX.",
+        "year": "1801"
+      },
+      {
+        "name": "Arnold Palmer",
+        "description": "Um icônico golfista profissional americano, apelidado de 'O Rei', que é amplamente considerado um dos maiores e mais carismáticos jogadores da história do esporte.",
+        "year": "1929"
+      },
+      {
+        "name": "Colin Firth",
+        "description": "Um aclamado ator inglês, reconhecido por suas performances versáteis em cinema e televisão, incluindo seu papel vencedor do Oscar em 'O Discurso do Rei'.",
+        "year": "1960"
+      }
+    ],
+    "events": [
+      {
+        "title": "Elias Howe patenteia a máquina de costura",
+        "description": "O inventor americano Elias Howe obteve uma patente para sua máquina de costura de ponto fixo, revolucionando a produção de roupas e as indústrias têxteis.",
+        "year": "1846"
+      },
+      {
+        "title": "Assinado o Tratado de Saint-Germain-en-Laye",
+        "description": "O tratado foi formalmente assinado entre as Potências Aliadas e a Áustria, dissolvendo oficialmente o Império Austro-Húngaro após a Primeira Guerra Mundial.",
+        "year": "1919"
+      },
+      {
+        "title": "O Grande Colisor de Hádrons do CERN é ligado",
+        "description": "Cientistas da Organização Europeia para a Pesquisa Nuclear (CERN) ligaram com sucesso o Grande Colisor de Hádrons, marcando um passo monumental na pesquisa da física de partículas.",
+        "year": "2008"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Hoje é Dia Mundial de Prevenção do Suicídio",
+      "teaser": "Um dia internacional observado para aumentar a conscientização global de que o suicídio pode ser prevenido."
+    }
+  },
+  "ca": {
+    "saints": [
+      {
+        "name": "Sant Nicolau de Tolentino",
+        "type": "Prevere, Frare Agustí",
+        "description": "Nascut el 1245, Nicolau va ser un místic catòlic italià conegut per la seva compassió, caritat i devoció a les ànimes del Purgatori. Va servir com a pacificador i va ministrar als malalts i pobres, realitzant molts miracles de curació."
+      },
+      {
+        "name": "Màrtirs Menodora, Metrodora i Nimfodora",
+        "type": "Verges Màrtirs",
+        "description": "Aquestes tres germanes de Bitínia, Àsia Menor, van viure com a ascetes al desert. Van ser martiritzades entre el 305 i el 311 dC durant les persecucions sota l'emperador Maximià per confessar fermament la seva fe cristiana."
+      },
+      {
+        "name": "Santa Pulquèria",
+        "type": "Emperadriu Bizantina",
+        "description": "Pulquèria (399-453 dC) va ser una emperadriu bizantina reconeguda per la seva saviesa, pietat i defensa de l'ortodòxia. Va servir com a corregent i consellera del seu germà, Teodosi II, i va contribuir significativament als Concilis Ecumènics Tercer i Quart."
+      }
+    ],
+    "observances": [
+      {
+        "name": "Dia Mundial per a la Prevenció del Suïcidi",
+        "description": "Un dia internacional observat per sensibilitzar globalment que el suïcidi es pot prevenir."
+      },
+      {
+        "name": "Dia Nacional d'Intercanvi d'Idees",
+        "description": "Una celebració anual als Estats Units que encoratja la gent a compartir idees creatives o útils i a intercanviar pensaments amb els altres."
+      },
+      {
+        "name": "Dia de St. George's Caye",
+        "description": "Un dia festiu nacional a Belize que commemora la Batalla de St. George's Caye el 1798."
+      }
+    ],
+    "historicalQuote": {
+      "text": "No desitjo que les dones tinguin poder sobre els homes; sinó sobre elles mateixes.",
+      "author": "Mary Wollstonecraft",
+      "context": "Mary Wollstonecraft, una influent filòsofa anglesa, defensora dels drets de les dones i autora de 'A Vindication of the Rights of Woman', va morir el 10 de setembre de 1797."
+    },
+    "motivationalQuote": {
+      "text": "Els dos dies més importants de la teva vida són el dia que neixes i el dia que descobreixes per què.",
+      "author": "Mark Twain"
+    },
+    "births": [
+      {
+        "name": "Marie Laveau",
+        "description": "Una llegendària herbolària criolla de Louisiana i practicant de vudú, coneguda per la seva influència a Nova Orleans al segle XIX.",
+        "year": "1801"
+      },
+      {
+        "name": "Arnold Palmer",
+        "description": "Un icònic golfista professional americà, sobrenomenat 'El Rei', àmpliament considerat un dels jugadors més grans i carismàtics de la història de l'esport.",
+        "year": "1929"
+      },
+      {
+        "name": "Colin Firth",
+        "description": "Un aclamat actor anglès, reconegut per les seves versàtils actuacions en cinema i televisió, incloent el seu paper guanyador de l'Oscar a 'El discurs del rei'.",
+        "year": "1960"
+      }
+    ],
+    "events": [
+      {
+        "title": "Elias Howe patenta la màquina de cosir",
+        "description": "L'inventor americà Elias Howe va obtenir una patent per a la seva màquina de cosir de puntada de cadeneta, revolucionant la producció de roba i les indústries tèxtils.",
+        "year": "1846"
+      },
+      {
+        "title": "Signatura del Tractat de Saint-Germain-en-Laye",
+        "description": "El tractat va ser signat formalment entre les Potències Aliades i Àustria, dissolent oficialment l'Imperi Austrohongarès després de la Primera Guerra Mundial.",
+        "year": "1919"
+      },
+      {
+        "title": "S'encén el Gran Col·lisionador d'Hadrons del CERN",
+        "description": "Científics de l'Organització Europea per a la Recerca Nuclear (CERN) van aconseguir encendre el Gran Col·lisionador d'Hadrons, marcant un pas monumental en la recerca de la física de partícules.",
+        "year": "2008"
+      }
+    ],
+    "notificationHighlight": {
+      "type": "observance",
+      "title": "Avui és Dia Mundial per a la Prevenció del Suïcidi",
+      "teaser": "Un dia internacional observat per sensibilitzar globalment que el suïcidi es pot prevenir."
+    }
+  }
+}
